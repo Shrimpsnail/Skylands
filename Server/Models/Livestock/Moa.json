@@ -1,0 +1,38 @@
+{
+  "EyeHeight": 2.1,
+  "CrouchOffset": -0.5,
+  "HitBox": {
+    "Max": {
+      "X": 0.45,
+      "Y": 2.5,
+      "Z": 0.45
+    },
+    "Min": {
+      "X": -0.45,
+      "Y": 0,
+      "Z": -0.45
+    }
+  },
+  "Camera": {
+    "Pitch": {
+      "AngleRange": {
+        "Max": 30,
+        "Min": -15
+      },
+      "TargetNodes": [
+        "Head"
+      ]
+    },
+    "Yaw": {
+      "AngleRange": {
+        "Max": 15,
+        "Min": -15
+      },
+      "TargetNodes": [
+        "Head"
+      ]
+    }
+  },
+  "Model": "NPC/Livestock/Moa/Models/model.blockymodel",
+  "Texture": "NPC/Livestock/Moa/Models/texture.png"
+}

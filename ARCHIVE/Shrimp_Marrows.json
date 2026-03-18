@@ -1,0 +1,5310 @@
+{
+	"$NodeId":	"Biome-d93ee171-b80d-4a03-892a-41226331e03a",
+	"Name":	"Basic",
+	"Terrain":	{
+		"$NodeId":	"Terrain-1d7d5561-de2a-4c0f-b29b-00a8366eecff",
+		"Type":	"DAOTerrain",
+		"Density":	{
+			"$NodeId":	"MaxDensityNode-79359af8-bc9a-4b69-90ae-a40abc081dc5",
+			"Type":	"Max",
+			"Skip":	false,
+			"Inputs":	[{
+					"$NodeId":	"MinDensityNode-1a15e2d3-b13b-4d6c-912e-f09f4306d5ec",
+					"Type":	"Min",
+					"Skip":	false,
+					"Inputs":	[{
+							"$NodeId":	"SmoothMaxDensityNode-1807353d-9b82-45a6-a373-820a985608b3",
+							"Type":	"SmoothMax",
+							"Skip":	false,
+							"Range":	1,
+							"Inputs":	[{
+									"$NodeId":	"MinDensityNode-f1f52e9b-cd55-4af6-b333-e127371ed003",
+									"Type":	"Min",
+									"Skip":	false,
+									"Inputs":	[{
+											"$NodeId":	"MaxDensityNode-6f35f009-23c3-4d5f-9a66-d1cb57f351fe",
+											"Type":	"Max",
+											"Skip":	false,
+											"Inputs":	[{
+													"$NodeId":	"MinDensityNode-504ec4f4-2a6e-4a26-9735-1fc440ab616d",
+													"Type":	"Min",
+													"Skip":	false,
+													"Inputs":	[{
+															"$NodeId":	"SumDensityNode-3e5929ad-2306-4f1d-a5fe-fd95090735f2",
+															"Type":	"Sum",
+															"Skip":	false,
+															"Inputs":	[{
+																	"$NodeId":	"SimplexNoise2DDensityNode-733d7a39-3b4b-4b94-bb02-600704784371",
+																	"Type":	"SimplexNoise2D",
+																	"Skip":	false,
+																	"Lacunarity":	5,
+																	"Persistence":	0.075,
+																	"Octaves":	7,
+																	"Scale":	150,
+																	"Seed":	"A"
+																}, {
+																	"$NodeId":	"CurveMapper.Density-73ac7645-7c7d-4f7c-b4fc-f89ec570bd11",
+																	"Type":	"CurveMapper",
+																	"Skip":	false,
+																	"Curve":	{
+																		"$NodeId":	"ManualCurve-6a165cc6-9aa3-42f9-a21e-731fbbf823e2",
+																		"Type":	"Manual",
+																		"Points":	[{
+																				"$NodeId":	"CurvePoint-2066de81-01da-409a-a46e-fb6b6116b065",
+																				"In":	0,
+																				"Out":	2
+																			}, {
+																				"$NodeId":	"CurvePoint-269a2022-4681-4050-95c6-6cb49c0a9fb2",
+																				"In":	5,
+																				"Out":	-1
+																			}]
+																	},
+																	"Inputs":	[{
+																			"$NodeId":	"BaseHeight.Density-60f64dfe-df8d-493d-b6a2-ebcca9029110",
+																			"Type":	"BaseHeight",
+																			"Skip":	false,
+																			"BaseHeightName":	"Marrows_platform_top",
+																			"Distance":	true
+																		}]
+																}]
+														}, {
+															"$NodeId":	"SumDensityNode-006a73e3-115c-4b39-a727-2ff3ad51c52b",
+															"Type":	"Sum",
+															"Skip":	false,
+															"Inputs":	[{
+																	"$NodeId":	"SimplexNoise2DDensityNode-ebcbadbf-ef54-4831-bebc-dc6328c82f1a",
+																	"Type":	"SimplexNoise2D",
+																	"Skip":	false,
+																	"Lacunarity":	10,
+																	"Persistence":	0.06,
+																	"Octaves":	4,
+																	"Scale":	70,
+																	"Seed":	"A"
+																}, {
+																	"$NodeId":	"CurveMapper.Density-43d93982-1db0-435e-862c-762834ef047d",
+																	"Type":	"CurveMapper",
+																	"Skip":	false,
+																	"Curve":	{
+																		"$NodeId":	"ManualCurve-9cf0d1e2-4c13-43d6-90ac-2a60096f2ab8",
+																		"Type":	"Manual",
+																		"Points":	[{
+																				"$NodeId":	"CurvePoint-dc42c96e-1d6f-4d14-bb78-e3a60342bb82",
+																				"In":	-1,
+																				"Out":	-0.7
+																			}, {
+																				"$NodeId":	"CurvePoint-e6857ab9-cd0e-4604-9cdf-d26f33143d22",
+																				"In":	5,
+																				"Out":	-1
+																			}]
+																	},
+																	"Inputs":	[{
+																			"$NodeId":	"BaseHeight.Density-39e1cce6-6920-4603-a7eb-e24bd8cde722",
+																			"Type":	"BaseHeight",
+																			"Skip":	false,
+																			"BaseHeightName":	"Cliff",
+																			"Distance":	true
+																		}]
+																}]
+														}, {
+															"$NodeId":	"NormalizerDensityNode-2c294992-2277-4d21-b55e-7d7067f8e0d1",
+															"Type":	"Normalizer",
+															"Skip":	false,
+															"FromMin":	-1,
+															"FromMax":	1,
+															"ToMin":	-1,
+															"ToMax":	0.75,
+															"Inputs":	[{
+																	"$NodeId":	"SimplexNoise2DDensityNode-47b3ff41-7aba-40e9-826c-8c262f278e25",
+																	"Type":	"SimplexNoise2D",
+																	"Skip":	false,
+																	"Lacunarity":	2,
+																	"Persistence":	0.5,
+																	"Octaves":	3,
+																	"Scale":	400,
+																	"Seed":	"A"
+																}]
+														}]
+												}, {
+													"$NodeId":	"MinDensityNode-5b9ec90c-2cbe-4b74-b271-9009083049e4",
+													"Type":	"Min",
+													"Skip":	false,
+													"Inputs":	[{
+															"$NodeId":	"SumDensityNode-007c1394-9cf9-4cf4-ab90-040878b46d05",
+															"Type":	"Sum",
+															"Skip":	false,
+															"Inputs":	[{
+																	"$NodeId":	"SimplexNoise2DDensityNode-dfb22d4b-327c-4a66-877a-2e016036d759",
+																	"Type":	"SimplexNoise2D",
+																	"Skip":	false,
+																	"Lacunarity":	5,
+																	"Persistence":	0.075,
+																	"Octaves":	7,
+																	"Scale":	150,
+																	"Seed":	"A"
+																}, {
+																	"$NodeId":	"CurveMapper.Density-4ef6a701-8f37-449f-83f9-18ff6ebb5120",
+																	"Type":	"CurveMapper",
+																	"Skip":	false,
+																	"Curve":	{
+																		"$NodeId":	"ManualCurve-01ef9b09-c27c-41ed-a4d7-5362ffe56ea5",
+																		"Type":	"Manual",
+																		"Points":	[{
+																				"$NodeId":	"CurvePoint-8b34f36c-c682-4e42-bda1-f53633d81cea",
+																				"In":	0,
+																				"Out":	2
+																			}, {
+																				"$NodeId":	"CurvePoint-53a45637-c431-4505-824b-cd09cb0ae400",
+																				"In":	5,
+																				"Out":	-1
+																			}]
+																	},
+																	"Inputs":	[{
+																			"$NodeId":	"BaseHeight.Density-557a3ec1-e836-4ba5-90b4-7a0fbf2d2525",
+																			"Type":	"BaseHeight",
+																			"Skip":	false,
+																			"BaseHeightName":	"Marrows_platform_top",
+																			"Distance":	true
+																		}]
+																}]
+														}, {
+															"$NodeId":	"SumDensityNode-2e6e2f9c-d132-4728-82cd-336e5a691308",
+															"Type":	"Sum",
+															"Skip":	false,
+															"Inputs":	[{
+																	"$NodeId":	"SimplexNoise2DDensityNode-336baa2f-766b-4f94-aaff-a94c4844d88c",
+																	"Type":	"SimplexNoise2D",
+																	"Skip":	false,
+																	"Lacunarity":	5,
+																	"Persistence":	0.075,
+																	"Octaves":	7,
+																	"Scale":	150,
+																	"Seed":	"A"
+																}, {
+																	"$NodeId":	"CurveMapper.Density-e9593dc3-2293-4043-a025-ce19b53a1b44",
+																	"Type":	"CurveMapper",
+																	"Skip":	false,
+																	"Curve":	{
+																		"$NodeId":	"ManualCurve-fcc82756-6b90-405f-b694-ce31ff1bd95a",
+																		"Type":	"Manual",
+																		"Points":	[{
+																				"$NodeId":	"CurvePoint-5e6f9b4b-4bd1-4af4-9bfe-71f124c494dc",
+																				"In":	0,
+																				"Out":	-1
+																			}, {
+																				"$NodeId":	"CurvePoint-4a3b8ee6-14eb-4534-985f-5cdabecc9305",
+																				"In":	5,
+																				"Out":	1
+																			}]
+																	},
+																	"Inputs":	[{
+																			"$NodeId":	"BaseHeight.Density-55dc8c20-2983-456f-be4f-93dbfe3ee071",
+																			"Type":	"BaseHeight",
+																			"Skip":	false,
+																			"BaseHeightName":	"Marrows_platform",
+																			"Distance":	true
+																		}]
+																}]
+														}]
+												}]
+										}, {
+											"$NodeId":	"SimplexNoise2DDensityNode-30b83313-37ad-497d-bdc8-8f7ed958d36c",
+											"Type":	"SimplexNoise2D",
+											"Skip":	false,
+											"Lacunarity":	2,
+											"Persistence":	0.5,
+											"Octaves":	3,
+											"Scale":	400,
+											"Seed":	"A"
+										}]
+								}, {
+									"$NodeId":	"SumDensityNode-65ae18d2-5775-41c8-a5ab-86072ab97e5c",
+									"Type":	"Sum",
+									"Skip":	false,
+									"Inputs":	[{
+											"$NodeId":	"SimplexNoise2DDensityNode-abc5f902-a744-44d6-b915-610afbc83a78",
+											"Type":	"SimplexNoise2D",
+											"Skip":	false,
+											"Lacunarity":	10,
+											"Persistence":	0.02,
+											"Octaves":	2,
+											"Scale":	150,
+											"Seed":	"A"
+										}, {
+											"$NodeId":	"CurveMapper.Density-8eabac8c-3664-45c7-98f9-7eadee41b051",
+											"Type":	"CurveMapper",
+											"Skip":	false,
+											"Curve":	{
+												"$NodeId":	"ManualCurve-cb063c3a-e678-47be-8c66-30b572b01e1d",
+												"Type":	"Manual",
+												"Points":	[{
+														"$NodeId":	"CurvePoint-b9df2643-1494-498d-a696-9813bf5ea1e6",
+														"In":	0,
+														"Out":	1
+													}, {
+														"$NodeId":	"CurvePoint-e1d89d1b-6ffa-469c-8e0d-0c25907a8617",
+														"In":	10,
+														"Out":	-1
+													}]
+											},
+											"Inputs":	[{
+													"$NodeId":	"BaseHeight.Density-20dcea6a-8906-4601-b18c-77e490af9a09",
+													"Type":	"BaseHeight",
+													"Skip":	false,
+													"BaseHeightName":	"Base",
+													"Distance":	true
+												}]
+										}]
+								}]
+						}, {
+							"$NodeId":	"SumDensityNode-ad0cc39c-f6b8-4d85-80df-c0e31d2a3bfe",
+							"Type":	"Sum",
+							"Skip":	false,
+							"Inputs":	[{
+									"$NodeId":	"SimplexNoise2DDensityNode-dc82df21-2c59-42e9-9160-1ecde7ae0a96",
+									"Type":	"SimplexNoise2D",
+									"Skip":	false,
+									"Lacunarity":	5,
+									"Persistence":	0.075,
+									"Octaves":	7,
+									"Scale":	150,
+									"Seed":	"A"
+								}, {
+									"$NodeId":	"CurveMapper.Density-cf536fa7-76ac-486e-8814-e5c0c18adef1",
+									"Type":	"CurveMapper",
+									"Skip":	false,
+									"Curve":	{
+										"$NodeId":	"ManualCurve-5ade0713-4216-4103-bcba-09d1114facf3",
+										"Type":	"Manual",
+										"Points":	[{
+												"$NodeId":	"CurvePoint-dccb3dd4-0388-4f59-bea8-a6fa7e317c05",
+												"In":	0,
+												"Out":	2
+											}, {
+												"$NodeId":	"CurvePoint-df3daffe-514e-4a08-b7ab-553cbaf7ac04",
+												"In":	5,
+												"Out":	-1
+											}]
+									},
+									"Inputs":	[{
+											"$NodeId":	"BaseHeight.Density-664157f0-8196-48cb-9855-28863081b0fd",
+											"Type":	"BaseHeight",
+											"Skip":	false,
+											"BaseHeightName":	"Marrows_platform_top",
+											"Distance":	true
+										}]
+								}]
+						}]
+				}]
+		}
+	},
+	"MaterialProvider":	{
+		"$NodeId":	"SolidityMaterialProvider-44f0c649-1d72-4ef3-8314-9ec410bf6cff",
+		"Type":	"Solidity",
+		"Solid":	{
+			"$NodeId":	"QueueMaterialProvider-ea0e3432-13f6-47f7-ab50-a1c38ae06bb7",
+			"Type":	"Queue",
+			"Queue":	[{
+					"$NodeId":	"SimpleHorizontalMaterialProvider-6244d933-43be-4c5d-bbf1-b795f90ec69e",
+					"Type":	"SimpleHorizontal",
+					"TopY":	110,
+					"BottomY":	0,
+					"Material":	{
+						"$NodeId":	"SpaceAndDepthMaterialProvider-6f90648c-d6e8-4b0d-b88f-fe5b8573cf3e",
+						"Type":	"SpaceAndDepth",
+						"LayerContext":	"DEPTH_INTO_FLOOR",
+						"MaxExpectedDepth":	10,
+						"Layers":	[{
+								"$NodeId":	"ConstantThicknessLayerSADMP-d827c7b0-570e-466b-be31-a4ae32b9a650",
+								"Type":	"ConstantThickness",
+								"Thickness":	10,
+								"Material":	{
+									"$NodeId":	"QueueMaterialProvider-3680b35b-308b-429e-9d88-3bf2f2c8f58a",
+									"Type":	"Queue",
+									"Queue":	[{
+											"$NodeId":	"SpaceAndDepthMaterialProvider-ba7f80da-a8e7-488d-8083-0b83f1a35727",
+											"Type":	"SpaceAndDepth",
+											"LayerContext":	"DEPTH_INTO_FLOOR",
+											"MaxExpectedDepth":	5,
+											"Layers":	[{
+													"$NodeId":	"ConstantThicknessLayerSADMP-17a47186-faff-47ab-8a48-c2f9897efffd",
+													"Type":	"ConstantThickness",
+													"Thickness":	5,
+													"Material":	{
+														"$NodeId":	"ConstantMaterialProvider-6cc0a14b-7344-4fab-9a4b-d9fda31c5bda",
+														"Type":	"Constant",
+														"Material":	{
+															"$NodeId":	"Material-2d295002-b9ce-49b5-b7d8-f480e6d55b1d",
+															"Solid":	"Soil_Sand_red"
+														}
+													}
+												}]
+										}, {
+											"$NodeId":	"ConstantMaterialProvider-fb728e52-bfc4-4b46-afca-fae191e30ca0",
+											"Type":	"Constant",
+											"Material":	{
+												"$NodeId":	"Material-19034256-4ea6-47b7-8e5c-28de6005e12f",
+												"Solid":	"Rock_Sandstone"
+											}
+										}]
+								}
+							}]
+					}
+				}, {
+					"$NodeId":	"FieldFunctionMaterialProvider-bfe82680-c5b7-402c-a8d2-904384fa0793",
+					"Type":	"FieldFunction",
+					"FieldFunction":	{
+						"$NodeId":	"SimplexNoise3DDensityNode-b7f83301-850a-4797-bf27-068e88ee44a6",
+						"Type":	"SimplexNoise3D",
+						"Skip":	false,
+						"Lacunarity":	5,
+						"Persistence":	0.5,
+						"Octaves":	2,
+						"ScaleXZ":	50,
+						"ScaleY":	10,
+						"Seed":	"A"
+					},
+					"Delimiters":	[{
+							"$NodeId":	"DelimiterFieldFunctionMP-ec164dd8-7da3-4248-9490-9fe2cfeb7dce",
+							"From":	0,
+							"To":	1,
+							"Material":	{
+								"$NodeId":	"StripedMaterialProvider-2ad0a936-ba8a-4d12-abdf-2159cbafd09a",
+								"Type":	"Striped",
+								"Material":	{
+									"$NodeId":	"ConstantMaterialProvider-29dd693f-01d4-4197-aa4f-96ad75dac61f",
+									"Type":	"Constant",
+									"Material":	{
+										"$NodeId":	"Material-ff853848-e223-4861-9458-a86cd75d6ac6",
+										"Solid":	"Rock_sandstone"
+									}
+								},
+								"Stripes":	[{
+										"$NodeId":	"StripeStripedMP-d5a61df6-4904-4f35-82e1-13db54ab9116",
+										"TopY":	120,
+										"BottomY":	117
+									}, {
+										"$NodeId":	"StripeStripedMP-59b72412-a518-4a72-ab5b-1594d721feba",
+										"TopY":	126,
+										"BottomY":	126
+									}]
+							}
+						}]
+				}, {
+					"$NodeId":	"FieldFunctionMaterialProvider-d8413be7-8127-47b8-8b2a-94d505107abd",
+					"Type":	"FieldFunction",
+					"FieldFunction":	{
+						"$NodeId":	"SimplexNoise2DDensityNode-c0e2def7-d78c-4065-ac91-db30743af060",
+						"Type":	"SimplexNoise2D",
+						"Skip":	false,
+						"Lacunarity":	3,
+						"Persistence":	0.5,
+						"Octaves":	2,
+						"Scale":	80,
+						"Seed":	"C"
+					},
+					"Delimiters":	[{
+							"$NodeId":	"DelimiterFieldFunctionMP-e138f590-3866-4b13-9b80-5e7c7cb94114",
+							"From":	0.6,
+							"To":	1,
+							"Material":	{
+								"$NodeId":	"SpaceAndDepthMaterialProvider-e6048704-6e2f-4cae-b14f-26840daba3d0",
+								"Type":	"SpaceAndDepth",
+								"LayerContext":	"DEPTH_INTO_FLOOR",
+								"MaxExpectedDepth":	1,
+								"Layers":	[{
+										"$NodeId":	"ConstantThicknessLayerSADMP-5a0d9dad-94e3-4b7b-9c88-cdc2c8a95b40",
+										"Type":	"ConstantThickness",
+										"Thickness":	1,
+										"Material":	{
+											"$NodeId":	"ConstantMaterialProvider-270fea9f-2150-4b88-8933-16fae43b5011",
+											"Type":	"Constant",
+											"Material":	{
+												"$NodeId":	"Material-97e21590-0f2e-48b1-9595-67100dfaf434",
+												"Solid":	"Soil_Gravel_Sand_Red"
+											}
+										}
+									}]
+							}
+						}]
+				}, {
+					"$NodeId":	"FieldFunctionMaterialProvider-d20cfade-121f-449b-906c-6c181927ef88",
+					"Type":	"FieldFunction",
+					"FieldFunction":	{
+						"$NodeId":	"SimplexNoise2DDensityNode-cff622b5-ef36-41bd-83d6-972e3287c36b",
+						"Type":	"SimplexNoise2D",
+						"Skip":	false,
+						"Lacunarity":	6,
+						"Persistence":	0.1,
+						"Octaves":	6,
+						"Scale":	400,
+						"Seed":	"A"
+					},
+					"Delimiters":	[{
+							"$NodeId":	"DelimiterFieldFunctionMP-2a6607a3-8309-4b91-80af-b69152302f75",
+							"From":	0.6,
+							"To":	0.65,
+							"Material":	{
+								"$NodeId":	"ConstantMaterialProvider-fe1e365d-9985-4adb-bb41-fa5e935c4ad4",
+								"Type":	"Constant",
+								"Material":	{
+									"$NodeId":	"Material-3b80e6f2-d761-40c2-8d2b-12a00596c198",
+									"Solid":	"Soil_Clay_Red"
+								}
+							}
+						}, {
+							"$NodeId":	"DelimiterFieldFunctionMP-6d19fa88-0d6b-4406-9a33-38bce5960d6b",
+							"From":	0.55,
+							"To":	0.6,
+							"Material":	{
+								"$NodeId":	"ConstantMaterialProvider-e9054d1d-fee2-4574-bf4f-b2ae6766e6c6",
+								"Type":	"Constant",
+								"Material":	{
+									"$NodeId":	"Material-e9aaf0a5-d60c-4dfc-bc8f-6f1faccfe220",
+									"Solid":	"Rock_Sandstone_Red_Cobble"
+								}
+							}
+						}, {
+							"$NodeId":	"DelimiterFieldFunctionMP-0d90dfc1-5901-44b2-8d1c-5f6b0e1967a8",
+							"From":	0.35,
+							"To":	0.4,
+							"Material":	{
+								"$NodeId":	"ConstantMaterialProvider-99c42b3b-c6b9-4c9a-a660-3ac560592b64",
+								"Type":	"Constant",
+								"Material":	{
+									"$NodeId":	"Material-14ea689b-7ff8-45da-ab33-1f6179c53d56",
+									"Solid":	"Rock_Sandstone_Red_Cobble"
+								}
+							}
+						}, {
+							"$NodeId":	"DelimiterFieldFunctionMP-2e3eed17-5798-4fc1-ac3b-e16a4ef9d598",
+							"From":	0.3,
+							"To":	0.35,
+							"Material":	{
+								"$NodeId":	"ConstantMaterialProvider-e4194bbb-71ae-4996-9597-11958408a9eb",
+								"Type":	"Constant",
+								"Material":	{
+									"$NodeId":	"Material-9cea8ad2-8e52-42e7-8f7f-fa36f105d50c",
+									"Solid":	"Soil_Clay_Red"
+								}
+							}
+						}, {
+							"$NodeId":	"DelimiterFieldFunctionMP-59aa1e20-a6ea-43f6-a5d1-260fb30fe147",
+							"From":	0.1,
+							"To":	0.2,
+							"Material":	{
+								"$NodeId":	"ConstantMaterialProvider-112b2dfe-3f62-43d2-8253-3b0af83340ea",
+								"Type":	"Constant",
+								"Material":	{
+									"$NodeId":	"Material-3a9edede-4f67-4c69-965a-aec76922fd4f",
+									"Solid":	"Soil_Clay_Red"
+								}
+							}
+						}]
+				}, {
+					"$NodeId":	"ConstantMaterialProvider-4d84f821-ddd5-4689-9bb0-270336909c7d",
+					"Type":	"Constant",
+					"Material":	{
+						"$NodeId":	"Material-fccc39c3-db60-42dc-a9b9-bdc3138ab712",
+						"Solid":	"Rock_sandstone_red"
+					}
+				}]
+		},
+		"Empty":	{
+			"$NodeId":	"QueueMaterialProvider-03e8b9ac-f24d-4a92-9054-b06b096bf215",
+			"Type":	"Queue",
+			"Queue":	[{
+					"$NodeId":	"ConstantMaterialProvider-48e16ac7-0d6d-406b-b3b6-69e3ffa2b7b3",
+					"$Comment":	"REQUIRED",
+					"Type":	"Constant",
+					"Material":	{
+						"$NodeId":	"Material-23f19041-2e9f-4027-a37f-8c9a97cc1262",
+						"Solid":	"Empty"
+					}
+				}]
+		}
+	},
+	"Props":	[{
+			"$NodeId":	"Runtime-1465d3fe-3bd6-433f-ae15-e9991e64eb08",
+			"Skip":	false,
+			"Runtime":	0,
+			"Positions":	{
+				"$NodeId":	"Mesh2DPositions-0cd142a8-d269-4bd6-b831-b0e4d1bac985",
+				"Type":	"Mesh2D",
+				"Skip":	false,
+				"PointsY":	0,
+				"PointGenerator":	{
+					"$NodeId":	"MeshPointGenerator-684182a8-ec15-4327-9def-ece2d46a1dd7",
+					"Type":	"Mesh",
+					"Jitter":	0.5,
+					"ScaleX":	50,
+					"ScaleY":	50,
+					"ScaleZ":	50,
+					"Seed":	"A"
+				}
+			},
+			"Assignments":	{
+				"$NodeId":	"FieldFunction.Assignments-ea897d5e-ebb3-4409-957b-9e7a643d7dc0",
+				"Type":	"FieldFunction",
+				"FieldFunction":	{
+					"$NodeId":	"MinDensityNode-8907812a-8949-4933-99cf-a98dbbd7172b",
+					"Type":	"Min",
+					"ExportAs":	"Mushrooms",
+					"Skip":	false,
+					"Inputs":	[{
+							"$NodeId":	"NormalizerDensityNode-6d4c7369-c643-4a01-88f1-243754f9361f",
+							"Type":	"Normalizer",
+							"Skip":	false,
+							"FromMin":	-1,
+							"FromMax":	1,
+							"ToMin":	-1,
+							"ToMax":	0.8,
+							"Inputs":	[{
+									"$NodeId":	"SimplexNoise2DDensityNode-373a6afd-1419-4c16-a4e5-a1e49cda1693",
+									"Type":	"SimplexNoise2D",
+									"Skip":	false,
+									"Lacunarity":	10,
+									"Persistence":	0.06,
+									"Octaves":	4,
+									"Scale":	70,
+									"Seed":	"A"
+								}]
+						}, {
+							"$NodeId":	"NormalizerDensityNode-4b7ce583-6cd4-412d-bb2d-ca9fd8fc1c6a",
+							"Type":	"Normalizer",
+							"Skip":	false,
+							"FromMin":	-1,
+							"FromMax":	1,
+							"ToMin":	-1,
+							"ToMax":	0.5,
+							"Inputs":	[{
+									"$NodeId":	"SimplexNoise2DDensityNode-5d55f4fd-ae41-4776-a846-8f1a8e9ecda3",
+									"Type":	"SimplexNoise2D",
+									"Skip":	false,
+									"Lacunarity":	2,
+									"Persistence":	0.5,
+									"Octaves":	3,
+									"Scale":	400,
+									"Seed":	"A"
+								}]
+						}]
+				},
+				"Delimiters":	[{
+						"$NodeId":	"Delimiter.FieldFunction.Assignments-86b8c6eb-13f2-43f1-84fb-a883958e25e8",
+						"Max":	1,
+						"Min":	0,
+						"Assignments":	{
+							"$NodeId":	"Constant.Assignments-d182ec18-fd9c-47aa-aa94-ede575272d81",
+							"Type":	"Constant",
+							"Prop":	{
+								"$NodeId":	"Prefab.Prop-cb904090-07b5-4485-b23e-3ed0b48c8a9b",
+								"Type":	"Prefab",
+								"Skip":	false,
+								"WeightedPrefabPaths":	[{
+										"$NodeId":	"WeightedPath.Prefab.Prop-9ad5a24e-9d0b-425b-be05-8db72e3e3f6d",
+										"Path":	"Ash_Marrows",
+										"Weight":	1
+									}],
+								"LegacyPath":	false,
+								"LoadEntities":	true,
+								"Directionality":	{
+									"$NodeId":	"Random.Directionality-e44f54ed-c126-45bd-80fa-6652847aef91",
+									"Type":	"Random",
+									"Seed":	"A",
+									"Pattern":	{
+										"$NodeId":	"Floor.Pattern-6e0aa1af-89a2-4fa0-ae97-53e327bd1189",
+										"Type":	"Floor",
+										"ExportAs":	"Pattern_Sandstone_Red",
+										"Skip":	false,
+										"Origin":	{
+											"$NodeId":	"BlockType.Pattern-3cd46a94-a3bc-4f9f-9a7e-d977017efb3d",
+											"Type":	"BlockType",
+											"Skip":	false,
+											"Material":	{
+												"$NodeId":	"Material-3d7a5ea2-a73c-4d82-9088-e96b77f0e1bd",
+												"Solid":	"Empty"
+											}
+										},
+										"Floor":	{
+											"$NodeId":	"BlockType.Pattern-0590570a-d615-47e3-a0cd-8d7cf47b97b0",
+											"Type":	"BlockType",
+											"Skip":	false,
+											"Material":	{
+												"$NodeId":	"Material-5372948a-2b2d-42b3-869f-647fd1283b89",
+												"Solid":	"Rock_Sandstone_Red"
+											}
+										}
+									}
+								},
+								"Scanner":	{
+									"$NodeId":	"Imported.Scanner-1fa4fd83-e082-4c8b-809b-1d79ef1750d2",
+									"Type":	"Imported",
+									"Skip":	false,
+									"Name":	"Marrows_Scanner"
+								},
+								"MoldingDirection":	"None",
+								"MoldingChildren":	false
+							}
+						}
+					}]
+			}
+		}, {
+			"$NodeId":	"Runtime-91431155-2bf5-4fd1-a7f2-5aec54ee6ba6",
+			"Skip":	false,
+			"Runtime":	0,
+			"Positions":	{
+				"$NodeId":	"Mesh2DPositions-45acee6b-6ea3-4de7-8e7f-7e2735da954c",
+				"Type":	"Mesh2D",
+				"Skip":	false,
+				"PointsY":	0,
+				"PointGenerator":	{
+					"$NodeId":	"MeshPointGenerator-5a73ea16-dd71-4023-a5cc-96f08fb785be",
+					"Type":	"Mesh",
+					"Jitter":	0.4,
+					"ScaleX":	20,
+					"ScaleY":	20,
+					"ScaleZ":	20,
+					"Seed":	"A"
+				}
+			},
+			"Assignments":	{
+				"$NodeId":	"FieldFunction.Assignments-02f77842-7104-43d3-8076-634534e15cf3",
+				"Type":	"FieldFunction",
+				"FieldFunction":	{
+					"$NodeId":	"MinDensityNode-6cdf20da-f3f5-40e1-8c81-9fd602a93513",
+					"Type":	"Min",
+					"ExportAs":	"Mushrooms",
+					"Skip":	false,
+					"Inputs":	[{
+							"$NodeId":	"NormalizerDensityNode-0473c166-9f7e-45cd-9c40-c899a0c5b6cf",
+							"Type":	"Normalizer",
+							"Skip":	false,
+							"FromMin":	-1,
+							"FromMax":	1,
+							"ToMin":	-1,
+							"ToMax":	0.8,
+							"Inputs":	[{
+									"$NodeId":	"SimplexNoise2DDensityNode-fefc70a2-b06e-4da9-b8a2-90dd54cc99ac",
+									"Type":	"SimplexNoise2D",
+									"Skip":	false,
+									"Lacunarity":	10,
+									"Persistence":	0.06,
+									"Octaves":	4,
+									"Scale":	70,
+									"Seed":	"A"
+								}]
+						}, {
+							"$NodeId":	"NormalizerDensityNode-6018d436-d48e-4bec-a493-7a1fc1950cf2",
+							"Type":	"Normalizer",
+							"Skip":	false,
+							"FromMin":	-1,
+							"FromMax":	1,
+							"ToMin":	-1,
+							"ToMax":	0.5,
+							"Inputs":	[{
+									"$NodeId":	"SimplexNoise2DDensityNode-95125e86-c84e-48b4-9537-a0c8c696101f",
+									"Type":	"SimplexNoise2D",
+									"Skip":	false,
+									"Lacunarity":	2,
+									"Persistence":	0.5,
+									"Octaves":	3,
+									"Scale":	400,
+									"Seed":	"A"
+								}]
+						}]
+				},
+				"Delimiters":	[{
+						"$NodeId":	"Delimiter.FieldFunction.Assignments-6ff0f6b5-67e0-46f0-ada4-6838a188fb35",
+						"Max":	1,
+						"Min":	0,
+						"Assignments":	{
+							"$NodeId":	"Constant.Assignments-02682071-33e2-4bfa-890d-9ffcfd587ac4",
+							"Type":	"Constant",
+							"Prop":	{
+								"$NodeId":	"Prefab.Prop-97533854-454a-497d-8081-f1202bfb803a",
+								"Type":	"Prefab",
+								"Skip":	false,
+								"WeightedPrefabPaths":	[{
+										"$NodeId":	"WeightedPath.Prefab.Prop-53149c88-7a77-40db-aa4e-a0e47b6bc0f4",
+										"Path":	"Boomshrooms",
+										"Weight":	1
+									}],
+								"LegacyPath":	false,
+								"LoadEntities":	true,
+								"Directionality":	{
+									"$NodeId":	"Random.Directionality-2494b5a9-2e6f-4a77-a0d5-e98d2a7724f0",
+									"Type":	"Random",
+									"Seed":	"A",
+									"Pattern":	{
+										"$NodeId":	"Floor.Pattern-f74d2200-e1ff-4c94-8209-0deeeb8bc4c9",
+										"Type":	"Floor",
+										"ExportAs":	"Pattern_Sand_Red",
+										"Skip":	false,
+										"Origin":	{
+											"$NodeId":	"BlockType.Pattern-4d1c4199-0f48-416a-8415-e650db7ad9e3",
+											"Type":	"BlockType",
+											"Skip":	false,
+											"Material":	{
+												"$NodeId":	"Material-d05abfd4-0c38-46f1-88b3-c4600e6f03e5",
+												"Solid":	"Empty"
+											}
+										},
+										"Floor":	{
+											"$NodeId":	"BlockType.Pattern-9dee08ff-13bf-42fe-a44f-39a7830c818c",
+											"Type":	"BlockType",
+											"Skip":	false,
+											"Material":	{
+												"$NodeId":	"Material-def4daa2-3d06-483d-beeb-e91e2dc84933",
+												"Solid":	"Soil_Sand_Red"
+											}
+										}
+									}
+								},
+								"Scanner":	{
+									"$NodeId":	"ColumnLinear.Scanner-b8493e6a-7dbe-4b36-8c53-808c7074ab8b",
+									"Type":	"ColumnLinear",
+									"ExportAs":	"Marrows_Scanner",
+									"Skip":	false,
+									"MaxY":	200,
+									"MinY":	0,
+									"RelativeToPosition":	false,
+									"BaseHeightName":	"Base",
+									"TopDownOrder":	true,
+									"ResultCap":	1
+								},
+								"MoldingDirection":	"None",
+								"MoldingChildren":	false
+							}
+						}
+					}]
+			}
+		}, {
+			"$NodeId":	"Runtime-877024b0-c78d-4bbc-a1a7-9160bc1e1f25",
+			"Skip":	false,
+			"Runtime":	0,
+			"Positions":	{
+				"$NodeId":	"Mesh2DPositions-b6f82d35-c2b1-4051-af48-6d811fdcfe7d",
+				"Type":	"Mesh2D",
+				"Skip":	false,
+				"PointsY":	0,
+				"PointGenerator":	{
+					"$NodeId":	"MeshPointGenerator-f34f5190-3419-423e-8575-032603d3e619",
+					"Type":	"Mesh",
+					"Jitter":	0.4,
+					"ScaleX":	40,
+					"ScaleY":	20,
+					"ScaleZ":	40,
+					"Seed":	"A"
+				}
+			},
+			"Assignments":	{
+				"$NodeId":	"FieldFunction.Assignments-0756ef91-88e4-4197-9834-ea83e91b4d8a",
+				"Type":	"FieldFunction",
+				"FieldFunction":	{
+					"$NodeId":	"ImportedDensityNode-a3526aa8-129e-4d6b-8978-8e7fb9702bbd",
+					"Type":	"Imported",
+					"Skip":	false,
+					"Name":	"Mushrooms"
+				},
+				"Delimiters":	[{
+						"$NodeId":	"Delimiter.FieldFunction.Assignments-ba168487-48a8-4d8d-8995-732a2cc7cb2b",
+						"Max":	1,
+						"Min":	0,
+						"Assignments":	{
+							"$NodeId":	"Constant.Assignments-9db2ae00-5876-4c7e-b7b7-29b26fd21fb3",
+							"Type":	"Constant",
+							"Prop":	{
+								"$NodeId":	"Cluster.Prop-98465220-046c-4664-a772-a0da3c026bf1",
+								"Type":	"Cluster",
+								"Skip":	false,
+								"Range":	20,
+								"Seed":	"A",
+								"DistanceCurve":	{
+									"$NodeId":	"ManualCurve-e49c987b-0f89-433c-866f-8b0aab8fbfa8",
+									"Type":	"Manual",
+									"Points":	[{
+											"$NodeId":	"CurvePoint-06d6ee28-5bf8-44dd-9ed4-0a3326b86db8",
+											"In":	0,
+											"Out":	0.05
+										}, {
+											"$NodeId":	"CurvePoint-b382be14-f4cd-46d7-84a4-222a40a72380",
+											"In":	10,
+											"Out":	0.02
+										}, {
+											"$NodeId":	"CurvePoint-fbf4ed00-3862-4cd5-bf1d-a1d808775f11",
+											"In":	20,
+											"Out":	0
+										}]
+								},
+								"WeightedProps":	[{
+										"$NodeId":	"Weighted.Cluster.Prop-70714a75-b618-4426-ad89-9866d54c2f65",
+										"Weight":	1,
+										"ColumnProp":	{
+											"$NodeId":	"Column.Prop-d9b4e3cb-c478-43bd-a481-ce6ea529c820",
+											"Type":	"Column",
+											"Skip":	false,
+											"ColumnBlocks":	[{
+													"$NodeId":	"Block.Column.Prop-40bd4a4b-807f-42fa-9266-d52b1e9cdfd6",
+													"Y":	0,
+													"Material":	{
+														"$NodeId":	"Material-f4181c41-f587-4175-9e67-8a6c6be22e0f",
+														"Solid":	"plant_Crop_Mushroom_Boomshroom_large"
+													}
+												}],
+											"Directionality":	{
+												"$NodeId":	"Static.Directionality-fd815c07-aa3d-40f7-b7ac-bdda7b1e40de",
+												"Type":	"Static",
+												"ExportAs":	"Direction_Sand_Red",
+												"Rotation":	0,
+												"Pattern":	{
+													"$NodeId":	"Imported.Pattern-46488959-4226-42c3-97a7-dd50a30e66e8",
+													"Type":	"Imported",
+													"Skip":	false,
+													"Name":	"Pattern_Sand_Red"
+												}
+											},
+											"Scanner":	{
+												"$NodeId":	"Imported.Scanner-7aefc3b8-4edd-4a5d-919c-2a3648f0d4bd",
+												"Type":	"Imported",
+												"Skip":	false,
+												"Name":	"Marrows_Scanner"
+											}
+										}
+									}, {
+										"$NodeId":	"Weighted.Cluster.Prop-0eeef5c4-a666-459d-aabf-e5ec0ae13c1c",
+										"Weight":	2,
+										"ColumnProp":	{
+											"$NodeId":	"Column.Prop-3a626d01-f0ea-4f1d-8784-eb52ff38ee4c",
+											"Type":	"Column",
+											"Skip":	false,
+											"ColumnBlocks":	[{
+													"$NodeId":	"Block.Column.Prop-b4bc4f87-7688-4d65-aeaa-1d7a8179edcd",
+													"Y":	0,
+													"Material":	{
+														"$NodeId":	"Material-69a1d5a8-e9de-4f64-a403-2fe80055ca2b",
+														"Solid":	"plant_Crop_Mushroom_Boomshroom_Small"
+													}
+												}],
+											"Directionality":	{
+												"$NodeId":	"Static.Directionality-1d7cad5f-d985-4ffd-b9a2-041e301bc211",
+												"Type":	"Static",
+												"Rotation":	0,
+												"Pattern":	{
+													"$NodeId":	"Imported.Pattern-59da06e6-e660-4633-b3b2-789895a8a451",
+													"Type":	"Imported",
+													"Skip":	false,
+													"Name":	"Pattern_Sand_Red"
+												}
+											},
+											"Scanner":	{
+												"$NodeId":	"Imported.Scanner-f3bd8a0e-0eb1-4c14-b1b3-a457ec722c16",
+												"Type":	"Imported",
+												"Skip":	false,
+												"Name":	"Marrows_Scanner"
+											}
+										}
+									}, {
+										"$NodeId":	"Weighted.Cluster.Prop-ad9912ea-36ce-4d5c-bf7d-cf12d4744271",
+										"Weight":	3,
+										"ColumnProp":	{
+											"$NodeId":	"Column.Prop-7fd668c4-69ab-45b4-a680-10a680f09d11",
+											"Type":	"Column",
+											"Skip":	false,
+											"ColumnBlocks":	[{
+													"$NodeId":	"Block.Column.Prop-3bf75ff7-746a-4f30-b178-ac710aba3a97",
+													"Y":	0,
+													"Material":	{
+														"$NodeId":	"Material-378ea8ed-80dd-4b55-9de6-3b4a09586489",
+														"Solid":	"plant_Crop_Mushroom_Glowing_Orange"
+													}
+												}],
+											"Directionality":	{
+												"$NodeId":	"Static.Directionality-affd1410-3023-4bde-b993-8193b9c5c093",
+												"Type":	"Static",
+												"Rotation":	0,
+												"Pattern":	{
+													"$NodeId":	"Imported.Pattern-5325c192-a4cc-4734-92af-96ad62ae56a1",
+													"Type":	"Imported",
+													"Skip":	false,
+													"Name":	"Pattern_Sand_Red"
+												}
+											},
+											"Scanner":	{
+												"$NodeId":	"Imported.Scanner-6a88aa9d-72d6-436f-9798-a8a12f67b3d8",
+												"Type":	"Imported",
+												"Skip":	false,
+												"Name":	"Marrows_Scanner"
+											}
+										}
+									}],
+								"Pattern":	{
+									"$NodeId":	"Imported.Pattern-ecd88bcd-7fcf-469c-8adf-427f888aa071",
+									"Type":	"Imported",
+									"Skip":	false,
+									"Name":	"Pattern_Sand_Red"
+								},
+								"Scanner":	{
+									"$NodeId":	"Imported.Scanner-046ddb04-d3b2-4ca9-bdf8-ed646a4e611d",
+									"Type":	"Imported",
+									"Skip":	false,
+									"Name":	"Marrows_Scanner"
+								}
+							}
+						}
+					}]
+			}
+		}, {
+			"$NodeId":	"Runtime-c9376ca1-9202-48cf-98cf-9e1403a5da1e",
+			"Skip":	false,
+			"Runtime":	0,
+			"Positions":	{
+				"$NodeId":	"Mesh2DPositions-29d2b57d-284f-4814-9deb-5d55e6b83226",
+				"Type":	"Mesh2D",
+				"Skip":	false,
+				"PointsY":	0,
+				"PointGenerator":	{
+					"$NodeId":	"MeshPointGenerator-4280e788-f004-478a-8196-89c6e5d06bfd",
+					"Type":	"Mesh",
+					"Jitter":	0.4,
+					"ScaleX":	30,
+					"ScaleY":	40,
+					"ScaleZ":	30,
+					"Seed":	"A"
+				}
+			},
+			"Assignments":	{
+				"$NodeId":	"Constant.Assignments-6d32004c-a8d5-4c47-8a1f-83c188f10ecf",
+				"Type":	"Constant",
+				"Prop":	{
+					"$NodeId":	"Cluster.Prop-130fcb20-c8ec-4720-9e0b-2b440004c79d",
+					"Type":	"Cluster",
+					"Skip":	false,
+					"Range":	20,
+					"Seed":	"A",
+					"DistanceCurve":	{
+						"$NodeId":	"ManualCurve-d286856e-0c42-4068-bc82-3d4561158957",
+						"Type":	"Manual",
+						"Points":	[{
+								"$NodeId":	"CurvePoint-2a040d5b-9926-4c3d-a4ce-9d3e2e5fc1f5",
+								"In":	0,
+								"Out":	0.05
+							}, {
+								"$NodeId":	"CurvePoint-9f3e1c55-2ce5-47e4-a3d8-0117871da4da",
+								"In":	10,
+								"Out":	0.02
+							}, {
+								"$NodeId":	"CurvePoint-e3a8aca4-1469-4adc-b360-1510328209eb",
+								"In":	20,
+								"Out":	0
+							}]
+					},
+					"WeightedProps":	[{
+							"$NodeId":	"Weighted.Cluster.Prop-e3ce335b-8c6e-4f92-8655-d45203404ecd",
+							"Weight":	1,
+							"ColumnProp":	{
+								"$NodeId":	"Column.Prop-b312f6d4-9312-4e1f-a00e-23c9cc04e5ab",
+								"Type":	"Column",
+								"Skip":	false,
+								"ColumnBlocks":	[{
+										"$NodeId":	"Block.Column.Prop-23688150-27e7-42f0-84eb-1c2ab9f470ec",
+										"Y":	0,
+										"Material":	{
+											"$NodeId":	"Material-d45bc4ab-404c-42ba-84c6-d3785633ad5d",
+											"Solid":	"plant_Grass_Cave_Short"
+										}
+									}],
+								"Directionality":	{
+									"$NodeId":	"Static.Directionality-07c5c1cc-6dba-4cf3-8f18-730cbf58715b",
+									"Type":	"Static",
+									"Rotation":	0,
+									"Pattern":	{
+										"$NodeId":	"Imported.Pattern-993281f3-437b-4f12-b19d-a8be8b5f875e",
+										"Type":	"Imported",
+										"Skip":	false,
+										"Name":	"Pattern_Marrows_rock"
+									}
+								},
+								"Scanner":	{
+									"$NodeId":	"Imported.Scanner-2768766c-010d-48cf-ae6d-00deaeffe575",
+									"Type":	"Imported",
+									"Skip":	false,
+									"Name":	"Marrows_Scanner"
+								}
+							}
+						}],
+					"Pattern":	{
+						"$NodeId":	"Or.Pattern-46d9d1b3-6233-4b85-afe1-64aa925ef119",
+						"Type":	"Or",
+						"ExportAs":	"Pattern_Marrows_rock",
+						"Skip":	false,
+						"Patterns":	[{
+								"$NodeId":	"Imported.Pattern-f004d159-8d8a-4b51-b72e-721ba4be94b4",
+								"Type":	"Imported",
+								"Skip":	false,
+								"Name":	"Pattern_Sandstone_Red"
+							}, {
+								"$NodeId":	"Floor.Pattern-a35049b8-ae76-4e6d-9b97-2d5f3717ab8a",
+								"Type":	"Floor",
+								"ExportAs":	"Pattern_Clay_Red",
+								"Skip":	false,
+								"Origin":	{
+									"$NodeId":	"BlockType.Pattern-01b1e205-6140-4aa3-947b-87e7d46c9c95",
+									"Type":	"BlockType",
+									"Skip":	false,
+									"Material":	{
+										"$NodeId":	"Material-59d8ae5b-5339-4bd6-bb73-eec26673da83",
+										"Solid":	"Empty"
+									}
+								},
+								"Floor":	{
+									"$NodeId":	"BlockType.Pattern-33f8aed2-cdb1-4c2f-bf75-743f0b6bfa81",
+									"Type":	"BlockType",
+									"Skip":	false,
+									"Material":	{
+										"$NodeId":	"Material-14ac4b0a-e086-4336-ac3a-1cbd22727dc3",
+										"Solid":	"Soil_Clay_Red"
+									}
+								}
+							}, {
+								"$NodeId":	"Floor.Pattern-745df80b-6bcc-4ba2-85e4-8c3637f543ae",
+								"Type":	"Floor",
+								"ExportAs":	"Pattern_Sandstone_Red_Cobble",
+								"Skip":	false,
+								"Origin":	{
+									"$NodeId":	"BlockType.Pattern-db602007-cd30-47ab-ba5b-385d8298ee8b",
+									"Type":	"BlockType",
+									"Skip":	false,
+									"Material":	{
+										"$NodeId":	"Material-80fe4347-bdf7-48ee-b825-eb46d84efda0",
+										"Solid":	"Empty"
+									}
+								},
+								"Floor":	{
+									"$NodeId":	"BlockType.Pattern-fc31cca3-8f4f-46df-823f-890cf8a198c1",
+									"Type":	"BlockType",
+									"Skip":	false,
+									"Material":	{
+										"$NodeId":	"Material-941615e6-04fc-450a-a825-15fdd846ffa0",
+										"Solid":	"Rock_Sandstone_Red_Cobble"
+									}
+								}
+							}]
+					},
+					"Scanner":	{
+						"$NodeId":	"ColumnLinear.Scanner-f5ddc920-d48b-4785-a28f-d0708769fb68",
+						"Type":	"ColumnLinear",
+						"Skip":	false,
+						"MaxY":	200,
+						"MinY":	0,
+						"RelativeToPosition":	false,
+						"BaseHeightName":	"Base",
+						"TopDownOrder":	false,
+						"ResultCap":	1
+					}
+				}
+			}
+		}, {
+			"$NodeId":	"Runtime-a914c3c7-d56b-4b16-8648-632e77499f0c",
+			"Skip":	false,
+			"Runtime":	0,
+			"Positions":	{
+				"$NodeId":	"Mesh2DPositions-4d28ef47-6953-43d7-a2c3-754191e0475f",
+				"Type":	"Mesh2D",
+				"Skip":	false,
+				"PointsY":	0,
+				"PointGenerator":	{
+					"$NodeId":	"MeshPointGenerator-0fdb6d4f-848d-41fe-9695-902c5a9ede40",
+					"Type":	"Mesh",
+					"Jitter":	0.5,
+					"ScaleX":	5,
+					"ScaleY":	30,
+					"ScaleZ":	5,
+					"Seed":	"E"
+				}
+			},
+			"Assignments":	{
+				"$NodeId":	"Weighted.Assignments-109d57fa-efa8-4f88-a6ac-546f08eb9486",
+				"Type":	"Weighted",
+				"SkipChance":	0,
+				"Seed":	"A",
+				"WeightedAssignments":	[{
+						"$NodeId":	"Weight.Weighted.Assignments-c81f110b-ee4b-4093-8d8f-4ed7a5e14944",
+						"Weight":	3,
+						"Assignments":	{
+							"$NodeId":	"Constant.Assignments-03ba39ed-3f32-42d1-86dc-47683e875639",
+							"Type":	"Constant",
+							"Prop":	{
+								"$NodeId":	"Column.Prop-2237f5cd-23af-486a-8951-9308dadb5f34",
+								"Type":	"Column",
+								"Skip":	false,
+								"ColumnBlocks":	[{
+										"$NodeId":	"Block.Column.Prop-a93db6dc-16a1-443b-a788-8181b7889afc",
+										"Y":	0,
+										"Material":	{
+											"$NodeId":	"Material-3d568c2f-2a19-4a83-b4e6-95fb07284a4e",
+											"Solid":	"plant_Crop_Stamina1"
+										}
+									}],
+								"Directionality":	{
+									"$NodeId":	"Static.Directionality-0e300cb5-419f-45cf-9bdc-55c0ef42807c",
+									"Type":	"Static",
+									"ExportAs":	"Direction_Gravel_Red",
+									"Rotation":	0,
+									"Pattern":	{
+										"$NodeId":	"Floor.Pattern-7560c2ff-800b-422b-96ac-1fd449791542",
+										"Type":	"Floor",
+										"ExportAs":	"Pattern_Gravel_Red",
+										"Skip":	false,
+										"Origin":	{
+											"$NodeId":	"BlockType.Pattern-d3989fb3-4509-47e6-8341-232396de3d31",
+											"Type":	"BlockType",
+											"Skip":	false,
+											"Material":	{
+												"$NodeId":	"Material-934db44b-5162-447d-b8e8-2c63863369a4",
+												"Solid":	"Empty"
+											}
+										},
+										"Floor":	{
+											"$NodeId":	"BlockType.Pattern-cfff86bb-2533-472b-ac8c-ee30d0f724af",
+											"Type":	"BlockType",
+											"Skip":	false,
+											"Material":	{
+												"$NodeId":	"Material-f34e9a45-eb23-4b83-a818-0fe625a65e17",
+												"Solid":	"Soil_Gravel_Sand_Red"
+											}
+										}
+									}
+								},
+								"Scanner":	{
+									"$NodeId":	"Imported.Scanner-b8cf6391-0bc0-48cd-b11d-47468c317047",
+									"Type":	"Imported",
+									"Skip":	false,
+									"Name":	"Marrows_Scanner"
+								}
+							}
+						}
+					}, {
+						"$NodeId":	"Weight.Weighted.Assignments-ec9119d7-a2af-4ae8-830b-e197e282ee69",
+						"Weight":	2,
+						"Assignments":	{
+							"$NodeId":	"Constant.Assignments-6b51946f-661f-4b25-88bb-4b42790d52e9",
+							"Type":	"Constant",
+							"Prop":	{
+								"$NodeId":	"Column.Prop-166c19ef-0973-491c-a9a3-5a94ab6dda51",
+								"Type":	"Column",
+								"Skip":	false,
+								"ColumnBlocks":	[{
+										"$NodeId":	"Block.Column.Prop-1c66ea20-03d9-4fac-84ae-6ed4cea4748e",
+										"Y":	0,
+										"Material":	{
+											"$NodeId":	"Material-e33c35fe-b71f-4eaa-96b8-6480a15fe745",
+											"Solid":	"plant_Crop_Stamina2"
+										}
+									}],
+								"Directionality":	{
+									"$NodeId":	"Imported.Directionality-3e20f5d6-31d6-4df5-b2b4-b7704789999f",
+									"Type":	"Imported",
+									"Name":	"Direction_Gravel_Red"
+								},
+								"Scanner":	{
+									"$NodeId":	"Imported.Scanner-3662f110-5a61-4619-bac5-7a70c9c39fe4",
+									"Type":	"Imported",
+									"Skip":	false,
+									"Name":	"Marrows_Scanner"
+								}
+							}
+						}
+					}, {
+						"$NodeId":	"Weight.Weighted.Assignments-b0a7d99a-5778-448b-91dd-e49e746b0e42",
+						"Weight":	1,
+						"Assignments":	{
+							"$NodeId":	"Constant.Assignments-4c833719-9bdf-43e6-9e06-8c2a787dc0b9",
+							"Type":	"Constant",
+							"Prop":	{
+								"$NodeId":	"Column.Prop-7f37fc5e-fb4f-482a-bdd6-809b7ac47f8a",
+								"Type":	"Column",
+								"Skip":	false,
+								"ColumnBlocks":	[{
+										"$NodeId":	"Block.Column.Prop-098d7ab5-0cd8-4c66-988a-d368ca7fda29",
+										"Y":	0,
+										"Material":	{
+											"$NodeId":	"Material-6b2dc4e0-59b7-492d-b481-724224c8b018",
+											"Solid":	"plant_Crop_Stamina3"
+										}
+									}],
+								"Directionality":	{
+									"$NodeId":	"Imported.Directionality-a8e6f0bd-95b2-4a8a-b072-bfc005a438fd",
+									"Type":	"Imported",
+									"Name":	"Direction_Gravel_Red"
+								},
+								"Scanner":	{
+									"$NodeId":	"Imported.Scanner-6e9fe256-89f7-495d-a671-24f6e14eff6e",
+									"Type":	"Imported",
+									"Skip":	false,
+									"Name":	"Marrows_Scanner"
+								}
+							}
+						}
+					}]
+			}
+		}, {
+			"$NodeId":	"Runtime-c0ab5962-4ada-4791-bf8a-04d19a5fc6e0",
+			"Skip":	false,
+			"Runtime":	0,
+			"Positions":	{
+				"$NodeId":	"Mesh2DPositions-96351db7-1089-4bb2-a4ec-f8fae25ccb94",
+				"Type":	"Mesh2D",
+				"Skip":	false,
+				"PointsY":	0,
+				"PointGenerator":	{
+					"$NodeId":	"MeshPointGenerator-a144d27c-43c2-43dc-9a9d-082c350cda32",
+					"Type":	"Mesh",
+					"Jitter":	0.5,
+					"ScaleX":	30,
+					"ScaleY":	5,
+					"ScaleZ":	30,
+					"Seed":	"E"
+				}
+			},
+			"Assignments":	{
+				"$NodeId":	"FieldFunction.Assignments-bfd00312-ab13-4ace-b734-5d2ff96cf666",
+				"Type":	"FieldFunction",
+				"FieldFunction":	{
+					"$NodeId":	"SimplexNoise2DDensityNode-1dff8226-6a3f-465c-9ae0-a09fb38f6b29",
+					"Type":	"SimplexNoise2D",
+					"Skip":	false,
+					"Lacunarity":	2,
+					"Persistence":	0.5,
+					"Octaves":	3,
+					"Scale":	400,
+					"Seed":	"A"
+				},
+				"Delimiters":	[{
+						"$NodeId":	"Delimiter.FieldFunction.Assignments-9a9962e9-24c7-4029-9209-30d397ec1d66",
+						"Max":	-0.1,
+						"Min":	-1,
+						"Assignments":	{
+							"$NodeId":	"Weighted.Assignments-df85d895-16b0-401c-8bc1-4da7753c1493",
+							"Type":	"Weighted",
+							"ExportAs":	"",
+							"SkipChance":	0,
+							"Seed":	"A",
+							"WeightedAssignments":	[{
+									"$NodeId":	"Weight.Weighted.Assignments-9c5824c7-c189-4788-9b9d-e2e2c8277082",
+									"Weight":	2,
+									"Assignments":	{
+										"$NodeId":	"Constant.Assignments-459ef82f-bac1-4e54-957f-394023ea8d9c",
+										"Type":	"Constant",
+										"Prop":	{
+											"$NodeId":	"Column.Prop-9521070f-57d4-409d-9673-2a8732ecc282",
+											"Type":	"Column",
+											"Skip":	false,
+											"ColumnBlocks":	[{
+													"$NodeId":	"Block.Column.Prop-d97baa69-94e5-4363-a456-e4585c170d0d",
+													"Y":	0,
+													"Material":	{
+														"$NodeId":	"Material-ab364168-a942-4d8e-8799-8aad05c9a6c0",
+														"Solid":	"Plant_Cactus_1"
+													}
+												}, {
+													"$NodeId":	"Block.Column.Prop-36998349-c334-45d2-88a9-aeaaaa7341fa",
+													"Y":	1,
+													"Material":	{
+														"$NodeId":	"Material-c55752d8-3c6e-478a-b917-4413358c9d20",
+														"Solid":	"Plant_Cactus_2"
+													}
+												}, {
+													"$NodeId":	"Block.Column.Prop-32aedf2f-cc54-4e83-9562-2add6142cc2d",
+													"Y":	2,
+													"Material":	{
+														"$NodeId":	"Material-c1b158e7-5d8e-4663-bf8a-d64e1496b573",
+														"Solid":	"Plant_Cactus_3"
+													}
+												}],
+											"Directionality":	{
+												"$NodeId":	"Imported.Directionality-8381782f-4134-4a36-af59-9b712d57a434",
+												"Type":	"Imported",
+												"Name":	"Direction_Sand_Red"
+											},
+											"Scanner":	{
+												"$NodeId":	"Imported.Scanner-6f631a60-e7de-4330-a025-c2bd408672af",
+												"Type":	"Imported",
+												"Skip":	false,
+												"Name":	"Marrows_Scanner"
+											}
+										}
+									}
+								}, {
+									"$NodeId":	"Weight.Weighted.Assignments-9d4bb0ef-3d5e-4d8c-ac18-30cdeddd1a63",
+									"Weight":	5,
+									"Assignments":	{
+										"$NodeId":	"Constant.Assignments-495f6033-9f05-4d3b-95ba-2b30c5519fbe",
+										"Type":	"Constant",
+										"Prop":	{
+											"$NodeId":	"Column.Prop-5812633b-f192-45db-ab5f-e4c7eeec5787",
+											"Type":	"Column",
+											"Skip":	false,
+											"ColumnBlocks":	[{
+													"$NodeId":	"Block.Column.Prop-d6a1c7a3-1104-43ee-81a9-d2578b9dd75e",
+													"Y":	0,
+													"Material":	{
+														"$NodeId":	"Material-875acdc6-109b-4896-992b-b9a91204f3ce",
+														"Solid":	"Plant_Cactus_1"
+													}
+												}],
+											"Directionality":	{
+												"$NodeId":	"Imported.Directionality-f30b2984-da4a-437b-9038-0ff567119bee",
+												"Type":	"Imported",
+												"Name":	"Direction_Sand_Red"
+											},
+											"Scanner":	{
+												"$NodeId":	"Imported.Scanner-f763971a-cd04-435a-87a7-f8804aac6db6",
+												"Type":	"Imported",
+												"Skip":	false,
+												"Name":	"Marrows_Scanner"
+											}
+										}
+									}
+								}, {
+									"$NodeId":	"Weight.Weighted.Assignments-30c3ad2a-18b5-4a9c-9e72-a27ea9ce8f03",
+									"Weight":	5,
+									"Assignments":	{
+										"$NodeId":	"Constant.Assignments-a4db1449-ce9d-4365-b00c-eb279b24393a",
+										"Type":	"Constant",
+										"Prop":	{
+											"$NodeId":	"Column.Prop-76f91699-3025-4ccc-ae7f-162aeeea5990",
+											"Type":	"Column",
+											"Skip":	false,
+											"ColumnBlocks":	[{
+													"$NodeId":	"Block.Column.Prop-4954c8e6-fe10-4fcd-8fb3-505d26bd8bca",
+													"Y":	0,
+													"Material":	{
+														"$NodeId":	"Material-06b29732-c8fd-47c6-a5a4-59dff5405673",
+														"Solid":	"Plant_Cactus_flat_1"
+													}
+												}],
+											"Directionality":	{
+												"$NodeId":	"Imported.Directionality-970578dd-3181-47e0-98e7-60c556ecd7e4",
+												"Type":	"Imported",
+												"Name":	"Direction_Sand_Red"
+											},
+											"Scanner":	{
+												"$NodeId":	"Imported.Scanner-fa17320d-2520-4bbc-a258-3b50097b879b",
+												"Type":	"Imported",
+												"Skip":	false,
+												"Name":	"Marrows_Scanner"
+											}
+										}
+									}
+								}, {
+									"$NodeId":	"Weight.Weighted.Assignments-73f78ba8-2f58-4939-9cec-e8be7160339d",
+									"Weight":	2,
+									"Assignments":	{
+										"$NodeId":	"Constant.Assignments-3ff43f16-405f-4bd7-8f86-17131a7c6875",
+										"Type":	"Constant",
+										"Prop":	{
+											"$NodeId":	"Column.Prop-02461c3e-bd69-4ffa-8779-02edaad441da",
+											"Type":	"Column",
+											"Skip":	false,
+											"ColumnBlocks":	[{
+													"$NodeId":	"Block.Column.Prop-cd63addb-d8f6-4feb-9dd8-d58f582b38d0",
+													"Y":	0,
+													"Material":	{
+														"$NodeId":	"Material-92dab1de-ff47-429d-86ed-3ef145edb39c",
+														"Solid":	"Plant_Cactus_Flat_1"
+													}
+												}, {
+													"$NodeId":	"Block.Column.Prop-a2c0a455-4f8f-4b12-88a4-ca07ddea4595",
+													"Y":	1,
+													"Material":	{
+														"$NodeId":	"Material-937b3b40-0fe0-428e-a385-7230305d11a3",
+														"Solid":	"Plant_Cactus_Flat_2"
+													}
+												}, {
+													"$NodeId":	"Block.Column.Prop-2adfb76a-7c81-4ea5-9cf0-165bf705ef98",
+													"Y":	2,
+													"Material":	{
+														"$NodeId":	"Material-d7381023-8fda-46e5-8ae5-96062eabe655",
+														"Solid":	"Plant_Cactus_Flat_3"
+													}
+												}],
+											"Directionality":	{
+												"$NodeId":	"Imported.Directionality-fef6dc8e-5d06-4cef-84fb-a22121a42de0",
+												"Type":	"Imported",
+												"Name":	"Direction_Sand_Red"
+											},
+											"Scanner":	{
+												"$NodeId":	"Imported.Scanner-7231191a-aae3-4e84-845d-2a183dd02725",
+												"Type":	"Imported",
+												"Skip":	false,
+												"Name":	"Marrows_Scanner"
+											}
+										}
+									}
+								}, {
+									"$NodeId":	"Weight.Weighted.Assignments-dc1de647-e711-4985-8585-0b6a03ad48b8",
+									"Weight":	5,
+									"Assignments":	{
+										"$NodeId":	"Constant.Assignments-5d861492-d6f1-41e7-b63b-02061e17ced2",
+										"Type":	"Constant",
+										"Prop":	{
+											"$NodeId":	"Column.Prop-aa747ba7-a5e4-466c-91e1-c92e3b514c7e",
+											"Type":	"Column",
+											"Skip":	false,
+											"ColumnBlocks":	[{
+													"$NodeId":	"Block.Column.Prop-9c3aad9b-4153-4c66-a9cc-332d8991a50f",
+													"Y":	0,
+													"Material":	{
+														"$NodeId":	"Material-4ec7cada-2759-4397-9c34-d1130957cd4d",
+														"Solid":	"Plant_Cactus_flat_2"
+													}
+												}],
+											"Directionality":	{
+												"$NodeId":	"Imported.Directionality-85fe9693-1a9b-41ae-8726-22a80e9f67e0",
+												"Type":	"Imported",
+												"Name":	"Direction_Sand_Red"
+											},
+											"Scanner":	{
+												"$NodeId":	"Imported.Scanner-e24bbb57-ced2-405a-8689-ef6c39529f1d",
+												"Type":	"Imported",
+												"Skip":	false,
+												"Name":	"Marrows_Scanner"
+											}
+										}
+									}
+								}, {
+									"$NodeId":	"Weight.Weighted.Assignments-44ae8d18-7eac-4ea2-b66a-dec1a0a01d3c",
+									"Weight":	2,
+									"Assignments":	{
+										"$NodeId":	"Constant.Assignments-928ee2e0-dbfe-438b-9a64-088c3bb29623",
+										"Type":	"Constant",
+										"Prop":	{
+											"$NodeId":	"Column.Prop-d78e0998-36e9-46ba-a024-fc80f1d5537c",
+											"Type":	"Column",
+											"Skip":	false,
+											"ColumnBlocks":	[{
+													"$NodeId":	"Block.Column.Prop-9b4f9f99-5418-402d-b306-7105f2f5c822",
+													"Y":	0,
+													"Material":	{
+														"$NodeId":	"Material-9506482c-274d-4eed-a767-5f03ad51162d",
+														"Solid":	"Plant_Cactus_Flat_3"
+													}
+												}, {
+													"$NodeId":	"Block.Column.Prop-2250518c-66dd-4d8b-ae9e-c40beb4640ae",
+													"Y":	1,
+													"Material":	{
+														"$NodeId":	"Material-c83bd261-2a08-4e01-8156-4a925a7d0f4e",
+														"Solid":	"Plant_Cactus_Flat_2"
+													}
+												}, {
+													"$NodeId":	"Block.Column.Prop-172b1a82-effb-4a0e-8bd5-108c4a49e89d",
+													"Y":	2,
+													"Material":	{
+														"$NodeId":	"Material-dde325de-0d8f-4447-b5bb-5f88c59d269f",
+														"Solid":	"Plant_Cactus_Flat_1"
+													}
+												}],
+											"Directionality":	{
+												"$NodeId":	"Imported.Directionality-e77fb0e0-6e9c-46f2-b030-cd6bb785de04",
+												"Type":	"Imported",
+												"Name":	"Direction_Sand_Red"
+											},
+											"Scanner":	{
+												"$NodeId":	"Imported.Scanner-586fa401-8d70-4b58-9fee-efc41fcb284b",
+												"Type":	"Imported",
+												"Skip":	false,
+												"Name":	"Marrows_Scanner"
+											}
+										}
+									}
+								}, {
+									"$NodeId":	"Weight.Weighted.Assignments-65a667b2-d2d4-431c-b40b-28a62c7b314d",
+									"Weight":	5,
+									"Assignments":	{
+										"$NodeId":	"Constant.Assignments-18d9c10a-5959-484e-a265-c658e3a7d724",
+										"Type":	"Constant",
+										"Prop":	{
+											"$NodeId":	"Column.Prop-5a393fd8-e999-409b-9307-945757f4e92b",
+											"Type":	"Column",
+											"Skip":	false,
+											"ColumnBlocks":	[{
+													"$NodeId":	"Block.Column.Prop-b1b5cc21-172b-4d38-9c42-afa05de265e5",
+													"Y":	0,
+													"Material":	{
+														"$NodeId":	"Material-48f07df5-0d20-42f8-8f57-4c6f21ec239c",
+														"Solid":	"Plant_Cactus_Ball_1"
+													}
+												}],
+											"Directionality":	{
+												"$NodeId":	"Imported.Directionality-f3613581-2cc5-420f-853b-f4067ff199ac",
+												"Type":	"Imported",
+												"Name":	"Direction_Sand_Red"
+											},
+											"Scanner":	{
+												"$NodeId":	"Imported.Scanner-68fc7499-9af9-4360-bca3-1cef2af1d7f8",
+												"Type":	"Imported",
+												"Skip":	false,
+												"Name":	"Marrows_Scanner"
+											}
+										}
+									}
+								}, {
+									"$NodeId":	"Weight.Weighted.Assignments-97934424-c019-4689-a262-7675c5167bd6",
+									"Weight":	3,
+									"Assignments":	{
+										"$NodeId":	"Constant.Assignments-6e7c4473-be09-439b-a88d-871e9a3ea662",
+										"Type":	"Constant",
+										"Prop":	{
+											"$NodeId":	"Column.Prop-35093969-768f-427a-844b-766aa94d08cb",
+											"Type":	"Column",
+											"Skip":	false,
+											"ColumnBlocks":	[{
+													"$NodeId":	"Block.Column.Prop-39eb06f3-67dc-4ba9-92ee-945ec09b08c2",
+													"Y":	0,
+													"Material":	{
+														"$NodeId":	"Material-ce929382-4e88-4b37-9219-e1ea8c314558",
+														"Solid":	"Plant_Cactus_1"
+													}
+												}, {
+													"$NodeId":	"Block.Column.Prop-384a75ab-230f-4cfe-9404-e36de426764b",
+													"Y":	1,
+													"Material":	{
+														"$NodeId":	"Material-948b5c89-6c08-4fdb-88ca-c853efad67ce",
+														"Solid":	"Plant_Cactus_3"
+													}
+												}],
+											"Directionality":	{
+												"$NodeId":	"Imported.Directionality-f57ed8ea-5eb9-4247-a6b3-288378d446a7",
+												"Type":	"Imported",
+												"Name":	"Direction_Sand_Red"
+											},
+											"Scanner":	{
+												"$NodeId":	"Imported.Scanner-ee7f08ef-4287-4a3e-a234-4d432a62a912",
+												"Type":	"Imported",
+												"Skip":	false,
+												"Name":	"Marrows_Scanner"
+											}
+										}
+									}
+								}, {
+									"$NodeId":	"Weight.Weighted.Assignments-a30ae498-42f7-4b93-8986-0261ea53386a",
+									"Weight":	3,
+									"Assignments":	{
+										"$NodeId":	"Constant.Assignments-dd9a6166-68a4-4fd0-96c8-36741988c5c6",
+										"Type":	"Constant",
+										"Prop":	{
+											"$NodeId":	"Column.Prop-0646bdc9-b364-4e7a-902a-4d3713fd54d6",
+											"Type":	"Column",
+											"Skip":	false,
+											"ColumnBlocks":	[{
+													"$NodeId":	"Block.Column.Prop-c3e28788-1ed4-4984-a371-7b8c52b2e33f",
+													"Y":	0,
+													"Material":	{
+														"$NodeId":	"Material-b7eb5d36-81d5-4561-ad79-78db32fc608d",
+														"Solid":	"Plant_Cactus_flat_1"
+													}
+												}, {
+													"$NodeId":	"Block.Column.Prop-73d9ee82-416e-487b-9394-052d83621075",
+													"Y":	1,
+													"Material":	{
+														"$NodeId":	"Material-a979691a-c89a-4561-aea3-cf5ddf7e8f88",
+														"Solid":	"Plant_Cactus_Flat_2"
+													}
+												}],
+											"Directionality":	{
+												"$NodeId":	"Imported.Directionality-addd30af-a400-4abd-9358-c41bd3bd504c",
+												"Type":	"Imported",
+												"Name":	"Direction_Sand_Red"
+											},
+											"Scanner":	{
+												"$NodeId":	"Imported.Scanner-e8d2046a-f311-4df6-a4dc-60f7ad8eb8cd",
+												"Type":	"Imported",
+												"Skip":	false,
+												"Name":	"Marrows_Scanner"
+											}
+										}
+									}
+								}, {
+									"$NodeId":	"Weight.Weighted.Assignments-55a869ea-7d8d-47ba-b3ae-0f6abc8a0bbc",
+									"Weight":	3,
+									"Assignments":	{
+										"$NodeId":	"Constant.Assignments-f1a60222-1c2d-42e8-a14a-2f67214740a3",
+										"Type":	"Constant",
+										"Prop":	{
+											"$NodeId":	"Column.Prop-a1534e3f-35d9-4d4c-b83b-1dc46757f094",
+											"Type":	"Column",
+											"Skip":	false,
+											"ColumnBlocks":	[{
+													"$NodeId":	"Block.Column.Prop-2284f0ec-24af-4814-af31-fbdee6dc2cf9",
+													"Y":	0,
+													"Material":	{
+														"$NodeId":	"Material-7823aee9-b2ec-4063-bbec-e885f3f54a4b",
+														"Solid":	"Plant_Cactus_flat_2"
+													}
+												}, {
+													"$NodeId":	"Block.Column.Prop-3a127513-c44a-4c5a-bd81-aea4e7ceadac",
+													"Y":	1,
+													"Material":	{
+														"$NodeId":	"Material-a1308511-b45c-4405-b384-b490626a52da",
+														"Solid":	"Plant_Cactus_Flat_1"
+													}
+												}],
+											"Directionality":	{
+												"$NodeId":	"Imported.Directionality-5bd9ad8a-1337-4ff4-b9f5-7645b20201e1",
+												"Type":	"Imported",
+												"Name":	"Direction_Sand_Red"
+											},
+											"Scanner":	{
+												"$NodeId":	"Imported.Scanner-a60a8877-8b35-4260-90fa-5969971c5d4c",
+												"Type":	"Imported",
+												"Skip":	false,
+												"Name":	"Marrows_Scanner"
+											}
+										}
+									}
+								}]
+						}
+					}]
+			}
+		}, {
+			"$NodeId":	"Runtime-aa9e2132-b84e-4c6f-b854-414815f742f6",
+			"Skip":	false,
+			"Runtime":	0,
+			"Positions":	{
+				"$NodeId":	"Mesh2DPositions-5a06117d-d77f-42ce-9c5e-7e9f054bffc2",
+				"Type":	"Mesh2D",
+				"Skip":	false,
+				"PointsY":	0,
+				"PointGenerator":	{
+					"$NodeId":	"MeshPointGenerator-8f4627bb-4ed5-4d8b-b624-2ee0bb122add",
+					"Type":	"Mesh",
+					"Jitter":	0.4,
+					"ScaleX":	60,
+					"ScaleY":	60,
+					"ScaleZ":	60,
+					"Seed":	"A"
+				}
+			},
+			"Assignments":	{
+				"$NodeId":	"FieldFunction.Assignments-82ad9a4b-3ea0-48ab-9674-7ee1941846cc",
+				"Type":	"FieldFunction",
+				"FieldFunction":	{
+					"$NodeId":	"SimplexNoise2DDensityNode-2eb468e3-11a2-4719-b4a8-a9f0bba7a9a0",
+					"Type":	"SimplexNoise2D",
+					"Skip":	false,
+					"Lacunarity":	2,
+					"Persistence":	0.5,
+					"Octaves":	3,
+					"Scale":	400,
+					"Seed":	"A"
+				},
+				"Delimiters":	[{
+						"$NodeId":	"Delimiter.FieldFunction.Assignments-f7a90fd1-1ef3-457a-a061-817390767ee1",
+						"Max":	-0.3,
+						"Min":	-1,
+						"Assignments":	{
+							"$NodeId":	"Constant.Assignments-3401043f-0db0-4db4-b53c-0fea5b5ec2d3",
+							"Type":	"Constant",
+							"Prop":	{
+								"$NodeId":	"Cluster.Prop-826a2577-c17e-4004-9e5a-78476d5a27d6",
+								"Type":	"Cluster",
+								"Skip":	false,
+								"Range":	10,
+								"Seed":	"A",
+								"DistanceCurve":	{
+									"$NodeId":	"ManualCurve-2b24d9d5-781d-4aa0-8ed2-e98e70a39f77",
+									"Type":	"Manual",
+									"Points":	[{
+											"$NodeId":	"CurvePoint-dc3a012f-f551-42f5-9f6d-3bfc7e8b180d",
+											"In":	0,
+											"Out":	0.1
+										}, {
+											"$NodeId":	"CurvePoint-ccb0e763-c3a7-4b17-899c-b0d9ded022d3",
+											"In":	5,
+											"Out":	0.04
+										}, {
+											"$NodeId":	"CurvePoint-e53326c5-2c16-4869-b767-bce5445c8829",
+											"In":	10,
+											"Out":	0
+										}]
+								},
+								"WeightedProps":	[{
+										"$NodeId":	"Weighted.Cluster.Prop-029b0874-9607-44cd-8056-b7f383daaef3",
+										"Weight":	1,
+										"ColumnProp":	{
+											"$NodeId":	"Column.Prop-c7a4e968-efda-49f8-b80a-211bd19041e5",
+											"Type":	"Column",
+											"Skip":	false,
+											"ColumnBlocks":	[{
+													"$NodeId":	"Block.Column.Prop-639500b0-4134-4271-aaba-42c9c32c7a6a",
+													"Y":	0,
+													"Material":	{
+														"$NodeId":	"Material-bd987b87-f8d5-4202-b815-a3fc35b79683",
+														"Solid":	"plant_Grass_arid_short"
+													}
+												}],
+											"Directionality":	{
+												"$NodeId":	"Static.Directionality-8ea50b25-2bbd-4431-9781-bb1fe2c20b7d",
+												"Type":	"Static",
+												"Rotation":	0,
+												"Pattern":	{
+													"$NodeId":	"Imported.Pattern-a9607f44-3863-4201-8e7c-ab268940801b",
+													"Type":	"Imported",
+													"Skip":	false,
+													"Name":	"Pattern_Sand_Red"
+												}
+											},
+											"Scanner":	{
+												"$NodeId":	"Imported.Scanner-cd2f43f3-5e44-4f1c-9a6d-d43d6e91b212",
+												"Type":	"Imported",
+												"Skip":	false,
+												"Name":	"Marrows_Scanner"
+											}
+										}
+									}, {
+										"$NodeId":	"Weighted.Cluster.Prop-73cf1a0f-a8a7-4511-bf2f-e5f6a33a50b1",
+										"Weight":	2,
+										"ColumnProp":	{
+											"$NodeId":	"Column.Prop-b6a2a3d5-895a-43ad-b704-183476c6f364",
+											"Type":	"Column",
+											"Skip":	false,
+											"ColumnBlocks":	[{
+													"$NodeId":	"Block.Column.Prop-5dd92bbf-ba00-4f31-9a5c-03e508d2952a",
+													"Y":	0,
+													"Material":	{
+														"$NodeId":	"Material-3f9dcf4e-5baa-4f45-8584-1d58dd51ffb3",
+														"Solid":	"plant_Grass_dry"
+													}
+												}],
+											"Directionality":	{
+												"$NodeId":	"Static.Directionality-4c799ae3-4da8-4969-89e4-fbffe4855130",
+												"Type":	"Static",
+												"Rotation":	0,
+												"Pattern":	{
+													"$NodeId":	"Imported.Pattern-109115cb-4b01-476f-9b5d-bafbfe337d14",
+													"Type":	"Imported",
+													"Skip":	false,
+													"Name":	"Pattern_Sand_Red"
+												}
+											},
+											"Scanner":	{
+												"$NodeId":	"Imported.Scanner-d36450ce-6b19-459d-a9ab-2daef5ba77d7",
+												"Type":	"Imported",
+												"Skip":	false,
+												"Name":	"Marrows_Scanner"
+											}
+										}
+									}, {
+										"$NodeId":	"Weighted.Cluster.Prop-78397eee-673d-43eb-a170-2dd7ff89ff63",
+										"Weight":	3,
+										"ColumnProp":	{
+											"$NodeId":	"Column.Prop-450d6dd2-46af-4998-bd96-7f4dcc482b1a",
+											"Type":	"Column",
+											"Skip":	false,
+											"ColumnBlocks":	[{
+													"$NodeId":	"Block.Column.Prop-22aace20-7aab-47ab-a10c-107cd8461bac",
+													"Y":	0,
+													"Material":	{
+														"$NodeId":	"Material-d4966ed1-00f2-4b51-9a79-f5cf362e81ae",
+														"Solid":	"plant_Grass_dry_tall"
+													}
+												}],
+											"Directionality":	{
+												"$NodeId":	"Static.Directionality-06a910ed-28df-4294-af4f-08b33174a4a1",
+												"Type":	"Static",
+												"Rotation":	0,
+												"Pattern":	{
+													"$NodeId":	"Imported.Pattern-f845541d-aca4-42fb-89e0-e1bf6141075c",
+													"Type":	"Imported",
+													"Skip":	false,
+													"Name":	"Pattern_Sand_Red"
+												}
+											},
+											"Scanner":	{
+												"$NodeId":	"Imported.Scanner-82388e63-2064-4397-aa7f-222caf0b7de8",
+												"Type":	"Imported",
+												"Skip":	false,
+												"Name":	"Marrows_Scanner"
+											}
+										}
+									}],
+								"Pattern":	{
+									"$NodeId":	"Imported.Pattern-04b693a0-898e-4643-b901-310fd7c9585f",
+									"Type":	"Imported",
+									"Skip":	false,
+									"Name":	"Pattern_Sand_Red"
+								},
+								"Scanner":	{
+									"$NodeId":	"Imported.Scanner-4f972864-c6f6-4a88-ac9b-413035f2731f",
+									"Type":	"Imported",
+									"Skip":	false,
+									"Name":	"Marrows_Scanner"
+								}
+							}
+						}
+					}]
+			}
+		}, {
+			"$NodeId":	"Runtime-9d5bed97-3528-46f4-996e-ded5276259ed",
+			"Skip":	false,
+			"Runtime":	0,
+			"Positions":	{
+				"$NodeId":	"Mesh2DPositions-e18706e7-3287-4853-948c-8e67c9ab57f5",
+				"Type":	"Mesh2D",
+				"Skip":	false,
+				"PointsY":	0,
+				"PointGenerator":	{
+					"$NodeId":	"MeshPointGenerator-1621c9c8-7c2f-4112-b249-79dedf193837",
+					"Type":	"Mesh",
+					"Jitter":	0.4,
+					"ScaleX":	20,
+					"ScaleY":	20,
+					"ScaleZ":	20,
+					"Seed":	"A"
+				}
+			},
+			"Assignments":	{
+				"$NodeId":	"FieldFunction.Assignments-8ebffefc-ac63-4bd1-9d48-d1b481da683f",
+				"Type":	"FieldFunction",
+				"FieldFunction":	{
+					"$NodeId":	"NormalizerDensityNode-6ca622fe-6196-4a0d-af9f-5bfeab9757e4",
+					"Type":	"Normalizer",
+					"Skip":	false,
+					"FromMin":	-1,
+					"FromMax":	1,
+					"ToMin":	-1,
+					"ToMax":	0.5,
+					"Inputs":	[{
+							"$NodeId":	"SimplexNoise2DDensityNode-cf489808-f1ad-456f-b275-f21287994ad8",
+							"Type":	"SimplexNoise2D",
+							"Skip":	false,
+							"Lacunarity":	2,
+							"Persistence":	0.5,
+							"Octaves":	3,
+							"Scale":	400,
+							"Seed":	"A"
+						}]
+				},
+				"Delimiters":	[{
+						"$NodeId":	"Delimiter.FieldFunction.Assignments-8ca58485-1766-4f5f-a8fc-f35f3fe4d8d1",
+						"Max":	1,
+						"Min":	0,
+						"Assignments":	{
+							"$NodeId":	"Constant.Assignments-d5697199-87b5-4ede-85c2-ed5a7d97af5f",
+							"Type":	"Constant",
+							"Prop":	{
+								"$NodeId":	"Cluster.Prop-97e93791-655d-4439-b248-e5d632be0aea",
+								"Type":	"Cluster",
+								"Skip":	false,
+								"Range":	20,
+								"Seed":	"A",
+								"DistanceCurve":	{
+									"$NodeId":	"ManualCurve-fda064da-5024-4aa2-b98b-8a27bd6657f8",
+									"Type":	"Manual",
+									"Points":	[{
+											"$NodeId":	"CurvePoint-c0ec77d7-b3c0-488f-8989-fcc3c06bda47",
+											"In":	0,
+											"Out":	0.05
+										}, {
+											"$NodeId":	"CurvePoint-828a841d-ae33-4414-9320-b926f08b9faf",
+											"In":	10,
+											"Out":	0.02
+										}, {
+											"$NodeId":	"CurvePoint-6e82d7f4-d277-4102-87df-6605157ba211",
+											"In":	20,
+											"Out":	0
+										}]
+								},
+								"WeightedProps":	[{
+										"$NodeId":	"Weighted.Cluster.Prop-68dde46a-b3a9-4da5-997f-97935e6bd02f",
+										"Weight":	1,
+										"ColumnProp":	{
+											"$NodeId":	"Column.Prop-4fdce7b0-a487-4bf4-b1dc-7fbb0462a313",
+											"Type":	"Column",
+											"Skip":	false,
+											"ColumnBlocks":	[{
+													"$NodeId":	"Block.Column.Prop-c4a7cd41-092a-491d-8302-c5f768a1639f",
+													"Y":	0,
+													"Material":	{
+														"$NodeId":	"Material-3d9c7457-acd1-49d9-a1e1-677248ecfa9f",
+														"Solid":	"plant_Grass_Rocky_short"
+													}
+												}],
+											"Directionality":	{
+												"$NodeId":	"Static.Directionality-52df2cdc-1a17-43b3-a42e-fef6037231b8",
+												"Type":	"Static",
+												"Rotation":	0,
+												"Pattern":	{
+													"$NodeId":	"Imported.Pattern-ab9ed5dd-6403-444d-9368-54b9b79375d3",
+													"Type":	"Imported",
+													"Skip":	false,
+													"Name":	"Pattern_Sand_Red"
+												}
+											},
+											"Scanner":	{
+												"$NodeId":	"Imported.Scanner-95a924b1-3b9f-413e-ab8d-cef33f9261f1",
+												"Type":	"Imported",
+												"Skip":	false,
+												"Name":	"Marrows_Scanner"
+											}
+										}
+									}, {
+										"$NodeId":	"Weighted.Cluster.Prop-d9520174-19d3-4b47-828c-2bd0ef564e8a",
+										"Weight":	2,
+										"ColumnProp":	{
+											"$NodeId":	"Column.Prop-ff92735e-1c3a-40cd-a8af-18295b92fca7",
+											"Type":	"Column",
+											"Skip":	false,
+											"ColumnBlocks":	[{
+													"$NodeId":	"Block.Column.Prop-5fe643c5-83c9-44c1-8f02-4d6c47500864",
+													"Y":	0,
+													"Material":	{
+														"$NodeId":	"Material-1192719b-18c7-4c1c-a679-ae8389118a09",
+														"Solid":	"plant_Grass_Rocky"
+													}
+												}],
+											"Directionality":	{
+												"$NodeId":	"Static.Directionality-137c8620-a4bc-432c-a83a-2ac563c26887",
+												"Type":	"Static",
+												"Rotation":	0,
+												"Pattern":	{
+													"$NodeId":	"Imported.Pattern-f0aad1dd-f887-4776-94c1-34b368000c91",
+													"Type":	"Imported",
+													"Skip":	false,
+													"Name":	"Pattern_Sand_Red"
+												}
+											},
+											"Scanner":	{
+												"$NodeId":	"Imported.Scanner-2776fd47-0317-41d3-ac6d-0bb764744b0b",
+												"Type":	"Imported",
+												"Skip":	false,
+												"Name":	"Marrows_Scanner"
+											}
+										}
+									}, {
+										"$NodeId":	"Weighted.Cluster.Prop-ba139f6a-d49b-4eba-b203-a30196bd8432",
+										"Weight":	3,
+										"ColumnProp":	{
+											"$NodeId":	"Column.Prop-7c730d25-5485-4b98-abe3-d173854f1e3a",
+											"Type":	"Column",
+											"Skip":	false,
+											"ColumnBlocks":	[{
+													"$NodeId":	"Block.Column.Prop-e40087a6-5964-41c8-97a5-39ea3855f56d",
+													"Y":	0,
+													"Material":	{
+														"$NodeId":	"Material-e76f3c53-34e3-4529-a2db-69f70948a592",
+														"Solid":	"plant_Grass_Rocky_tall"
+													}
+												}],
+											"Directionality":	{
+												"$NodeId":	"Static.Directionality-3be1fb2c-9dba-4b58-b840-34dae14ce596",
+												"Type":	"Static",
+												"Rotation":	0,
+												"Pattern":	{
+													"$NodeId":	"Imported.Pattern-9205d182-fd5f-4a57-8a0c-a349bc7c386f",
+													"Type":	"Imported",
+													"Skip":	false,
+													"Name":	"Pattern_Sand_Red"
+												}
+											},
+											"Scanner":	{
+												"$NodeId":	"Imported.Scanner-1c3ce0cf-2b8d-4857-9362-65193efc968f",
+												"Type":	"Imported",
+												"Skip":	false,
+												"Name":	"Marrows_Scanner"
+											}
+										}
+									}, {
+										"$NodeId":	"Weighted.Cluster.Prop-61043f50-d9b1-457b-9f96-9491507bdfa4",
+										"Weight":	1,
+										"ColumnProp":	{
+											"$NodeId":	"Column.Prop-2f9a14b5-3e78-4099-96e2-2a1d1ea0e861",
+											"Type":	"Column",
+											"Skip":	false,
+											"ColumnBlocks":	[{
+													"$NodeId":	"Block.Column.Prop-456013bb-ef0f-41f6-b219-fd9c0ae43da5",
+													"Y":	0,
+													"Material":	{
+														"$NodeId":	"Material-3bf52b6d-e7d7-4d77-8d15-cb8e79d973fc",
+														"Solid":	"plant_Grass_arid_short"
+													}
+												}],
+											"Directionality":	{
+												"$NodeId":	"Static.Directionality-7edaa6d4-ccff-4e73-ad6f-fc2c096ceb74",
+												"Type":	"Static",
+												"Rotation":	0,
+												"Pattern":	{
+													"$NodeId":	"Imported.Pattern-0ef75c0c-554c-4d00-b596-d0130173b8d6",
+													"Type":	"Imported",
+													"Skip":	false,
+													"Name":	"Pattern_Sand_Red"
+												}
+											},
+											"Scanner":	{
+												"$NodeId":	"Imported.Scanner-f4300657-361c-4eed-8312-b0688374151e",
+												"Type":	"Imported",
+												"Skip":	false,
+												"Name":	"Marrows_Scanner"
+											}
+										}
+									}, {
+										"$NodeId":	"Weighted.Cluster.Prop-3c7b69c7-bb4a-45c3-8b50-a8680e9503d9",
+										"Weight":	2,
+										"ColumnProp":	{
+											"$NodeId":	"Column.Prop-5b6313bc-fb22-4ef7-859a-77364fbbab04",
+											"Type":	"Column",
+											"Skip":	false,
+											"ColumnBlocks":	[{
+													"$NodeId":	"Block.Column.Prop-d6e80ee8-2746-4026-8512-980902e320f3",
+													"Y":	0,
+													"Material":	{
+														"$NodeId":	"Material-856c86d3-f712-4644-b3db-70034a0a9643",
+														"Solid":	"plant_Grass_dry"
+													}
+												}],
+											"Directionality":	{
+												"$NodeId":	"Static.Directionality-dbbd606b-0058-455c-9c25-ddca179cf284",
+												"Type":	"Static",
+												"Rotation":	0,
+												"Pattern":	{
+													"$NodeId":	"Imported.Pattern-0c5fe872-d27f-4e95-831b-d41a290fed2d",
+													"Type":	"Imported",
+													"Skip":	false,
+													"Name":	"Pattern_Sand_Red"
+												}
+											},
+											"Scanner":	{
+												"$NodeId":	"Imported.Scanner-dee0191f-634a-40b4-b4ac-190858dcb200",
+												"Type":	"Imported",
+												"Skip":	false,
+												"Name":	"Marrows_Scanner"
+											}
+										}
+									}, {
+										"$NodeId":	"Weighted.Cluster.Prop-03796068-8d9f-43e3-9ce4-38522a6ce278",
+										"Weight":	3,
+										"ColumnProp":	{
+											"$NodeId":	"Column.Prop-c0a8a964-2c4f-46ec-b818-2e4a9ff4d524",
+											"Type":	"Column",
+											"Skip":	false,
+											"ColumnBlocks":	[{
+													"$NodeId":	"Block.Column.Prop-389b2674-dbd0-4ab6-a91a-440519c09dec",
+													"Y":	0,
+													"Material":	{
+														"$NodeId":	"Material-f970444b-0ca8-43ba-a47e-3b5ec537141b",
+														"Solid":	"plant_Grass_dry_tall"
+													}
+												}],
+											"Directionality":	{
+												"$NodeId":	"Static.Directionality-f16a3217-bf35-420f-b73d-e2349b1c4015",
+												"Type":	"Static",
+												"Rotation":	0,
+												"Pattern":	{
+													"$NodeId":	"Imported.Pattern-6c5bc95b-b3d3-4f28-b06a-f60575679648",
+													"Type":	"Imported",
+													"Skip":	false,
+													"Name":	"Pattern_Sand_Red"
+												}
+											},
+											"Scanner":	{
+												"$NodeId":	"Imported.Scanner-9c27a5ca-0c13-4d46-bf44-df047e6f28ae",
+												"Type":	"Imported",
+												"Skip":	false,
+												"Name":	"Marrows_Scanner"
+											}
+										}
+									}, {
+										"$NodeId":	"Weighted.Cluster.Prop-4d9fe465-871a-4b5c-8552-3bc33ba1819a",
+										"Weight":	1,
+										"ColumnProp":	{
+											"$NodeId":	"Column.Prop-f49ba80c-c868-46f0-998f-48d8caeb669a",
+											"Type":	"Column",
+											"Skip":	false,
+											"ColumnBlocks":	[{
+													"$NodeId":	"Block.Column.Prop-a0be4334-8201-4cae-9dd8-08b173e54954",
+													"Y":	0,
+													"Material":	{
+														"$NodeId":	"Material-10e1db05-2c28-4941-b5b1-f3393093effe",
+														"Solid":	"plant_grass_arid_tall"
+													}
+												}],
+											"Directionality":	{
+												"$NodeId":	"Static.Directionality-f3418fdf-ef6b-47f5-bbd3-dcb38fd83ab9",
+												"Type":	"Static",
+												"Rotation":	0,
+												"Pattern":	{
+													"$NodeId":	"Imported.Pattern-46d7dc22-4a53-4ea3-8c32-4cfc533a8f72",
+													"Type":	"Imported",
+													"Skip":	false,
+													"Name":	"Pattern_Sand_Red"
+												}
+											},
+											"Scanner":	{
+												"$NodeId":	"Imported.Scanner-f46695a6-f0b6-48d6-a4d8-3fd3b25e9e7c",
+												"Type":	"Imported",
+												"Skip":	false,
+												"Name":	"Marrows_Scanner"
+											}
+										}
+									}, {
+										"$NodeId":	"Weighted.Cluster.Prop-756d23d4-d38c-4df8-8ff9-054bc47c3fc7",
+										"Weight":	2,
+										"ColumnProp":	{
+											"$NodeId":	"Column.Prop-ebe17984-7bc1-46f2-9f8f-ccb7382f80f2",
+											"Type":	"Column",
+											"Skip":	false,
+											"ColumnBlocks":	[{
+													"$NodeId":	"Block.Column.Prop-627f96af-0cf7-4162-8516-d64f539c2d3b",
+													"Y":	0,
+													"Material":	{
+														"$NodeId":	"Material-fef76ffa-bee2-44b0-88af-911593849769",
+														"Solid":	"plant_flower_flax_orange"
+													}
+												}],
+											"Directionality":	{
+												"$NodeId":	"Static.Directionality-68262c07-0485-41a4-9501-9414345a295a",
+												"Type":	"Static",
+												"Rotation":	0,
+												"Pattern":	{
+													"$NodeId":	"Imported.Pattern-cdeb4ea8-dc22-470e-8f0b-d852c7b883da",
+													"Type":	"Imported",
+													"Skip":	false,
+													"Name":	"Pattern_Sand_Red"
+												}
+											},
+											"Scanner":	{
+												"$NodeId":	"Imported.Scanner-5d57f61f-63f9-4d88-8f4a-4cfab6290c9b",
+												"Type":	"Imported",
+												"Skip":	false,
+												"Name":	"Marrows_Scanner"
+											}
+										}
+									}, {
+										"$NodeId":	"Weighted.Cluster.Prop-f51cc7d6-3208-45e9-a0e0-a27fea2c6c31",
+										"Weight":	3,
+										"ColumnProp":	{
+											"$NodeId":	"Column.Prop-9089dc90-feb8-49b8-94df-1d40a4eac34f",
+											"Type":	"Column",
+											"Skip":	false,
+											"ColumnBlocks":	[{
+													"$NodeId":	"Block.Column.Prop-d9080d42-bf89-41c9-b648-333d45a15cfa",
+													"Y":	0,
+													"Material":	{
+														"$NodeId":	"Material-dc8f152f-ae15-46a0-b6c1-bf3e9e551daa",
+														"Solid":	"plant_Bush_Arid_Sharp"
+													}
+												}],
+											"Directionality":	{
+												"$NodeId":	"Static.Directionality-39f5c8af-d0e7-4cef-bdf0-8d01d2e865e0",
+												"Type":	"Static",
+												"Rotation":	0,
+												"Pattern":	{
+													"$NodeId":	"Imported.Pattern-dbf1e2da-73c3-4285-ae5f-36b925078160",
+													"Type":	"Imported",
+													"Skip":	false,
+													"Name":	"Pattern_Sand_Red"
+												}
+											},
+											"Scanner":	{
+												"$NodeId":	"Imported.Scanner-0eb8ba91-adea-449d-ad30-8731baa678e5",
+												"Type":	"Imported",
+												"Skip":	false,
+												"Name":	"Marrows_Scanner"
+											}
+										}
+									}],
+								"Pattern":	{
+									"$NodeId":	"Imported.Pattern-f24345d1-6f21-4925-a903-34a2ce919a06",
+									"Type":	"Imported",
+									"Skip":	false,
+									"Name":	"Pattern_Sand_Red"
+								},
+								"Scanner":	{
+									"$NodeId":	"Imported.Scanner-60b0ef80-6631-4b95-be34-d8b8dccf358b",
+									"Type":	"Imported",
+									"Skip":	false,
+									"Name":	"Marrows_Scanner"
+								}
+							}
+						}
+					}]
+			}
+		}],
+	"EnvironmentProvider":	{
+		"$NodeId":	"DensityDelimited.EnvironmentProvider-cf5205af-de3f-40db-a75f-c7364811ceae",
+		"Type":	"DensityDelimited",
+		"Density":	{
+			"$NodeId":	"CurveMapper.Density-c51eb293-167d-4ed3-8016-e11e09e31fa7",
+			"Type":	"CurveMapper",
+			"Skip":	false,
+			"Curve":	{
+				"$NodeId":	"ManualCurve-a2dc7af0-1a67-4b89-8051-861740ae3512",
+				"Type":	"Manual",
+				"Points":	[{
+						"$NodeId":	"CurvePoint-9027045b-7f8f-489d-9d14-840471637545",
+						"In":	-10,
+						"Out":	1
+					}, {
+						"$NodeId":	"CurvePoint-574fe70a-7a7e-4808-a397-a82debccad7e",
+						"In":	-10.1,
+						"Out":	0
+					}]
+			},
+			"Inputs":	[{
+					"$NodeId":	"BaseHeight.Density-1a289b54-8894-4167-a21b-071cb45d970e",
+					"Type":	"BaseHeight",
+					"Skip":	false,
+					"BaseHeightName":	"Base",
+					"Distance":	true
+				}]
+		},
+		"Delimiters":	[{
+				"$NodeId":	"Delimiter.DensityDelimited.EnvironmentProvider-a8c9b03d-e3fc-4087-99a5-e96c0788d8a7",
+				"Environment":	{
+					"$NodeId":	"Constant.EnvironmentProvider-ecd32f79-d7dd-4ac9-9244-a887225a99c8",
+					"Type":	"Constant",
+					"Environment":	"Env_Zone2_Deserts"
+				},
+				"Range":	{
+					"$NodeId":	"Decimal.Range-e07f93b8-82fa-4afe-a7ad-88adf9e2e677",
+					"MinInclusive":	0,
+					"MaxExclusive":	2
+				}
+			}, {
+				"$NodeId":	"Delimiter.DensityDelimited.EnvironmentProvider-30cd69eb-6a88-4f54-8437-92db323ad2a0",
+				"Environment":	{
+					"$NodeId":	"Constant.EnvironmentProvider-7cf1316c-74de-41b7-ae6d-7ac6a7d6aaf0",
+					"Type":	"Constant",
+					"Environment":	"Env_Zone2_Caves_Deserts"
+				},
+				"Range":	{
+					"$NodeId":	"Decimal.Range-05631c47-2fdf-41fe-b514-238aca2956d9",
+					"MinInclusive":	-2,
+					"MaxExclusive":	0
+				}
+			}]
+	},
+	"TintProvider":	{
+		"$NodeId":	"DensityDelimited.TintProvider-c1c6bec6-d11c-4a0f-8352-caa6d0fd4fbf",
+		"Type":	"DensityDelimited",
+		"Density":	{
+			"$NodeId":	"SimplexNoise2DDensityNode-6c781a00-17e3-4960-a04b-61463b7c01be",
+			"Type":	"SimplexNoise2D",
+			"Skip":	false,
+			"Lacunarity":	5,
+			"Persistence":	0.2,
+			"Octaves":	2,
+			"Scale":	100,
+			"Seed":	"tints"
+		},
+		"Delimiters":	[{
+				"$NodeId":	"Delimiter.DensityDelimited.TintProvider-f15e6678-43b8-4096-b515-239323615af1",
+				"Tint":	{
+					"$NodeId":	"Constant.TintProvider-e807906f-07b2-4f6b-978e-d038e3469f07",
+					"Type":	"Constant",
+					"Color":	"#f2cd66"
+				},
+				"Range":	{
+					"$NodeId":	"Decimal.Range-ff5a46ec-1343-473e-a47f-e81c1cb5daa3",
+					"MinInclusive":	-1,
+					"MaxExclusive":	-0.33
+				}
+			}, {
+				"$NodeId":	"Delimiter.DensityDelimited.TintProvider-1212b6d6-a9c7-411c-96ba-6ab60a656b7d",
+				"Tint":	{
+					"$NodeId":	"Constant.TintProvider-a4a133d8-b21b-4502-91f1-a45c9b2fac4f",
+					"Type":	"Constant",
+					"Color":	"#d4b253"
+				},
+				"Range":	{
+					"$NodeId":	"Decimal.Range-617e8d94-414b-4bee-872e-3353b9aa2f91",
+					"MinInclusive":	-0.33,
+					"MaxExclusive":	0.33
+				}
+			}, {
+				"$NodeId":	"Delimiter.DensityDelimited.TintProvider-bff9a077-d1cd-4b8b-8ed2-9bdc253f26d5",
+				"Tint":	{
+					"$NodeId":	"Constant.TintProvider-4de28b36-e21e-4085-967d-8fc7a8010503",
+					"Type":	"Constant",
+					"Color":	"#e6c66e"
+				},
+				"Range":	{
+					"$NodeId":	"Decimal.Range-4d075a63-10cf-44ce-9bb6-ac139375e278",
+					"MinInclusive":	0.33,
+					"MaxExclusive":	1
+				}
+			}]
+	},
+	"$NodeEditorMetadata":	{
+		"$Nodes":	{
+			"Biome-d93ee171-b80d-4a03-892a-41226331e03a":	{
+				"$Position":	{
+					"$x":	-5458,
+					"$y":	-811
+				},
+				"$Title":	"[ROOT] Biome"
+			},
+			"Terrain-1d7d5561-de2a-4c0f-b29b-00a8366eecff":	{
+				"$Position":	{
+					"$x":	-3902,
+					"$y":	-4668
+				}
+			},
+			"MaxDensityNode-79359af8-bc9a-4b69-90ae-a40abc081dc5":	{
+				"$Position":	{
+					"$x":	-3606,
+					"$y":	-4673
+				}
+			},
+			"MinDensityNode-1a15e2d3-b13b-4d6c-912e-f09f4306d5ec":	{
+				"$Position":	{
+					"$x":	-2534,
+					"$y":	-4677
+				}
+			},
+			"SmoothMaxDensityNode-1807353d-9b82-45a6-a373-820a985608b3":	{
+				"$Position":	{
+					"$x":	-2570,
+					"$y":	-5700
+				}
+			},
+			"MinDensityNode-f1f52e9b-cd55-4af6-b333-e127371ed003":	{
+				"$Position":	{
+					"$x":	-2766,
+					"$y":	-7561
+				}
+			},
+			"MinDensityNode-504ec4f4-2a6e-4a26-9735-1fc440ab616d":	{
+				"$Position":	{
+					"$x":	-1167,
+					"$y":	-9151
+				}
+			},
+			"SumDensityNode-3e5929ad-2306-4f1d-a5fe-fd95090735f2":	{
+				"$Position":	{
+					"$x":	-983,
+					"$y":	-9436
+				}
+			},
+			"SimplexNoise2DDensityNode-733d7a39-3b4b-4b94-bb02-600704784371":	{
+				"$Position":	{
+					"$x":	-191,
+					"$y":	-9635
+				}
+			},
+			"CurveMapper.Density-73ac7645-7c7d-4f7c-b4fc-f89ec570bd11":	{
+				"$Position":	{
+					"$x":	-313,
+					"$y":	-9312
+				}
+			},
+			"ManualCurve-6a165cc6-9aa3-42f9-a21e-731fbbf823e2":	{
+				"$Position":	{
+					"$x":	324,
+					"$y":	-9312
+				}
+			},
+			"CurvePoint-2066de81-01da-409a-a46e-fb6b6116b065":	{
+				"$Position":	{
+					"$x":	940,
+					"$y":	-9503
+				}
+			},
+			"CurvePoint-269a2022-4681-4050-95c6-6cb49c0a9fb2":	{
+				"$Position":	{
+					"$x":	940,
+					"$y":	-9315
+				}
+			},
+			"BaseHeight.Density-60f64dfe-df8d-493d-b6a2-ebcca9029110":	{
+				"$Position":	{
+					"$x":	436,
+					"$y":	-9632
+				}
+			},
+			"SumDensityNode-006a73e3-115c-4b39-a727-2ff3ad51c52b":	{
+				"$Position":	{
+					"$x":	-1159,
+					"$y":	-8828
+				}
+			},
+			"SimplexNoise2DDensityNode-ebcbadbf-ef54-4831-bebc-dc6328c82f1a":	{
+				"$Position":	{
+					"$x":	-480,
+					"$y":	-9019
+				}
+			},
+			"CurveMapper.Density-43d93982-1db0-435e-862c-762834ef047d":	{
+				"$Position":	{
+					"$x":	-450,
+					"$y":	-8659
+				}
+			},
+			"ManualCurve-9cf0d1e2-4c13-43d6-90ac-2a60096f2ab8":	{
+				"$Position":	{
+					"$x":	208,
+					"$y":	-8568
+				}
+			},
+			"CurvePoint-dc42c96e-1d6f-4d14-bb78-e3a60342bb82":	{
+				"$Position":	{
+					"$x":	822,
+					"$y":	-8711
+				}
+			},
+			"CurvePoint-e6857ab9-cd0e-4604-9cdf-d26f33143d22":	{
+				"$Position":	{
+					"$x":	827,
+					"$y":	-8573
+				}
+			},
+			"BaseHeight.Density-39e1cce6-6920-4603-a7eb-e24bd8cde722":	{
+				"$Position":	{
+					"$x":	210,
+					"$y":	-8822
+				}
+			},
+			"MinDensityNode-5b9ec90c-2cbe-4b74-b271-9009083049e4":	{
+				"$Position":	{
+					"$x":	-1171,
+					"$y":	-7748
+				}
+			},
+			"SumDensityNode-007c1394-9cf9-4cf4-ab90-040878b46d05":	{
+				"$Position":	{
+					"$x":	-750,
+					"$y":	-8006
+				}
+			},
+			"SimplexNoise2DDensityNode-dfb22d4b-327c-4a66-877a-2e016036d759":	{
+				"$Position":	{
+					"$x":	-79,
+					"$y":	-8216
+				}
+			},
+			"CurveMapper.Density-4ef6a701-8f37-449f-83f9-18ff6ebb5120":	{
+				"$Position":	{
+					"$x":	-80,
+					"$y":	-7882
+				}
+			},
+			"ManualCurve-01ef9b09-c27c-41ed-a4d7-5362ffe56ea5":	{
+				"$Position":	{
+					"$x":	557,
+					"$y":	-7882
+				}
+			},
+			"CurvePoint-8b34f36c-c682-4e42-bda1-f53633d81cea":	{
+				"$Position":	{
+					"$x":	1173,
+					"$y":	-8073
+				}
+			},
+			"CurvePoint-53a45637-c431-4505-824b-cd09cb0ae400":	{
+				"$Position":	{
+					"$x":	1173,
+					"$y":	-7885
+				}
+			},
+			"BaseHeight.Density-557a3ec1-e836-4ba5-90b4-7a0fbf2d2525":	{
+				"$Position":	{
+					"$x":	548,
+					"$y":	-8213
+				}
+			},
+			"SumDensityNode-2e6e2f9c-d132-4728-82cd-336e5a691308":	{
+				"$Position":	{
+					"$x":	-769,
+					"$y":	-7460
+				}
+			},
+			"SimplexNoise2DDensityNode-336baa2f-766b-4f94-aaff-a94c4844d88c":	{
+				"$Position":	{
+					"$x":	-95,
+					"$y":	-7670
+				}
+			},
+			"CurveMapper.Density-e9593dc3-2293-4043-a025-ce19b53a1b44":	{
+				"$Position":	{
+					"$x":	-93,
+					"$y":	-7338
+				}
+			},
+			"ManualCurve-fcc82756-6b90-405f-b694-ce31ff1bd95a":	{
+				"$Position":	{
+					"$x":	531,
+					"$y":	-7344
+				}
+			},
+			"CurvePoint-5e6f9b4b-4bd1-4af4-9bfe-71f124c494dc":	{
+				"$Position":	{
+					"$x":	1155,
+					"$y":	-7500
+				}
+			},
+			"CurvePoint-4a3b8ee6-14eb-4534-985f-5cdabecc9305":	{
+				"$Position":	{
+					"$x":	1162,
+					"$y":	-7340
+				}
+			},
+			"BaseHeight.Density-55dc8c20-2983-456f-be4f-93dbfe3ee071":	{
+				"$Position":	{
+					"$x":	546,
+					"$y":	-7672
+				}
+			},
+			"SimplexNoise2DDensityNode-30b83313-37ad-497d-bdc8-8f7ed958d36c":	{
+				"$Position":	{
+					"$x":	-1889,
+					"$y":	-7536
+				}
+			},
+			"SumDensityNode-65ae18d2-5775-41c8-a5ab-86072ab97e5c":	{
+				"$Position":	{
+					"$x":	-1268,
+					"$y":	-5686
+				}
+			},
+			"SimplexNoise2DDensityNode-abc5f902-a744-44d6-b915-610afbc83a78":	{
+				"$Position":	{
+					"$x":	-676,
+					"$y":	-5936
+				}
+			},
+			"CurveMapper.Density-8eabac8c-3664-45c7-98f9-7eadee41b051":	{
+				"$Position":	{
+					"$x":	-680,
+					"$y":	-5561
+				}
+			},
+			"ManualCurve-cb063c3a-e678-47be-8c66-30b572b01e1d":	{
+				"$Position":	{
+					"$x":	-59,
+					"$y":	-5325
+				}
+			},
+			"CurvePoint-b9df2643-1494-498d-a696-9813bf5ea1e6":	{
+				"$Position":	{
+					"$x":	593,
+					"$y":	-5467
+				}
+			},
+			"CurvePoint-e1d89d1b-6ffa-469c-8e0d-0c25907a8617":	{
+				"$Position":	{
+					"$x":	600,
+					"$y":	-5315
+				}
+			},
+			"BaseHeight.Density-20dcea6a-8906-4601-b18c-77e490af9a09":	{
+				"$Position":	{
+					"$x":	-42,
+					"$y":	-5571
+				}
+			},
+			"SumDensityNode-ad0cc39c-f6b8-4d85-80df-c0e31d2a3bfe":	{
+				"$Position":	{
+					"$x":	-1202,
+					"$y":	-4675
+				}
+			},
+			"SimplexNoise2DDensityNode-dc82df21-2c59-42e9-9160-1ecde7ae0a96":	{
+				"$Position":	{
+					"$x":	-531,
+					"$y":	-4885
+				}
+			},
+			"CurveMapper.Density-cf536fa7-76ac-486e-8814-e5c0c18adef1":	{
+				"$Position":	{
+					"$x":	-532,
+					"$y":	-4551
+				}
+			},
+			"ManualCurve-5ade0713-4216-4103-bcba-09d1114facf3":	{
+				"$Position":	{
+					"$x":	105,
+					"$y":	-4551
+				}
+			},
+			"CurvePoint-dccb3dd4-0388-4f59-bea8-a6fa7e317c05":	{
+				"$Position":	{
+					"$x":	721,
+					"$y":	-4742
+				}
+			},
+			"CurvePoint-df3daffe-514e-4a08-b7ab-553cbaf7ac04":	{
+				"$Position":	{
+					"$x":	721,
+					"$y":	-4554
+				}
+			},
+			"BaseHeight.Density-664157f0-8196-48cb-9855-28863081b0fd":	{
+				"$Position":	{
+					"$x":	96,
+					"$y":	-4882
+				}
+			},
+			"SolidityMaterialProvider-44f0c649-1d72-4ef3-8314-9ec410bf6cff":	{
+				"$Position":	{
+					"$x":	-3895,
+					"$y":	-4124
+				}
+			},
+			"QueueMaterialProvider-ea0e3432-13f6-47f7-ab50-a1c38ae06bb7":	{
+				"$Position":	{
+					"$x":	-3245,
+					"$y":	-4127
+				}
+			},
+			"SimpleHorizontalMaterialProvider-6244d933-43be-4c5d-bbf1-b795f90ec69e":	{
+				"$Position":	{
+					"$x":	-2595,
+					"$y":	-4209
+				}
+			},
+			"SpaceAndDepthMaterialProvider-6f90648c-d6e8-4b0d-b88f-fe5b8573cf3e":	{
+				"$Position":	{
+					"$x":	-1962,
+					"$y":	-4192
+				}
+			},
+			"ConstantThicknessLayerSADMP-d827c7b0-570e-466b-be31-a4ae32b9a650":	{
+				"$Position":	{
+					"$x":	-1302,
+					"$y":	-4159
+				}
+			},
+			"QueueMaterialProvider-3680b35b-308b-429e-9d88-3bf2f2c8f58a":	{
+				"$Position":	{
+					"$x":	-887,
+					"$y":	-4150
+				}
+			},
+			"SpaceAndDepthMaterialProvider-ba7f80da-a8e7-488d-8083-0b83f1a35727":	{
+				"$Position":	{
+					"$x":	-244,
+					"$y":	-4160
+				}
+			},
+			"ConstantThicknessLayerSADMP-17a47186-faff-47ab-8a48-c2f9897efffd":	{
+				"$Position":	{
+					"$x":	388,
+					"$y":	-4116
+				}
+			},
+			"ConstantMaterialProvider-6cc0a14b-7344-4fab-9a4b-d9fda31c5bda":	{
+				"$Position":	{
+					"$x":	804,
+					"$y":	-4117
+				}
+			},
+			"Material-2d295002-b9ce-49b5-b7d8-f480e6d55b1d":	{
+				"$Position":	{
+					"$x":	1425,
+					"$y":	-4115
+				}
+			},
+			"ConstantMaterialProvider-fb728e52-bfc4-4b46-afca-fae191e30ca0":	{
+				"$Position":	{
+					"$x":	-249,
+					"$y":	-3961
+				}
+			},
+			"Material-19034256-4ea6-47b7-8e5c-28de6005e12f":	{
+				"$Position":	{
+					"$x":	380,
+					"$y":	-3984
+				}
+			},
+			"FieldFunctionMaterialProvider-bfe82680-c5b7-402c-a8d2-904384fa0793":	{
+				"$Position":	{
+					"$x":	-2611,
+					"$y":	-3547
+				}
+			},
+			"SimplexNoise3DDensityNode-b7f83301-850a-4797-bf27-068e88ee44a6":	{
+				"$Position":	{
+					"$x":	-1931,
+					"$y":	-3908
+				}
+			},
+			"DelimiterFieldFunctionMP-ec164dd8-7da3-4248-9490-9fe2cfeb7dce":	{
+				"$Position":	{
+					"$x":	-1935,
+					"$y":	-3510
+				}
+			},
+			"StripedMaterialProvider-2ad0a936-ba8a-4d12-abdf-2159cbafd09a":	{
+				"$Position":	{
+					"$x":	-1398,
+					"$y":	-3509
+				}
+			},
+			"ConstantMaterialProvider-29dd693f-01d4-4197-aa4f-96ad75dac61f":	{
+				"$Position":	{
+					"$x":	-765,
+					"$y":	-3513
+				}
+			},
+			"Material-ff853848-e223-4861-9458-a86cd75d6ac6":	{
+				"$Position":	{
+					"$x":	-141,
+					"$y":	-3506
+				}
+			},
+			"StripeStripedMP-d5a61df6-4904-4f35-82e1-13db54ab9116":	{
+				"$Position":	{
+					"$x":	505,
+					"$y":	-3504
+				}
+			},
+			"StripeStripedMP-59b72412-a518-4a72-ab5b-1594d721feba":	{
+				"$Position":	{
+					"$x":	837,
+					"$y":	-3500
+				}
+			},
+			"FieldFunctionMaterialProvider-d8413be7-8127-47b8-8b2a-94d505107abd":	{
+				"$Position":	{
+					"$x":	-2563,
+					"$y":	-2987
+				}
+			},
+			"SimplexNoise2DDensityNode-c0e2def7-d78c-4065-ac91-db30743af060":	{
+				"$Position":	{
+					"$x":	-1878,
+					"$y":	-3256
+				}
+			},
+			"DelimiterFieldFunctionMP-e138f590-3866-4b13-9b80-5e7c7cb94114":	{
+				"$Position":	{
+					"$x":	-1875,
+					"$y":	-2902
+				}
+			},
+			"SpaceAndDepthMaterialProvider-e6048704-6e2f-4cae-b14f-26840daba3d0":	{
+				"$Position":	{
+					"$x":	-1421,
+					"$y":	-2905
+				}
+			},
+			"ConstantThicknessLayerSADMP-5a0d9dad-94e3-4b7b-9c88-cdc2c8a95b40":	{
+				"$Position":	{
+					"$x":	-776,
+					"$y":	-2864
+				}
+			},
+			"ConstantMaterialProvider-270fea9f-2150-4b88-8933-16fae43b5011":	{
+				"$Position":	{
+					"$x":	-343,
+					"$y":	-2860
+				}
+			},
+			"Material-97e21590-0f2e-48b1-9595-67100dfaf434":	{
+				"$Position":	{
+					"$x":	292,
+					"$y":	-2861
+				}
+			},
+			"FieldFunctionMaterialProvider-d20cfade-121f-449b-906c-6c181927ef88":	{
+				"$Position":	{
+					"$x":	-2556,
+					"$y":	-2395
+				}
+			},
+			"SimplexNoise2DDensityNode-cff622b5-ef36-41bd-83d6-972e3287c36b":	{
+				"$Position":	{
+					"$x":	-1884,
+					"$y":	-2714
+				}
+			},
+			"DelimiterFieldFunctionMP-2a6607a3-8309-4b91-80af-b69152302f75":	{
+				"$Position":	{
+					"$x":	-1845,
+					"$y":	-2378
+				}
+			},
+			"ConstantMaterialProvider-fe1e365d-9985-4adb-bb41-fa5e935c4ad4":	{
+				"$Position":	{
+					"$x":	-1406,
+					"$y":	-2372
+				}
+			},
+			"Material-3b80e6f2-d761-40c2-8d2b-12a00596c198":	{
+				"$Position":	{
+					"$x":	-770,
+					"$y":	-2382
+				}
+			},
+			"DelimiterFieldFunctionMP-6d19fa88-0d6b-4406-9a33-38bce5960d6b":	{
+				"$Position":	{
+					"$x":	-1841,
+					"$y":	-2225
+				}
+			},
+			"ConstantMaterialProvider-e9054d1d-fee2-4574-bf4f-b2ae6766e6c6":	{
+				"$Position":	{
+					"$x":	-1401,
+					"$y":	-2218
+				}
+			},
+			"Material-e9aaf0a5-d60c-4dfc-bc8f-6f1faccfe220":	{
+				"$Position":	{
+					"$x":	-768,
+					"$y":	-2220
+				}
+			},
+			"DelimiterFieldFunctionMP-0d90dfc1-5901-44b2-8d1c-5f6b0e1967a8":	{
+				"$Position":	{
+					"$x":	-1839,
+					"$y":	-1924
+				}
+			},
+			"ConstantMaterialProvider-99c42b3b-c6b9-4c9a-a660-3ac560592b64":	{
+				"$Position":	{
+					"$x":	-1400,
+					"$y":	-1918
+				}
+			},
+			"Material-14ea689b-7ff8-45da-ab33-1f6179c53d56":	{
+				"$Position":	{
+					"$x":	-765,
+					"$y":	-1928
+				}
+			},
+			"DelimiterFieldFunctionMP-2e3eed17-5798-4fc1-ac3b-e16a4ef9d598":	{
+				"$Position":	{
+					"$x":	-1840,
+					"$y":	-1770
+				}
+			},
+			"ConstantMaterialProvider-e4194bbb-71ae-4996-9597-11958408a9eb":	{
+				"$Position":	{
+					"$x":	-1400,
+					"$y":	-1764
+				}
+			},
+			"Material-9cea8ad2-8e52-42e7-8f7f-fa36f105d50c":	{
+				"$Position":	{
+					"$x":	-766,
+					"$y":	-1774
+				}
+			},
+			"DelimiterFieldFunctionMP-59aa1e20-a6ea-43f6-a5d1-260fb30fe147":	{
+				"$Position":	{
+					"$x":	-1845,
+					"$y":	-1616
+				}
+			},
+			"ConstantMaterialProvider-112b2dfe-3f62-43d2-8253-3b0af83340ea":	{
+				"$Position":	{
+					"$x":	-1405,
+					"$y":	-1610
+				}
+			},
+			"Material-3a9edede-4f67-4c69-965a-aec76922fd4f":	{
+				"$Position":	{
+					"$x":	-771,
+					"$y":	-1620
+				}
+			},
+			"ConstantMaterialProvider-4d84f821-ddd5-4689-9bb0-270336909c7d":	{
+				"$Position":	{
+					"$x":	-2610,
+					"$y":	-1407
+				}
+			},
+			"Material-fccc39c3-db60-42dc-a9b9-bdc3138ab712":	{
+				"$Position":	{
+					"$x":	-1964,
+					"$y":	-1423
+				}
+			},
+			"QueueMaterialProvider-03e8b9ac-f24d-4a92-9054-b06b096bf215":	{
+				"$Position":	{
+					"$x":	-3269,
+					"$y":	-1200
+				}
+			},
+			"ConstantMaterialProvider-48e16ac7-0d6d-406b-b3b6-69e3ffa2b7b3":	{
+				"$Position":	{
+					"$x":	-2638,
+					"$y":	-1218
+				}
+			},
+			"Material-23f19041-2e9f-4027-a37f-8c9a97cc1262":	{
+				"$Position":	{
+					"$x":	-1995,
+					"$y":	-1213
+				}
+			},
+			"Runtime-1465d3fe-3bd6-433f-ae15-e9991e64eb08":	{
+				"$Position":	{
+					"$x":	3368,
+					"$y":	-792
+				}
+			},
+			"Mesh2DPositions-0cd142a8-d269-4bd6-b831-b0e4d1bac985":	{
+				"$Position":	{
+					"$x":	3949,
+					"$y":	-900
+				}
+			},
+			"MeshPointGenerator-684182a8-ec15-4327-9def-ece2d46a1dd7":	{
+				"$Position":	{
+					"$x":	4620,
+					"$y":	-906
+				}
+			},
+			"FieldFunction.Assignments-ea897d5e-ebb3-4409-957b-9e7a643d7dc0":	{
+				"$Position":	{
+					"$x":	3989,
+					"$y":	-586
+				}
+			},
+			"MinDensityNode-8907812a-8949-4933-99cf-a98dbbd7172b":	{
+				"$Position":	{
+					"$x":	4669,
+					"$y":	-590
+				}
+			},
+			"NormalizerDensityNode-6d4c7369-c643-4a01-88f1-243754f9361f":	{
+				"$Position":	{
+					"$x":	5310,
+					"$y":	-895
+				}
+			},
+			"SimplexNoise2DDensityNode-373a6afd-1419-4c16-a4e5-a1e49cda1693":	{
+				"$Position":	{
+					"$x":	5921,
+					"$y":	-922
+				}
+			},
+			"NormalizerDensityNode-4b7ce583-6cd4-412d-bb2d-ca9fd8fc1c6a":	{
+				"$Position":	{
+					"$x":	5310,
+					"$y":	-593
+				}
+			},
+			"SimplexNoise2DDensityNode-5d55f4fd-ae41-4776-a846-8f1a8e9ecda3":	{
+				"$Position":	{
+					"$x":	5917,
+					"$y":	-592
+				}
+			},
+			"Delimiter.FieldFunction.Assignments-86b8c6eb-13f2-43f1-84fb-a883958e25e8":	{
+				"$Position":	{
+					"$x":	4631,
+					"$y":	-237
+				}
+			},
+			"Constant.Assignments-d182ec18-fd9c-47aa-aa94-ede575272d81":	{
+				"$Position":	{
+					"$x":	5184,
+					"$y":	-229
+				}
+			},
+			"Prefab.Prop-cb904090-07b5-4485-b23e-3ed0b48c8a9b":	{
+				"$Position":	{
+					"$x":	5855,
+					"$y":	-231
+				}
+			},
+			"WeightedPath.Prefab.Prop-9ad5a24e-9d0b-425b-be05-8db72e3e3f6d":	{
+				"$Position":	{
+					"$x":	6671,
+					"$y":	-623
+				}
+			},
+			"Random.Directionality-e44f54ed-c126-45bd-80fa-6652847aef91":	{
+				"$Position":	{
+					"$x":	6668,
+					"$y":	-476
+				}
+			},
+			"Floor.Pattern-6e0aa1af-89a2-4fa0-ae97-53e327bd1189":	{
+				"$Position":	{
+					"$x":	7288,
+					"$y":	-452
+				}
+			},
+			"BlockType.Pattern-3cd46a94-a3bc-4f9f-9a7e-d977017efb3d":	{
+				"$Position":	{
+					"$x":	7933,
+					"$y":	-468
+				}
+			},
+			"Material-3d7a5ea2-a73c-4d82-9088-e96b77f0e1bd":	{
+				"$Position":	{
+					"$x":	8546,
+					"$y":	-466
+				}
+			},
+			"BlockType.Pattern-0590570a-d615-47e3-a0cd-8d7cf47b97b0":	{
+				"$Position":	{
+					"$x":	7939,
+					"$y":	-309
+				}
+			},
+			"Material-5372948a-2b2d-42b3-869f-647fd1283b89":	{
+				"$Position":	{
+					"$x":	8560,
+					"$y":	-311
+				}
+			},
+			"Imported.Scanner-1fa4fd83-e082-4c8b-809b-1d79ef1750d2":	{
+				"$Position":	{
+					"$x":	6685,
+					"$y":	-165
+				}
+			},
+			"Runtime-91431155-2bf5-4fd1-a7f2-5aec54ee6ba6":	{
+				"$Position":	{
+					"$x":	-3303,
+					"$y":	-737
+				}
+			},
+			"Mesh2DPositions-45acee6b-6ea3-4de7-8e7f-7e2735da954c":	{
+				"$Position":	{
+					"$x":	-2822,
+					"$y":	-835
+				}
+			},
+			"MeshPointGenerator-5a73ea16-dd71-4023-a5cc-96f08fb785be":	{
+				"$Position":	{
+					"$x":	-2151,
+					"$y":	-841
+				}
+			},
+			"FieldFunction.Assignments-02f77842-7104-43d3-8076-634534e15cf3":	{
+				"$Position":	{
+					"$x":	-2782,
+					"$y":	-521
+				}
+			},
+			"MinDensityNode-6cdf20da-f3f5-40e1-8c81-9fd602a93513":	{
+				"$Position":	{
+					"$x":	-2102,
+					"$y":	-525
+				}
+			},
+			"NormalizerDensityNode-0473c166-9f7e-45cd-9c40-c899a0c5b6cf":	{
+				"$Position":	{
+					"$x":	-1461,
+					"$y":	-830
+				}
+			},
+			"SimplexNoise2DDensityNode-fefc70a2-b06e-4da9-b8a2-90dd54cc99ac":	{
+				"$Position":	{
+					"$x":	-850,
+					"$y":	-857
+				}
+			},
+			"NormalizerDensityNode-6018d436-d48e-4bec-a493-7a1fc1950cf2":	{
+				"$Position":	{
+					"$x":	-1461,
+					"$y":	-528
+				}
+			},
+			"SimplexNoise2DDensityNode-95125e86-c84e-48b4-9537-a0c8c696101f":	{
+				"$Position":	{
+					"$x":	-854,
+					"$y":	-527
+				}
+			},
+			"Delimiter.FieldFunction.Assignments-6ff0f6b5-67e0-46f0-ada4-6838a188fb35":	{
+				"$Position":	{
+					"$x":	-2140,
+					"$y":	-172
+				}
+			},
+			"Constant.Assignments-02682071-33e2-4bfa-890d-9ffcfd587ac4":	{
+				"$Position":	{
+					"$x":	-1587,
+					"$y":	-164
+				}
+			},
+			"Prefab.Prop-97533854-454a-497d-8081-f1202bfb803a":	{
+				"$Position":	{
+					"$x":	-916,
+					"$y":	-166
+				}
+			},
+			"WeightedPath.Prefab.Prop-53149c88-7a77-40db-aa4e-a0e47b6bc0f4":	{
+				"$Position":	{
+					"$x":	-99,
+					"$y":	-558
+				}
+			},
+			"Random.Directionality-2494b5a9-2e6f-4a77-a0d5-e98d2a7724f0":	{
+				"$Position":	{
+					"$x":	-97,
+					"$y":	-411
+				}
+			},
+			"Floor.Pattern-f74d2200-e1ff-4c94-8209-0deeeb8bc4c9":	{
+				"$Position":	{
+					"$x":	510,
+					"$y":	-408
+				}
+			},
+			"BlockType.Pattern-4d1c4199-0f48-416a-8415-e650db7ad9e3":	{
+				"$Position":	{
+					"$x":	1131,
+					"$y":	-387
+				}
+			},
+			"Material-d05abfd4-0c38-46f1-88b3-c4600e6f03e5":	{
+				"$Position":	{
+					"$x":	1744,
+					"$y":	-385
+				}
+			},
+			"BlockType.Pattern-9dee08ff-13bf-42fe-a44f-39a7830c818c":	{
+				"$Position":	{
+					"$x":	1137,
+					"$y":	-228
+				}
+			},
+			"Material-def4daa2-3d06-483d-beeb-e91e2dc84933":	{
+				"$Position":	{
+					"$x":	1756,
+					"$y":	-235
+				}
+			},
+			"ColumnLinear.Scanner-b8493e6a-7dbe-4b36-8c53-808c7074ab8b":	{
+				"$Position":	{
+					"$x":	-98,
+					"$y":	-237
+				}
+			},
+			"Runtime-877024b0-c78d-4bbc-a1a7-9160bc1e1f25":	{
+				"$Position":	{
+					"$x":	-3286,
+					"$y":	776
+				}
+			},
+			"Mesh2DPositions-b6f82d35-c2b1-4051-af48-6d811fdcfe7d":	{
+				"$Position":	{
+					"$x":	-2780,
+					"$y":	832
+				}
+			},
+			"MeshPointGenerator-f34f5190-3419-423e-8575-032603d3e619":	{
+				"$Position":	{
+					"$x":	-2103,
+					"$y":	755
+				}
+			},
+			"FieldFunction.Assignments-0756ef91-88e4-4197-9834-ea83e91b4d8a":	{
+				"$Position":	{
+					"$x":	-2821,
+					"$y":	1205
+				}
+			},
+			"ImportedDensityNode-a3526aa8-129e-4d6b-8978-8e7fb9702bbd":	{
+				"$Position":	{
+					"$x":	-2149,
+					"$y":	1056
+				}
+			},
+			"Delimiter.FieldFunction.Assignments-ba168487-48a8-4d8d-8995-732a2cc7cb2b":	{
+				"$Position":	{
+					"$x":	-2152,
+					"$y":	1223
+				}
+			},
+			"Constant.Assignments-9db2ae00-5876-4c7e-b7b7-29b26fd21fb3":	{
+				"$Position":	{
+					"$x":	-1653,
+					"$y":	1231
+				}
+			},
+			"Cluster.Prop-98465220-046c-4664-a772-a0da3c026bf1":	{
+				"$Position":	{
+					"$x":	-1027,
+					"$y":	1228
+				}
+			},
+			"ManualCurve-e49c987b-0f89-433c-866f-8b0aab8fbfa8":	{
+				"$Position":	{
+					"$x":	-1443,
+					"$y":	1023
+				}
+			},
+			"CurvePoint-06d6ee28-5bf8-44dd-9ed4-0a3326b86db8":	{
+				"$Position":	{
+					"$x":	-769,
+					"$y":	711
+				}
+			},
+			"CurvePoint-b382be14-f4cd-46d7-84a4-222a40a72380":	{
+				"$Position":	{
+					"$x":	-769,
+					"$y":	870
+				}
+			},
+			"CurvePoint-fbf4ed00-3862-4cd5-bf1d-a1d808775f11":	{
+				"$Position":	{
+					"$x":	-769,
+					"$y":	1021
+				}
+			},
+			"Weighted.Cluster.Prop-70714a75-b618-4426-ad89-9866d54c2f65":	{
+				"$Position":	{
+					"$x":	-181,
+					"$y":	726
+				}
+			},
+			"Column.Prop-d9b4e3cb-c478-43bd-a481-ce6ea529c820":	{
+				"$Position":	{
+					"$x":	278,
+					"$y":	727
+				}
+			},
+			"Block.Column.Prop-40bd4a4b-807f-42fa-9266-d52b1e9cdfd6":	{
+				"$Position":	{
+					"$x":	968,
+					"$y":	729
+				}
+			},
+			"Material-f4181c41-f587-4175-9e67-8a6c6be22e0f":	{
+				"$Position":	{
+					"$x":	1405,
+					"$y":	724
+				}
+			},
+			"Static.Directionality-fd815c07-aa3d-40f7-b7ac-bdda7b1e40de":	{
+				"$Position":	{
+					"$x":	962,
+					"$y":	879
+				}
+			},
+			"Imported.Pattern-46488959-4226-42c3-97a7-dd50a30e66e8":	{
+				"$Position":	{
+					"$x":	1594,
+					"$y":	883
+				}
+			},
+			"Imported.Scanner-7aefc3b8-4edd-4a5d-919c-2a3648f0d4bd":	{
+				"$Position":	{
+					"$x":	2210,
+					"$y":	788
+				}
+			},
+			"Weighted.Cluster.Prop-0eeef5c4-a666-459d-aabf-e5ec0ae13c1c":	{
+				"$Position":	{
+					"$x":	-182,
+					"$y":	1116
+				}
+			},
+			"Column.Prop-3a626d01-f0ea-4f1d-8784-eb52ff38ee4c":	{
+				"$Position":	{
+					"$x":	277,
+					"$y":	1117
+				}
+			},
+			"Block.Column.Prop-b4bc4f87-7688-4d65-aeaa-1d7a8179edcd":	{
+				"$Position":	{
+					"$x":	967,
+					"$y":	1119
+				}
+			},
+			"Material-69a1d5a8-e9de-4f64-a403-2fe80055ca2b":	{
+				"$Position":	{
+					"$x":	1404,
+					"$y":	1115
+				}
+			},
+			"Static.Directionality-1d7cad5f-d985-4ffd-b9a2-041e301bc211":	{
+				"$Position":	{
+					"$x":	961,
+					"$y":	1270
+				}
+			},
+			"Imported.Pattern-59da06e6-e660-4633-b3b2-789895a8a451":	{
+				"$Position":	{
+					"$x":	1593,
+					"$y":	1273
+				}
+			},
+			"Imported.Scanner-f3bd8a0e-0eb1-4c14-b1b3-a457ec722c16":	{
+				"$Position":	{
+					"$x":	2178,
+					"$y":	1179
+				}
+			},
+			"Weighted.Cluster.Prop-ad9912ea-36ce-4d5c-bf7d-cf12d4744271":	{
+				"$Position":	{
+					"$x":	-198,
+					"$y":	1510
+				}
+			},
+			"Column.Prop-7fd668c4-69ab-45b4-a680-10a680f09d11":	{
+				"$Position":	{
+					"$x":	261,
+					"$y":	1511
+				}
+			},
+			"Block.Column.Prop-3bf75ff7-746a-4f30-b178-ac710aba3a97":	{
+				"$Position":	{
+					"$x":	951,
+					"$y":	1513
+				}
+			},
+			"Material-378ea8ed-80dd-4b55-9de6-3b4a09586489":	{
+				"$Position":	{
+					"$x":	1388,
+					"$y":	1509
+				}
+			},
+			"Static.Directionality-affd1410-3023-4bde-b993-8193b9c5c093":	{
+				"$Position":	{
+					"$x":	945,
+					"$y":	1664
+				}
+			},
+			"Imported.Pattern-5325c192-a4cc-4734-92af-96ad62ae56a1":	{
+				"$Position":	{
+					"$x":	1577,
+					"$y":	1667
+				}
+			},
+			"Imported.Scanner-6a88aa9d-72d6-436f-9798-a8a12f67b3d8":	{
+				"$Position":	{
+					"$x":	2177,
+					"$y":	1603
+				}
+			},
+			"Imported.Pattern-ecd88bcd-7fcf-469c-8adf-427f888aa071":	{
+				"$Position":	{
+					"$x":	-973,
+					"$y":	1588
+				}
+			},
+			"Imported.Scanner-046ddb04-d3b2-4ca9-bdf8-ed646a4e611d":	{
+				"$Position":	{
+					"$x":	-334,
+					"$y":	1733
+				}
+			},
+			"Runtime-c9376ca1-9202-48cf-98cf-9e1403a5da1e":	{
+				"$Position":	{
+					"$x":	3440,
+					"$y":	971
+				}
+			},
+			"Mesh2DPositions-29d2b57d-284f-4814-9deb-5d55e6b83226":	{
+				"$Position":	{
+					"$x":	4023,
+					"$y":	833
+				}
+			},
+			"MeshPointGenerator-4280e788-f004-478a-8196-89c6e5d06bfd":	{
+				"$Position":	{
+					"$x":	4700,
+					"$y":	756
+				}
+			},
+			"Constant.Assignments-6d32004c-a8d5-4c47-8a1f-83c188f10ecf":	{
+				"$Position":	{
+					"$x":	5150,
+					"$y":	1232
+				}
+			},
+			"Cluster.Prop-130fcb20-c8ec-4720-9e0b-2b440004c79d":	{
+				"$Position":	{
+					"$x":	5765,
+					"$y":	1229
+				}
+			},
+			"ManualCurve-d286856e-0c42-4068-bc82-3d4561158957":	{
+				"$Position":	{
+					"$x":	5360,
+					"$y":	1024
+				}
+			},
+			"CurvePoint-2a040d5b-9926-4c3d-a4ce-9d3e2e5fc1f5":	{
+				"$Position":	{
+					"$x":	6034,
+					"$y":	712
+				}
+			},
+			"CurvePoint-9f3e1c55-2ce5-47e4-a3d8-0117871da4da":	{
+				"$Position":	{
+					"$x":	6034,
+					"$y":	871
+				}
+			},
+			"CurvePoint-e3a8aca4-1469-4adc-b360-1510328209eb":	{
+				"$Position":	{
+					"$x":	6034,
+					"$y":	1022
+				}
+			},
+			"Weighted.Cluster.Prop-e3ce335b-8c6e-4f92-8655-d45203404ecd":	{
+				"$Position":	{
+					"$x":	6507,
+					"$y":	1258
+				}
+			},
+			"Column.Prop-b312f6d4-9312-4e1f-a00e-23c9cc04e5ab":	{
+				"$Position":	{
+					"$x":	6967,
+					"$y":	1259
+				}
+			},
+			"Block.Column.Prop-23688150-27e7-42f0-84eb-1c2ab9f470ec":	{
+				"$Position":	{
+					"$x":	7657,
+					"$y":	1261
+				}
+			},
+			"Material-d45bc4ab-404c-42ba-84c6-d3785633ad5d":	{
+				"$Position":	{
+					"$x":	8094,
+					"$y":	1256
+				}
+			},
+			"Static.Directionality-07c5c1cc-6dba-4cf3-8f18-730cbf58715b":	{
+				"$Position":	{
+					"$x":	7651,
+					"$y":	1411
+				}
+			},
+			"Imported.Pattern-993281f3-437b-4f12-b19d-a8be8b5f875e":	{
+				"$Position":	{
+					"$x":	8283,
+					"$y":	1415
+				}
+			},
+			"Imported.Scanner-2768766c-010d-48cf-ae6d-00deaeffe575":	{
+				"$Position":	{
+					"$x":	7072,
+					"$y":	1509
+				}
+			},
+			"Or.Pattern-46d9d1b3-6233-4b85-afe1-64aa925ef119":	{
+				"$Position":	{
+					"$x":	6503,
+					"$y":	1702
+				}
+			},
+			"Imported.Pattern-f004d159-8d8a-4b51-b72e-721ba4be94b4":	{
+				"$Position":	{
+					"$x":	7184,
+					"$y":	1700
+				}
+			},
+			"Floor.Pattern-a35049b8-ae76-4e6d-9b97-2d5f3717ab8a":	{
+				"$Position":	{
+					"$x":	7180,
+					"$y":	1859
+				}
+			},
+			"BlockType.Pattern-01b1e205-6140-4aa3-947b-87e7d46c9c95":	{
+				"$Position":	{
+					"$x":	7864,
+					"$y":	1697
+				}
+			},
+			"Material-59d8ae5b-5339-4bd6-bb73-eec26673da83":	{
+				"$Position":	{
+					"$x":	8477,
+					"$y":	1699
+				}
+			},
+			"BlockType.Pattern-33f8aed2-cdb1-4c2f-bf75-743f0b6bfa81":	{
+				"$Position":	{
+					"$x":	7870,
+					"$y":	1856
+				}
+			},
+			"Material-14ac4b0a-e086-4336-ac3a-1cbd22727dc3":	{
+				"$Position":	{
+					"$x":	8489,
+					"$y":	1849
+				}
+			},
+			"Floor.Pattern-745df80b-6bcc-4ba2-85e4-8c3637f543ae":	{
+				"$Position":	{
+					"$x":	7181,
+					"$y":	2025
+				}
+			},
+			"BlockType.Pattern-db602007-cd30-47ab-ba5b-385d8298ee8b":	{
+				"$Position":	{
+					"$x":	7881,
+					"$y":	2032
+				}
+			},
+			"Material-80fe4347-bdf7-48ee-b825-eb46d84efda0":	{
+				"$Position":	{
+					"$x":	8494,
+					"$y":	2034
+				}
+			},
+			"BlockType.Pattern-fc31cca3-8f4f-46df-823f-890cf8a198c1":	{
+				"$Position":	{
+					"$x":	7887,
+					"$y":	2191
+				}
+			},
+			"Material-941615e6-04fc-450a-a825-15fdd846ffa0":	{
+				"$Position":	{
+					"$x":	8506,
+					"$y":	2184
+				}
+			},
+			"ColumnLinear.Scanner-f5ddc920-d48b-4785-a28f-d0708769fb68":	{
+				"$Position":	{
+					"$x":	5884,
+					"$y":	1467
+				}
+			},
+			"Runtime-c0ab5962-4ada-4791-bf8a-04d19a5fc6e0":	{
+				"$Position":	{
+					"$x":	-3287,
+					"$y":	2960
+				}
+			},
+			"Mesh2DPositions-96351db7-1089-4bb2-a4ec-f8fae25ccb94":	{
+				"$Position":	{
+					"$x":	-3046,
+					"$y":	2719
+				}
+			},
+			"MeshPointGenerator-a144d27c-43c2-43dc-9a9d-082c350cda32":	{
+				"$Position":	{
+					"$x":	-2341,
+					"$y":	2687
+				}
+			},
+			"Weighted.Assignments-df85d895-16b0-401c-8bc1-4da7753c1493":	{
+				"$Position":	{
+					"$x":	-2555,
+					"$y":	3621
+				}
+			},
+			"Weight.Weighted.Assignments-9c5824c7-c189-4788-9b9d-e2e2c8277082":	{
+				"$Position":	{
+					"$x":	-1764,
+					"$y":	2502
+				}
+			},
+			"Constant.Assignments-459ef82f-bac1-4e54-957f-394023ea8d9c":	{
+				"$Position":	{
+					"$x":	-1765,
+					"$y":	2614
+				}
+			},
+			"Column.Prop-9521070f-57d4-409d-9673-2a8732ecc282":	{
+				"$Position":	{
+					"$x":	-1154,
+					"$y":	2455
+				}
+			},
+			"Block.Column.Prop-d97baa69-94e5-4363-a456-e4585c170d0d":	{
+				"$Position":	{
+					"$x":	-432,
+					"$y":	2457
+				}
+			},
+			"Material-ab364168-a942-4d8e-8799-8aad05c9a6c0":	{
+				"$Position":	{
+					"$x":	-19,
+					"$y":	2457
+				}
+			},
+			"Block.Column.Prop-36998349-c334-45d2-88a9-aeaaaa7341fa":	{
+				"$Position":	{
+					"$x":	-430,
+					"$y":	2607
+				}
+			},
+			"Material-c55752d8-3c6e-478a-b917-4413358c9d20":	{
+				"$Position":	{
+					"$x":	-20,
+					"$y":	2610
+				}
+			},
+			"Block.Column.Prop-32aedf2f-cc54-4e83-9562-2add6142cc2d":	{
+				"$Position":	{
+					"$x":	-433,
+					"$y":	2766
+				}
+			},
+			"Material-c1b158e7-5d8e-4663-bf8a-d64e1496b573":	{
+				"$Position":	{
+					"$x":	-16,
+					"$y":	2768
+				}
+			},
+			"Imported.Directionality-8381782f-4134-4a36-af59-9b712d57a434":	{
+				"$Position":	{
+					"$x":	-1033,
+					"$y":	2823
+				}
+			},
+			"Imported.Scanner-6f631a60-e7de-4330-a025-c2bd408672af":	{
+				"$Position":	{
+					"$x":	-1028,
+					"$y":	2678
+				}
+			},
+			"Weight.Weighted.Assignments-9d4bb0ef-3d5e-4d8c-ac18-30cdeddd1a63":	{
+				"$Position":	{
+					"$x":	700,
+					"$y":	2525
+				}
+			},
+			"Constant.Assignments-495f6033-9f05-4d3b-95ba-2b30c5519fbe":	{
+				"$Position":	{
+					"$x":	694,
+					"$y":	2637
+				}
+			},
+			"Column.Prop-5812633b-f192-45db-ab5f-e4c7eeec5787":	{
+				"$Position":	{
+					"$x":	1306,
+					"$y":	2478
+				}
+			},
+			"Block.Column.Prop-d6a1c7a3-1104-43ee-81a9-d2578b9dd75e":	{
+				"$Position":	{
+					"$x":	2028,
+					"$y":	2480
+				}
+			},
+			"Material-875acdc6-109b-4896-992b-b9a91204f3ce":	{
+				"$Position":	{
+					"$x":	2034,
+					"$y":	2593
+				}
+			},
+			"Imported.Directionality-f30b2984-da4a-437b-9038-0ff567119bee":	{
+				"$Position":	{
+					"$x":	1426,
+					"$y":	2846
+				}
+			},
+			"Imported.Scanner-f763971a-cd04-435a-87a7-f8804aac6db6":	{
+				"$Position":	{
+					"$x":	1431,
+					"$y":	2701
+				}
+			},
+			"Weight.Weighted.Assignments-30c3ad2a-18b5-4a9c-9e72-a27ea9ce8f03":	{
+				"$Position":	{
+					"$x":	696,
+					"$y":	3038
+				}
+			},
+			"Constant.Assignments-a4db1449-ce9d-4365-b00c-eb279b24393a":	{
+				"$Position":	{
+					"$x":	690,
+					"$y":	3150
+				}
+			},
+			"Column.Prop-76f91699-3025-4ccc-ae7f-162aeeea5990":	{
+				"$Position":	{
+					"$x":	1306,
+					"$y":	2991
+				}
+			},
+			"Block.Column.Prop-4954c8e6-fe10-4fcd-8fb3-505d26bd8bca":	{
+				"$Position":	{
+					"$x":	2028,
+					"$y":	2993
+				}
+			},
+			"Material-06b29732-c8fd-47c6-a5a4-59dff5405673":	{
+				"$Position":	{
+					"$x":	2030,
+					"$y":	3106
+				}
+			},
+			"Imported.Directionality-970578dd-3181-47e0-98e7-60c556ecd7e4":	{
+				"$Position":	{
+					"$x":	1422,
+					"$y":	3359
+				}
+			},
+			"Imported.Scanner-fa17320d-2520-4bbc-a258-3b50097b879b":	{
+				"$Position":	{
+					"$x":	1427,
+					"$y":	3214
+				}
+			},
+			"Weight.Weighted.Assignments-73f78ba8-2f58-4939-9cec-e8be7160339d":	{
+				"$Position":	{
+					"$x":	-1762,
+					"$y":	3066
+				}
+			},
+			"Constant.Assignments-3ff43f16-405f-4bd7-8f86-17131a7c6875":	{
+				"$Position":	{
+					"$x":	-1768,
+					"$y":	3178
+				}
+			},
+			"Column.Prop-02461c3e-bd69-4ffa-8779-02edaad441da":	{
+				"$Position":	{
+					"$x":	-1152,
+					"$y":	3018
+				}
+			},
+			"Block.Column.Prop-cd63addb-d8f6-4feb-9dd8-d58f582b38d0":	{
+				"$Position":	{
+					"$x":	-430,
+					"$y":	3020
+				}
+			},
+			"Material-92dab1de-ff47-429d-86ed-3ef145edb39c":	{
+				"$Position":	{
+					"$x":	-17,
+					"$y":	3021
+				}
+			},
+			"Block.Column.Prop-a2c0a455-4f8f-4b12-88a4-ca07ddea4595":	{
+				"$Position":	{
+					"$x":	-433,
+					"$y":	3171
+				}
+			},
+			"Material-937b3b40-0fe0-428e-a385-7230305d11a3":	{
+				"$Position":	{
+					"$x":	-23,
+					"$y":	3174
+				}
+			},
+			"Block.Column.Prop-2adfb76a-7c81-4ea5-9cf0-165bf705ef98":	{
+				"$Position":	{
+					"$x":	-436,
+					"$y":	3330
+				}
+			},
+			"Material-d7381023-8fda-46e5-8ae5-96062eabe655":	{
+				"$Position":	{
+					"$x":	-19,
+					"$y":	3331
+				}
+			},
+			"Imported.Directionality-fef6dc8e-5d06-4cef-84fb-a22121a42de0":	{
+				"$Position":	{
+					"$x":	-1036,
+					"$y":	3386
+				}
+			},
+			"Imported.Scanner-7231191a-aae3-4e84-845d-2a183dd02725":	{
+				"$Position":	{
+					"$x":	-1031,
+					"$y":	3241
+				}
+			},
+			"Weight.Weighted.Assignments-dc1de647-e711-4985-8585-0b6a03ad48b8":	{
+				"$Position":	{
+					"$x":	693,
+					"$y":	3554
+				}
+			},
+			"Constant.Assignments-5d861492-d6f1-41e7-b63b-02061e17ced2":	{
+				"$Position":	{
+					"$x":	687,
+					"$y":	3666
+				}
+			},
+			"Column.Prop-aa747ba7-a5e4-466c-91e1-c92e3b514c7e":	{
+				"$Position":	{
+					"$x":	1303,
+					"$y":	3507
+				}
+			},
+			"Block.Column.Prop-9c3aad9b-4153-4c66-a9cc-332d8991a50f":	{
+				"$Position":	{
+					"$x":	2025,
+					"$y":	3509
+				}
+			},
+			"Material-4ec7cada-2759-4397-9c34-d1130957cd4d":	{
+				"$Position":	{
+					"$x":	2027,
+					"$y":	3622
+				}
+			},
+			"Imported.Directionality-85fe9693-1a9b-41ae-8726-22a80e9f67e0":	{
+				"$Position":	{
+					"$x":	1419,
+					"$y":	3875
+				}
+			},
+			"Imported.Scanner-e24bbb57-ced2-405a-8689-ef6c39529f1d":	{
+				"$Position":	{
+					"$x":	1424,
+					"$y":	3730
+				}
+			},
+			"Weight.Weighted.Assignments-44ae8d18-7eac-4ea2-b66a-dec1a0a01d3c":	{
+				"$Position":	{
+					"$x":	-1767,
+					"$y":	3602
+				}
+			},
+			"Constant.Assignments-928ee2e0-dbfe-438b-9a64-088c3bb29623":	{
+				"$Position":	{
+					"$x":	-1773,
+					"$y":	3714
+				}
+			},
+			"Column.Prop-d78e0998-36e9-46ba-a024-fc80f1d5537c":	{
+				"$Position":	{
+					"$x":	-1157,
+					"$y":	3554
+				}
+			},
+			"Block.Column.Prop-9b4f9f99-5418-402d-b306-7105f2f5c822":	{
+				"$Position":	{
+					"$x":	-435,
+					"$y":	3556
+				}
+			},
+			"Material-9506482c-274d-4eed-a767-5f03ad51162d":	{
+				"$Position":	{
+					"$x":	-23,
+					"$y":	3557
+				}
+			},
+			"Block.Column.Prop-2250518c-66dd-4d8b-ae9e-c40beb4640ae":	{
+				"$Position":	{
+					"$x":	-438,
+					"$y":	3707
+				}
+			},
+			"Material-c83bd261-2a08-4e01-8156-4a925a7d0f4e":	{
+				"$Position":	{
+					"$x":	-29,
+					"$y":	3710
+				}
+			},
+			"Block.Column.Prop-172b1a82-effb-4a0e-8bd5-108c4a49e89d":	{
+				"$Position":	{
+					"$x":	-441,
+					"$y":	3866
+				}
+			},
+			"Material-dde325de-0d8f-4447-b5bb-5f88c59d269f":	{
+				"$Position":	{
+					"$x":	-25,
+					"$y":	3867
+				}
+			},
+			"Imported.Directionality-e77fb0e0-6e9c-46f2-b030-cd6bb785de04":	{
+				"$Position":	{
+					"$x":	-1041,
+					"$y":	3922
+				}
+			},
+			"Imported.Scanner-586fa401-8d70-4b58-9fee-efc41fcb284b":	{
+				"$Position":	{
+					"$x":	-1036,
+					"$y":	3777
+				}
+			},
+			"Weight.Weighted.Assignments-65a667b2-d2d4-431c-b40b-28a62c7b314d":	{
+				"$Position":	{
+					"$x":	689,
+					"$y":	4096
+				}
+			},
+			"Constant.Assignments-18d9c10a-5959-484e-a265-c658e3a7d724":	{
+				"$Position":	{
+					"$x":	683,
+					"$y":	4208
+				}
+			},
+			"Column.Prop-5a393fd8-e999-409b-9307-945757f4e92b":	{
+				"$Position":	{
+					"$x":	1299,
+					"$y":	4049
+				}
+			},
+			"Block.Column.Prop-b1b5cc21-172b-4d38-9c42-afa05de265e5":	{
+				"$Position":	{
+					"$x":	2021,
+					"$y":	4051
+				}
+			},
+			"Material-48f07df5-0d20-42f8-8f57-4c6f21ec239c":	{
+				"$Position":	{
+					"$x":	2023,
+					"$y":	4164
+				}
+			},
+			"Imported.Directionality-f3613581-2cc5-420f-853b-f4067ff199ac":	{
+				"$Position":	{
+					"$x":	1415,
+					"$y":	4417
+				}
+			},
+			"Imported.Scanner-68fc7499-9af9-4360-bca3-1cef2af1d7f8":	{
+				"$Position":	{
+					"$x":	1420,
+					"$y":	4272
+				}
+			},
+			"Weight.Weighted.Assignments-97934424-c019-4689-a262-7675c5167bd6":	{
+				"$Position":	{
+					"$x":	-1745,
+					"$y":	4174
+				}
+			},
+			"Constant.Assignments-6e7c4473-be09-439b-a88d-871e9a3ea662":	{
+				"$Position":	{
+					"$x":	-1751,
+					"$y":	4286
+				}
+			},
+			"Column.Prop-35093969-768f-427a-844b-766aa94d08cb":	{
+				"$Position":	{
+					"$x":	-1135,
+					"$y":	4127
+				}
+			},
+			"Block.Column.Prop-39eb06f3-67dc-4ba9-92ee-945ec09b08c2":	{
+				"$Position":	{
+					"$x":	-413,
+					"$y":	4129
+				}
+			},
+			"Material-ce929382-4e88-4b37-9219-e1ea8c314558":	{
+				"$Position":	{
+					"$x":	-1,
+					"$y":	4129
+				}
+			},
+			"Block.Column.Prop-384a75ab-230f-4cfe-9404-e36de426764b":	{
+				"$Position":	{
+					"$x":	-416,
+					"$y":	4279
+				}
+			},
+			"Material-948b5c89-6c08-4fdb-88ca-c853efad67ce":	{
+				"$Position":	{
+					"$x":	-7,
+					"$y":	4282
+				}
+			},
+			"Imported.Directionality-f57ed8ea-5eb9-4247-a6b3-288378d446a7":	{
+				"$Position":	{
+					"$x":	-1019,
+					"$y":	4495
+				}
+			},
+			"Imported.Scanner-ee7f08ef-4287-4a3e-a234-4d432a62a912":	{
+				"$Position":	{
+					"$x":	-1014,
+					"$y":	4350
+				}
+			},
+			"Weight.Weighted.Assignments-a30ae498-42f7-4b93-8986-0261ea53386a":	{
+				"$Position":	{
+					"$x":	-1747,
+					"$y":	4722
+				}
+			},
+			"Constant.Assignments-dd9a6166-68a4-4fd0-96c8-36741988c5c6":	{
+				"$Position":	{
+					"$x":	-1753,
+					"$y":	4834
+				}
+			},
+			"Column.Prop-0646bdc9-b364-4e7a-902a-4d3713fd54d6":	{
+				"$Position":	{
+					"$x":	-1137,
+					"$y":	4675
+				}
+			},
+			"Block.Column.Prop-c3e28788-1ed4-4984-a371-7b8c52b2e33f":	{
+				"$Position":	{
+					"$x":	-415,
+					"$y":	4677
+				}
+			},
+			"Material-b7eb5d36-81d5-4561-ad79-78db32fc608d":	{
+				"$Position":	{
+					"$x":	-3,
+					"$y":	4677
+				}
+			},
+			"Block.Column.Prop-73d9ee82-416e-487b-9394-052d83621075":	{
+				"$Position":	{
+					"$x":	-418,
+					"$y":	4827
+				}
+			},
+			"Material-a979691a-c89a-4561-aea3-cf5ddf7e8f88":	{
+				"$Position":	{
+					"$x":	-9,
+					"$y":	4830
+				}
+			},
+			"Imported.Directionality-addd30af-a400-4abd-9358-c41bd3bd504c":	{
+				"$Position":	{
+					"$x":	-1021,
+					"$y":	5043
+				}
+			},
+			"Imported.Scanner-e8d2046a-f311-4df6-a4dc-60f7ad8eb8cd":	{
+				"$Position":	{
+					"$x":	-1016,
+					"$y":	4898
+				}
+			},
+			"Weight.Weighted.Assignments-55a869ea-7d8d-47ba-b3ae-0f6abc8a0bbc":	{
+				"$Position":	{
+					"$x":	-1748,
+					"$y":	5251
+				}
+			},
+			"Constant.Assignments-f1a60222-1c2d-42e8-a14a-2f67214740a3":	{
+				"$Position":	{
+					"$x":	-1754,
+					"$y":	5363
+				}
+			},
+			"Column.Prop-a1534e3f-35d9-4d4c-b83b-1dc46757f094":	{
+				"$Position":	{
+					"$x":	-1138,
+					"$y":	5204
+				}
+			},
+			"Block.Column.Prop-2284f0ec-24af-4814-af31-fbdee6dc2cf9":	{
+				"$Position":	{
+					"$x":	-416,
+					"$y":	5206
+				}
+			},
+			"Material-7823aee9-b2ec-4063-bbec-e885f3f54a4b":	{
+				"$Position":	{
+					"$x":	-5,
+					"$y":	5206
+				}
+			},
+			"Block.Column.Prop-3a127513-c44a-4c5a-bd81-aea4e7ceadac":	{
+				"$Position":	{
+					"$x":	-419,
+					"$y":	5356
+				}
+			},
+			"Material-a1308511-b45c-4405-b384-b490626a52da":	{
+				"$Position":	{
+					"$x":	-11,
+					"$y":	5359
+				}
+			},
+			"Imported.Directionality-5bd9ad8a-1337-4ff4-b9f5-7645b20201e1":	{
+				"$Position":	{
+					"$x":	-1022,
+					"$y":	5572
+				}
+			},
+			"Imported.Scanner-a60a8877-8b35-4260-90fa-5969971c5d4c":	{
+				"$Position":	{
+					"$x":	-1017,
+					"$y":	5427
+				}
+			},
+			"Runtime-a914c3c7-d56b-4b16-8648-632e77499f0c":	{
+				"$Position":	{
+					"$x":	3518,
+					"$y":	2958
+				}
+			},
+			"Mesh2DPositions-4d28ef47-6953-43d7-a2c3-754191e0475f":	{
+				"$Position":	{
+					"$x":	3685,
+					"$y":	2694
+				}
+			},
+			"MeshPointGenerator-0fdb6d4f-848d-41fe-9695-902c5a9ede40":	{
+				"$Position":	{
+					"$x":	4395,
+					"$y":	2698
+				}
+			},
+			"Weighted.Assignments-109d57fa-efa8-4f88-a6ac-546f08eb9486":	{
+				"$Position":	{
+					"$x":	4121,
+					"$y":	3068
+				}
+			},
+			"Weight.Weighted.Assignments-c81f110b-ee4b-4093-8d8f-4ed7a5e14944":	{
+				"$Position":	{
+					"$x":	4872,
+					"$y":	2794
+				}
+			},
+			"Constant.Assignments-03ba39ed-3f32-42d1-86dc-47683e875639":	{
+				"$Position":	{
+					"$x":	5393,
+					"$y":	2799
+				}
+			},
+			"Column.Prop-2237f5cd-23af-486a-8951-9308dadb5f34":	{
+				"$Position":	{
+					"$x":	6039,
+					"$y":	2786
+				}
+			},
+			"Block.Column.Prop-a93db6dc-16a1-443b-a788-8181b7889afc":	{
+				"$Position":	{
+					"$x":	6782,
+					"$y":	2760
+				}
+			},
+			"Material-3d568c2f-2a19-4a83-b4e6-95fb07284a4e":	{
+				"$Position":	{
+					"$x":	7225,
+					"$y":	2727
+				}
+			},
+			"Static.Directionality-0e300cb5-419f-45cf-9bdc-55c0ef42807c":	{
+				"$Position":	{
+					"$x":	6779,
+					"$y":	2882
+				}
+			},
+			"Floor.Pattern-7560c2ff-800b-422b-96ac-1fd449791542":	{
+				"$Position":	{
+					"$x":	7396,
+					"$y":	2882
+				}
+			},
+			"BlockType.Pattern-d3989fb3-4509-47e6-8341-232396de3d31":	{
+				"$Position":	{
+					"$x":	8036,
+					"$y":	2746
+				}
+			},
+			"Material-934db44b-5162-447d-b8e8-2c63863369a4":	{
+				"$Position":	{
+					"$x":	8649,
+					"$y":	2743
+				}
+			},
+			"BlockType.Pattern-cfff86bb-2533-472b-ac8c-ee30d0f724af":	{
+				"$Position":	{
+					"$x":	8037,
+					"$y":	2892
+				}
+			},
+			"Material-f34e9a45-eb23-4b83-a818-0fe625a65e17":	{
+				"$Position":	{
+					"$x":	8655,
+					"$y":	2893
+				}
+			},
+			"Imported.Scanner-b8cf6391-0bc0-48cd-b11d-47468c317047":	{
+				"$Position":	{
+					"$x":	6788,
+					"$y":	2589
+				}
+			},
+			"Weight.Weighted.Assignments-ec9119d7-a2af-4ae8-830b-e197e282ee69":	{
+				"$Position":	{
+					"$x":	4866,
+					"$y":	3136
+				}
+			},
+			"Constant.Assignments-6b51946f-661f-4b25-88bb-4b42790d52e9":	{
+				"$Position":	{
+					"$x":	5428,
+					"$y":	3138
+				}
+			},
+			"Column.Prop-166c19ef-0973-491c-a9a3-5a94ab6dda51":	{
+				"$Position":	{
+					"$x":	6088,
+					"$y":	3128
+				}
+			},
+			"Block.Column.Prop-1c66ea20-03d9-4fac-84ae-6ed4cea4748e":	{
+				"$Position":	{
+					"$x":	6816,
+					"$y":	3099
+				}
+			},
+			"Material-e33c35fe-b71f-4eaa-96b8-6480a15fe745":	{
+				"$Position":	{
+					"$x":	7259,
+					"$y":	3066
+				}
+			},
+			"Imported.Directionality-3e20f5d6-31d6-4df5-b2b4-b7704789999f":	{
+				"$Position":	{
+					"$x":	6815,
+					"$y":	3211
+				}
+			},
+			"Imported.Scanner-3662f110-5a61-4619-bac5-7a70c9c39fe4":	{
+				"$Position":	{
+					"$x":	6816,
+					"$y":	3320
+				}
+			},
+			"Weight.Weighted.Assignments-b0a7d99a-5778-448b-91dd-e49e746b0e42":	{
+				"$Position":	{
+					"$x":	4883,
+					"$y":	3557
+				}
+			},
+			"Constant.Assignments-4c833719-9bdf-43e6-9e06-8c2a787dc0b9":	{
+				"$Position":	{
+					"$x":	5445,
+					"$y":	3559
+				}
+			},
+			"Column.Prop-7f37fc5e-fb4f-482a-bdd6-809b7ac47f8a":	{
+				"$Position":	{
+					"$x":	6105,
+					"$y":	3549
+				}
+			},
+			"Block.Column.Prop-098d7ab5-0cd8-4c66-988a-d368ca7fda29":	{
+				"$Position":	{
+					"$x":	6832,
+					"$y":	3520
+				}
+			},
+			"Material-6b2dc4e0-59b7-492d-b481-724224c8b018":	{
+				"$Position":	{
+					"$x":	7275,
+					"$y":	3487
+				}
+			},
+			"Imported.Directionality-a8e6f0bd-95b2-4a8a-b072-bfc005a438fd":	{
+				"$Position":	{
+					"$x":	6831,
+					"$y":	3632
+				}
+			},
+			"Imported.Scanner-6e9fe256-89f7-495d-a671-24f6e14eff6e":	{
+				"$Position":	{
+					"$x":	6837,
+					"$y":	3943
+				}
+			},
+			"Runtime-9d5bed97-3528-46f4-996e-ded5276259ed":	{
+				"$Position":	{
+					"$x":	-3415,
+					"$y":	6037
+				}
+			},
+			"Mesh2DPositions-e18706e7-3287-4853-948c-8e67c9ab57f5":	{
+				"$Position":	{
+					"$x":	-2731,
+					"$y":	5940
+				}
+			},
+			"MeshPointGenerator-1621c9c8-7c2f-4112-b249-79dedf193837":	{
+				"$Position":	{
+					"$x":	-2010,
+					"$y":	5938
+				}
+			},
+			"FieldFunction.Assignments-8ebffefc-ac63-4bd1-9d48-d1b481da683f":	{
+				"$Position":	{
+					"$x":	-2856,
+					"$y":	6531
+				}
+			},
+			"NormalizerDensityNode-6ca622fe-6196-4a0d-af9f-5bfeab9757e4":	{
+				"$Position":	{
+					"$x":	-2734,
+					"$y":	6188
+				}
+			},
+			"SimplexNoise2DDensityNode-cf489808-f1ad-456f-b275-f21287994ad8":	{
+				"$Position":	{
+					"$x":	-2113,
+					"$y":	6188
+				}
+			},
+			"Delimiter.FieldFunction.Assignments-8ca58485-1766-4f5f-a8fc-f35f3fe4d8d1":	{
+				"$Position":	{
+					"$x":	-2182,
+					"$y":	6529
+				}
+			},
+			"Constant.Assignments-d5697199-87b5-4ede-85c2-ed5a7d97af5f":	{
+				"$Position":	{
+					"$x":	-1710,
+					"$y":	6527
+				},
+				"$Title":	"Constant Assnments"
+			},
+			"Cluster.Prop-97e93791-655d-4439-b248-e5d632be0aea":	{
+				"$Position":	{
+					"$x":	-1040,
+					"$y":	6525
+				}
+			},
+			"ManualCurve-fda064da-5024-4aa2-b98b-8a27bd6657f8":	{
+				"$Position":	{
+					"$x":	-1469,
+					"$y":	6292
+				}
+			},
+			"CurvePoint-c0ec77d7-b3c0-488f-8989-fcc3c06bda47":	{
+				"$Position":	{
+					"$x":	-790,
+					"$y":	5980
+				}
+			},
+			"CurvePoint-828a841d-ae33-4414-9320-b926f08b9faf":	{
+				"$Position":	{
+					"$x":	-795,
+					"$y":	6139
+				}
+			},
+			"CurvePoint-6e82d7f4-d277-4102-87df-6605157ba211":	{
+				"$Position":	{
+					"$x":	-795,
+					"$y":	6290
+				}
+			},
+			"Weighted.Cluster.Prop-68dde46a-b3a9-4da5-997f-97935e6bd02f":	{
+				"$Position":	{
+					"$x":	-202,
+					"$y":	5995
+				}
+			},
+			"Column.Prop-4fdce7b0-a487-4bf4-b1dc-7fbb0462a313":	{
+				"$Position":	{
+					"$x":	252,
+					"$y":	5996
+				}
+			},
+			"Block.Column.Prop-c4a7cd41-092a-491d-8302-c5f768a1639f":	{
+				"$Position":	{
+					"$x":	946,
+					"$y":	5998
+				}
+			},
+			"Material-3d9c7457-acd1-49d9-a1e1-677248ecfa9f":	{
+				"$Position":	{
+					"$x":	1383,
+					"$y":	5993
+				}
+			},
+			"Static.Directionality-52df2cdc-1a17-43b3-a42e-fef6037231b8":	{
+				"$Position":	{
+					"$x":	936,
+					"$y":	6148
+				}
+			},
+			"Imported.Pattern-ab9ed5dd-6403-444d-9368-54b9b79375d3":	{
+				"$Position":	{
+					"$x":	1568,
+					"$y":	6152
+				}
+			},
+			"Imported.Scanner-95a924b1-3b9f-413e-ab8d-cef33f9261f1":	{
+				"$Position":	{
+					"$x":	2155,
+					"$y":	6058
+				}
+			},
+			"Weighted.Cluster.Prop-d9520174-19d3-4b47-828c-2bd0ef564e8a":	{
+				"$Position":	{
+					"$x":	-208,
+					"$y":	6385
+				}
+			},
+			"Column.Prop-ff92735e-1c3a-40cd-a8af-18295b92fca7":	{
+				"$Position":	{
+					"$x":	251,
+					"$y":	6386
+				}
+			},
+			"Block.Column.Prop-5fe643c5-83c9-44c1-8f02-4d6c47500864":	{
+				"$Position":	{
+					"$x":	941,
+					"$y":	6388
+				}
+			},
+			"Material-1192719b-18c7-4c1c-a679-ae8389118a09":	{
+				"$Position":	{
+					"$x":	1378,
+					"$y":	6384
+				}
+			},
+			"Static.Directionality-137c8620-a4bc-432c-a83a-2ac563c26887":	{
+				"$Position":	{
+					"$x":	935,
+					"$y":	6539
+				}
+			},
+			"Imported.Pattern-f0aad1dd-f887-4776-94c1-34b368000c91":	{
+				"$Position":	{
+					"$x":	1567,
+					"$y":	6542
+				}
+			},
+			"Imported.Scanner-2776fd47-0317-41d3-ac6d-0bb764744b0b":	{
+				"$Position":	{
+					"$x":	2152,
+					"$y":	6448
+				}
+			},
+			"Weighted.Cluster.Prop-ba139f6a-d49b-4eba-b203-a30196bd8432":	{
+				"$Position":	{
+					"$x":	-226,
+					"$y":	6739
+				}
+			},
+			"Column.Prop-7c730d25-5485-4b98-abe3-d173854f1e3a":	{
+				"$Position":	{
+					"$x":	235,
+					"$y":	6780
+				}
+			},
+			"Block.Column.Prop-e40087a6-5964-41c8-97a5-39ea3855f56d":	{
+				"$Position":	{
+					"$x":	925,
+					"$y":	6782
+				}
+			},
+			"Material-e76f3c53-34e3-4529-a2db-69f70948a592":	{
+				"$Position":	{
+					"$x":	1362,
+					"$y":	6778
+				}
+			},
+			"Static.Directionality-3be1fb2c-9dba-4b58-b840-34dae14ce596":	{
+				"$Position":	{
+					"$x":	919,
+					"$y":	6933
+				}
+			},
+			"Imported.Pattern-9205d182-fd5f-4a57-8a0c-a349bc7c386f":	{
+				"$Position":	{
+					"$x":	1551,
+					"$y":	6936
+				}
+			},
+			"Imported.Scanner-1c3ce0cf-2b8d-4857-9362-65193efc968f":	{
+				"$Position":	{
+					"$x":	2151,
+					"$y":	6872
+				}
+			},
+			"Weighted.Cluster.Prop-61043f50-d9b1-457b-9f96-9491507bdfa4":	{
+				"$Position":	{
+					"$x":	-226,
+					"$y":	7143
+				}
+			},
+			"Column.Prop-2f9a14b5-3e78-4099-96e2-2a1d1ea0e861":	{
+				"$Position":	{
+					"$x":	233,
+					"$y":	7144
+				}
+			},
+			"Block.Column.Prop-456013bb-ef0f-41f6-b219-fd9c0ae43da5":	{
+				"$Position":	{
+					"$x":	923,
+					"$y":	7146
+				}
+			},
+			"Material-3bf52b6d-e7d7-4d77-8d15-cb8e79d973fc":	{
+				"$Position":	{
+					"$x":	1360,
+					"$y":	7141
+				}
+			},
+			"Static.Directionality-7edaa6d4-ccff-4e73-ad6f-fc2c096ceb74":	{
+				"$Position":	{
+					"$x":	917,
+					"$y":	7296
+				}
+			},
+			"Imported.Pattern-0ef75c0c-554c-4d00-b596-d0130173b8d6":	{
+				"$Position":	{
+					"$x":	1549,
+					"$y":	7300
+				}
+			},
+			"Imported.Scanner-f4300657-361c-4eed-8312-b0688374151e":	{
+				"$Position":	{
+					"$x":	2136,
+					"$y":	7206
+				}
+			},
+			"Weighted.Cluster.Prop-3c7b69c7-bb4a-45c3-8b50-a8680e9503d9":	{
+				"$Position":	{
+					"$x":	-227,
+					"$y":	7533
+				}
+			},
+			"Column.Prop-5b6313bc-fb22-4ef7-859a-77364fbbab04":	{
+				"$Position":	{
+					"$x":	232,
+					"$y":	7534
+				}
+			},
+			"Block.Column.Prop-d6e80ee8-2746-4026-8512-980902e320f3":	{
+				"$Position":	{
+					"$x":	922,
+					"$y":	7536
+				}
+			},
+			"Material-856c86d3-f712-4644-b3db-70034a0a9643":	{
+				"$Position":	{
+					"$x":	1359,
+					"$y":	7532
+				}
+			},
+			"Static.Directionality-dbbd606b-0058-455c-9c25-ddca179cf284":	{
+				"$Position":	{
+					"$x":	916,
+					"$y":	7687
+				}
+			},
+			"Imported.Pattern-0c5fe872-d27f-4e95-831b-d41a290fed2d":	{
+				"$Position":	{
+					"$x":	1548,
+					"$y":	7690
+				}
+			},
+			"Imported.Scanner-dee0191f-634a-40b4-b4ac-190858dcb200":	{
+				"$Position":	{
+					"$x":	2133,
+					"$y":	7596
+				}
+			},
+			"Weighted.Cluster.Prop-03796068-8d9f-43e3-9ce4-38522a6ce278":	{
+				"$Position":	{
+					"$x":	-245,
+					"$y":	7886
+				}
+			},
+			"Column.Prop-c0a8a964-2c4f-46ec-b818-2e4a9ff4d524":	{
+				"$Position":	{
+					"$x":	216,
+					"$y":	7928
+				}
+			},
+			"Block.Column.Prop-389b2674-dbd0-4ab6-a91a-440519c09dec":	{
+				"$Position":	{
+					"$x":	906,
+					"$y":	7930
+				}
+			},
+			"Material-f970444b-0ca8-43ba-a47e-3b5ec537141b":	{
+				"$Position":	{
+					"$x":	1343,
+					"$y":	7926
+				}
+			},
+			"Static.Directionality-f16a3217-bf35-420f-b73d-e2349b1c4015":	{
+				"$Position":	{
+					"$x":	900,
+					"$y":	8081
+				}
+			},
+			"Imported.Pattern-6c5bc95b-b3d3-4f28-b06a-f60575679648":	{
+				"$Position":	{
+					"$x":	1532,
+					"$y":	8084
+				}
+			},
+			"Imported.Scanner-9c27a5ca-0c13-4d46-bf44-df047e6f28ae":	{
+				"$Position":	{
+					"$x":	2132,
+					"$y":	8020
+				}
+			},
+			"Weighted.Cluster.Prop-4d9fe465-871a-4b5c-8552-3bc33ba1819a":	{
+				"$Position":	{
+					"$x":	-264,
+					"$y":	8305
+				}
+			},
+			"Column.Prop-f49ba80c-c868-46f0-998f-48d8caeb669a":	{
+				"$Position":	{
+					"$x":	195,
+					"$y":	8306
+				}
+			},
+			"Block.Column.Prop-a0be4334-8201-4cae-9dd8-08b173e54954":	{
+				"$Position":	{
+					"$x":	885,
+					"$y":	8308
+				}
+			},
+			"Material-10e1db05-2c28-4941-b5b1-f3393093effe":	{
+				"$Position":	{
+					"$x":	1322,
+					"$y":	8303
+				}
+			},
+			"Static.Directionality-f3418fdf-ef6b-47f5-bbd3-dcb38fd83ab9":	{
+				"$Position":	{
+					"$x":	879,
+					"$y":	8458
+				}
+			},
+			"Imported.Pattern-46d7dc22-4a53-4ea3-8c32-4cfc533a8f72":	{
+				"$Position":	{
+					"$x":	1511,
+					"$y":	8462
+				}
+			},
+			"Imported.Scanner-f46695a6-f0b6-48d6-a4d8-3fd3b25e9e7c":	{
+				"$Position":	{
+					"$x":	2098,
+					"$y":	8368
+				}
+			},
+			"Weighted.Cluster.Prop-756d23d4-d38c-4df8-8ff9-054bc47c3fc7":	{
+				"$Position":	{
+					"$x":	-265,
+					"$y":	8695
+				}
+			},
+			"Column.Prop-ebe17984-7bc1-46f2-9f8f-ccb7382f80f2":	{
+				"$Position":	{
+					"$x":	194,
+					"$y":	8696
+				}
+			},
+			"Block.Column.Prop-627f96af-0cf7-4162-8516-d64f539c2d3b":	{
+				"$Position":	{
+					"$x":	884,
+					"$y":	8698
+				}
+			},
+			"Material-fef76ffa-bee2-44b0-88af-911593849769":	{
+				"$Position":	{
+					"$x":	1321,
+					"$y":	8694
+				}
+			},
+			"Static.Directionality-68262c07-0485-41a4-9501-9414345a295a":	{
+				"$Position":	{
+					"$x":	878,
+					"$y":	8849
+				}
+			},
+			"Imported.Pattern-cdeb4ea8-dc22-470e-8f0b-d852c7b883da":	{
+				"$Position":	{
+					"$x":	1510,
+					"$y":	8852
+				}
+			},
+			"Imported.Scanner-5d57f61f-63f9-4d88-8f4a-4cfab6290c9b":	{
+				"$Position":	{
+					"$x":	2095,
+					"$y":	8758
+				}
+			},
+			"Weighted.Cluster.Prop-f51cc7d6-3208-45e9-a0e0-a27fea2c6c31":	{
+				"$Position":	{
+					"$x":	-283,
+					"$y":	9048
+				}
+			},
+			"Column.Prop-9089dc90-feb8-49b8-94df-1d40a4eac34f":	{
+				"$Position":	{
+					"$x":	178,
+					"$y":	9090
+				}
+			},
+			"Block.Column.Prop-d9080d42-bf89-41c9-b648-333d45a15cfa":	{
+				"$Position":	{
+					"$x":	868,
+					"$y":	9092
+				}
+			},
+			"Material-dc8f152f-ae15-46a0-b6c1-bf3e9e551daa":	{
+				"$Position":	{
+					"$x":	1305,
+					"$y":	9088
+				}
+			},
+			"Static.Directionality-39f5c8af-d0e7-4cef-bdf0-8d01d2e865e0":	{
+				"$Position":	{
+					"$x":	862,
+					"$y":	9243
+				}
+			},
+			"Imported.Pattern-dbf1e2da-73c3-4285-ae5f-36b925078160":	{
+				"$Position":	{
+					"$x":	1494,
+					"$y":	9246
+				}
+			},
+			"Imported.Scanner-0eb8ba91-adea-449d-ad30-8731baa678e5":	{
+				"$Position":	{
+					"$x":	2094,
+					"$y":	9182
+				}
+			},
+			"Imported.Pattern-f24345d1-6f21-4925-a903-34a2ce919a06":	{
+				"$Position":	{
+					"$x":	-903,
+					"$y":	6778
+				}
+			},
+			"Imported.Scanner-60b0ef80-6631-4b95-be34-d8b8dccf358b":	{
+				"$Position":	{
+					"$x":	-907,
+					"$y":	6940
+				}
+			},
+			"DensityDelimited.EnvironmentProvider-cf5205af-de3f-40db-a75f-c7364811ceae":	{
+				"$Position":	{
+					"$x":	-3258,
+					"$y":	11937
+				}
+			},
+			"CurveMapper.Density-c51eb293-167d-4ed3-8016-e11e09e31fa7":	{
+				"$Position":	{
+					"$x":	-2606,
+					"$y":	11904
+				}
+			},
+			"ManualCurve-a2dc7af0-1a67-4b89-8051-861740ae3512":	{
+				"$Position":	{
+					"$x":	-2019,
+					"$y":	12017
+				}
+			},
+			"CurvePoint-9027045b-7f8f-489d-9d14-840471637545":	{
+				"$Position":	{
+					"$x":	-1408,
+					"$y":	12005
+				}
+			},
+			"CurvePoint-574fe70a-7a7e-4808-a397-a82debccad7e":	{
+				"$Position":	{
+					"$x":	-1405,
+					"$y":	12173
+				}
+			},
+			"BaseHeight.Density-1a289b54-8894-4167-a21b-071cb45d970e":	{
+				"$Position":	{
+					"$x":	-2010,
+					"$y":	11790
+				}
+			},
+			"Delimiter.DensityDelimited.EnvironmentProvider-a8c9b03d-e3fc-4087-99a5-e96c0788d8a7":	{
+				"$Position":	{
+					"$x":	-2597,
+					"$y":	12214
+				}
+			},
+			"Constant.EnvironmentProvider-ecd32f79-d7dd-4ac9-9244-a887225a99c8":	{
+				"$Position":	{
+					"$x":	-2348,
+					"$y":	12210
+				}
+			},
+			"Decimal.Range-e07f93b8-82fa-4afe-a7ad-88adf9e2e677":	{
+				"$Position":	{
+					"$x":	-2350,
+					"$y":	12367
+				}
+			},
+			"Delimiter.DensityDelimited.EnvironmentProvider-30cd69eb-6a88-4f54-8437-92db323ad2a0":	{
+				"$Position":	{
+					"$x":	-2605,
+					"$y":	12590
+				}
+			},
+			"Constant.EnvironmentProvider-7cf1316c-74de-41b7-ae6d-7ac6a7d6aaf0":	{
+				"$Position":	{
+					"$x":	-2366,
+					"$y":	12586
+				}
+			},
+			"Decimal.Range-05631c47-2fdf-41fe-b514-238aca2956d9":	{
+				"$Position":	{
+					"$x":	-2368,
+					"$y":	12742
+				}
+			},
+			"DensityDelimited.TintProvider-c1c6bec6-d11c-4a0f-8352-caa6d0fd4fbf":	{
+				"$Position":	{
+					"$x":	-3262,
+					"$y":	10168
+				}
+			},
+			"SimplexNoise2DDensityNode-6c781a00-17e3-4960-a04b-61463b7c01be":	{
+				"$Position":	{
+					"$x":	-1607,
+					"$y":	9986
+				}
+			},
+			"Delimiter.DensityDelimited.TintProvider-f15e6678-43b8-4096-b515-239323615af1":	{
+				"$Position":	{
+					"$x":	-2519,
+					"$y":	10273
+				}
+			},
+			"Constant.TintProvider-e807906f-07b2-4f6b-978e-d038e3469f07":	{
+				"$Position":	{
+					"$x":	-2180,
+					"$y":	10183
+				}
+			},
+			"Decimal.Range-ff5a46ec-1343-473e-a47f-e81c1cb5daa3":	{
+				"$Position":	{
+					"$x":	-2186,
+					"$y":	10341
+				}
+			},
+			"Delimiter.DensityDelimited.TintProvider-1212b6d6-a9c7-411c-96ba-6ab60a656b7d":	{
+				"$Position":	{
+					"$x":	-2490,
+					"$y":	10647
+				}
+			},
+			"Constant.TintProvider-a4a133d8-b21b-4502-91f1-a45c9b2fac4f":	{
+				"$Position":	{
+					"$x":	-2184,
+					"$y":	10584
+				}
+			},
+			"Decimal.Range-617e8d94-414b-4bee-872e-3353b9aa2f91":	{
+				"$Position":	{
+					"$x":	-2197,
+					"$y":	10730
+				}
+			},
+			"Delimiter.DensityDelimited.TintProvider-bff9a077-d1cd-4b8b-8ed2-9bdc253f26d5":	{
+				"$Position":	{
+					"$x":	-2472,
+					"$y":	11092
+				}
+			},
+			"Constant.TintProvider-4de28b36-e21e-4085-967d-8fc7a8010503":	{
+				"$Position":	{
+					"$x":	-2212,
+					"$y":	11019
+				}
+			},
+			"Decimal.Range-4d075a63-10cf-44ce-9bb6-ac139375e278":	{
+				"$Position":	{
+					"$x":	-2206,
+					"$y":	11164
+				}
+			},
+			"DelimiterFieldFunctionMP-a0a99865-ff86-48b1-bdee-64aae5c0c50b":	{
+				"$Position":	{
+					"$x":	-1841,
+					"$y":	-2074
+				}
+			},
+			"ConstantMaterialProvider-2c60c066-eee4-4f26-bad4-a08e93241266":	{
+				"$Position":	{
+					"$x":	-1401,
+					"$y":	-2068
+				}
+			},
+			"Material-6f1cce94-2a8f-4487-89f5-6fd7dc0c0e11":	{
+				"$Position":	{
+					"$x":	-766,
+					"$y":	-2078
+				}
+			},
+			"SimplexNoise2DDensityNode-1dff8226-6a3f-465c-9ae0-a09fb38f6b29":	{
+				"$Position":	{
+					"$x":	-2570,
+					"$y":	2965
+				}
+			},
+			"FieldFunction.Assignments-bfd00312-ab13-4ace-b734-5d2ff96cf666":	{
+				"$Position":	{
+					"$x":	-3262,
+					"$y":	3161
+				}
+			},
+			"Delimiter.FieldFunction.Assignments-9a9962e9-24c7-4029-9209-30d397ec1d66":	{
+				"$Position":	{
+					"$x":	-2567,
+					"$y":	3305
+				}
+			},
+			"Runtime-aa9e2132-b84e-4c6f-b854-414815f742f6":	{
+				"$Position":	{
+					"$x":	3603,
+					"$y":	4482
+				}
+			},
+			"Mesh2DPositions-5a06117d-d77f-42ce-9c5e-7e9f054bffc2":	{
+				"$Position":	{
+					"$x":	4287,
+					"$y":	4385
+				}
+			},
+			"MeshPointGenerator-8f4627bb-4ed5-4d8b-b624-2ee0bb122add":	{
+				"$Position":	{
+					"$x":	5008,
+					"$y":	4383
+				}
+			},
+			"FieldFunction.Assignments-82ad9a4b-3ea0-48ab-9674-7ee1941846cc":	{
+				"$Position":	{
+					"$x":	4162,
+					"$y":	4976
+				}
+			},
+			"SimplexNoise2DDensityNode-2eb468e3-11a2-4719-b4a8-a9f0bba7a9a0":	{
+				"$Position":	{
+					"$x":	4905,
+					"$y":	4633
+				}
+			},
+			"Delimiter.FieldFunction.Assignments-f7a90fd1-1ef3-457a-a061-817390767ee1":	{
+				"$Position":	{
+					"$x":	4836,
+					"$y":	4974
+				}
+			},
+			"Constant.Assignments-3401043f-0db0-4db4-b53c-0fea5b5ec2d3":	{
+				"$Position":	{
+					"$x":	5308,
+					"$y":	4972
+				},
+				"$Title":	"Constant Assnments"
+			},
+			"Cluster.Prop-826a2577-c17e-4004-9e5a-78476d5a27d6":	{
+				"$Position":	{
+					"$x":	5978,
+					"$y":	4970
+				}
+			},
+			"ManualCurve-2b24d9d5-781d-4aa0-8ed2-e98e70a39f77":	{
+				"$Position":	{
+					"$x":	5549,
+					"$y":	4737
+				}
+			},
+			"CurvePoint-dc3a012f-f551-42f5-9f6d-3bfc7e8b180d":	{
+				"$Position":	{
+					"$x":	6228,
+					"$y":	4425
+				}
+			},
+			"CurvePoint-ccb0e763-c3a7-4b17-899c-b0d9ded022d3":	{
+				"$Position":	{
+					"$x":	6223,
+					"$y":	4584
+				}
+			},
+			"CurvePoint-e53326c5-2c16-4869-b767-bce5445c8829":	{
+				"$Position":	{
+					"$x":	6223,
+					"$y":	4735
+				}
+			},
+			"Weighted.Cluster.Prop-029b0874-9607-44cd-8056-b7f383daaef3":	{
+				"$Position":	{
+					"$x":	6739,
+					"$y":	4443
+				}
+			},
+			"Column.Prop-c7a4e968-efda-49f8-b80a-211bd19041e5":	{
+				"$Position":	{
+					"$x":	7198,
+					"$y":	4444
+				}
+			},
+			"Block.Column.Prop-639500b0-4134-4271-aaba-42c9c32c7a6a":	{
+				"$Position":	{
+					"$x":	7888,
+					"$y":	4446
+				}
+			},
+			"Material-bd987b87-f8d5-4202-b815-a3fc35b79683":	{
+				"$Position":	{
+					"$x":	8325,
+					"$y":	4441
+				}
+			},
+			"Static.Directionality-8ea50b25-2bbd-4431-9781-bb1fe2c20b7d":	{
+				"$Position":	{
+					"$x":	7882,
+					"$y":	4596
+				}
+			},
+			"Imported.Pattern-a9607f44-3863-4201-8e7c-ab268940801b":	{
+				"$Position":	{
+					"$x":	8514,
+					"$y":	4600
+				}
+			},
+			"Imported.Scanner-cd2f43f3-5e44-4f1c-9a6d-d43d6e91b212":	{
+				"$Position":	{
+					"$x":	9101,
+					"$y":	4506
+				}
+			},
+			"Weighted.Cluster.Prop-73cf1a0f-a8a7-4511-bf2f-e5f6a33a50b1":	{
+				"$Position":	{
+					"$x":	6738,
+					"$y":	4833
+				}
+			},
+			"Column.Prop-b6a2a3d5-895a-43ad-b704-183476c6f364":	{
+				"$Position":	{
+					"$x":	7197,
+					"$y":	4834
+				}
+			},
+			"Block.Column.Prop-5dd92bbf-ba00-4f31-9a5c-03e508d2952a":	{
+				"$Position":	{
+					"$x":	7887,
+					"$y":	4836
+				}
+			},
+			"Material-3f9dcf4e-5baa-4f45-8584-1d58dd51ffb3":	{
+				"$Position":	{
+					"$x":	8324,
+					"$y":	4832
+				}
+			},
+			"Static.Directionality-4c799ae3-4da8-4969-89e4-fbffe4855130":	{
+				"$Position":	{
+					"$x":	7881,
+					"$y":	4987
+				}
+			},
+			"Imported.Pattern-109115cb-4b01-476f-9b5d-bafbfe337d14":	{
+				"$Position":	{
+					"$x":	8513,
+					"$y":	4990
+				}
+			},
+			"Imported.Scanner-d36450ce-6b19-459d-a9ab-2daef5ba77d7":	{
+				"$Position":	{
+					"$x":	9098,
+					"$y":	4896
+				}
+			},
+			"Weighted.Cluster.Prop-78397eee-673d-43eb-a170-2dd7ff89ff63":	{
+				"$Position":	{
+					"$x":	6720,
+					"$y":	5186
+				}
+			},
+			"Column.Prop-450d6dd2-46af-4998-bd96-7f4dcc482b1a":	{
+				"$Position":	{
+					"$x":	7181,
+					"$y":	5228
+				}
+			},
+			"Block.Column.Prop-22aace20-7aab-47ab-a10c-107cd8461bac":	{
+				"$Position":	{
+					"$x":	7871,
+					"$y":	5230
+				}
+			},
+			"Material-d4966ed1-00f2-4b51-9a79-f5cf362e81ae":	{
+				"$Position":	{
+					"$x":	8308,
+					"$y":	5226
+				}
+			},
+			"Static.Directionality-06a910ed-28df-4294-af4f-08b33174a4a1":	{
+				"$Position":	{
+					"$x":	7865,
+					"$y":	5381
+				}
+			},
+			"Imported.Pattern-f845541d-aca4-42fb-89e0-e1bf6141075c":	{
+				"$Position":	{
+					"$x":	8497,
+					"$y":	5384
+				}
+			},
+			"Imported.Scanner-82388e63-2064-4397-aa7f-222caf0b7de8":	{
+				"$Position":	{
+					"$x":	9097,
+					"$y":	5320
+				}
+			},
+			"Imported.Pattern-04b693a0-898e-4643-b901-310fd7c9585f":	{
+				"$Position":	{
+					"$x":	6115,
+					"$y":	5223
+				}
+			},
+			"Imported.Scanner-4f972864-c6f6-4a88-ac9b-413035f2731f":	{
+				"$Position":	{
+					"$x":	6111,
+					"$y":	5385
+				}
+			},
+			"SimplexNoise2DDensityNode-47b3ff41-7aba-40e9-826c-8c262f278e25":	{
+				"$Position":	{
+					"$x":	-1003,
+					"$y":	-8642
+				}
+			},
+			"NormalizerDensityNode-2c294992-2277-4d21-b55e-7d7067f8e0d1":	{
+				"$Position":	{
+					"$x":	-1604,
+					"$y":	-8647
+				}
+			},
+			"MaxDensityNode-6f35f009-23c3-4d5f-9a66-d1cb57f351fe":	{
+				"$Position":	{
+					"$x":	-2176,
+					"$y":	-8347
+				}
+			}
+		},
+		"$FloatingNodes":	[{
+				"$NodeId":	"DelimiterFieldFunctionMP-a0a99865-ff86-48b1-bdee-64aae5c0c50b",
+				"From":	0.4,
+				"To":	0.5,
+				"Material":	{
+					"$NodeId":	"ConstantMaterialProvider-2c60c066-eee4-4f26-bad4-a08e93241266",
+					"Type":	"Constant",
+					"Material":	{
+						"$NodeId":	"Material-6f1cce94-2a8f-4487-89f5-6fd7dc0c0e11",
+						"Solid":	"Soil_Clay_Red"
+					}
+				}
+			}],
+		"$Links":	{
+			"9579fdbc-74fe-47bd-975c-974046bd78fb":	{
+				"$Position":	{
+					"$x":	-3678,
+					"$y":	-738
+				},
+				"inputConnections":	["Biome-d93ee171-b80d-4a03-892a-41226331e03a:PropsPin"],
+				"outputConnections":	["Runtime-1465d3fe-3bd6-433f-ae15-e9991e64eb08:Output", "Runtime-91431155-2bf5-4fd1-a7f2-5aec54ee6ba6:Output", "Runtime-877024b0-c78d-4bbc-a1a7-9160bc1e1f25:Output", "Runtime-c9376ca1-9202-48cf-98cf-9e1403a5da1e:Output", "Runtime-a914c3c7-d56b-4b16-8648-632e77499f0c:Output", "Runtime-c0ab5962-4ada-4791-bf8a-04d19a5fc6e0:Output", "Runtime-aa9e2132-b84e-4c6f-b854-414815f742f6:Output", "Runtime-9d5bed97-3528-46f4-996e-ded5276259ed:Output"],
+				"sourceEndpoint":	"Biome-d93ee171-b80d-4a03-892a-41226331e03a:PropsPin",
+				"targetEndpoint":	"Runtime-1465d3fe-3bd6-433f-ae15-e9991e64eb08:Output"
+			}
+		},
+		"$Groups":	[{
+				"$Position":	{
+					"$x":	-1301,
+					"$y":	-6011.4375
+				},
+				"$width":	2319.875,
+				"$height":	938.9375,
+				"$name":	"Ground level"
+			}, {
+				"$Position":	{
+					"$x":	-1232.8125,
+					"$y":	-9732.5
+				},
+				"$width":	2854.75,
+				"$height":	1377.4375,
+				"$name":	"Pillars"
+			}, {
+				"$Position":	{
+					"$x":	-1214.375,
+					"$y":	-8312.125
+				},
+				"$width":	2823.5,
+				"$height":	1219.5,
+				"$name":	"Top floor"
+			}, {
+				"$Position":	{
+					"$x":	-1260.75,
+					"$y":	-5018.375
+				},
+				"$width":	2511.625,
+				"$height":	803.75,
+				"$name":	"Post_Topfloor"
+			}, {
+				"$Position":	{
+					"$x":	-3404.375,
+					"$y":	9858.8125
+				},
+				"$width":	2453.75,
+				"$height":	1609.4375,
+				"$name":	"Tints"
+			}, {
+				"$Position":	{
+					"$x":	-3393,
+					"$y":	11681
+				},
+				"$width":	2418.75,
+				"$height":	1353.875,
+				"$name":	"Environments"
+			}, {
+				"$Position":	{
+					"$x":	-3259.9375,
+					"$y":	-951.125
+				},
+				"$width":	5798.0625,
+				"$height":	1306.625,
+				"$name":	"Large Boomshrooms"
+			}, {
+				"$Position":	{
+					"$x":	-3335.4375,
+					"$y":	332.375
+				},
+				"$width":	6134.5,
+				"$height":	1681.25,
+				"$name":	"Boomshroom Clusters"
+			}, {
+				"$Position":	{
+					"$x":	3367.1875,
+					"$y":	-1166.75
+				},
+				"$width":	6051,
+				"$height":	1628.3125,
+				"$name":	"Dead Trees"
+			}, {
+				"$Position":	{
+					"$x":	3414.75,
+					"$y":	565.5625
+				},
+				"$width":	6046.75,
+				"$height":	1914.6875,
+				"$name":	"Marrow Grass Clusters"
+			}, {
+				"$Position":	{
+					"$x":	3490.8125,
+					"$y":	2551.125
+				},
+				"$width":	6046.75,
+				"$height":	1714.6875,
+				"$name":	"Marrow Grass Clusters"
+			}, {
+				"$Position":	{
+					"$x":	-3198.125,
+					"$y":	4028.4375
+				},
+				"$width":	6109,
+				"$height":	2147.0625,
+				"$name":	"Cactus"
+			}, {
+				"$Position":	{
+					"$x":	-3442.25,
+					"$y":	5898.3125
+				},
+				"$width":	6134.5,
+				"$height":	3885,
+				"$name":	"Submarrow Foliage"
+			}, {
+				"$Position":	{
+					"$x":	3554,
+					"$y":	4311.5625
+				},
+				"$width":	6212.625,
+				"$height":	1381.75,
+				"$name":	"Submarrow Foliage"
+			}],
+		"$Comments":	[],
+		"$WorkspaceID":	"HytaleGenerator - Biome"
+	}
+}

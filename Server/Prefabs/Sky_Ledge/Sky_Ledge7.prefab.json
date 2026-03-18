@@ -1,0 +1,858 @@
+{
+  "version": 8,
+  "blockIdVersion": 11,
+  "anchorX": 0,
+  "anchorY": 0,
+  "anchorZ": 0,
+  "blocks": [
+    {
+      "x": -3,
+      "y": -1,
+      "z": -1,
+      "name": "Rock_Marble"
+    },
+    {
+      "x": -3,
+      "y": 0,
+      "z": -1,
+      "name": "Rock_Marble"
+    },
+    {
+      "x": -3,
+      "y": 1,
+      "z": -1,
+      "name": "Soil_Pebbles"
+    },
+    {
+      "x": -3,
+      "y": -1,
+      "z": 0,
+      "name": "Rock_Marble"
+    },
+    {
+      "x": -3,
+      "y": 0,
+      "z": 0,
+      "name": "Soil_Pebbles",
+      "support": 15
+    },
+    {
+      "x": -3,
+      "y": 1,
+      "z": 0,
+      "name": "Soil_Pebbles",
+      "support": 15
+    },
+    {
+      "x": -3,
+      "y": -1,
+      "z": 1,
+      "name": "Rock_Marble"
+    },
+    {
+      "x": -3,
+      "y": 0,
+      "z": 1,
+      "name": "Soil_Pebbles",
+      "support": 15
+    },
+    {
+      "x": -3,
+      "y": -1,
+      "z": 2,
+      "name": "Rock_Marble"
+    },
+    {
+      "x": -3,
+      "y": 0,
+      "z": 2,
+      "name": "Soil_Pebbles",
+      "support": 15
+    },
+    {
+      "x": -3,
+      "y": 1,
+      "z": 2,
+      "name": "Soil_Pebbles",
+      "support": 15
+    },
+    {
+      "x": -2,
+      "y": -1,
+      "z": -2,
+      "name": "Rock_Marble"
+    },
+    {
+      "x": -2,
+      "y": 0,
+      "z": -2,
+      "name": "Rock_Marble"
+    },
+    {
+      "x": -2,
+      "y": 1,
+      "z": -2,
+      "name": "Soil_Pebbles"
+    },
+    {
+      "x": -2,
+      "y": 2,
+      "z": -2,
+      "name": "Rubble_Marble_Medium",
+      "support": 15
+    },
+    {
+      "x": -2,
+      "y": -1,
+      "z": -1,
+      "name": "Rock_Marble"
+    },
+    {
+      "x": -2,
+      "y": 0,
+      "z": -1,
+      "name": "Soil_Pebbles",
+      "support": 15
+    },
+    {
+      "x": -2,
+      "y": 1,
+      "z": -1,
+      "name": "Soil_Pebbles",
+      "support": 15
+    },
+    {
+      "x": -2,
+      "y": -1,
+      "z": 0,
+      "name": "Rock_Marble"
+    },
+    {
+      "x": -2,
+      "y": 0,
+      "z": 0,
+      "name": "Soil_Pebbles",
+      "support": 15
+    },
+    {
+      "x": -2,
+      "y": 2,
+      "z": 0,
+      "name": "Plant_Flower_Water_White"
+    },
+    {
+      "x": -2,
+      "y": -1,
+      "z": 1,
+      "name": "Rock_Marble"
+    },
+    {
+      "x": -2,
+      "y": 0,
+      "z": 1,
+      "name": "Soil_Pebbles",
+      "support": 15
+    },
+    {
+      "x": -2,
+      "y": -1,
+      "z": 2,
+      "name": "Rock_Marble"
+    },
+    {
+      "x": -2,
+      "y": 0,
+      "z": 2,
+      "name": "Rock_Marble"
+    },
+    {
+      "x": -2,
+      "y": 1,
+      "z": 2,
+      "name": "Soil_Pebbles",
+      "support": 15
+    },
+    {
+      "x": -2,
+      "y": 2,
+      "z": 2,
+      "name": "Rubble_Marble",
+      "support": 15
+    },
+    {
+      "x": -2,
+      "y": -1,
+      "z": 3,
+      "name": "Rock_Marble"
+    },
+    {
+      "x": -2,
+      "y": 0,
+      "z": 3,
+      "name": "Rock_Marble"
+    },
+    {
+      "x": -2,
+      "y": 1,
+      "z": 3,
+      "name": "Soil_Pebbles",
+      "support": 15
+    },
+    {
+      "x": -1,
+      "y": -1,
+      "z": -3,
+      "name": "Rock_Marble"
+    },
+    {
+      "x": -1,
+      "y": 0,
+      "z": -3,
+      "name": "Rock_Marble"
+    },
+    {
+      "x": -1,
+      "y": 1,
+      "z": -3,
+      "name": "Soil_Pebbles"
+    },
+    {
+      "x": -1,
+      "y": -1,
+      "z": -2,
+      "name": "Rock_Marble"
+    },
+    {
+      "x": -1,
+      "y": 0,
+      "z": -2,
+      "name": "Soil_Pebbles",
+      "support": 15
+    },
+    {
+      "x": -1,
+      "y": 1,
+      "z": -2,
+      "name": "Soil_Pebbles",
+      "support": 15
+    },
+    {
+      "x": -1,
+      "y": -1,
+      "z": -1,
+      "name": "Rock_Marble"
+    },
+    {
+      "x": -1,
+      "y": -1,
+      "z": 0,
+      "name": "Rock_Marble"
+    },
+    {
+      "x": -1,
+      "y": -1,
+      "z": 1,
+      "name": "Rock_Marble"
+    },
+    {
+      "x": -1,
+      "y": 0,
+      "z": 1,
+      "name": "Soil_Pebbles",
+      "support": 15
+    },
+    {
+      "x": -1,
+      "y": 2,
+      "z": 1,
+      "name": "Plant_Flower_Water_Green"
+    },
+    {
+      "x": -1,
+      "y": -1,
+      "z": 2,
+      "name": "Rock_Marble"
+    },
+    {
+      "x": -1,
+      "y": 0,
+      "z": 2,
+      "name": "Soil_Pebbles",
+      "support": 15
+    },
+    {
+      "x": -1,
+      "y": -1,
+      "z": 3,
+      "name": "Rock_Marble"
+    },
+    {
+      "x": -1,
+      "y": 0,
+      "z": 3,
+      "name": "Rock_Marble"
+    },
+    {
+      "x": -1,
+      "y": 1,
+      "z": 3,
+      "name": "Soil_Pebbles"
+    },
+    {
+      "x": 0,
+      "y": -1,
+      "z": -3,
+      "name": "Rock_Marble"
+    },
+    {
+      "x": 0,
+      "y": 0,
+      "z": -3,
+      "name": "Soil_Pebbles",
+      "support": 15
+    },
+    {
+      "x": 0,
+      "y": 1,
+      "z": -3,
+      "name": "Soil_Pebbles"
+    },
+    {
+      "x": 0,
+      "y": 2,
+      "z": -3,
+      "name": "Rubble_Marble",
+      "support": 15
+    },
+    {
+      "x": 0,
+      "y": -1,
+      "z": -2,
+      "name": "Rock_Marble"
+    },
+    {
+      "x": 0,
+      "y": 0,
+      "z": -2,
+      "name": "Soil_Pebbles",
+      "support": 15
+    },
+    {
+      "x": 0,
+      "y": 1,
+      "z": -2,
+      "name": "Soil_Pebbles",
+      "support": 15
+    },
+    {
+      "x": 0,
+      "y": -1,
+      "z": -1,
+      "name": "Rock_Marble"
+    },
+    {
+      "x": 0,
+      "y": 2,
+      "z": -1,
+      "name": "Plant_Flower_Water_Green"
+    },
+    {
+      "x": 0,
+      "y": -1,
+      "z": 0,
+      "name": "Rock_Marble"
+    },
+    {
+      "x": 0,
+      "y": -1,
+      "z": 1,
+      "name": "Rock_Marble"
+    },
+    {
+      "x": 0,
+      "y": 0,
+      "z": 1,
+      "name": "Soil_Pebbles",
+      "support": 15
+    },
+    {
+      "x": 0,
+      "y": -1,
+      "z": 2,
+      "name": "Rock_Marble"
+    },
+    {
+      "x": 0,
+      "y": 0,
+      "z": 2,
+      "name": "Soil_Pebbles",
+      "support": 15
+    },
+    {
+      "x": 0,
+      "y": 1,
+      "z": 2,
+      "name": "Plant_Reeds_Arid",
+      "support": 15
+    },
+    {
+      "x": 0,
+      "y": 2,
+      "z": 2,
+      "name": "Plant_Reeds_Arid",
+      "filler": 1024
+    },
+    {
+      "x": 0,
+      "y": -1,
+      "z": 3,
+      "name": "Rock_Marble"
+    },
+    {
+      "x": 0,
+      "y": 0,
+      "z": 3,
+      "name": "Rock_Marble"
+    },
+    {
+      "x": 0,
+      "y": 1,
+      "z": 3,
+      "name": "Soil_Pebbles"
+    },
+    {
+      "x": 1,
+      "y": -1,
+      "z": -3,
+      "name": "Rock_Marble"
+    },
+    {
+      "x": 1,
+      "y": 0,
+      "z": -3,
+      "name": "Soil_Pebbles",
+      "support": 15
+    },
+    {
+      "x": 1,
+      "y": 1,
+      "z": -3,
+      "name": "Soil_Pebbles",
+      "support": 15
+    },
+    {
+      "x": 1,
+      "y": -1,
+      "z": -2,
+      "name": "Rock_Marble"
+    },
+    {
+      "x": 1,
+      "y": 0,
+      "z": -2,
+      "name": "Rock_Marble"
+    },
+    {
+      "x": 1,
+      "y": 1,
+      "z": -2,
+      "name": "Soil_Pebbles"
+    },
+    {
+      "x": 1,
+      "y": -1,
+      "z": -1,
+      "name": "Rock_Marble"
+    },
+    {
+      "x": 1,
+      "y": 0,
+      "z": -1,
+      "name": "Soil_Pebbles",
+      "support": 15
+    },
+    {
+      "x": 1,
+      "y": -1,
+      "z": 0,
+      "name": "Rock_Marble"
+    },
+    {
+      "x": 1,
+      "y": 0,
+      "z": 0,
+      "name": "Soil_Pebbles",
+      "support": 15
+    },
+    {
+      "x": 1,
+      "y": -1,
+      "z": 1,
+      "name": "Rock_Marble"
+    },
+    {
+      "x": 1,
+      "y": 0,
+      "z": 1,
+      "name": "Soil_Pebbles",
+      "support": 15
+    },
+    {
+      "x": 1,
+      "y": 1,
+      "z": 1,
+      "name": "Plant_Reeds_Arid",
+      "support": 15
+    },
+    {
+      "x": 1,
+      "y": 2,
+      "z": 1,
+      "name": "Plant_Reeds_Arid",
+      "filler": 1024
+    },
+    {
+      "x": 1,
+      "y": -1,
+      "z": 2,
+      "name": "Rock_Marble"
+    },
+    {
+      "x": 1,
+      "y": 0,
+      "z": 2,
+      "name": "Rock_Marble"
+    },
+    {
+      "x": 1,
+      "y": 1,
+      "z": 2,
+      "name": "Rock_Marble_SkyGrass"
+    },
+    {
+      "x": 1,
+      "y": -1,
+      "z": 3,
+      "name": "Rock_Marble"
+    },
+    {
+      "x": 1,
+      "y": 0,
+      "z": 3,
+      "name": "Rock_Marble"
+    },
+    {
+      "x": 1,
+      "y": 1,
+      "z": 3,
+      "name": "Soil_Pebbles",
+      "support": 15
+    },
+    {
+      "x": 2,
+      "y": -1,
+      "z": -2,
+      "name": "Rock_Marble"
+    },
+    {
+      "x": 2,
+      "y": 0,
+      "z": -2,
+      "name": "Soil_Pebbles",
+      "support": 15
+    },
+    {
+      "x": 2,
+      "y": 1,
+      "z": -2,
+      "name": "Soil_Pebbles",
+      "support": 15
+    },
+    {
+      "x": 2,
+      "y": -1,
+      "z": -1,
+      "name": "Rock_Marble"
+    },
+    {
+      "x": 2,
+      "y": 0,
+      "z": -1,
+      "name": "Rock_Marble"
+    },
+    {
+      "x": 2,
+      "y": 1,
+      "z": -1,
+      "name": "Soil_Pebbles",
+      "support": 15
+    },
+    {
+      "x": 2,
+      "y": -1,
+      "z": 0,
+      "name": "Rock_Marble"
+    },
+    {
+      "x": 2,
+      "y": 0,
+      "z": 0,
+      "name": "Rock_Marble"
+    },
+    {
+      "x": 2,
+      "y": 1,
+      "z": 0,
+      "name": "Soil_Pebbles",
+      "support": 15
+    },
+    {
+      "x": 2,
+      "y": -1,
+      "z": 1,
+      "name": "Rock_Marble"
+    },
+    {
+      "x": 2,
+      "y": 0,
+      "z": 1,
+      "name": "Rock_Marble"
+    },
+    {
+      "x": 2,
+      "y": 1,
+      "z": 1,
+      "name": "Rock_Marble_SkyGrass"
+    },
+    {
+      "x": 2,
+      "y": 2,
+      "z": 1,
+      "name": "Plant_Grass_Sky",
+      "support": 15
+    },
+    {
+      "x": 2,
+      "y": -1,
+      "z": 2,
+      "name": "Rock_Marble"
+    },
+    {
+      "x": 2,
+      "y": 0,
+      "z": 2,
+      "name": "Rock_Marble"
+    },
+    {
+      "x": 2,
+      "y": 1,
+      "z": 2,
+      "name": "Rock_Marble_SkyGrass"
+    },
+    {
+      "x": 2,
+      "y": 2,
+      "z": 2,
+      "name": "Plant_Grass_Sky_Short",
+      "support": 15
+    },
+    {
+      "x": 3,
+      "y": -1,
+      "z": -1,
+      "name": "Rock_Marble"
+    },
+    {
+      "x": 3,
+      "y": 0,
+      "z": -1,
+      "name": "Rock_Marble"
+    },
+    {
+      "x": 3,
+      "y": 1,
+      "z": -1,
+      "name": "Soil_Pebbles"
+    },
+    {
+      "x": 3,
+      "y": 2,
+      "z": -1,
+      "name": "Rubble_Marble_Medium",
+      "support": 15
+    },
+    {
+      "x": 3,
+      "y": -1,
+      "z": 0,
+      "name": "Rock_Marble"
+    },
+    {
+      "x": 3,
+      "y": 0,
+      "z": 0,
+      "name": "Soil_Pebbles",
+      "support": 15
+    },
+    {
+      "x": 3,
+      "y": 1,
+      "z": 0,
+      "name": "Soil_Pebbles",
+      "support": 15
+    },
+    {
+      "x": 3,
+      "y": -1,
+      "z": 1,
+      "name": "Rock_Marble"
+    },
+    {
+      "x": 3,
+      "y": 0,
+      "z": 1,
+      "name": "Rock_Marble"
+    },
+    {
+      "x": 3,
+      "y": 1,
+      "z": 1,
+      "name": "Rock_Marble_SkyGrass"
+    },
+    {
+      "x": 3,
+      "y": 2,
+      "z": 1,
+      "name": "Plant_Grass_Sky_Short",
+      "support": 15
+    }
+  ],
+  "fluids": [
+    {
+      "x": -3,
+      "y": 1,
+      "z": 1,
+      "name": "Water_Source",
+      "level": 1
+    },
+    {
+      "x": -2,
+      "y": 1,
+      "z": 0,
+      "name": "Water_Source",
+      "level": 1
+    },
+    {
+      "x": -2,
+      "y": 1,
+      "z": 1,
+      "name": "Water_Source",
+      "level": 1
+    },
+    {
+      "x": -1,
+      "y": 0,
+      "z": -1,
+      "name": "Water_Source",
+      "level": 1
+    },
+    {
+      "x": -1,
+      "y": 1,
+      "z": -1,
+      "name": "Water_Source",
+      "level": 1
+    },
+    {
+      "x": -1,
+      "y": 0,
+      "z": 0,
+      "name": "Water_Source",
+      "level": 1
+    },
+    {
+      "x": -1,
+      "y": 1,
+      "z": 0,
+      "name": "Water_Source",
+      "level": 1
+    },
+    {
+      "x": -1,
+      "y": 1,
+      "z": 1,
+      "name": "Water_Source",
+      "level": 1
+    },
+    {
+      "x": -1,
+      "y": 1,
+      "z": 2,
+      "name": "Water_Source",
+      "level": 1
+    },
+    {
+      "x": 0,
+      "y": 0,
+      "z": -1,
+      "name": "Water_Source",
+      "level": 1
+    },
+    {
+      "x": 0,
+      "y": 1,
+      "z": -1,
+      "name": "Water_Source",
+      "level": 1
+    },
+    {
+      "x": 0,
+      "y": 0,
+      "z": 0,
+      "name": "Water_Source",
+      "level": 1
+    },
+    {
+      "x": 0,
+      "y": 1,
+      "z": 0,
+      "name": "Water_Source",
+      "level": 1
+    },
+    {
+      "x": 0,
+      "y": 1,
+      "z": 1,
+      "name": "Water_Source",
+      "level": 1
+    },
+    {
+      "x": 0,
+      "y": 1,
+      "z": 2,
+      "name": "Water_Source",
+      "level": 1
+    },
+    {
+      "x": 1,
+      "y": 1,
+      "z": -1,
+      "name": "Water_Source",
+      "level": 1
+    },
+    {
+      "x": 1,
+      "y": 1,
+      "z": 0,
+      "name": "Water_Source",
+      "level": 1
+    },
+    {
+      "x": 1,
+      "y": 1,
+      "z": 1,
+      "name": "Water_Source",
+      "level": 1
+    }
+  ]
+}

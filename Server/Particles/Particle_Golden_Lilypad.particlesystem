@@ -1,0 +1,23 @@
+{
+  "CullDistance": 10.0,
+  "BoundingRadius": 10.0,
+  "Spawners": [
+    {
+      "SpawnerId": "Spawner_Golden_Lilypad_Particle",
+      "EmitOffset": {
+        "X": {
+          "Min": 0,
+          "Max": 0
+        },
+        "Y": {
+          "Min": 0,
+          "Max": 0
+        },
+        "Z": {
+          "Min": 0,
+          "Max": 0
+        }
+      }
+    }
+  ]
+}

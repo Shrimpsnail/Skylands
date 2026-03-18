@@ -1,0 +1,7 @@
+{
+  "Parent": "Glow_Water_Source",
+  "MaxFluidLevel": 8,
+  "Ticker": {
+    "Type": "Finite"
+  }
+}

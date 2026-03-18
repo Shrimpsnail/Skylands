@@ -1,0 +1,91 @@
+{
+  "TranslationProperties": {
+    "Name": "server.items.Soil_Grass.name"
+  },
+  "ItemLevel": 3,
+  "Icon": "Icons/ItemsGenerated/Rock_Marble_SkyGrass.png",
+  "Categories": [
+    "Blocks.Soils"
+  ],
+  "PlayerAnimationsId": "Block",
+  "Set": "Soil_Grass",
+  "Recipe": {
+    "TimeSeconds": 0,
+    "Input": [
+      {
+        "ResourceTypeId": "Soils",
+        "Quantity": 1
+      },
+      {
+        "ItemId": "Ingredient_Fibre",
+        "Quantity": 1
+      }
+    ],
+    "BenchRequirement": [
+      {
+        "Type": "Crafting",
+        "Id": "Farmingbench",
+        "Categories": [
+          "Decorative"
+        ]
+      }
+    ],
+    "OutputQuantity": 1
+  },
+  "BlockType": {
+    "Material": "Solid",
+    "DrawType": "Cube",
+    "Group": "Grass",
+    "Flags": {},
+    "Gathering": {
+      "Breaking": {
+        "GatherType": "Soils",
+        "ItemId": "Soil_Dirt"
+      }
+    },
+    "BlockParticleSetId": "Grass_Earth",
+    "Textures": [
+      {
+        "Down": "BlockTextures/Rock_Marble.png",
+        "Sides": "Resources/BlockTextures/Rock_Marble_skygrass_side.png",
+        "Up": "BlockTextures/Soil_Grass_GS.png",
+        "Weight": 1
+      }
+    ],
+    "BlockSoundSetId": "Stone",
+    "TextureSideMask": "Resources/BlockTextures/Rock_Marble_skygrass_side_GS.png",
+    "TintUp": [
+      "#ffc434"
+    ],
+    "TransitionTexture": "BlockTextures/Transition_Soil_Grass_GS.png",
+    "TransitionToGroups": [
+      "Stone",
+      "Dirt",
+      "Dirt_Dark",
+      "Sand",
+      "Sand_White",
+      "Gravel",
+      "Wood"
+    ],
+    "ParticleColor": "#eae8e8",
+    "TransitionToTag": "Fluid=Water"
+  },
+  "Tags": {
+    "Type": [
+      "Soil"
+    ]
+  },
+  "IconProperties": {
+    "Scale": 0.5,
+    "Rotation": [
+      339.295,
+      229.107,
+      337.792
+    ],
+    "Translation": [
+      0,
+      -14
+    ]
+  },
+  "ItemSoundSetId": "ISS_Blocks_Stone"
+}

@@ -1,0 +1,335 @@
+{
+  "version": 8,
+  "blockIdVersion": 11,
+  "anchorX": 0,
+  "anchorY": 1,
+  "anchorZ": 0,
+  "blocks": [
+    {
+      "x": -2,
+      "y": -1,
+      "z": -1,
+      "name": "Rock_Marble"
+    },
+    {
+      "x": -2,
+      "y": 0,
+      "z": -1,
+      "name": "Rock_Marble_SkyGrass"
+    },
+    {
+      "x": -2,
+      "y": 1,
+      "z": -1,
+      "name": "Plant_Bush_Sky",
+      "support": 15
+    },
+    {
+      "x": -2,
+      "y": -1,
+      "z": 0,
+      "name": "Rock_Marble"
+    },
+    {
+      "x": -2,
+      "y": 0,
+      "z": 0,
+      "name": "Rock_Marble_SkyGrass"
+    },
+    {
+      "x": -1,
+      "y": -1,
+      "z": -2,
+      "name": "Rock_Marble"
+    },
+    {
+      "x": -1,
+      "y": 0,
+      "z": -2,
+      "name": "Rock_Marble_SkyGrass"
+    },
+    {
+      "x": -1,
+      "y": 1,
+      "z": -2,
+      "name": "Plant_Bush_Sky",
+      "support": 15
+    },
+    {
+      "x": -1,
+      "y": -1,
+      "z": -1,
+      "name": "Rock_Marble"
+    },
+    {
+      "x": -1,
+      "y": 0,
+      "z": -1,
+      "name": "Rock_Marble_SkyGrass"
+    },
+    {
+      "x": -1,
+      "y": -1,
+      "z": 0,
+      "name": "Rock_Marble"
+    },
+    {
+      "x": -1,
+      "y": 0,
+      "z": 0,
+      "name": "Rock_Marble_SkyGrass"
+    },
+    {
+      "x": -1,
+      "y": 1,
+      "z": 0,
+      "name": "Plant_Grass_Sky_Long",
+      "support": 15
+    },
+    {
+      "x": -1,
+      "y": 2,
+      "z": 0,
+      "name": "Plant_Grass_Sky_Long",
+      "filler": 1024
+    },
+    {
+      "x": -1,
+      "y": -1,
+      "z": 1,
+      "name": "Rock_Marble"
+    },
+    {
+      "x": -1,
+      "y": 0,
+      "z": 1,
+      "name": "Rock_Marble_SkyGrass"
+    },
+    {
+      "x": -1,
+      "y": 1,
+      "z": 1,
+      "name": "Rubble_Marble_Medium",
+      "support": 15
+    },
+    {
+      "x": 0,
+      "y": -1,
+      "z": -2,
+      "name": "Rock_Marble"
+    },
+    {
+      "x": 0,
+      "y": 0,
+      "z": -2,
+      "name": "Rock_Marble_SkyGrass"
+    },
+    {
+      "x": 0,
+      "y": 1,
+      "z": -2,
+      "name": "Plant_Grass_Sky_Short",
+      "support": 15
+    },
+    {
+      "x": 0,
+      "y": -1,
+      "z": -1,
+      "name": "Rock_Marble"
+    },
+    {
+      "x": 0,
+      "y": 0,
+      "z": -1,
+      "name": "Rock_Marble_SkyGrass"
+    },
+    {
+      "x": 0,
+      "y": 1,
+      "z": -1,
+      "name": "Plant_Grass_Sky_Long",
+      "support": 15
+    },
+    {
+      "x": 0,
+      "y": 2,
+      "z": -1,
+      "name": "Plant_Grass_Sky_Long",
+      "filler": 1024
+    },
+    {
+      "x": 0,
+      "y": -1,
+      "z": 0,
+      "name": "Rock_Marble"
+    },
+    {
+      "x": 0,
+      "y": 0,
+      "z": 0,
+      "name": "Rock_Marble_SkyGrass"
+    },
+    {
+      "x": 0,
+      "y": 1,
+      "z": 0,
+      "name": "Rock_Marble_Brick_Pillar_Middle"
+    },
+    {
+      "x": 0,
+      "y": 2,
+      "z": 0,
+      "name": "Rock_Marble_Brick_Pillar_Middle"
+    },
+    {
+      "x": 0,
+      "y": 3,
+      "z": 0,
+      "name": "Rubble_Marble",
+      "support": 15
+    },
+    {
+      "x": 0,
+      "y": -1,
+      "z": 1,
+      "name": "Rock_Marble"
+    },
+    {
+      "x": 0,
+      "y": 0,
+      "z": 1,
+      "name": "Rock_Marble_SkyGrass"
+    },
+    {
+      "x": 0,
+      "y": 1,
+      "z": 1,
+      "name": "Plant_Grass_Sky_Long",
+      "support": 15
+    },
+    {
+      "x": 0,
+      "y": 2,
+      "z": 1,
+      "name": "Plant_Grass_Sky_Long",
+      "filler": 1024
+    },
+    {
+      "x": 1,
+      "y": -1,
+      "z": -2,
+      "name": "Rock_Marble"
+    },
+    {
+      "x": 1,
+      "y": 0,
+      "z": -2,
+      "name": "Rock_Marble_SkyGrass"
+    },
+    {
+      "x": 1,
+      "y": -1,
+      "z": -1,
+      "name": "Rock_Marble"
+    },
+    {
+      "x": 1,
+      "y": 0,
+      "z": -1,
+      "name": "Rock_Marble_SkyGrass"
+    },
+    {
+      "x": 1,
+      "y": 1,
+      "z": -1,
+      "name": "Rubble_Marble",
+      "support": 15
+    },
+    {
+      "x": 1,
+      "y": -1,
+      "z": 0,
+      "name": "Rock_Marble"
+    },
+    {
+      "x": 1,
+      "y": 0,
+      "z": 0,
+      "name": "Rock_Marble_SkyGrass"
+    },
+    {
+      "x": 1,
+      "y": -1,
+      "z": 1,
+      "name": "Rock_Marble"
+    },
+    {
+      "x": 1,
+      "y": 0,
+      "z": 1,
+      "name": "Rock_Marble_SkyGrass"
+    },
+    {
+      "x": 2,
+      "y": -1,
+      "z": -1,
+      "name": "Rock_Marble"
+    },
+    {
+      "x": 2,
+      "y": 0,
+      "z": -1,
+      "name": "Rock_Marble_SkyGrass"
+    },
+    {
+      "x": 2,
+      "y": -1,
+      "z": 0,
+      "name": "Rock_Marble"
+    },
+    {
+      "x": 2,
+      "y": 0,
+      "z": 0,
+      "name": "Rock_Marble_SkyGrass"
+    },
+    {
+      "x": 2,
+      "y": 1,
+      "z": 0,
+      "name": "Plant_Grass_Sky_Long",
+      "support": 15
+    },
+    {
+      "x": 2,
+      "y": 2,
+      "z": 0,
+      "name": "Plant_Grass_Sky_Long",
+      "filler": 1024
+    },
+    {
+      "x": 2,
+      "y": -1,
+      "z": 1,
+      "name": "Rock_Marble_SkyGrass"
+    },
+    {
+      "x": 3,
+      "y": -1,
+      "z": -1,
+      "name": "Rock_Marble_SkyGrass"
+    },
+    {
+      "x": 3,
+      "y": -1,
+      "z": 0,
+      "name": "Rock_Marble_SkyGrass"
+    },
+    {
+      "x": 3,
+      "y": -1,
+      "z": 1,
+      "name": "Rock_Marble_SkyGrass"
+    }
+  ]
+}

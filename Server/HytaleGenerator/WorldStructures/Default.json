@@ -1,0 +1,87 @@
+{
+  "Type": "NoiseRange",
+  "Biomes": [
+    {
+      "Biome" : "skylands_base",
+      "Min" : -1,
+      "Max" : -0.8
+    },
+    {
+      "Biome" : "skylands_base",
+      "Min" : -0.8,
+      "Max" : 1
+    }
+  ],
+  "DefaultBiome": "Basic",
+  "DefaultTransitionDistance": 32,
+  "MaxBiomeEdgeDistance" : 32,
+  "Density": {
+    "Type" : "Imported",
+    "Name" : "Biome-Map"
+	},
+
+
+  "Framework" : [
+    {
+      "Type" : "DecimalConstants",
+      "Entries" : [
+        {
+          "Name" : "Base",
+          "Value" : 100
+        },
+
+
+        
+        {
+          "Name" : "Sky_Medium",
+          "Value" : 200
+        },
+
+        {
+          "Name" : "Sky_High",
+          "Value" : 250
+        },
+
+        {
+          "Name" : "Marrows_platform",
+          "Value" : 130
+        },{
+          "Name" : "Marrows_platform_top",
+          "Value" : 133
+        },
+
+
+        {
+          "Name" : "Cliff",
+          "Value" : 160
+        },{
+          "Name" : "Cliff_middle",
+          "Value" : 135
+        },{
+          "Name" : "Cliff_lower",
+          "Value" : 120
+        },{
+          "Name" : "Cliff_caves",
+          "Value" : 110
+        },
+
+
+        {
+          "Name" : "Water",
+          "Value" : 100
+        },
+        {
+          "Name" : "W_Shallows",
+          "Value" : 85
+        },
+
+
+
+        {
+          "Name" : "Bedrock",
+          "Value" : 0
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,152 @@
+{
+  "WaterTint": "#4363bd",
+  "Tags": {
+    "Zone1": []
+  },
+  "WeatherForecasts": {
+    "0": [
+      {
+        "WeatherId": "Sky_Swamp",
+        "Weight": 0
+      }
+    ],
+    "1": [
+      {
+        "WeatherId": "Sky_Swamp",
+        "Weight": 0
+      }
+    ],
+    "2": [
+      {
+        "WeatherId": "Sky_Swamp",
+        "Weight": 0
+      }
+    ],
+    "3": [
+      {
+        "WeatherId": "Sky_Swamp",
+        "Weight": 0
+      }
+    ],
+    "4": [
+      {
+        "WeatherId": "Sky_Swamp",
+        "Weight": 0
+      }
+    ],
+    "5": [
+      {
+        "WeatherId": "Sky_Swamp",
+        "Weight": 0
+      }
+    ],
+    "6": [
+      {
+        "WeatherId": "Sky_Swamp",
+        "Weight": 0
+      }
+    ],
+    "7": [
+      {
+        "WeatherId": "Sky_Swamp",
+        "Weight": 0
+      }
+    ],
+    "8": [
+      {
+        "WeatherId": "Sky_Swamp",
+        "Weight": 0
+      }
+    ],
+    "9": [
+      {
+        "WeatherId": "Sky_Swamp",
+        "Weight": 0
+      }
+    ],
+    "10": [
+      {
+        "WeatherId": "Sky_Swamp",
+        "Weight": 0
+      }
+    ],
+    "11": [
+      {
+        "WeatherId": "Sky_Swamp",
+        "Weight": 0
+      }
+    ],
+    "12": [
+      {
+        "WeatherId": "Sky_Swamp",
+        "Weight": 0
+      }
+    ],
+    "13": [
+      {
+        "WeatherId": "Sky_Swamp",
+        "Weight": 0
+      }
+    ],
+    "14": [
+      {
+        "WeatherId": "Sky_Swamp",
+        "Weight": 0
+      }
+    ],
+    "15": [
+      {
+        "WeatherId": "Sky_Swamp",
+        "Weight": 0
+      }
+    ],
+    "16": [
+      {
+        "WeatherId": "Sky_Swamp",
+        "Weight": 0
+      }
+    ],
+    "17": [
+      {
+        "WeatherId": "Sky_Swamp",
+        "Weight": 0
+      }
+    ],
+    "18": [
+      {
+        "WeatherId": "Sky_Swamp",
+        "Weight": 0
+      }
+    ],
+    "19": [
+      {
+        "WeatherId": "Sky_Swamp",
+        "Weight": 0
+      }
+    ],
+    "20": [
+      {
+        "WeatherId": "Sky_Swamp",
+        "Weight": 0
+      }
+    ],
+    "21": [
+      {
+        "WeatherId": "Sky_Swamp",
+        "Weight": 0
+      }
+    ],
+    "22": [
+      {
+        "WeatherId": "Sky_Swamp",
+        "Weight": 0
+      }
+    ],
+    "23": [
+      {
+        "WeatherId": "Sky_Swamp",
+        "Weight": 0
+      }
+    ]
+  }
+}

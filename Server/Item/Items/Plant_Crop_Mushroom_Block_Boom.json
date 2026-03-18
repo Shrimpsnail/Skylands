@@ -1,0 +1,70 @@
+{
+  "TranslationProperties": {
+    "Name": "server.items.Plant_Crop_Mushroom_Block_Blue.name"
+  },
+  "Categories": [
+    "Blocks.Plants"
+  ],
+  "BlockType": {
+    "Material": "Solid",
+    "DrawType": "Cube",
+    "Group": "SeaLife",
+    "Flags": {},
+    "Gathering": {
+      "Breaking": {
+        "GatherType": "Woods"
+      }
+    },
+    "BlockParticleSetId": "Dust",
+    "Textures": [
+      {
+        "Weight": 60,
+        "Down": "Resources/BlockTextures/Boomshroom_bottom.png",
+        "Up": "Resources/BlockTextures/Boomshroom_top.png",
+        "Sides": "Resources/BlockTextures/Boomshroom_side.png"
+      }
+    ],
+    "ParticleColor": "#ffba34",
+    "BlockSoundSetId": "Mushroom",
+    "Light": {
+      "Radius": 10,
+      "Color": "#eb4"
+    },
+    "Opacity": "Transparent",
+    "MovementSettings": {
+      "IsBouncy": true,
+      "BounceVelocity": 10
+    }
+  },
+  "ResourceTypes": [
+    {
+      "Id": "Mushrooms"
+    },
+    {
+      "Id": "Vegetables"
+    }
+  ],
+  "PlayerAnimationsId": "Block",
+  "Tags": {
+    "Type": [
+      "Plant"
+    ],
+    "Family": [
+      "Crop"
+    ]
+  },
+  "Icon": "Icons/ItemsGenerated/Plant_Crop_Mushroom_Block_Boom.png",
+  "ItemSoundSetId": "ISS_Items_Foliage",
+  "IconProperties": {
+    "Scale": 0.58823,
+    "Rotation": [
+      22.5,
+      45,
+      22.5
+    ],
+    "Translation": [
+      0,
+      -13.5
+    ]
+  }
+}

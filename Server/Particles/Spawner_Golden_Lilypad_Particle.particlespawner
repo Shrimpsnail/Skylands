@@ -1,0 +1,123 @@
+{
+  "RenderMode": "BlendLinear",
+  "EmitOffset": {
+    "X": {
+      "Min": 0,
+      "Max": 0.2
+    },
+    "Y": {
+      "Min": 0,
+      "Max": 0.1
+    },
+    "Z": {
+      "Min": 0,
+      "Max": 0.2
+    }
+  },
+  "ParticleRotationInfluence": "Billboard",
+  "LightInfluence": 0,
+  "ParticleLifeSpan": {
+    "Min": 1,
+    "Max": 3
+  },
+  "ParticleRotateWithSpawner": false,
+  "TrailSpawnerPositionMultiplier": 1,
+  "TrailSpawnerRotationMultiplier": 1,
+  "SpawnRate": {
+    "Min": 0.5,
+    "Max": 2
+  },
+  "TotalParticles": {
+    "Min": -1,
+    "Max": -1
+  },
+  "InitialVelocity": {
+    "Speed": {
+      "Min": 0.02,
+      "Max": 0.1
+    },
+    "Pitch": {
+      "Min": 90,
+      "Max": 90
+    },
+    "Yaw": {
+      "Min": 0,
+      "Max": 0
+    }
+  },
+  "Particle": {
+    "Texture": "Particles/Textures/Basic/Ball3.png",
+    "FrameSize": {
+      "Width": 64,
+      "Height": 64
+    },
+    "ScaleRatioConstraint": "OneToOne",
+    "Animation": {
+      "0": {
+        "Color": "#ffc72a"
+      },
+      "10": {
+        "Scale": {
+          "X": {
+            "Min": 1,
+            "Max": 1
+          },
+          "Y": {
+            "Min": 1,
+            "Max": 1
+          }
+        },
+        "Opacity": 1,
+        "Color": "#ffdd7d"
+      },
+      "100": {
+        "Color": "#ff9a00",
+        "Opacity": 0
+      }
+    },
+    "InitialAnimationFrame": {
+      "Rotation": {
+        "X": {
+          "Min": 0,
+          "Max": 0
+        },
+        "Y": {
+          "Min": -90,
+          "Max": -90
+        },
+        "Z": {
+          "Min": 0,
+          "Max": 0
+        }
+      },
+      "Scale": {
+        "X": {
+          "Min": 0.2,
+          "Max": 0.4
+        },
+        "Y": {
+          "Min": 0.2,
+          "Max": 0.4
+        }
+      },
+      "Opacity": 0.748,
+      "Color": "#fff09e"
+    }
+  },
+  "Shape": "Cube",
+  "UseEmitDirection": true,
+  "ParticleCollision": {
+    "Action": "Linger",
+    "BlockType": "None"
+  },
+  "Attractors": [
+    {
+      "DampingMultiplier": {
+        "Y": 0.98
+      },
+      "LinearImpulse": {
+        "Y": 0.5
+      }
+    }
+  ]
+}

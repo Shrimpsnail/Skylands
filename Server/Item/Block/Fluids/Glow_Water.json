@@ -1,0 +1,8 @@
+{
+  "Parent": "Glow_Water_Source",
+  "MaxFluidLevel": 8,
+  "Ticker": {
+    "CanDemote": true,
+    "SupportedBy": "Glow_Water_Source"
+  }
+}

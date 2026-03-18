@@ -1,0 +1,8129 @@
+{
+  "version": 8,
+  "blockIdVersion": 11,
+  "anchorX": 0,
+  "anchorY": 41,
+  "anchorZ": 0,
+  "blocks": [
+    {
+      "x": -11,
+      "y": 45,
+      "z": 1,
+      "name": "Wood_Birch_Branch_Long",
+      "support": 15,
+      "rotation": 5
+    },
+    {
+      "x": -10,
+      "y": 41,
+      "z": -1,
+      "name": "Furniture_Ancient_Platform",
+      "rotation": 1
+    },
+    {
+      "x": -10,
+      "y": 41,
+      "z": 0,
+      "name": "Furniture_Ancient_Platform",
+      "rotation": 1
+    },
+    {
+      "x": -10,
+      "y": 45,
+      "z": 1,
+      "name": "Wood_Birch_Branch_Long",
+      "support": 15,
+      "rotation": 5
+    },
+    {
+      "x": -9,
+      "y": 41,
+      "z": -1,
+      "name": "Furniture_Ancient_Platform",
+      "rotation": 1
+    },
+    {
+      "x": -9,
+      "y": 41,
+      "z": 0,
+      "name": "Furniture_Ancient_Platform",
+      "rotation": 1
+    },
+    {
+      "x": -9,
+      "y": 1,
+      "z": 1,
+      "name": "Deco_Rope"
+    },
+    {
+      "x": -9,
+      "y": 2,
+      "z": 1,
+      "name": "Deco_Rope"
+    },
+    {
+      "x": -9,
+      "y": 3,
+      "z": 1,
+      "name": "Deco_Rope"
+    },
+    {
+      "x": -9,
+      "y": 4,
+      "z": 1,
+      "name": "Deco_Rope"
+    },
+    {
+      "x": -9,
+      "y": 5,
+      "z": 1,
+      "name": "Deco_Rope"
+    },
+    {
+      "x": -9,
+      "y": 6,
+      "z": 1,
+      "name": "Deco_Rope"
+    },
+    {
+      "x": -9,
+      "y": 7,
+      "z": 1,
+      "name": "Deco_Rope"
+    },
+    {
+      "x": -9,
+      "y": 8,
+      "z": 1,
+      "name": "Deco_Rope"
+    },
+    {
+      "x": -9,
+      "y": 9,
+      "z": 1,
+      "name": "Deco_Rope"
+    },
+    {
+      "x": -9,
+      "y": 10,
+      "z": 1,
+      "name": "Deco_Rope"
+    },
+    {
+      "x": -9,
+      "y": 11,
+      "z": 1,
+      "name": "Deco_Rope"
+    },
+    {
+      "x": -9,
+      "y": 12,
+      "z": 1,
+      "name": "Deco_Rope"
+    },
+    {
+      "x": -9,
+      "y": 13,
+      "z": 1,
+      "name": "Deco_Rope"
+    },
+    {
+      "x": -9,
+      "y": 14,
+      "z": 1,
+      "name": "Deco_Rope"
+    },
+    {
+      "x": -9,
+      "y": 15,
+      "z": 1,
+      "name": "Deco_Rope"
+    },
+    {
+      "x": -9,
+      "y": 16,
+      "z": 1,
+      "name": "Deco_Rope"
+    },
+    {
+      "x": -9,
+      "y": 17,
+      "z": 1,
+      "name": "Deco_Rope"
+    },
+    {
+      "x": -9,
+      "y": 18,
+      "z": 1,
+      "name": "Deco_Rope"
+    },
+    {
+      "x": -9,
+      "y": 19,
+      "z": 1,
+      "name": "Deco_Rope"
+    },
+    {
+      "x": -9,
+      "y": 20,
+      "z": 1,
+      "name": "Deco_Rope"
+    },
+    {
+      "x": -9,
+      "y": 21,
+      "z": 1,
+      "name": "Deco_Rope"
+    },
+    {
+      "x": -9,
+      "y": 22,
+      "z": 1,
+      "name": "Deco_Rope"
+    },
+    {
+      "x": -9,
+      "y": 23,
+      "z": 1,
+      "name": "Deco_Rope"
+    },
+    {
+      "x": -9,
+      "y": 24,
+      "z": 1,
+      "name": "Deco_Rope"
+    },
+    {
+      "x": -9,
+      "y": 25,
+      "z": 1,
+      "name": "Deco_Rope"
+    },
+    {
+      "x": -9,
+      "y": 26,
+      "z": 1,
+      "name": "Deco_Rope"
+    },
+    {
+      "x": -9,
+      "y": 27,
+      "z": 1,
+      "name": "Deco_Rope"
+    },
+    {
+      "x": -9,
+      "y": 28,
+      "z": 1,
+      "name": "Deco_Rope"
+    },
+    {
+      "x": -9,
+      "y": 29,
+      "z": 1,
+      "name": "Deco_Rope"
+    },
+    {
+      "x": -9,
+      "y": 30,
+      "z": 1,
+      "name": "Deco_Rope"
+    },
+    {
+      "x": -9,
+      "y": 31,
+      "z": 1,
+      "name": "Deco_Rope"
+    },
+    {
+      "x": -9,
+      "y": 32,
+      "z": 1,
+      "name": "Deco_Rope"
+    },
+    {
+      "x": -9,
+      "y": 33,
+      "z": 1,
+      "name": "Deco_Rope"
+    },
+    {
+      "x": -9,
+      "y": 34,
+      "z": 1,
+      "name": "Deco_Rope"
+    },
+    {
+      "x": -9,
+      "y": 35,
+      "z": 1,
+      "name": "Deco_Rope"
+    },
+    {
+      "x": -9,
+      "y": 36,
+      "z": 1,
+      "name": "Deco_Rope"
+    },
+    {
+      "x": -9,
+      "y": 37,
+      "z": 1,
+      "name": "Deco_Rope"
+    },
+    {
+      "x": -9,
+      "y": 38,
+      "z": 1,
+      "name": "Deco_Rope"
+    },
+    {
+      "x": -9,
+      "y": 39,
+      "z": 1,
+      "name": "Deco_Rope"
+    },
+    {
+      "x": -9,
+      "y": 40,
+      "z": 1,
+      "name": "Deco_Rope"
+    },
+    {
+      "x": -9,
+      "y": 41,
+      "z": 1,
+      "name": "Deco_Rope"
+    },
+    {
+      "x": -9,
+      "y": 42,
+      "z": 1,
+      "name": "Deco_Rope"
+    },
+    {
+      "x": -9,
+      "y": 43,
+      "z": 1,
+      "name": "Deco_Rope"
+    },
+    {
+      "x": -9,
+      "y": 44,
+      "z": 1,
+      "name": "Deco_Rope"
+    },
+    {
+      "x": -9,
+      "y": 45,
+      "z": 1,
+      "name": "Wood_Birch_Trunk",
+      "support": 15,
+      "rotation": 5
+    },
+    {
+      "x": -8,
+      "y": 41,
+      "z": -1,
+      "name": "Furniture_Ancient_Platform",
+      "rotation": 1
+    },
+    {
+      "x": -8,
+      "y": 41,
+      "z": 0,
+      "name": "Furniture_Ancient_Platform",
+      "rotation": 1
+    },
+    {
+      "x": -8,
+      "y": 41,
+      "z": 1,
+      "name": "Furniture_Ancient_Platform",
+      "rotation": 1
+    },
+    {
+      "x": -8,
+      "y": 45,
+      "z": 1,
+      "name": "Wood_Birch_Trunk",
+      "support": 15,
+      "rotation": 5
+    },
+    {
+      "x": -8,
+      "y": 41,
+      "z": 2,
+      "name": "Furniture_Ancient_Platform",
+      "rotation": 1
+    },
+    {
+      "x": -7,
+      "y": 39,
+      "z": -2,
+      "name": "Rock_Marble"
+    },
+    {
+      "x": -7,
+      "y": 40,
+      "z": -2,
+      "name": "Rock_Marble"
+    },
+    {
+      "x": -7,
+      "y": 41,
+      "z": -2,
+      "name": "Rock_Marble_SkyGrass"
+    },
+    {
+      "x": -7,
+      "y": 39,
+      "z": -1,
+      "name": "Rock_Marble"
+    },
+    {
+      "x": -7,
+      "y": 40,
+      "z": -1,
+      "name": "Rock_Marble"
+    },
+    {
+      "x": -7,
+      "y": 41,
+      "z": -1,
+      "name": "Rock_Marble_SkyGrass"
+    },
+    {
+      "x": -7,
+      "y": 39,
+      "z": 0,
+      "name": "Rock_Marble"
+    },
+    {
+      "x": -7,
+      "y": 40,
+      "z": 0,
+      "name": "Rock_Marble"
+    },
+    {
+      "x": -7,
+      "y": 41,
+      "z": 0,
+      "name": "Rock_Marble_SkyGrass"
+    },
+    {
+      "x": -7,
+      "y": 39,
+      "z": 1,
+      "name": "Rock_Marble"
+    },
+    {
+      "x": -7,
+      "y": 40,
+      "z": 1,
+      "name": "Rock_Marble"
+    },
+    {
+      "x": -7,
+      "y": 41,
+      "z": 1,
+      "name": "Rock_Marble_SkyGrass"
+    },
+    {
+      "x": -7,
+      "y": 45,
+      "z": 1,
+      "name": "Wood_Birch_Trunk",
+      "support": 15,
+      "rotation": 5
+    },
+    {
+      "x": -7,
+      "y": 39,
+      "z": 2,
+      "name": "Rock_Marble"
+    },
+    {
+      "x": -7,
+      "y": 40,
+      "z": 2,
+      "name": "Rock_Marble"
+    },
+    {
+      "x": -7,
+      "y": 41,
+      "z": 2,
+      "name": "Rock_Marble_SkyGrass"
+    },
+    {
+      "x": -6,
+      "y": 39,
+      "z": -4,
+      "name": "Rock_Marble"
+    },
+    {
+      "x": -6,
+      "y": 40,
+      "z": -4,
+      "name": "Rock_Marble"
+    },
+    {
+      "x": -6,
+      "y": 41,
+      "z": -4,
+      "name": "Rock_Marble_SkyGrass"
+    },
+    {
+      "x": -6,
+      "y": 39,
+      "z": -3,
+      "name": "Rock_Marble"
+    },
+    {
+      "x": -6,
+      "y": 40,
+      "z": -3,
+      "name": "Rock_Marble"
+    },
+    {
+      "x": -6,
+      "y": 41,
+      "z": -3,
+      "name": "Rock_Marble_SkyGrass"
+    },
+    {
+      "x": -6,
+      "y": 39,
+      "z": -2,
+      "name": "Rock_Marble"
+    },
+    {
+      "x": -6,
+      "y": 40,
+      "z": -2,
+      "name": "Rock_Marble"
+    },
+    {
+      "x": -6,
+      "y": 41,
+      "z": -2,
+      "name": "Rock_Marble_SkyGrass"
+    },
+    {
+      "x": -6,
+      "y": 39,
+      "z": -1,
+      "name": "Rock_Marble"
+    },
+    {
+      "x": -6,
+      "y": 40,
+      "z": -1,
+      "name": "Rock_Marble"
+    },
+    {
+      "x": -6,
+      "y": 41,
+      "z": -1,
+      "name": "Rock_Marble_SkyGrass"
+    },
+    {
+      "x": -6,
+      "y": 42,
+      "z": -1,
+      "name": "Plant_Grass_Sky",
+      "support": 15
+    },
+    {
+      "x": -6,
+      "y": 35,
+      "z": 0,
+      "name": "Rock_Marble"
+    },
+    {
+      "x": -6,
+      "y": 36,
+      "z": 0,
+      "name": "Rock_Marble"
+    },
+    {
+      "x": -6,
+      "y": 37,
+      "z": 0,
+      "name": "Rock_Marble"
+    },
+    {
+      "x": -6,
+      "y": 38,
+      "z": 0,
+      "name": "Rock_Lime"
+    },
+    {
+      "x": -6,
+      "y": 39,
+      "z": 0,
+      "name": "Rock_Marble"
+    },
+    {
+      "x": -6,
+      "y": 40,
+      "z": 0,
+      "name": "Rock_Marble"
+    },
+    {
+      "x": -6,
+      "y": 41,
+      "z": 0,
+      "name": "Rock_Marble_SkyGrass"
+    },
+    {
+      "x": -6,
+      "y": 35,
+      "z": 1,
+      "name": "Rock_Marble"
+    },
+    {
+      "x": -6,
+      "y": 36,
+      "z": 1,
+      "name": "Rock_Marble"
+    },
+    {
+      "x": -6,
+      "y": 37,
+      "z": 1,
+      "name": "Rock_Marble"
+    },
+    {
+      "x": -6,
+      "y": 38,
+      "z": 1,
+      "name": "Rock_Marble"
+    },
+    {
+      "x": -6,
+      "y": 39,
+      "z": 1,
+      "name": "Rock_Marble"
+    },
+    {
+      "x": -6,
+      "y": 40,
+      "z": 1,
+      "name": "Rock_Marble"
+    },
+    {
+      "x": -6,
+      "y": 41,
+      "z": 1,
+      "name": "Rock_Marble_SkyGrass"
+    },
+    {
+      "x": -6,
+      "y": 42,
+      "z": 1,
+      "name": "Wood_Birch_Trunk",
+      "support": 15
+    },
+    {
+      "x": -6,
+      "y": 43,
+      "z": 1,
+      "name": "Wood_Birch_Trunk",
+      "support": 15
+    },
+    {
+      "x": -6,
+      "y": 44,
+      "z": 1,
+      "name": "Wood_Birch_Trunk",
+      "support": 15
+    },
+    {
+      "x": -6,
+      "y": 45,
+      "z": 1,
+      "name": "Wood_Birch_Trunk",
+      "support": 15,
+      "rotation": 5
+    },
+    {
+      "x": -6,
+      "y": 36,
+      "z": 2,
+      "name": "Rock_Marble"
+    },
+    {
+      "x": -6,
+      "y": 37,
+      "z": 2,
+      "name": "Rock_Lime"
+    },
+    {
+      "x": -6,
+      "y": 38,
+      "z": 2,
+      "name": "Rock_Marble"
+    },
+    {
+      "x": -6,
+      "y": 39,
+      "z": 2,
+      "name": "Rock_Marble"
+    },
+    {
+      "x": -6,
+      "y": 40,
+      "z": 2,
+      "name": "Rock_Marble"
+    },
+    {
+      "x": -6,
+      "y": 41,
+      "z": 2,
+      "name": "Rock_Marble_SkyGrass"
+    },
+    {
+      "x": -6,
+      "y": 42,
+      "z": 2,
+      "name": "Plant_Grass_Sky",
+      "support": 15
+    },
+    {
+      "x": -6,
+      "y": 36,
+      "z": 3,
+      "name": "Rock_Marble"
+    },
+    {
+      "x": -6,
+      "y": 37,
+      "z": 3,
+      "name": "Rock_Lime"
+    },
+    {
+      "x": -6,
+      "y": 38,
+      "z": 3,
+      "name": "Rock_Chalk"
+    },
+    {
+      "x": -6,
+      "y": 39,
+      "z": 3,
+      "name": "Rock_Marble"
+    },
+    {
+      "x": -6,
+      "y": 40,
+      "z": 3,
+      "name": "Rock_Marble"
+    },
+    {
+      "x": -6,
+      "y": 41,
+      "z": 3,
+      "name": "Rock_Marble_SkyGrass"
+    },
+    {
+      "x": -6,
+      "y": 42,
+      "z": 3,
+      "name": "Plant_Grass_Sky",
+      "support": 15
+    },
+    {
+      "x": -6,
+      "y": 36,
+      "z": 4,
+      "name": "Rock_Marble"
+    },
+    {
+      "x": -6,
+      "y": 37,
+      "z": 4,
+      "name": "Rock_Lime"
+    },
+    {
+      "x": -6,
+      "y": 38,
+      "z": 4,
+      "name": "Rock_Chalk"
+    },
+    {
+      "x": -6,
+      "y": 39,
+      "z": 4,
+      "name": "Rock_Marble"
+    },
+    {
+      "x": -6,
+      "y": 40,
+      "z": 4,
+      "name": "Rock_Marble"
+    },
+    {
+      "x": -6,
+      "y": 41,
+      "z": 4,
+      "name": "Rock_Marble_SkyGrass"
+    },
+    {
+      "x": -5,
+      "y": 37,
+      "z": -5,
+      "name": "Rock_Marble"
+    },
+    {
+      "x": -5,
+      "y": 38,
+      "z": -5,
+      "name": "Rock_Lime"
+    },
+    {
+      "x": -5,
+      "y": 39,
+      "z": -5,
+      "name": "Rock_Marble"
+    },
+    {
+      "x": -5,
+      "y": 40,
+      "z": -5,
+      "name": "Rock_Marble"
+    },
+    {
+      "x": -5,
+      "y": 41,
+      "z": -5,
+      "name": "Rock_Marble_SkyGrass"
+    },
+    {
+      "x": -5,
+      "y": 37,
+      "z": -4,
+      "name": "Rock_Marble"
+    },
+    {
+      "x": -5,
+      "y": 38,
+      "z": -4,
+      "name": "Rock_Lime"
+    },
+    {
+      "x": -5,
+      "y": 39,
+      "z": -4,
+      "name": "Rock_Marble"
+    },
+    {
+      "x": -5,
+      "y": 40,
+      "z": -4,
+      "name": "Rock_Marble"
+    },
+    {
+      "x": -5,
+      "y": 41,
+      "z": -4,
+      "name": "Rock_Marble_SkyGrass"
+    },
+    {
+      "x": -5,
+      "y": 42,
+      "z": -4,
+      "name": "Plant_Grass_Sky",
+      "support": 15
+    },
+    {
+      "x": -5,
+      "y": 39,
+      "z": -3,
+      "name": "Rock_Marble"
+    },
+    {
+      "x": -5,
+      "y": 40,
+      "z": -3,
+      "name": "Rock_Marble"
+    },
+    {
+      "x": -5,
+      "y": 41,
+      "z": -3,
+      "name": "Rock_Marble_SkyGrass"
+    },
+    {
+      "x": -5,
+      "y": 42,
+      "z": -3,
+      "name": "Plant_Bush_Sky",
+      "support": 15
+    },
+    {
+      "x": -5,
+      "y": 37,
+      "z": -2,
+      "name": "Rock_Marble"
+    },
+    {
+      "x": -5,
+      "y": 38,
+      "z": -2,
+      "name": "Rock_Lime"
+    },
+    {
+      "x": -5,
+      "y": 39,
+      "z": -2,
+      "name": "Rock_Marble"
+    },
+    {
+      "x": -5,
+      "y": 40,
+      "z": -2,
+      "name": "Rock_Marble"
+    },
+    {
+      "x": -5,
+      "y": 41,
+      "z": -2,
+      "name": "Rock_Marble_SkyGrass"
+    },
+    {
+      "x": -5,
+      "y": 37,
+      "z": -1,
+      "name": "Rock_Marble"
+    },
+    {
+      "x": -5,
+      "y": 38,
+      "z": -1,
+      "name": "Rock_Lime"
+    },
+    {
+      "x": -5,
+      "y": 39,
+      "z": -1,
+      "name": "Rock_Marble"
+    },
+    {
+      "x": -5,
+      "y": 40,
+      "z": -1,
+      "name": "Rock_Marble"
+    },
+    {
+      "x": -5,
+      "y": 41,
+      "z": -1,
+      "name": "Rock_Marble_SkyGrass"
+    },
+    {
+      "x": -5,
+      "y": 35,
+      "z": 0,
+      "name": "Rock_Marble"
+    },
+    {
+      "x": -5,
+      "y": 36,
+      "z": 0,
+      "name": "Rock_Marble"
+    },
+    {
+      "x": -5,
+      "y": 37,
+      "z": 0,
+      "name": "Rock_Marble"
+    },
+    {
+      "x": -5,
+      "y": 38,
+      "z": 0,
+      "name": "Rock_Lime"
+    },
+    {
+      "x": -5,
+      "y": 39,
+      "z": 0,
+      "name": "Rock_Marble"
+    },
+    {
+      "x": -5,
+      "y": 40,
+      "z": 0,
+      "name": "Rock_Marble"
+    },
+    {
+      "x": -5,
+      "y": 41,
+      "z": 0,
+      "name": "Soil_Gravel_Lime",
+      "support": 15
+    },
+    {
+      "x": -5,
+      "y": 35,
+      "z": 1,
+      "name": "Rock_Marble"
+    },
+    {
+      "x": -5,
+      "y": 36,
+      "z": 1,
+      "name": "Rock_Marble"
+    },
+    {
+      "x": -5,
+      "y": 37,
+      "z": 1,
+      "name": "Rock_Marble"
+    },
+    {
+      "x": -5,
+      "y": 38,
+      "z": 1,
+      "name": "Rock_Marble"
+    },
+    {
+      "x": -5,
+      "y": 39,
+      "z": 1,
+      "name": "Rock_Marble"
+    },
+    {
+      "x": -5,
+      "y": 40,
+      "z": 1,
+      "name": "Rock_Marble"
+    },
+    {
+      "x": -5,
+      "y": 41,
+      "z": 1,
+      "name": "Rock_Marble_SkyGrass"
+    },
+    {
+      "x": -5,
+      "y": 44,
+      "z": 1,
+      "name": "Deco_Rope_Diagonal",
+      "rotation": 3
+    },
+    {
+      "x": -5,
+      "y": 45,
+      "z": 1,
+      "name": "Wood_Birch_Trunk",
+      "support": 15,
+      "rotation": 5
+    },
+    {
+      "x": -5,
+      "y": 36,
+      "z": 2,
+      "name": "Rock_Marble"
+    },
+    {
+      "x": -5,
+      "y": 37,
+      "z": 2,
+      "name": "Rock_Lime"
+    },
+    {
+      "x": -5,
+      "y": 38,
+      "z": 2,
+      "name": "Rock_Marble"
+    },
+    {
+      "x": -5,
+      "y": 39,
+      "z": 2,
+      "name": "Rock_Marble"
+    },
+    {
+      "x": -5,
+      "y": 40,
+      "z": 2,
+      "name": "Rock_Marble"
+    },
+    {
+      "x": -5,
+      "y": 41,
+      "z": 2,
+      "name": "Rock_Marble_SkyGrass"
+    },
+    {
+      "x": -5,
+      "y": 36,
+      "z": 3,
+      "name": "Rock_Marble"
+    },
+    {
+      "x": -5,
+      "y": 37,
+      "z": 3,
+      "name": "Rock_Lime"
+    },
+    {
+      "x": -5,
+      "y": 38,
+      "z": 3,
+      "name": "Rock_Chalk"
+    },
+    {
+      "x": -5,
+      "y": 39,
+      "z": 3,
+      "name": "Rock_Marble"
+    },
+    {
+      "x": -5,
+      "y": 40,
+      "z": 3,
+      "name": "Rock_Marble"
+    },
+    {
+      "x": -5,
+      "y": 41,
+      "z": 3,
+      "name": "Rock_Marble_SkyGrass"
+    },
+    {
+      "x": -5,
+      "y": 42,
+      "z": 3,
+      "name": "Plant_Grass_Sky",
+      "support": 15
+    },
+    {
+      "x": -5,
+      "y": 36,
+      "z": 4,
+      "name": "Rock_Marble"
+    },
+    {
+      "x": -5,
+      "y": 37,
+      "z": 4,
+      "name": "Rock_Lime"
+    },
+    {
+      "x": -5,
+      "y": 38,
+      "z": 4,
+      "name": "Rock_Chalk"
+    },
+    {
+      "x": -5,
+      "y": 39,
+      "z": 4,
+      "name": "Rock_Marble"
+    },
+    {
+      "x": -5,
+      "y": 40,
+      "z": 4,
+      "name": "Rock_Marble"
+    },
+    {
+      "x": -5,
+      "y": 41,
+      "z": 4,
+      "name": "Rock_Marble_SkyGrass"
+    },
+    {
+      "x": -5,
+      "y": 39,
+      "z": 5,
+      "name": "Rock_Marble"
+    },
+    {
+      "x": -5,
+      "y": 40,
+      "z": 5,
+      "name": "Rock_Marble"
+    },
+    {
+      "x": -5,
+      "y": 41,
+      "z": 5,
+      "name": "Rock_Marble_SkyGrass"
+    },
+    {
+      "x": -4,
+      "y": 39,
+      "z": -6,
+      "name": "Rock_Marble"
+    },
+    {
+      "x": -4,
+      "y": 40,
+      "z": -6,
+      "name": "Rock_Marble"
+    },
+    {
+      "x": -4,
+      "y": 41,
+      "z": -6,
+      "name": "Rock_Marble_SkyGrass"
+    },
+    {
+      "x": -4,
+      "y": 37,
+      "z": -5,
+      "name": "Rock_Lime"
+    },
+    {
+      "x": -4,
+      "y": 38,
+      "z": -5,
+      "name": "Rock_Lime"
+    },
+    {
+      "x": -4,
+      "y": 39,
+      "z": -5,
+      "name": "Rock_Marble"
+    },
+    {
+      "x": -4,
+      "y": 40,
+      "z": -5,
+      "name": "Rock_Marble"
+    },
+    {
+      "x": -4,
+      "y": 41,
+      "z": -5,
+      "name": "Rock_Marble_SkyGrass"
+    },
+    {
+      "x": -4,
+      "y": 37,
+      "z": -4,
+      "name": "Rock_Lime"
+    },
+    {
+      "x": -4,
+      "y": 38,
+      "z": -4,
+      "name": "Rock_Lime"
+    },
+    {
+      "x": -4,
+      "y": 39,
+      "z": -4,
+      "name": "Rock_Marble"
+    },
+    {
+      "x": -4,
+      "y": 40,
+      "z": -4,
+      "name": "Rock_Marble"
+    },
+    {
+      "x": -4,
+      "y": 41,
+      "z": -4,
+      "name": "Rock_Marble_SkyGrass"
+    },
+    {
+      "x": -4,
+      "y": 42,
+      "z": -4,
+      "name": "Plant_Bush_Sky",
+      "support": 15
+    },
+    {
+      "x": -4,
+      "y": 34,
+      "z": -3,
+      "name": "Rock_Marble"
+    },
+    {
+      "x": -4,
+      "y": 35,
+      "z": -3,
+      "name": "Rock_Marble"
+    },
+    {
+      "x": -4,
+      "y": 36,
+      "z": -3,
+      "name": "Rock_Lime"
+    },
+    {
+      "x": -4,
+      "y": 37,
+      "z": -3,
+      "name": "Rock_Marble"
+    },
+    {
+      "x": -4,
+      "y": 38,
+      "z": -3,
+      "name": "Rock_Lime"
+    },
+    {
+      "x": -4,
+      "y": 39,
+      "z": -3,
+      "name": "Rock_Marble"
+    },
+    {
+      "x": -4,
+      "y": 40,
+      "z": -3,
+      "name": "Rock_Marble"
+    },
+    {
+      "x": -4,
+      "y": 41,
+      "z": -3,
+      "name": "Rock_Marble_SkyGrass"
+    },
+    {
+      "x": -4,
+      "y": 42,
+      "z": -3,
+      "name": "Plant_Bush_Sky",
+      "support": 15
+    },
+    {
+      "x": -4,
+      "y": 34,
+      "z": -2,
+      "name": "Rock_Marble"
+    },
+    {
+      "x": -4,
+      "y": 35,
+      "z": -2,
+      "name": "Rock_Marble"
+    },
+    {
+      "x": -4,
+      "y": 36,
+      "z": -2,
+      "name": "Rock_Lime"
+    },
+    {
+      "x": -4,
+      "y": 37,
+      "z": -2,
+      "name": "Rock_Marble"
+    },
+    {
+      "x": -4,
+      "y": 38,
+      "z": -2,
+      "name": "Rock_Lime"
+    },
+    {
+      "x": -4,
+      "y": 39,
+      "z": -2,
+      "name": "Rock_Marble"
+    },
+    {
+      "x": -4,
+      "y": 40,
+      "z": -2,
+      "name": "Rock_Marble"
+    },
+    {
+      "x": -4,
+      "y": 41,
+      "z": -2,
+      "name": "Rock_Marble_SkyGrass"
+    },
+    {
+      "x": -4,
+      "y": 36,
+      "z": -1,
+      "name": "Rock_Lime"
+    },
+    {
+      "x": -4,
+      "y": 37,
+      "z": -1,
+      "name": "Rock_Marble"
+    },
+    {
+      "x": -4,
+      "y": 38,
+      "z": -1,
+      "name": "Rock_Lime"
+    },
+    {
+      "x": -4,
+      "y": 39,
+      "z": -1,
+      "name": "Rock_Marble"
+    },
+    {
+      "x": -4,
+      "y": 40,
+      "z": -1,
+      "name": "Rock_Marble"
+    },
+    {
+      "x": -4,
+      "y": 41,
+      "z": -1,
+      "name": "Rock_Marble_SkyGrass"
+    },
+    {
+      "x": -4,
+      "y": 42,
+      "z": -1,
+      "name": "Furniture_Ancient_Torch",
+      "rotation": 1
+    },
+    {
+      "x": -4,
+      "y": 36,
+      "z": 0,
+      "name": "Rock_Lime"
+    },
+    {
+      "x": -4,
+      "y": 37,
+      "z": 0,
+      "name": "Rock_Marble"
+    },
+    {
+      "x": -4,
+      "y": 38,
+      "z": 0,
+      "name": "Rock_Lime"
+    },
+    {
+      "x": -4,
+      "y": 39,
+      "z": 0,
+      "name": "Rock_Marble"
+    },
+    {
+      "x": -4,
+      "y": 40,
+      "z": 0,
+      "name": "Rock_Marble"
+    },
+    {
+      "x": -4,
+      "y": 41,
+      "z": 0,
+      "name": "Rock_Marble_SkyGrass"
+    },
+    {
+      "x": -4,
+      "y": 42,
+      "z": 0,
+      "name": "Plant_Grass_Sky_Short",
+      "support": 15
+    },
+    {
+      "x": -4,
+      "y": 36,
+      "z": 1,
+      "name": "Rock_Marble"
+    },
+    {
+      "x": -4,
+      "y": 37,
+      "z": 1,
+      "name": "Rock_Lime"
+    },
+    {
+      "x": -4,
+      "y": 38,
+      "z": 1,
+      "name": "Rock_Marble"
+    },
+    {
+      "x": -4,
+      "y": 39,
+      "z": 1,
+      "name": "Rock_Marble"
+    },
+    {
+      "x": -4,
+      "y": 40,
+      "z": 1,
+      "name": "Rock_Marble"
+    },
+    {
+      "x": -4,
+      "y": 41,
+      "z": 1,
+      "name": "Rock_Marble_SkyGrass"
+    },
+    {
+      "x": -4,
+      "y": 45,
+      "z": 1,
+      "name": "Wood_Birch_Branch_Long",
+      "support": 15,
+      "rotation": 5
+    },
+    {
+      "x": -4,
+      "y": 36,
+      "z": 2,
+      "name": "Rock_Marble"
+    },
+    {
+      "x": -4,
+      "y": 37,
+      "z": 2,
+      "name": "Rock_Lime"
+    },
+    {
+      "x": -4,
+      "y": 38,
+      "z": 2,
+      "name": "Rock_Chalk"
+    },
+    {
+      "x": -4,
+      "y": 39,
+      "z": 2,
+      "name": "Rock_Marble"
+    },
+    {
+      "x": -4,
+      "y": 40,
+      "z": 2,
+      "name": "Rock_Marble"
+    },
+    {
+      "x": -4,
+      "y": 41,
+      "z": 2,
+      "name": "Rock_Marble_SkyGrass"
+    },
+    {
+      "x": -4,
+      "y": 34,
+      "z": 3,
+      "name": "Rock_Lime"
+    },
+    {
+      "x": -4,
+      "y": 35,
+      "z": 3,
+      "name": "Rock_Marble"
+    },
+    {
+      "x": -4,
+      "y": 36,
+      "z": 3,
+      "name": "Rock_Marble"
+    },
+    {
+      "x": -4,
+      "y": 37,
+      "z": 3,
+      "name": "Rock_Lime"
+    },
+    {
+      "x": -4,
+      "y": 38,
+      "z": 3,
+      "name": "Rock_Chalk"
+    },
+    {
+      "x": -4,
+      "y": 39,
+      "z": 3,
+      "name": "Rock_Marble"
+    },
+    {
+      "x": -4,
+      "y": 40,
+      "z": 3,
+      "name": "Rock_Marble"
+    },
+    {
+      "x": -4,
+      "y": 41,
+      "z": 3,
+      "name": "Rock_Marble_SkyGrass"
+    },
+    {
+      "x": -4,
+      "y": 42,
+      "z": 3,
+      "name": "Plant_Grass_Sky_Short",
+      "support": 15
+    },
+    {
+      "x": -4,
+      "y": 34,
+      "z": 4,
+      "name": "Rock_Lime"
+    },
+    {
+      "x": -4,
+      "y": 35,
+      "z": 4,
+      "name": "Rock_Marble"
+    },
+    {
+      "x": -4,
+      "y": 36,
+      "z": 4,
+      "name": "Rock_Marble"
+    },
+    {
+      "x": -4,
+      "y": 37,
+      "z": 4,
+      "name": "Rock_Lime"
+    },
+    {
+      "x": -4,
+      "y": 38,
+      "z": 4,
+      "name": "Rock_Chalk"
+    },
+    {
+      "x": -4,
+      "y": 39,
+      "z": 4,
+      "name": "Rock_Marble"
+    },
+    {
+      "x": -4,
+      "y": 40,
+      "z": 4,
+      "name": "Rock_Marble"
+    },
+    {
+      "x": -4,
+      "y": 41,
+      "z": 4,
+      "name": "Rock_Marble_SkyGrass"
+    },
+    {
+      "x": -4,
+      "y": 42,
+      "z": 4,
+      "name": "Plant_Grass_Sky_Long",
+      "support": 15
+    },
+    {
+      "x": -4,
+      "y": 43,
+      "z": 4,
+      "name": "Plant_Grass_Sky_Long",
+      "filler": 1024
+    },
+    {
+      "x": -4,
+      "y": 37,
+      "z": 5,
+      "name": "Rock_Lime"
+    },
+    {
+      "x": -4,
+      "y": 38,
+      "z": 5,
+      "name": "Rock_Chalk"
+    },
+    {
+      "x": -4,
+      "y": 39,
+      "z": 5,
+      "name": "Rock_Marble"
+    },
+    {
+      "x": -4,
+      "y": 40,
+      "z": 5,
+      "name": "Rock_Marble"
+    },
+    {
+      "x": -4,
+      "y": 41,
+      "z": 5,
+      "name": "Rock_Marble_SkyGrass"
+    },
+    {
+      "x": -4,
+      "y": 39,
+      "z": 6,
+      "name": "Rock_Marble"
+    },
+    {
+      "x": -4,
+      "y": 40,
+      "z": 6,
+      "name": "Rock_Marble"
+    },
+    {
+      "x": -4,
+      "y": 41,
+      "z": 6,
+      "name": "Rock_Marble_SkyGrass"
+    },
+    {
+      "x": -4,
+      "y": 42,
+      "z": 6,
+      "name": "Plant_Grass_Sky",
+      "support": 15
+    },
+    {
+      "x": -3,
+      "y": 39,
+      "z": -6,
+      "name": "Rock_Chalk"
+    },
+    {
+      "x": -3,
+      "y": 40,
+      "z": -6,
+      "name": "Rock_Marble"
+    },
+    {
+      "x": -3,
+      "y": 41,
+      "z": -6,
+      "name": "Rock_Marble_SkyGrass"
+    },
+    {
+      "x": -3,
+      "y": 39,
+      "z": -5,
+      "name": "Rock_Marble"
+    },
+    {
+      "x": -3,
+      "y": 40,
+      "z": -5,
+      "name": "Rock_Marble"
+    },
+    {
+      "x": -3,
+      "y": 41,
+      "z": -5,
+      "name": "Rock_Marble_SkyGrass"
+    },
+    {
+      "x": -3,
+      "y": 42,
+      "z": -5,
+      "name": "Plant_Grass_Sky",
+      "support": 15
+    },
+    {
+      "x": -3,
+      "y": 34,
+      "z": -4,
+      "name": "Rock_Marble"
+    },
+    {
+      "x": -3,
+      "y": 35,
+      "z": -4,
+      "name": "Rock_Chalk"
+    },
+    {
+      "x": -3,
+      "y": 36,
+      "z": -4,
+      "name": "Rock_Lime"
+    },
+    {
+      "x": -3,
+      "y": 37,
+      "z": -4,
+      "name": "Rock_Lime"
+    },
+    {
+      "x": -3,
+      "y": 38,
+      "z": -4,
+      "name": "Rock_Lime"
+    },
+    {
+      "x": -3,
+      "y": 39,
+      "z": -4,
+      "name": "Rock_Marble"
+    },
+    {
+      "x": -3,
+      "y": 40,
+      "z": -4,
+      "name": "Rock_Marble"
+    },
+    {
+      "x": -3,
+      "y": 41,
+      "z": -4,
+      "name": "Rock_Lime"
+    },
+    {
+      "x": -3,
+      "y": 42,
+      "z": -4,
+      "name": "Cloth_Roof_Hide",
+      "rotation": 3
+    },
+    {
+      "x": -3,
+      "y": 34,
+      "z": -3,
+      "name": "Rock_Marble"
+    },
+    {
+      "x": -3,
+      "y": 35,
+      "z": -3,
+      "name": "Rock_Chalk"
+    },
+    {
+      "x": -3,
+      "y": 36,
+      "z": -3,
+      "name": "Rock_Lime"
+    },
+    {
+      "x": -3,
+      "y": 37,
+      "z": -3,
+      "name": "Rock_Lime"
+    },
+    {
+      "x": -3,
+      "y": 38,
+      "z": -3,
+      "name": "Rock_Lime"
+    },
+    {
+      "x": -3,
+      "y": 39,
+      "z": -3,
+      "name": "Rock_Marble"
+    },
+    {
+      "x": -3,
+      "y": 40,
+      "z": -3,
+      "name": "Rock_Marble"
+    },
+    {
+      "x": -3,
+      "y": 41,
+      "z": -3,
+      "name": "Rock_Lime"
+    },
+    {
+      "x": -3,
+      "y": 42,
+      "z": -3,
+      "name": "Cloth_Roof_Hide",
+      "rotation": 3
+    },
+    {
+      "x": -3,
+      "y": 34,
+      "z": -2,
+      "name": "Rock_Marble"
+    },
+    {
+      "x": -3,
+      "y": 35,
+      "z": -2,
+      "name": "Rock_Marble"
+    },
+    {
+      "x": -3,
+      "y": 36,
+      "z": -2,
+      "name": "Rock_Lime"
+    },
+    {
+      "x": -3,
+      "y": 37,
+      "z": -2,
+      "name": "Rock_Lime"
+    },
+    {
+      "x": -3,
+      "y": 38,
+      "z": -2,
+      "name": "Rock_Lime"
+    },
+    {
+      "x": -3,
+      "y": 39,
+      "z": -2,
+      "name": "Rock_Marble"
+    },
+    {
+      "x": -3,
+      "y": 40,
+      "z": -2,
+      "name": "Rock_Marble"
+    },
+    {
+      "x": -3,
+      "y": 41,
+      "z": -2,
+      "name": "Rock_Lime"
+    },
+    {
+      "x": -3,
+      "y": 42,
+      "z": -2,
+      "name": "Cloth_Roof_Hide",
+      "rotation": 3
+    },
+    {
+      "x": -3,
+      "y": 36,
+      "z": -1,
+      "name": "Rock_Lime"
+    },
+    {
+      "x": -3,
+      "y": 37,
+      "z": -1,
+      "name": "Rock_Marble"
+    },
+    {
+      "x": -3,
+      "y": 38,
+      "z": -1,
+      "name": "Rock_Lime"
+    },
+    {
+      "x": -3,
+      "y": 39,
+      "z": -1,
+      "name": "Rock_Marble"
+    },
+    {
+      "x": -3,
+      "y": 40,
+      "z": -1,
+      "name": "Rock_Marble"
+    },
+    {
+      "x": -3,
+      "y": 41,
+      "z": -1,
+      "name": "Rock_Marble_SkyGrass"
+    },
+    {
+      "x": -3,
+      "y": 36,
+      "z": 0,
+      "name": "Rock_Lime"
+    },
+    {
+      "x": -3,
+      "y": 37,
+      "z": 0,
+      "name": "Rock_Marble"
+    },
+    {
+      "x": -3,
+      "y": 38,
+      "z": 0,
+      "name": "Rock_Marble"
+    },
+    {
+      "x": -3,
+      "y": 39,
+      "z": 0,
+      "name": "Rock_Marble"
+    },
+    {
+      "x": -3,
+      "y": 40,
+      "z": 0,
+      "name": "Rock_Marble"
+    },
+    {
+      "x": -3,
+      "y": 41,
+      "z": 0,
+      "name": "Soil_Gravel_Lime",
+      "support": 15
+    },
+    {
+      "x": -3,
+      "y": 42,
+      "z": 0,
+      "name": "Rubble_Marble_Medium",
+      "support": 15
+    },
+    {
+      "x": -3,
+      "y": 36,
+      "z": 1,
+      "name": "Rock_Marble"
+    },
+    {
+      "x": -3,
+      "y": 37,
+      "z": 1,
+      "name": "Rock_Lime"
+    },
+    {
+      "x": -3,
+      "y": 38,
+      "z": 1,
+      "name": "Rock_Marble"
+    },
+    {
+      "x": -3,
+      "y": 39,
+      "z": 1,
+      "name": "Rock_Marble"
+    },
+    {
+      "x": -3,
+      "y": 40,
+      "z": 1,
+      "name": "Rock_Marble"
+    },
+    {
+      "x": -3,
+      "y": 41,
+      "z": 1,
+      "name": "Soil_Gravel_Lime",
+      "support": 15
+    },
+    {
+      "x": -3,
+      "y": 45,
+      "z": 1,
+      "name": "Wood_Birch_Branch_Long",
+      "support": 15,
+      "rotation": 5
+    },
+    {
+      "x": -3,
+      "y": 34,
+      "z": 2,
+      "name": "Rock_Lime"
+    },
+    {
+      "x": -3,
+      "y": 35,
+      "z": 2,
+      "name": "Rock_Marble"
+    },
+    {
+      "x": -3,
+      "y": 36,
+      "z": 2,
+      "name": "Rock_Marble"
+    },
+    {
+      "x": -3,
+      "y": 37,
+      "z": 2,
+      "name": "Rock_Lime"
+    },
+    {
+      "x": -3,
+      "y": 38,
+      "z": 2,
+      "name": "Rock_Chalk"
+    },
+    {
+      "x": -3,
+      "y": 39,
+      "z": 2,
+      "name": "Rock_Marble"
+    },
+    {
+      "x": -3,
+      "y": 40,
+      "z": 2,
+      "name": "Rock_Marble"
+    },
+    {
+      "x": -3,
+      "y": 41,
+      "z": 2,
+      "name": "Rock_Marble_SkyGrass"
+    },
+    {
+      "x": -3,
+      "y": 34,
+      "z": 3,
+      "name": "Rock_Lime"
+    },
+    {
+      "x": -3,
+      "y": 35,
+      "z": 3,
+      "name": "Rock_Marble"
+    },
+    {
+      "x": -3,
+      "y": 36,
+      "z": 3,
+      "name": "Rock_Marble"
+    },
+    {
+      "x": -3,
+      "y": 37,
+      "z": 3,
+      "name": "Rock_Lime"
+    },
+    {
+      "x": -3,
+      "y": 38,
+      "z": 3,
+      "name": "Rock_Chalk"
+    },
+    {
+      "x": -3,
+      "y": 39,
+      "z": 3,
+      "name": "Rock_Marble"
+    },
+    {
+      "x": -3,
+      "y": 40,
+      "z": 3,
+      "name": "Rock_Marble"
+    },
+    {
+      "x": -3,
+      "y": 41,
+      "z": 3,
+      "name": "Rock_Marble_SkyGrass"
+    },
+    {
+      "x": -3,
+      "y": 34,
+      "z": 4,
+      "name": "Rock_Lime"
+    },
+    {
+      "x": -3,
+      "y": 35,
+      "z": 4,
+      "name": "Rock_Marble"
+    },
+    {
+      "x": -3,
+      "y": 36,
+      "z": 4,
+      "name": "Rock_Marble"
+    },
+    {
+      "x": -3,
+      "y": 37,
+      "z": 4,
+      "name": "Rock_Lime"
+    },
+    {
+      "x": -3,
+      "y": 38,
+      "z": 4,
+      "name": "Rock_Chalk"
+    },
+    {
+      "x": -3,
+      "y": 39,
+      "z": 4,
+      "name": "Rock_Marble"
+    },
+    {
+      "x": -3,
+      "y": 40,
+      "z": 4,
+      "name": "Rock_Marble"
+    },
+    {
+      "x": -3,
+      "y": 41,
+      "z": 4,
+      "name": "Rock_Marble_SkyGrass"
+    },
+    {
+      "x": -3,
+      "y": 42,
+      "z": 4,
+      "name": "Plant_Grass_Sky",
+      "support": 15
+    },
+    {
+      "x": -3,
+      "y": 34,
+      "z": 5,
+      "name": "Rock_Lime"
+    },
+    {
+      "x": -3,
+      "y": 35,
+      "z": 5,
+      "name": "Rock_Marble"
+    },
+    {
+      "x": -3,
+      "y": 36,
+      "z": 5,
+      "name": "Rock_Marble"
+    },
+    {
+      "x": -3,
+      "y": 37,
+      "z": 5,
+      "name": "Rock_Lime"
+    },
+    {
+      "x": -3,
+      "y": 38,
+      "z": 5,
+      "name": "Rock_Chalk"
+    },
+    {
+      "x": -3,
+      "y": 39,
+      "z": 5,
+      "name": "Rock_Marble"
+    },
+    {
+      "x": -3,
+      "y": 40,
+      "z": 5,
+      "name": "Rock_Marble"
+    },
+    {
+      "x": -3,
+      "y": 41,
+      "z": 5,
+      "name": "Rock_Marble_SkyGrass"
+    },
+    {
+      "x": -3,
+      "y": 42,
+      "z": 5,
+      "name": "Plant_Grass_Sky_Long",
+      "support": 15
+    },
+    {
+      "x": -3,
+      "y": 43,
+      "z": 5,
+      "name": "Plant_Grass_Sky_Long",
+      "filler": 1024
+    },
+    {
+      "x": -3,
+      "y": 38,
+      "z": 6,
+      "name": "Rock_Chalk"
+    },
+    {
+      "x": -3,
+      "y": 39,
+      "z": 6,
+      "name": "Rock_Marble"
+    },
+    {
+      "x": -3,
+      "y": 40,
+      "z": 6,
+      "name": "Rock_Marble"
+    },
+    {
+      "x": -3,
+      "y": 41,
+      "z": 6,
+      "name": "Rock_Marble_SkyGrass"
+    },
+    {
+      "x": -2,
+      "y": 39,
+      "z": -7,
+      "name": "Rock_Chalk"
+    },
+    {
+      "x": -2,
+      "y": 40,
+      "z": -7,
+      "name": "Rock_Marble"
+    },
+    {
+      "x": -2,
+      "y": 41,
+      "z": -7,
+      "name": "Rock_Marble_SkyGrass"
+    },
+    {
+      "x": -2,
+      "y": 39,
+      "z": -6,
+      "name": "Rock_Chalk"
+    },
+    {
+      "x": -2,
+      "y": 40,
+      "z": -6,
+      "name": "Rock_Marble"
+    },
+    {
+      "x": -2,
+      "y": 41,
+      "z": -6,
+      "name": "Rock_Marble_SkyGrass"
+    },
+    {
+      "x": -2,
+      "y": 37,
+      "z": -5,
+      "name": "Rock_Lime"
+    },
+    {
+      "x": -2,
+      "y": 38,
+      "z": -5,
+      "name": "Rock_Lime"
+    },
+    {
+      "x": -2,
+      "y": 39,
+      "z": -5,
+      "name": "Rock_Chalk"
+    },
+    {
+      "x": -2,
+      "y": 40,
+      "z": -5,
+      "name": "Rock_Marble"
+    },
+    {
+      "x": -2,
+      "y": 41,
+      "z": -5,
+      "name": "Rock_Marble_SkyGrass"
+    },
+    {
+      "x": -2,
+      "y": 42,
+      "z": -5,
+      "name": "Plant_Grass_Sky",
+      "support": 15
+    },
+    {
+      "x": -2,
+      "y": 34,
+      "z": -4,
+      "name": "Rock_Marble"
+    },
+    {
+      "x": -2,
+      "y": 35,
+      "z": -4,
+      "name": "Rock_Chalk"
+    },
+    {
+      "x": -2,
+      "y": 36,
+      "z": -4,
+      "name": "Rock_Lime"
+    },
+    {
+      "x": -2,
+      "y": 37,
+      "z": -4,
+      "name": "Rock_Lime"
+    },
+    {
+      "x": -2,
+      "y": 38,
+      "z": -4,
+      "name": "Rock_Lime"
+    },
+    {
+      "x": -2,
+      "y": 39,
+      "z": -4,
+      "name": "Rock_Chalk"
+    },
+    {
+      "x": -2,
+      "y": 40,
+      "z": -4,
+      "name": "Rock_Marble"
+    },
+    {
+      "x": -2,
+      "y": 41,
+      "z": -4,
+      "name": "Rock_Lime"
+    },
+    {
+      "x": -2,
+      "y": 43,
+      "z": -4,
+      "name": "Cloth_Roof_Hide",
+      "rotation": 3
+    },
+    {
+      "x": -2,
+      "y": 34,
+      "z": -3,
+      "name": "Rock_Marble"
+    },
+    {
+      "x": -2,
+      "y": 35,
+      "z": -3,
+      "name": "Rock_Chalk"
+    },
+    {
+      "x": -2,
+      "y": 36,
+      "z": -3,
+      "name": "Rock_Lime"
+    },
+    {
+      "x": -2,
+      "y": 37,
+      "z": -3,
+      "name": "Rock_Lime"
+    },
+    {
+      "x": -2,
+      "y": 38,
+      "z": -3,
+      "name": "Rock_Lime"
+    },
+    {
+      "x": -2,
+      "y": 39,
+      "z": -3,
+      "name": "Rock_Marble"
+    },
+    {
+      "x": -2,
+      "y": 40,
+      "z": -3,
+      "name": "Rock_Marble"
+    },
+    {
+      "x": -2,
+      "y": 41,
+      "z": -3,
+      "name": "Rock_Lime"
+    },
+    {
+      "x": -2,
+      "y": 42,
+      "z": -3,
+      "name": "Furniture_Crude_Chest_Small",
+      "components": {
+        "Components": {
+          "PlacedByInteraction": {
+            "WhoPlacedUuid": {
+              "$binary": "rmwkrpH8RVykTc7XnK4YBA==",
+              "$type": "04"
+            }
+          },
+          "container": {
+            "Custom": false,
+            "AllowViewing": true,
+            "ItemContainer": {
+              "Capacity": 18,
+              "Items": {}
+            }
+          }
+        }
+      }
+    },
+    {
+      "x": -2,
+      "y": 43,
+      "z": -3,
+      "name": "Cloth_Roof_Hide",
+      "rotation": 3
+    },
+    {
+      "x": -2,
+      "y": 35,
+      "z": -2,
+      "name": "Rock_Chalk"
+    },
+    {
+      "x": -2,
+      "y": 36,
+      "z": -2,
+      "name": "Rock_Lime"
+    },
+    {
+      "x": -2,
+      "y": 37,
+      "z": -2,
+      "name": "Rock_Lime"
+    },
+    {
+      "x": -2,
+      "y": 38,
+      "z": -2,
+      "name": "Rock_Lime"
+    },
+    {
+      "x": -2,
+      "y": 39,
+      "z": -2,
+      "name": "Rock_Marble"
+    },
+    {
+      "x": -2,
+      "y": 40,
+      "z": -2,
+      "name": "Rock_Marble"
+    },
+    {
+      "x": -2,
+      "y": 41,
+      "z": -2,
+      "name": "Rock_Lime"
+    },
+    {
+      "x": -2,
+      "y": 42,
+      "z": -2,
+      "name": "Cloth_Roof_Hide_Flap",
+      "rotation": 1
+    },
+    {
+      "x": -2,
+      "y": 43,
+      "z": -2,
+      "name": "Cloth_Roof_Hide",
+      "rotation": 3
+    },
+    {
+      "x": -2,
+      "y": 35,
+      "z": -1,
+      "name": "Rock_Chalk"
+    },
+    {
+      "x": -2,
+      "y": 36,
+      "z": -1,
+      "name": "Rock_Lime"
+    },
+    {
+      "x": -2,
+      "y": 37,
+      "z": -1,
+      "name": "Rock_Marble"
+    },
+    {
+      "x": -2,
+      "y": 38,
+      "z": -1,
+      "name": "Rock_Lime"
+    },
+    {
+      "x": -2,
+      "y": 39,
+      "z": -1,
+      "name": "Rock_Marble"
+    },
+    {
+      "x": -2,
+      "y": 40,
+      "z": -1,
+      "name": "Rock_Marble"
+    },
+    {
+      "x": -2,
+      "y": 41,
+      "z": -1,
+      "name": "Soil_Gravel_Lime",
+      "support": 15
+    },
+    {
+      "x": -2,
+      "y": 35,
+      "z": 0,
+      "name": "Rock_Marble"
+    },
+    {
+      "x": -2,
+      "y": 36,
+      "z": 0,
+      "name": "Rock_Lime"
+    },
+    {
+      "x": -2,
+      "y": 37,
+      "z": 0,
+      "name": "Rock_Marble"
+    },
+    {
+      "x": -2,
+      "y": 38,
+      "z": 0,
+      "name": "Rock_Marble"
+    },
+    {
+      "x": -2,
+      "y": 39,
+      "z": 0,
+      "name": "Rock_Marble"
+    },
+    {
+      "x": -2,
+      "y": 40,
+      "z": 0,
+      "name": "Rock_Marble"
+    },
+    {
+      "x": -2,
+      "y": 41,
+      "z": 0,
+      "name": "Soil_Gravel_Lime",
+      "support": 15
+    },
+    {
+      "x": -2,
+      "y": 35,
+      "z": 1,
+      "name": "Rock_Marble"
+    },
+    {
+      "x": -2,
+      "y": 36,
+      "z": 1,
+      "name": "Rock_Marble"
+    },
+    {
+      "x": -2,
+      "y": 37,
+      "z": 1,
+      "name": "Rock_Lime"
+    },
+    {
+      "x": -2,
+      "y": 38,
+      "z": 1,
+      "name": "Rock_Marble"
+    },
+    {
+      "x": -2,
+      "y": 39,
+      "z": 1,
+      "name": "Rock_Marble"
+    },
+    {
+      "x": -2,
+      "y": 40,
+      "z": 1,
+      "name": "Rock_Marble"
+    },
+    {
+      "x": -2,
+      "y": 41,
+      "z": 1,
+      "name": "Soil_Gravel_Lime",
+      "support": 15
+    },
+    {
+      "x": -2,
+      "y": 34,
+      "z": 2,
+      "name": "Rock_Lime"
+    },
+    {
+      "x": -2,
+      "y": 35,
+      "z": 2,
+      "name": "Rock_Marble"
+    },
+    {
+      "x": -2,
+      "y": 36,
+      "z": 2,
+      "name": "Rock_Marble"
+    },
+    {
+      "x": -2,
+      "y": 37,
+      "z": 2,
+      "name": "Rock_Lime"
+    },
+    {
+      "x": -2,
+      "y": 38,
+      "z": 2,
+      "name": "Rock_Chalk"
+    },
+    {
+      "x": -2,
+      "y": 39,
+      "z": 2,
+      "name": "Rock_Marble"
+    },
+    {
+      "x": -2,
+      "y": 40,
+      "z": 2,
+      "name": "Rock_Marble"
+    },
+    {
+      "x": -2,
+      "y": 41,
+      "z": 2,
+      "name": "Soil_Gravel_Lime",
+      "support": 15
+    },
+    {
+      "x": -2,
+      "y": 34,
+      "z": 3,
+      "name": "Rock_Lime"
+    },
+    {
+      "x": -2,
+      "y": 35,
+      "z": 3,
+      "name": "Rock_Marble"
+    },
+    {
+      "x": -2,
+      "y": 36,
+      "z": 3,
+      "name": "Rock_Marble"
+    },
+    {
+      "x": -2,
+      "y": 37,
+      "z": 3,
+      "name": "Rock_Lime"
+    },
+    {
+      "x": -2,
+      "y": 38,
+      "z": 3,
+      "name": "Rock_Chalk"
+    },
+    {
+      "x": -2,
+      "y": 39,
+      "z": 3,
+      "name": "Rock_Marble"
+    },
+    {
+      "x": -2,
+      "y": 40,
+      "z": 3,
+      "name": "Rock_Marble"
+    },
+    {
+      "x": -2,
+      "y": 41,
+      "z": 3,
+      "name": "Rock_Marble_SkyGrass"
+    },
+    {
+      "x": -2,
+      "y": 42,
+      "z": 3,
+      "name": "Furniture_Crude_Chest_Small",
+      "components": {
+        "Components": {
+          "PlacedByInteraction": {
+            "WhoPlacedUuid": {
+              "$binary": "rmwkrpH8RVykTc7XnK4YBA==",
+              "$type": "04"
+            }
+          },
+          "container": {
+            "Custom": false,
+            "AllowViewing": true,
+            "ItemContainer": {
+              "Capacity": 18,
+              "Items": {}
+            }
+          }
+        }
+      },
+      "rotation": 3
+    },
+    {
+      "x": -2,
+      "y": 34,
+      "z": 4,
+      "name": "Rock_Lime"
+    },
+    {
+      "x": -2,
+      "y": 35,
+      "z": 4,
+      "name": "Rock_Marble"
+    },
+    {
+      "x": -2,
+      "y": 36,
+      "z": 4,
+      "name": "Rock_Marble"
+    },
+    {
+      "x": -2,
+      "y": 37,
+      "z": 4,
+      "name": "Rock_Lime"
+    },
+    {
+      "x": -2,
+      "y": 38,
+      "z": 4,
+      "name": "Rock_Chalk"
+    },
+    {
+      "x": -2,
+      "y": 39,
+      "z": 4,
+      "name": "Rock_Marble"
+    },
+    {
+      "x": -2,
+      "y": 40,
+      "z": 4,
+      "name": "Rock_Marble"
+    },
+    {
+      "x": -2,
+      "y": 41,
+      "z": 4,
+      "name": "Rock_Marble_SkyGrass"
+    },
+    {
+      "x": -2,
+      "y": 42,
+      "z": 4,
+      "name": "Wood_Birch_Trunk",
+      "support": 15,
+      "rotation": 5
+    },
+    {
+      "x": -2,
+      "y": 34,
+      "z": 5,
+      "name": "Rock_Lime"
+    },
+    {
+      "x": -2,
+      "y": 35,
+      "z": 5,
+      "name": "Rock_Marble"
+    },
+    {
+      "x": -2,
+      "y": 36,
+      "z": 5,
+      "name": "Rock_Lime"
+    },
+    {
+      "x": -2,
+      "y": 37,
+      "z": 5,
+      "name": "Rock_Lime"
+    },
+    {
+      "x": -2,
+      "y": 38,
+      "z": 5,
+      "name": "Rock_Chalk"
+    },
+    {
+      "x": -2,
+      "y": 39,
+      "z": 5,
+      "name": "Rock_Marble"
+    },
+    {
+      "x": -2,
+      "y": 40,
+      "z": 5,
+      "name": "Rock_Marble"
+    },
+    {
+      "x": -2,
+      "y": 41,
+      "z": 5,
+      "name": "Rock_Marble_SkyGrass"
+    },
+    {
+      "x": -2,
+      "y": 38,
+      "z": 6,
+      "name": "Rock_Chalk"
+    },
+    {
+      "x": -2,
+      "y": 39,
+      "z": 6,
+      "name": "Rock_Marble"
+    },
+    {
+      "x": -2,
+      "y": 40,
+      "z": 6,
+      "name": "Rock_Marble"
+    },
+    {
+      "x": -2,
+      "y": 41,
+      "z": 6,
+      "name": "Rock_Marble_SkyGrass"
+    },
+    {
+      "x": -2,
+      "y": 42,
+      "z": 6,
+      "name": "Plant_Grass_Sky_Short",
+      "support": 15
+    },
+    {
+      "x": -2,
+      "y": 39,
+      "z": 7,
+      "name": "Rock_Marble"
+    },
+    {
+      "x": -2,
+      "y": 40,
+      "z": 7,
+      "name": "Rock_Marble"
+    },
+    {
+      "x": -2,
+      "y": 41,
+      "z": 7,
+      "name": "Rock_Marble_SkyGrass"
+    },
+    {
+      "x": -1,
+      "y": 39,
+      "z": -7,
+      "name": "Rock_Chalk"
+    },
+    {
+      "x": -1,
+      "y": 40,
+      "z": -7,
+      "name": "Rock_Marble"
+    },
+    {
+      "x": -1,
+      "y": 41,
+      "z": -7,
+      "name": "Rock_Marble_SkyGrass"
+    },
+    {
+      "x": -1,
+      "y": 39,
+      "z": -6,
+      "name": "Rock_Chalk"
+    },
+    {
+      "x": -1,
+      "y": 40,
+      "z": -6,
+      "name": "Rock_Marble"
+    },
+    {
+      "x": -1,
+      "y": 41,
+      "z": -6,
+      "name": "Rock_Marble_SkyGrass"
+    },
+    {
+      "x": -1,
+      "y": 42,
+      "z": -6,
+      "name": "Plant_Grass_Sky_Long",
+      "support": 15
+    },
+    {
+      "x": -1,
+      "y": 43,
+      "z": -6,
+      "name": "Plant_Grass_Sky_Long",
+      "filler": 1024
+    },
+    {
+      "x": -1,
+      "y": 37,
+      "z": -5,
+      "name": "Rock_Lime"
+    },
+    {
+      "x": -1,
+      "y": 38,
+      "z": -5,
+      "name": "Rock_Lime"
+    },
+    {
+      "x": -1,
+      "y": 39,
+      "z": -5,
+      "name": "Rock_Chalk"
+    },
+    {
+      "x": -1,
+      "y": 40,
+      "z": -5,
+      "name": "Rock_Marble"
+    },
+    {
+      "x": -1,
+      "y": 41,
+      "z": -5,
+      "name": "Rock_Marble_SkyGrass"
+    },
+    {
+      "x": -1,
+      "y": 36,
+      "z": -4,
+      "name": "Rock_Lime"
+    },
+    {
+      "x": -1,
+      "y": 37,
+      "z": -4,
+      "name": "Rock_Lime"
+    },
+    {
+      "x": -1,
+      "y": 38,
+      "z": -4,
+      "name": "Rock_Lime"
+    },
+    {
+      "x": -1,
+      "y": 39,
+      "z": -4,
+      "name": "Rock_Chalk"
+    },
+    {
+      "x": -1,
+      "y": 40,
+      "z": -4,
+      "name": "Rock_Marble"
+    },
+    {
+      "x": -1,
+      "y": 41,
+      "z": -4,
+      "name": "Rock_Lime"
+    },
+    {
+      "x": -1,
+      "y": 43,
+      "z": -4,
+      "name": "Cloth_Roof_Hide",
+      "rotation": 1
+    },
+    {
+      "x": -1,
+      "y": 35,
+      "z": -3,
+      "name": "Rock_Chalk"
+    },
+    {
+      "x": -1,
+      "y": 36,
+      "z": -3,
+      "name": "Rock_Lime"
+    },
+    {
+      "x": -1,
+      "y": 37,
+      "z": -3,
+      "name": "Rock_Lime"
+    },
+    {
+      "x": -1,
+      "y": 38,
+      "z": -3,
+      "name": "Rock_Lime"
+    },
+    {
+      "x": -1,
+      "y": 39,
+      "z": -3,
+      "name": "Rock_Marble"
+    },
+    {
+      "x": -1,
+      "y": 40,
+      "z": -3,
+      "name": "Rock_Marble"
+    },
+    {
+      "x": -1,
+      "y": 41,
+      "z": -3,
+      "name": "Rock_Lime"
+    },
+    {
+      "x": -1,
+      "y": 42,
+      "z": -3,
+      "name": "Furniture_Crude_Bed",
+      "components": {
+        "Components": {
+          "PlacedByInteraction": {
+            "WhoPlacedUuid": {
+              "$binary": "rmwkrpH8RVykTc7XnK4YBA==",
+              "$type": "04"
+            }
+          },
+          "RespawnBlock": {}
+        }
+      }
+    },
+    {
+      "x": -1,
+      "y": 43,
+      "z": -3,
+      "name": "Cloth_Roof_Hide",
+      "rotation": 1
+    },
+    {
+      "x": -1,
+      "y": 35,
+      "z": -2,
+      "name": "Rock_Chalk"
+    },
+    {
+      "x": -1,
+      "y": 36,
+      "z": -2,
+      "name": "Rock_Lime"
+    },
+    {
+      "x": -1,
+      "y": 37,
+      "z": -2,
+      "name": "Rock_Lime"
+    },
+    {
+      "x": -1,
+      "y": 38,
+      "z": -2,
+      "name": "Rock_Marble"
+    },
+    {
+      "x": -1,
+      "y": 39,
+      "z": -2,
+      "name": "Rock_Marble"
+    },
+    {
+      "x": -1,
+      "y": 40,
+      "z": -2,
+      "name": "Rock_Marble"
+    },
+    {
+      "x": -1,
+      "y": 41,
+      "z": -2,
+      "name": "Rock_Lime"
+    },
+    {
+      "x": -1,
+      "y": 42,
+      "z": -2,
+      "name": "Furniture_Crude_Bed",
+      "filler": 32
+    },
+    {
+      "x": -1,
+      "y": 43,
+      "z": -2,
+      "name": "Cloth_Roof_Hide",
+      "rotation": 1
+    },
+    {
+      "x": -1,
+      "y": 30,
+      "z": -1,
+      "name": "Rock_Marble"
+    },
+    {
+      "x": -1,
+      "y": 31,
+      "z": -1,
+      "name": "Rock_Marble"
+    },
+    {
+      "x": -1,
+      "y": 32,
+      "z": -1,
+      "name": "Rock_Chalk"
+    },
+    {
+      "x": -1,
+      "y": 33,
+      "z": -1,
+      "name": "Rock_Marble"
+    },
+    {
+      "x": -1,
+      "y": 34,
+      "z": -1,
+      "name": "Rock_Marble"
+    },
+    {
+      "x": -1,
+      "y": 35,
+      "z": -1,
+      "name": "Rock_Chalk"
+    },
+    {
+      "x": -1,
+      "y": 36,
+      "z": -1,
+      "name": "Rock_Lime"
+    },
+    {
+      "x": -1,
+      "y": 37,
+      "z": -1,
+      "name": "Rock_Lime"
+    },
+    {
+      "x": -1,
+      "y": 38,
+      "z": -1,
+      "name": "Rock_Marble"
+    },
+    {
+      "x": -1,
+      "y": 39,
+      "z": -1,
+      "name": "Rock_Marble"
+    },
+    {
+      "x": -1,
+      "y": 40,
+      "z": -1,
+      "name": "Rock_Marble"
+    },
+    {
+      "x": -1,
+      "y": 41,
+      "z": -1,
+      "name": "Soil_Gravel_Lime",
+      "support": 15
+    },
+    {
+      "x": -1,
+      "y": 30,
+      "z": 0,
+      "name": "Rock_Marble"
+    },
+    {
+      "x": -1,
+      "y": 31,
+      "z": 0,
+      "name": "Rock_Marble"
+    },
+    {
+      "x": -1,
+      "y": 32,
+      "z": 0,
+      "name": "Rock_Chalk"
+    },
+    {
+      "x": -1,
+      "y": 33,
+      "z": 0,
+      "name": "Rock_Marble"
+    },
+    {
+      "x": -1,
+      "y": 34,
+      "z": 0,
+      "name": "Rock_Chalk"
+    },
+    {
+      "x": -1,
+      "y": 35,
+      "z": 0,
+      "name": "Rock_Marble"
+    },
+    {
+      "x": -1,
+      "y": 36,
+      "z": 0,
+      "name": "Rock_Marble"
+    },
+    {
+      "x": -1,
+      "y": 37,
+      "z": 0,
+      "name": "Rock_Marble"
+    },
+    {
+      "x": -1,
+      "y": 38,
+      "z": 0,
+      "name": "Rock_Marble"
+    },
+    {
+      "x": -1,
+      "y": 39,
+      "z": 0,
+      "name": "Rock_Marble"
+    },
+    {
+      "x": -1,
+      "y": 40,
+      "z": 0,
+      "name": "Rock_Marble"
+    },
+    {
+      "x": -1,
+      "y": 41,
+      "z": 0,
+      "name": "Rock_Lime"
+    },
+    {
+      "x": -1,
+      "y": 42,
+      "z": 0,
+      "name": "Deco_Campfire_Off"
+    },
+    {
+      "x": -1,
+      "y": 30,
+      "z": 1,
+      "name": "Rock_Marble"
+    },
+    {
+      "x": -1,
+      "y": 31,
+      "z": 1,
+      "name": "Rock_Marble"
+    },
+    {
+      "x": -1,
+      "y": 32,
+      "z": 1,
+      "name": "Rock_Chalk"
+    },
+    {
+      "x": -1,
+      "y": 33,
+      "z": 1,
+      "name": "Rock_Marble"
+    },
+    {
+      "x": -1,
+      "y": 34,
+      "z": 1,
+      "name": "Rock_Lime"
+    },
+    {
+      "x": -1,
+      "y": 35,
+      "z": 1,
+      "name": "Rock_Marble"
+    },
+    {
+      "x": -1,
+      "y": 36,
+      "z": 1,
+      "name": "Rock_Marble"
+    },
+    {
+      "x": -1,
+      "y": 37,
+      "z": 1,
+      "name": "Rock_Marble"
+    },
+    {
+      "x": -1,
+      "y": 38,
+      "z": 1,
+      "name": "Rock_Marble"
+    },
+    {
+      "x": -1,
+      "y": 39,
+      "z": 1,
+      "name": "Rock_Marble"
+    },
+    {
+      "x": -1,
+      "y": 40,
+      "z": 1,
+      "name": "Rock_Marble"
+    },
+    {
+      "x": -1,
+      "y": 41,
+      "z": 1,
+      "name": "Soil_Gravel_Lime",
+      "support": 15
+    },
+    {
+      "x": -1,
+      "y": 35,
+      "z": 2,
+      "name": "Rock_Marble"
+    },
+    {
+      "x": -1,
+      "y": 36,
+      "z": 2,
+      "name": "Rock_Marble"
+    },
+    {
+      "x": -1,
+      "y": 37,
+      "z": 2,
+      "name": "Rock_Lime"
+    },
+    {
+      "x": -1,
+      "y": 38,
+      "z": 2,
+      "name": "Rock_Marble"
+    },
+    {
+      "x": -1,
+      "y": 39,
+      "z": 2,
+      "name": "Rock_Marble"
+    },
+    {
+      "x": -1,
+      "y": 40,
+      "z": 2,
+      "name": "Rock_Marble"
+    },
+    {
+      "x": -1,
+      "y": 41,
+      "z": 2,
+      "name": "Soil_Gravel_Lime",
+      "support": 15
+    },
+    {
+      "x": -1,
+      "y": 34,
+      "z": 3,
+      "name": "Rock_Lime"
+    },
+    {
+      "x": -1,
+      "y": 35,
+      "z": 3,
+      "name": "Rock_Marble"
+    },
+    {
+      "x": -1,
+      "y": 36,
+      "z": 3,
+      "name": "Rock_Lime"
+    },
+    {
+      "x": -1,
+      "y": 37,
+      "z": 3,
+      "name": "Rock_Lime"
+    },
+    {
+      "x": -1,
+      "y": 38,
+      "z": 3,
+      "name": "Rock_Chalk"
+    },
+    {
+      "x": -1,
+      "y": 39,
+      "z": 3,
+      "name": "Rock_Marble"
+    },
+    {
+      "x": -1,
+      "y": 40,
+      "z": 3,
+      "name": "Rock_Marble"
+    },
+    {
+      "x": -1,
+      "y": 41,
+      "z": 3,
+      "name": "Rock_Marble_SkyGrass"
+    },
+    {
+      "x": -1,
+      "y": 42,
+      "z": 3,
+      "name": "Rubble_Marble",
+      "support": 15
+    },
+    {
+      "x": -1,
+      "y": 34,
+      "z": 4,
+      "name": "Rock_Lime"
+    },
+    {
+      "x": -1,
+      "y": 35,
+      "z": 4,
+      "name": "Rock_Marble"
+    },
+    {
+      "x": -1,
+      "y": 36,
+      "z": 4,
+      "name": "Rock_Lime"
+    },
+    {
+      "x": -1,
+      "y": 37,
+      "z": 4,
+      "name": "Rock_Lime"
+    },
+    {
+      "x": -1,
+      "y": 38,
+      "z": 4,
+      "name": "Rock_Chalk"
+    },
+    {
+      "x": -1,
+      "y": 39,
+      "z": 4,
+      "name": "Rock_Marble"
+    },
+    {
+      "x": -1,
+      "y": 40,
+      "z": 4,
+      "name": "Rock_Marble"
+    },
+    {
+      "x": -1,
+      "y": 41,
+      "z": 4,
+      "name": "Rock_Marble_SkyGrass"
+    },
+    {
+      "x": -1,
+      "y": 42,
+      "z": 4,
+      "name": "Wood_Birch_Trunk",
+      "support": 15,
+      "rotation": 5
+    },
+    {
+      "x": -1,
+      "y": 37,
+      "z": 5,
+      "name": "Rock_Lime"
+    },
+    {
+      "x": -1,
+      "y": 38,
+      "z": 5,
+      "name": "Rock_Chalk"
+    },
+    {
+      "x": -1,
+      "y": 39,
+      "z": 5,
+      "name": "Rock_Marble"
+    },
+    {
+      "x": -1,
+      "y": 40,
+      "z": 5,
+      "name": "Rock_Marble"
+    },
+    {
+      "x": -1,
+      "y": 41,
+      "z": 5,
+      "name": "Rock_Marble_SkyGrass"
+    },
+    {
+      "x": -1,
+      "y": 38,
+      "z": 6,
+      "name": "Rock_Chalk"
+    },
+    {
+      "x": -1,
+      "y": 39,
+      "z": 6,
+      "name": "Rock_Marble"
+    },
+    {
+      "x": -1,
+      "y": 40,
+      "z": 6,
+      "name": "Rock_Marble"
+    },
+    {
+      "x": -1,
+      "y": 41,
+      "z": 6,
+      "name": "Rock_Marble_SkyGrass"
+    },
+    {
+      "x": -1,
+      "y": 39,
+      "z": 7,
+      "name": "Rock_Marble"
+    },
+    {
+      "x": -1,
+      "y": 40,
+      "z": 7,
+      "name": "Rock_Marble"
+    },
+    {
+      "x": -1,
+      "y": 41,
+      "z": 7,
+      "name": "Rock_Marble_SkyGrass"
+    },
+    {
+      "x": 0,
+      "y": 39,
+      "z": -7,
+      "name": "Rock_Chalk"
+    },
+    {
+      "x": 0,
+      "y": 40,
+      "z": -7,
+      "name": "Rock_Marble"
+    },
+    {
+      "x": 0,
+      "y": 41,
+      "z": -7,
+      "name": "Rock_Marble_SkyGrass"
+    },
+    {
+      "x": 0,
+      "y": 39,
+      "z": -6,
+      "name": "Rock_Chalk"
+    },
+    {
+      "x": 0,
+      "y": 40,
+      "z": -6,
+      "name": "Rock_Marble"
+    },
+    {
+      "x": 0,
+      "y": 41,
+      "z": -6,
+      "name": "Rock_Marble_SkyGrass"
+    },
+    {
+      "x": 0,
+      "y": 42,
+      "z": -6,
+      "name": "Plant_Grass_Sky",
+      "support": 15
+    },
+    {
+      "x": 0,
+      "y": 37,
+      "z": -5,
+      "name": "Rock_Lime"
+    },
+    {
+      "x": 0,
+      "y": 38,
+      "z": -5,
+      "name": "Rock_Marble"
+    },
+    {
+      "x": 0,
+      "y": 39,
+      "z": -5,
+      "name": "Rock_Chalk"
+    },
+    {
+      "x": 0,
+      "y": 40,
+      "z": -5,
+      "name": "Rock_Marble"
+    },
+    {
+      "x": 0,
+      "y": 41,
+      "z": -5,
+      "name": "Rock_Marble_SkyGrass"
+    },
+    {
+      "x": 0,
+      "y": 36,
+      "z": -4,
+      "name": "Rock_Lime"
+    },
+    {
+      "x": 0,
+      "y": 37,
+      "z": -4,
+      "name": "Rock_Lime"
+    },
+    {
+      "x": 0,
+      "y": 38,
+      "z": -4,
+      "name": "Rock_Marble"
+    },
+    {
+      "x": 0,
+      "y": 39,
+      "z": -4,
+      "name": "Rock_Chalk"
+    },
+    {
+      "x": 0,
+      "y": 40,
+      "z": -4,
+      "name": "Rock_Marble"
+    },
+    {
+      "x": 0,
+      "y": 41,
+      "z": -4,
+      "name": "Rock_Lime"
+    },
+    {
+      "x": 0,
+      "y": 42,
+      "z": -4,
+      "name": "Cloth_Roof_Hide",
+      "rotation": 1
+    },
+    {
+      "x": 0,
+      "y": 32,
+      "z": -3,
+      "name": "Rock_Chalk"
+    },
+    {
+      "x": 0,
+      "y": 33,
+      "z": -3,
+      "name": "Rock_Marble"
+    },
+    {
+      "x": 0,
+      "y": 34,
+      "z": -3,
+      "name": "Rock_Marble"
+    },
+    {
+      "x": 0,
+      "y": 35,
+      "z": -3,
+      "name": "Rock_Chalk"
+    },
+    {
+      "x": 0,
+      "y": 36,
+      "z": -3,
+      "name": "Rock_Lime"
+    },
+    {
+      "x": 0,
+      "y": 37,
+      "z": -3,
+      "name": "Rock_Lime"
+    },
+    {
+      "x": 0,
+      "y": 38,
+      "z": -3,
+      "name": "Rock_Marble"
+    },
+    {
+      "x": 0,
+      "y": 39,
+      "z": -3,
+      "name": "Rock_Chalk"
+    },
+    {
+      "x": 0,
+      "y": 40,
+      "z": -3,
+      "name": "Rock_Marble"
+    },
+    {
+      "x": 0,
+      "y": 41,
+      "z": -3,
+      "name": "Rock_Lime"
+    },
+    {
+      "x": 0,
+      "y": 42,
+      "z": -3,
+      "name": "Cloth_Roof_Hide_Flap",
+      "rotation": 1
+    },
+    {
+      "x": 0,
+      "y": 32,
+      "z": -2,
+      "name": "Rock_Chalk"
+    },
+    {
+      "x": 0,
+      "y": 33,
+      "z": -2,
+      "name": "Rock_Marble"
+    },
+    {
+      "x": 0,
+      "y": 34,
+      "z": -2,
+      "name": "Rock_Chalk"
+    },
+    {
+      "x": 0,
+      "y": 35,
+      "z": -2,
+      "name": "Rock_Chalk"
+    },
+    {
+      "x": 0,
+      "y": 36,
+      "z": -2,
+      "name": "Rock_Lime"
+    },
+    {
+      "x": 0,
+      "y": 37,
+      "z": -2,
+      "name": "Rock_Lime"
+    },
+    {
+      "x": 0,
+      "y": 38,
+      "z": -2,
+      "name": "Rock_Marble"
+    },
+    {
+      "x": 0,
+      "y": 39,
+      "z": -2,
+      "name": "Rock_Marble"
+    },
+    {
+      "x": 0,
+      "y": 40,
+      "z": -2,
+      "name": "Rock_Marble"
+    },
+    {
+      "x": 0,
+      "y": 41,
+      "z": -2,
+      "name": "Rock_Lime"
+    },
+    {
+      "x": 0,
+      "y": 42,
+      "z": -2,
+      "name": "Cloth_Roof_Hide",
+      "rotation": 1
+    },
+    {
+      "x": 0,
+      "y": 30,
+      "z": -1,
+      "name": "Rock_Marble"
+    },
+    {
+      "x": 0,
+      "y": 31,
+      "z": -1,
+      "name": "Rock_Marble"
+    },
+    {
+      "x": 0,
+      "y": 32,
+      "z": -1,
+      "name": "Rock_Chalk"
+    },
+    {
+      "x": 0,
+      "y": 33,
+      "z": -1,
+      "name": "Rock_Marble"
+    },
+    {
+      "x": 0,
+      "y": 34,
+      "z": -1,
+      "name": "Rock_Chalk"
+    },
+    {
+      "x": 0,
+      "y": 35,
+      "z": -1,
+      "name": "Rock_Chalk"
+    },
+    {
+      "x": 0,
+      "y": 36,
+      "z": -1,
+      "name": "Rock_Lime"
+    },
+    {
+      "x": 0,
+      "y": 37,
+      "z": -1,
+      "name": "Rock_Lime"
+    },
+    {
+      "x": 0,
+      "y": 38,
+      "z": -1,
+      "name": "Rock_Marble"
+    },
+    {
+      "x": 0,
+      "y": 39,
+      "z": -1,
+      "name": "Rock_Marble"
+    },
+    {
+      "x": 0,
+      "y": 40,
+      "z": -1,
+      "name": "Rock_Marble"
+    },
+    {
+      "x": 0,
+      "y": 41,
+      "z": -1,
+      "name": "Rock_Lime"
+    },
+    {
+      "x": 0,
+      "y": 30,
+      "z": 0,
+      "name": "Rock_Marble"
+    },
+    {
+      "x": 0,
+      "y": 31,
+      "z": 0,
+      "name": "Rock_Marble"
+    },
+    {
+      "x": 0,
+      "y": 32,
+      "z": 0,
+      "name": "Rock_Chalk"
+    },
+    {
+      "x": 0,
+      "y": 33,
+      "z": 0,
+      "name": "Rock_Marble"
+    },
+    {
+      "x": 0,
+      "y": 34,
+      "z": 0,
+      "name": "Rock_Chalk"
+    },
+    {
+      "x": 0,
+      "y": 35,
+      "z": 0,
+      "name": "Rock_Chalk"
+    },
+    {
+      "x": 0,
+      "y": 36,
+      "z": 0,
+      "name": "Rock_Lime"
+    },
+    {
+      "x": 0,
+      "y": 37,
+      "z": 0,
+      "name": "Rock_Marble"
+    },
+    {
+      "x": 0,
+      "y": 38,
+      "z": 0,
+      "name": "Rock_Marble"
+    },
+    {
+      "x": 0,
+      "y": 39,
+      "z": 0,
+      "name": "Rock_Marble"
+    },
+    {
+      "x": 0,
+      "y": 40,
+      "z": 0,
+      "name": "Rock_Marble"
+    },
+    {
+      "x": 0,
+      "y": 41,
+      "z": 0,
+      "name": "Soil_Gravel_Lime",
+      "support": 15
+    },
+    {
+      "x": 0,
+      "y": 30,
+      "z": 1,
+      "name": "Rock_Marble"
+    },
+    {
+      "x": 0,
+      "y": 31,
+      "z": 1,
+      "name": "Rock_Marble"
+    },
+    {
+      "x": 0,
+      "y": 32,
+      "z": 1,
+      "name": "Rock_Chalk"
+    },
+    {
+      "x": 0,
+      "y": 33,
+      "z": 1,
+      "name": "Rock_Marble"
+    },
+    {
+      "x": 0,
+      "y": 34,
+      "z": 1,
+      "name": "Rock_Chalk"
+    },
+    {
+      "x": 0,
+      "y": 35,
+      "z": 1,
+      "name": "Rock_Marble"
+    },
+    {
+      "x": 0,
+      "y": 36,
+      "z": 1,
+      "name": "Rock_Lime"
+    },
+    {
+      "x": 0,
+      "y": 37,
+      "z": 1,
+      "name": "Rock_Marble"
+    },
+    {
+      "x": 0,
+      "y": 38,
+      "z": 1,
+      "name": "Rock_Marble"
+    },
+    {
+      "x": 0,
+      "y": 39,
+      "z": 1,
+      "name": "Rock_Marble"
+    },
+    {
+      "x": 0,
+      "y": 40,
+      "z": 1,
+      "name": "Soil_Gravel_Lime",
+      "support": 15
+    },
+    {
+      "x": 0,
+      "y": 41,
+      "z": 1,
+      "name": "Soil_Gravel_Lime",
+      "support": 15
+    },
+    {
+      "x": 0,
+      "y": 33,
+      "z": 2,
+      "name": "Rock_Marble"
+    },
+    {
+      "x": 0,
+      "y": 34,
+      "z": 2,
+      "name": "Rock_Chalk"
+    },
+    {
+      "x": 0,
+      "y": 35,
+      "z": 2,
+      "name": "Rock_Marble"
+    },
+    {
+      "x": 0,
+      "y": 36,
+      "z": 2,
+      "name": "Rock_Marble"
+    },
+    {
+      "x": 0,
+      "y": 37,
+      "z": 2,
+      "name": "Rock_Lime"
+    },
+    {
+      "x": 0,
+      "y": 38,
+      "z": 2,
+      "name": "Rock_Marble"
+    },
+    {
+      "x": 0,
+      "y": 39,
+      "z": 2,
+      "name": "Rock_Marble"
+    },
+    {
+      "x": 0,
+      "y": 40,
+      "z": 2,
+      "name": "Rock_Marble"
+    },
+    {
+      "x": 0,
+      "y": 41,
+      "z": 2,
+      "name": "Rock_Marble_SkyGrass"
+    },
+    {
+      "x": 0,
+      "y": 35,
+      "z": 3,
+      "name": "Rock_Marble"
+    },
+    {
+      "x": 0,
+      "y": 36,
+      "z": 3,
+      "name": "Rock_Lime"
+    },
+    {
+      "x": 0,
+      "y": 37,
+      "z": 3,
+      "name": "Rock_Lime"
+    },
+    {
+      "x": 0,
+      "y": 38,
+      "z": 3,
+      "name": "Rock_Chalk"
+    },
+    {
+      "x": 0,
+      "y": 39,
+      "z": 3,
+      "name": "Rock_Marble"
+    },
+    {
+      "x": 0,
+      "y": 40,
+      "z": 3,
+      "name": "Rock_Marble"
+    },
+    {
+      "x": 0,
+      "y": 41,
+      "z": 3,
+      "name": "Rock_Marble_SkyGrass"
+    },
+    {
+      "x": 0,
+      "y": 42,
+      "z": 3,
+      "name": "Plant_Grass_Sky_Long",
+      "support": 15
+    },
+    {
+      "x": 0,
+      "y": 43,
+      "z": 3,
+      "name": "Plant_Grass_Sky_Long",
+      "filler": 1024
+    },
+    {
+      "x": 0,
+      "y": 35,
+      "z": 4,
+      "name": "Rock_Marble"
+    },
+    {
+      "x": 0,
+      "y": 36,
+      "z": 4,
+      "name": "Rock_Lime"
+    },
+    {
+      "x": 0,
+      "y": 37,
+      "z": 4,
+      "name": "Rock_Lime"
+    },
+    {
+      "x": 0,
+      "y": 38,
+      "z": 4,
+      "name": "Rock_Chalk"
+    },
+    {
+      "x": 0,
+      "y": 39,
+      "z": 4,
+      "name": "Rock_Marble"
+    },
+    {
+      "x": 0,
+      "y": 40,
+      "z": 4,
+      "name": "Rock_Marble"
+    },
+    {
+      "x": 0,
+      "y": 41,
+      "z": 4,
+      "name": "Rock_Marble_SkyGrass"
+    },
+    {
+      "x": 0,
+      "y": 42,
+      "z": 4,
+      "name": "Wood_Birch_Trunk",
+      "support": 15,
+      "rotation": 5
+    },
+    {
+      "x": 0,
+      "y": 37,
+      "z": 5,
+      "name": "Rock_Lime"
+    },
+    {
+      "x": 0,
+      "y": 38,
+      "z": 5,
+      "name": "Rock_Chalk"
+    },
+    {
+      "x": 0,
+      "y": 39,
+      "z": 5,
+      "name": "Rock_Marble"
+    },
+    {
+      "x": 0,
+      "y": 40,
+      "z": 5,
+      "name": "Rock_Marble"
+    },
+    {
+      "x": 0,
+      "y": 41,
+      "z": 5,
+      "name": "Rock_Marble_SkyGrass"
+    },
+    {
+      "x": 0,
+      "y": 42,
+      "z": 5,
+      "name": "Plant_Bush_Sky",
+      "support": 15
+    },
+    {
+      "x": 0,
+      "y": 38,
+      "z": 6,
+      "name": "Rock_Chalk"
+    },
+    {
+      "x": 0,
+      "y": 39,
+      "z": 6,
+      "name": "Rock_Marble"
+    },
+    {
+      "x": 0,
+      "y": 40,
+      "z": 6,
+      "name": "Rock_Marble"
+    },
+    {
+      "x": 0,
+      "y": 41,
+      "z": 6,
+      "name": "Rock_Marble_SkyGrass"
+    },
+    {
+      "x": 0,
+      "y": 39,
+      "z": 7,
+      "name": "Rock_Marble"
+    },
+    {
+      "x": 0,
+      "y": 40,
+      "z": 7,
+      "name": "Rock_Marble"
+    },
+    {
+      "x": 0,
+      "y": 41,
+      "z": 7,
+      "name": "Rock_Marble_SkyGrass"
+    },
+    {
+      "x": 1,
+      "y": 39,
+      "z": -7,
+      "name": "Rock_Chalk"
+    },
+    {
+      "x": 1,
+      "y": 40,
+      "z": -7,
+      "name": "Rock_Marble"
+    },
+    {
+      "x": 1,
+      "y": 41,
+      "z": -7,
+      "name": "Rock_Marble_SkyGrass"
+    },
+    {
+      "x": 1,
+      "y": 39,
+      "z": -6,
+      "name": "Rock_Chalk"
+    },
+    {
+      "x": 1,
+      "y": 40,
+      "z": -6,
+      "name": "Rock_Marble"
+    },
+    {
+      "x": 1,
+      "y": 41,
+      "z": -6,
+      "name": "Rock_Marble_SkyGrass"
+    },
+    {
+      "x": 1,
+      "y": 37,
+      "z": -5,
+      "name": "Rock_Lime"
+    },
+    {
+      "x": 1,
+      "y": 38,
+      "z": -5,
+      "name": "Rock_Marble"
+    },
+    {
+      "x": 1,
+      "y": 39,
+      "z": -5,
+      "name": "Rock_Chalk"
+    },
+    {
+      "x": 1,
+      "y": 40,
+      "z": -5,
+      "name": "Rock_Marble"
+    },
+    {
+      "x": 1,
+      "y": 41,
+      "z": -5,
+      "name": "Rock_Marble_SkyGrass"
+    },
+    {
+      "x": 1,
+      "y": 32,
+      "z": -4,
+      "name": "Rock_Chalk"
+    },
+    {
+      "x": 1,
+      "y": 33,
+      "z": -4,
+      "name": "Rock_Marble"
+    },
+    {
+      "x": 1,
+      "y": 34,
+      "z": -4,
+      "name": "Rock_Marble"
+    },
+    {
+      "x": 1,
+      "y": 35,
+      "z": -4,
+      "name": "Rock_Chalk"
+    },
+    {
+      "x": 1,
+      "y": 36,
+      "z": -4,
+      "name": "Rock_Lime"
+    },
+    {
+      "x": 1,
+      "y": 37,
+      "z": -4,
+      "name": "Rock_Lime"
+    },
+    {
+      "x": 1,
+      "y": 38,
+      "z": -4,
+      "name": "Rock_Marble"
+    },
+    {
+      "x": 1,
+      "y": 39,
+      "z": -4,
+      "name": "Rock_Chalk"
+    },
+    {
+      "x": 1,
+      "y": 40,
+      "z": -4,
+      "name": "Rock_Marble"
+    },
+    {
+      "x": 1,
+      "y": 41,
+      "z": -4,
+      "name": "Rock_Marble_SkyGrass"
+    },
+    {
+      "x": 1,
+      "y": 32,
+      "z": -3,
+      "name": "Rock_Chalk"
+    },
+    {
+      "x": 1,
+      "y": 33,
+      "z": -3,
+      "name": "Rock_Marble"
+    },
+    {
+      "x": 1,
+      "y": 34,
+      "z": -3,
+      "name": "Rock_Marble"
+    },
+    {
+      "x": 1,
+      "y": 35,
+      "z": -3,
+      "name": "Rock_Chalk"
+    },
+    {
+      "x": 1,
+      "y": 36,
+      "z": -3,
+      "name": "Rock_Lime"
+    },
+    {
+      "x": 1,
+      "y": 37,
+      "z": -3,
+      "name": "Rock_Lime"
+    },
+    {
+      "x": 1,
+      "y": 38,
+      "z": -3,
+      "name": "Rock_Chalk"
+    },
+    {
+      "x": 1,
+      "y": 39,
+      "z": -3,
+      "name": "Rock_Chalk"
+    },
+    {
+      "x": 1,
+      "y": 40,
+      "z": -3,
+      "name": "Rock_Marble"
+    },
+    {
+      "x": 1,
+      "y": 41,
+      "z": -3,
+      "name": "Rock_Marble_SkyGrass"
+    },
+    {
+      "x": 1,
+      "y": 32,
+      "z": -2,
+      "name": "Rock_Chalk"
+    },
+    {
+      "x": 1,
+      "y": 33,
+      "z": -2,
+      "name": "Rock_Marble"
+    },
+    {
+      "x": 1,
+      "y": 34,
+      "z": -2,
+      "name": "Rock_Chalk"
+    },
+    {
+      "x": 1,
+      "y": 35,
+      "z": -2,
+      "name": "Rock_Chalk"
+    },
+    {
+      "x": 1,
+      "y": 36,
+      "z": -2,
+      "name": "Rock_Lime"
+    },
+    {
+      "x": 1,
+      "y": 37,
+      "z": -2,
+      "name": "Rock_Lime"
+    },
+    {
+      "x": 1,
+      "y": 38,
+      "z": -2,
+      "name": "Rock_Chalk"
+    },
+    {
+      "x": 1,
+      "y": 39,
+      "z": -2,
+      "name": "Rock_Marble"
+    },
+    {
+      "x": 1,
+      "y": 40,
+      "z": -2,
+      "name": "Rock_Marble"
+    },
+    {
+      "x": 1,
+      "y": 41,
+      "z": -2,
+      "name": "Soil_Gravel_Lime",
+      "support": 15
+    },
+    {
+      "x": 1,
+      "y": 30,
+      "z": -1,
+      "name": "Rock_Marble"
+    },
+    {
+      "x": 1,
+      "y": 31,
+      "z": -1,
+      "name": "Rock_Marble"
+    },
+    {
+      "x": 1,
+      "y": 32,
+      "z": -1,
+      "name": "Rock_Chalk"
+    },
+    {
+      "x": 1,
+      "y": 33,
+      "z": -1,
+      "name": "Rock_Marble"
+    },
+    {
+      "x": 1,
+      "y": 34,
+      "z": -1,
+      "name": "Rock_Chalk"
+    },
+    {
+      "x": 1,
+      "y": 35,
+      "z": -1,
+      "name": "Rock_Chalk"
+    },
+    {
+      "x": 1,
+      "y": 36,
+      "z": -1,
+      "name": "Rock_Lime"
+    },
+    {
+      "x": 1,
+      "y": 37,
+      "z": -1,
+      "name": "Rock_Lime"
+    },
+    {
+      "x": 1,
+      "y": 38,
+      "z": -1,
+      "name": "Rock_Chalk"
+    },
+    {
+      "x": 1,
+      "y": 39,
+      "z": -1,
+      "name": "Rock_Marble"
+    },
+    {
+      "x": 1,
+      "y": 40,
+      "z": -1,
+      "name": "Rock_Marble"
+    },
+    {
+      "x": 1,
+      "y": 41,
+      "z": -1,
+      "name": "Soil_Gravel_Lime",
+      "support": 15
+    },
+    {
+      "x": 1,
+      "y": 42,
+      "z": -1,
+      "name": "Rubble_Marble",
+      "support": 15
+    },
+    {
+      "x": 1,
+      "y": 30,
+      "z": 0,
+      "name": "Rock_Marble"
+    },
+    {
+      "x": 1,
+      "y": 31,
+      "z": 0,
+      "name": "Rock_Marble"
+    },
+    {
+      "x": 1,
+      "y": 32,
+      "z": 0,
+      "name": "Rock_Chalk"
+    },
+    {
+      "x": 1,
+      "y": 33,
+      "z": 0,
+      "name": "Rock_Marble"
+    },
+    {
+      "x": 1,
+      "y": 34,
+      "z": 0,
+      "name": "Rock_Chalk"
+    },
+    {
+      "x": 1,
+      "y": 35,
+      "z": 0,
+      "name": "Rock_Chalk"
+    },
+    {
+      "x": 1,
+      "y": 36,
+      "z": 0,
+      "name": "Rock_Lime"
+    },
+    {
+      "x": 1,
+      "y": 37,
+      "z": 0,
+      "name": "Rock_Marble"
+    },
+    {
+      "x": 1,
+      "y": 38,
+      "z": 0,
+      "name": "Rock_Marble"
+    },
+    {
+      "x": 1,
+      "y": 39,
+      "z": 0,
+      "name": "Rock_Marble"
+    },
+    {
+      "x": 1,
+      "y": 40,
+      "z": 0,
+      "name": "Rock_Marble"
+    },
+    {
+      "x": 1,
+      "y": 41,
+      "z": 0,
+      "name": "Rock_Lime"
+    },
+    {
+      "x": 1,
+      "y": 30,
+      "z": 1,
+      "name": "Rock_Marble"
+    },
+    {
+      "x": 1,
+      "y": 31,
+      "z": 1,
+      "name": "Rock_Marble"
+    },
+    {
+      "x": 1,
+      "y": 32,
+      "z": 1,
+      "name": "Rock_Chalk"
+    },
+    {
+      "x": 1,
+      "y": 33,
+      "z": 1,
+      "name": "Rock_Marble"
+    },
+    {
+      "x": 1,
+      "y": 34,
+      "z": 1,
+      "name": "Rock_Chalk"
+    },
+    {
+      "x": 1,
+      "y": 35,
+      "z": 1,
+      "name": "Rock_Marble"
+    },
+    {
+      "x": 1,
+      "y": 36,
+      "z": 1,
+      "name": "Rock_Lime"
+    },
+    {
+      "x": 1,
+      "y": 37,
+      "z": 1,
+      "name": "Rock_Marble"
+    },
+    {
+      "x": 1,
+      "y": 38,
+      "z": 1,
+      "name": "Rock_Marble"
+    },
+    {
+      "x": 1,
+      "y": 39,
+      "z": 1,
+      "name": "Rock_Marble"
+    },
+    {
+      "x": 1,
+      "y": 40,
+      "z": 1,
+      "name": "Rock_Marble"
+    },
+    {
+      "x": 1,
+      "y": 41,
+      "z": 1,
+      "name": "Soil_Gravel_Lime",
+      "support": 15
+    },
+    {
+      "x": 1,
+      "y": 33,
+      "z": 2,
+      "name": "Rock_Marble"
+    },
+    {
+      "x": 1,
+      "y": 34,
+      "z": 2,
+      "name": "Rock_Chalk"
+    },
+    {
+      "x": 1,
+      "y": 35,
+      "z": 2,
+      "name": "Rock_Marble"
+    },
+    {
+      "x": 1,
+      "y": 36,
+      "z": 2,
+      "name": "Rock_Lime"
+    },
+    {
+      "x": 1,
+      "y": 37,
+      "z": 2,
+      "name": "Rock_Marble"
+    },
+    {
+      "x": 1,
+      "y": 38,
+      "z": 2,
+      "name": "Rock_Marble"
+    },
+    {
+      "x": 1,
+      "y": 39,
+      "z": 2,
+      "name": "Rock_Marble"
+    },
+    {
+      "x": 1,
+      "y": 40,
+      "z": 2,
+      "name": "Rock_Marble"
+    },
+    {
+      "x": 1,
+      "y": 41,
+      "z": 2,
+      "name": "Soil_Gravel_Lime",
+      "support": 15
+    },
+    {
+      "x": 1,
+      "y": 42,
+      "z": 2,
+      "name": "Rubble_Marble",
+      "support": 15
+    },
+    {
+      "x": 1,
+      "y": 33,
+      "z": 3,
+      "name": "Rock_Marble"
+    },
+    {
+      "x": 1,
+      "y": 34,
+      "z": 3,
+      "name": "Rock_Chalk"
+    },
+    {
+      "x": 1,
+      "y": 35,
+      "z": 3,
+      "name": "Rock_Marble"
+    },
+    {
+      "x": 1,
+      "y": 36,
+      "z": 3,
+      "name": "Rock_Lime"
+    },
+    {
+      "x": 1,
+      "y": 37,
+      "z": 3,
+      "name": "Rock_Marble"
+    },
+    {
+      "x": 1,
+      "y": 38,
+      "z": 3,
+      "name": "Rock_Marble"
+    },
+    {
+      "x": 1,
+      "y": 39,
+      "z": 3,
+      "name": "Rock_Marble"
+    },
+    {
+      "x": 1,
+      "y": 40,
+      "z": 3,
+      "name": "Rock_Marble"
+    },
+    {
+      "x": 1,
+      "y": 41,
+      "z": 3,
+      "name": "Rock_Marble_SkyGrass"
+    },
+    {
+      "x": 1,
+      "y": 35,
+      "z": 4,
+      "name": "Rock_Marble"
+    },
+    {
+      "x": 1,
+      "y": 36,
+      "z": 4,
+      "name": "Rock_Lime"
+    },
+    {
+      "x": 1,
+      "y": 37,
+      "z": 4,
+      "name": "Rock_Lime"
+    },
+    {
+      "x": 1,
+      "y": 38,
+      "z": 4,
+      "name": "Rock_Marble"
+    },
+    {
+      "x": 1,
+      "y": 39,
+      "z": 4,
+      "name": "Rock_Marble"
+    },
+    {
+      "x": 1,
+      "y": 40,
+      "z": 4,
+      "name": "Rock_Marble"
+    },
+    {
+      "x": 1,
+      "y": 41,
+      "z": 4,
+      "name": "Rock_Marble_SkyGrass"
+    },
+    {
+      "x": 1,
+      "y": 42,
+      "z": 4,
+      "name": "Wood_Birch_Trunk",
+      "support": 15,
+      "rotation": 5
+    },
+    {
+      "x": 1,
+      "y": 35,
+      "z": 5,
+      "name": "Rock_Marble"
+    },
+    {
+      "x": 1,
+      "y": 36,
+      "z": 5,
+      "name": "Rock_Lime"
+    },
+    {
+      "x": 1,
+      "y": 37,
+      "z": 5,
+      "name": "Rock_Lime"
+    },
+    {
+      "x": 1,
+      "y": 38,
+      "z": 5,
+      "name": "Rock_Chalk"
+    },
+    {
+      "x": 1,
+      "y": 39,
+      "z": 5,
+      "name": "Rock_Marble"
+    },
+    {
+      "x": 1,
+      "y": 40,
+      "z": 5,
+      "name": "Rock_Marble"
+    },
+    {
+      "x": 1,
+      "y": 41,
+      "z": 5,
+      "name": "Rock_Marble_SkyGrass"
+    },
+    {
+      "x": 1,
+      "y": 42,
+      "z": 5,
+      "name": "Plant_Bush_Sky",
+      "support": 15
+    },
+    {
+      "x": 1,
+      "y": 38,
+      "z": 6,
+      "name": "Rock_Chalk"
+    },
+    {
+      "x": 1,
+      "y": 39,
+      "z": 6,
+      "name": "Rock_Marble"
+    },
+    {
+      "x": 1,
+      "y": 40,
+      "z": 6,
+      "name": "Rock_Marble"
+    },
+    {
+      "x": 1,
+      "y": 41,
+      "z": 6,
+      "name": "Rock_Marble_SkyGrass"
+    },
+    {
+      "x": 1,
+      "y": 42,
+      "z": 6,
+      "name": "Plant_Bush_Sky",
+      "support": 15
+    },
+    {
+      "x": 1,
+      "y": 39,
+      "z": 7,
+      "name": "Rock_Chalk"
+    },
+    {
+      "x": 1,
+      "y": 40,
+      "z": 7,
+      "name": "Rock_Marble"
+    },
+    {
+      "x": 1,
+      "y": 41,
+      "z": 7,
+      "name": "Rock_Marble_SkyGrass"
+    },
+    {
+      "x": 2,
+      "y": 39,
+      "z": -7,
+      "name": "Rock_Chalk"
+    },
+    {
+      "x": 2,
+      "y": 40,
+      "z": -7,
+      "name": "Rock_Marble"
+    },
+    {
+      "x": 2,
+      "y": 41,
+      "z": -7,
+      "name": "Rock_Marble_SkyGrass"
+    },
+    {
+      "x": 2,
+      "y": 38,
+      "z": -6,
+      "name": "Rock_Marble"
+    },
+    {
+      "x": 2,
+      "y": 39,
+      "z": -6,
+      "name": "Rock_Chalk"
+    },
+    {
+      "x": 2,
+      "y": 40,
+      "z": -6,
+      "name": "Rock_Marble"
+    },
+    {
+      "x": 2,
+      "y": 41,
+      "z": -6,
+      "name": "Rock_Marble_SkyGrass"
+    },
+    {
+      "x": 2,
+      "y": 37,
+      "z": -5,
+      "name": "Rock_Lime"
+    },
+    {
+      "x": 2,
+      "y": 38,
+      "z": -5,
+      "name": "Rock_Chalk"
+    },
+    {
+      "x": 2,
+      "y": 39,
+      "z": -5,
+      "name": "Rock_Chalk"
+    },
+    {
+      "x": 2,
+      "y": 40,
+      "z": -5,
+      "name": "Rock_Marble"
+    },
+    {
+      "x": 2,
+      "y": 41,
+      "z": -5,
+      "name": "Rock_Marble_SkyGrass"
+    },
+    {
+      "x": 2,
+      "y": 32,
+      "z": -4,
+      "name": "Rock_Chalk"
+    },
+    {
+      "x": 2,
+      "y": 33,
+      "z": -4,
+      "name": "Rock_Marble"
+    },
+    {
+      "x": 2,
+      "y": 34,
+      "z": -4,
+      "name": "Rock_Marble"
+    },
+    {
+      "x": 2,
+      "y": 35,
+      "z": -4,
+      "name": "Rock_Chalk"
+    },
+    {
+      "x": 2,
+      "y": 36,
+      "z": -4,
+      "name": "Rock_Marble"
+    },
+    {
+      "x": 2,
+      "y": 37,
+      "z": -4,
+      "name": "Rock_Lime"
+    },
+    {
+      "x": 2,
+      "y": 38,
+      "z": -4,
+      "name": "Rock_Chalk"
+    },
+    {
+      "x": 2,
+      "y": 39,
+      "z": -4,
+      "name": "Rock_Chalk"
+    },
+    {
+      "x": 2,
+      "y": 40,
+      "z": -4,
+      "name": "Rock_Marble"
+    },
+    {
+      "x": 2,
+      "y": 41,
+      "z": -4,
+      "name": "Rock_Marble_SkyGrass"
+    },
+    {
+      "x": 2,
+      "y": 32,
+      "z": -3,
+      "name": "Rock_Chalk"
+    },
+    {
+      "x": 2,
+      "y": 33,
+      "z": -3,
+      "name": "Rock_Marble"
+    },
+    {
+      "x": 2,
+      "y": 34,
+      "z": -3,
+      "name": "Rock_Chalk"
+    },
+    {
+      "x": 2,
+      "y": 35,
+      "z": -3,
+      "name": "Rock_Chalk"
+    },
+    {
+      "x": 2,
+      "y": 36,
+      "z": -3,
+      "name": "Rock_Lime"
+    },
+    {
+      "x": 2,
+      "y": 37,
+      "z": -3,
+      "name": "Rock_Lime"
+    },
+    {
+      "x": 2,
+      "y": 38,
+      "z": -3,
+      "name": "Rock_Chalk"
+    },
+    {
+      "x": 2,
+      "y": 39,
+      "z": -3,
+      "name": "Rock_Chalk"
+    },
+    {
+      "x": 2,
+      "y": 40,
+      "z": -3,
+      "name": "Rock_Marble"
+    },
+    {
+      "x": 2,
+      "y": 41,
+      "z": -3,
+      "name": "Rock_Marble_SkyGrass"
+    },
+    {
+      "x": 2,
+      "y": 32,
+      "z": -2,
+      "name": "Rock_Chalk"
+    },
+    {
+      "x": 2,
+      "y": 33,
+      "z": -2,
+      "name": "Rock_Marble"
+    },
+    {
+      "x": 2,
+      "y": 34,
+      "z": -2,
+      "name": "Rock_Chalk"
+    },
+    {
+      "x": 2,
+      "y": 35,
+      "z": -2,
+      "name": "Rock_Chalk"
+    },
+    {
+      "x": 2,
+      "y": 36,
+      "z": -2,
+      "name": "Rock_Lime"
+    },
+    {
+      "x": 2,
+      "y": 37,
+      "z": -2,
+      "name": "Rock_Lime"
+    },
+    {
+      "x": 2,
+      "y": 38,
+      "z": -2,
+      "name": "Rock_Chalk"
+    },
+    {
+      "x": 2,
+      "y": 39,
+      "z": -2,
+      "name": "Rock_Marble"
+    },
+    {
+      "x": 2,
+      "y": 40,
+      "z": -2,
+      "name": "Rock_Marble"
+    },
+    {
+      "x": 2,
+      "y": 41,
+      "z": -2,
+      "name": "Soil_Gravel_Lime",
+      "support": 15
+    },
+    {
+      "x": 2,
+      "y": 32,
+      "z": -1,
+      "name": "Rock_Chalk"
+    },
+    {
+      "x": 2,
+      "y": 33,
+      "z": -1,
+      "name": "Rock_Marble"
+    },
+    {
+      "x": 2,
+      "y": 34,
+      "z": -1,
+      "name": "Rock_Chalk"
+    },
+    {
+      "x": 2,
+      "y": 35,
+      "z": -1,
+      "name": "Rock_Chalk"
+    },
+    {
+      "x": 2,
+      "y": 36,
+      "z": -1,
+      "name": "Rock_Lime"
+    },
+    {
+      "x": 2,
+      "y": 37,
+      "z": -1,
+      "name": "Rock_Lime"
+    },
+    {
+      "x": 2,
+      "y": 38,
+      "z": -1,
+      "name": "Rock_Chalk"
+    },
+    {
+      "x": 2,
+      "y": 39,
+      "z": -1,
+      "name": "Rock_Marble"
+    },
+    {
+      "x": 2,
+      "y": 40,
+      "z": -1,
+      "name": "Rock_Marble"
+    },
+    {
+      "x": 2,
+      "y": 41,
+      "z": -1,
+      "name": "Soil_Gravel_Lime",
+      "support": 15
+    },
+    {
+      "x": 2,
+      "y": 32,
+      "z": 0,
+      "name": "Rock_Chalk"
+    },
+    {
+      "x": 2,
+      "y": 33,
+      "z": 0,
+      "name": "Rock_Marble"
+    },
+    {
+      "x": 2,
+      "y": 34,
+      "z": 0,
+      "name": "Rock_Chalk"
+    },
+    {
+      "x": 2,
+      "y": 35,
+      "z": 0,
+      "name": "Rock_Chalk"
+    },
+    {
+      "x": 2,
+      "y": 36,
+      "z": 0,
+      "name": "Rock_Lime"
+    },
+    {
+      "x": 2,
+      "y": 37,
+      "z": 0,
+      "name": "Rock_Lime"
+    },
+    {
+      "x": 2,
+      "y": 38,
+      "z": 0,
+      "name": "Rock_Chalk"
+    },
+    {
+      "x": 2,
+      "y": 39,
+      "z": 0,
+      "name": "Rock_Marble"
+    },
+    {
+      "x": 2,
+      "y": 40,
+      "z": 0,
+      "name": "Rock_Marble"
+    },
+    {
+      "x": 2,
+      "y": 41,
+      "z": 0,
+      "name": "Rock_Marble_SkyGrass"
+    },
+    {
+      "x": 2,
+      "y": 42,
+      "z": 0,
+      "name": "Plant_Grass_Sky_Short",
+      "support": 15
+    },
+    {
+      "x": 2,
+      "y": 33,
+      "z": 1,
+      "name": "Rock_Marble"
+    },
+    {
+      "x": 2,
+      "y": 34,
+      "z": 1,
+      "name": "Rock_Chalk"
+    },
+    {
+      "x": 2,
+      "y": 35,
+      "z": 1,
+      "name": "Rock_Marble"
+    },
+    {
+      "x": 2,
+      "y": 36,
+      "z": 1,
+      "name": "Rock_Lime"
+    },
+    {
+      "x": 2,
+      "y": 37,
+      "z": 1,
+      "name": "Rock_Lime"
+    },
+    {
+      "x": 2,
+      "y": 38,
+      "z": 1,
+      "name": "Rock_Chalk"
+    },
+    {
+      "x": 2,
+      "y": 39,
+      "z": 1,
+      "name": "Rock_Marble"
+    },
+    {
+      "x": 2,
+      "y": 40,
+      "z": 1,
+      "name": "Rock_Marble"
+    },
+    {
+      "x": 2,
+      "y": 41,
+      "z": 1,
+      "name": "Soil_Gravel_Lime",
+      "support": 15
+    },
+    {
+      "x": 2,
+      "y": 33,
+      "z": 2,
+      "name": "Rock_Marble"
+    },
+    {
+      "x": 2,
+      "y": 34,
+      "z": 2,
+      "name": "Rock_Chalk"
+    },
+    {
+      "x": 2,
+      "y": 35,
+      "z": 2,
+      "name": "Rock_Marble"
+    },
+    {
+      "x": 2,
+      "y": 36,
+      "z": 2,
+      "name": "Rock_Lime"
+    },
+    {
+      "x": 2,
+      "y": 37,
+      "z": 2,
+      "name": "Rock_Marble"
+    },
+    {
+      "x": 2,
+      "y": 38,
+      "z": 2,
+      "name": "Rock_Marble"
+    },
+    {
+      "x": 2,
+      "y": 39,
+      "z": 2,
+      "name": "Rock_Marble"
+    },
+    {
+      "x": 2,
+      "y": 40,
+      "z": 2,
+      "name": "Rock_Marble"
+    },
+    {
+      "x": 2,
+      "y": 41,
+      "z": 2,
+      "name": "Soil_Gravel_Lime",
+      "support": 15
+    },
+    {
+      "x": 2,
+      "y": 33,
+      "z": 3,
+      "name": "Rock_Marble"
+    },
+    {
+      "x": 2,
+      "y": 34,
+      "z": 3,
+      "name": "Rock_Chalk"
+    },
+    {
+      "x": 2,
+      "y": 35,
+      "z": 3,
+      "name": "Rock_Marble"
+    },
+    {
+      "x": 2,
+      "y": 36,
+      "z": 3,
+      "name": "Rock_Lime"
+    },
+    {
+      "x": 2,
+      "y": 37,
+      "z": 3,
+      "name": "Rock_Chalk"
+    },
+    {
+      "x": 2,
+      "y": 38,
+      "z": 3,
+      "name": "Rock_Marble"
+    },
+    {
+      "x": 2,
+      "y": 39,
+      "z": 3,
+      "name": "Rock_Marble"
+    },
+    {
+      "x": 2,
+      "y": 40,
+      "z": 3,
+      "name": "Rock_Marble"
+    },
+    {
+      "x": 2,
+      "y": 41,
+      "z": 3,
+      "name": "Rock_Marble_SkyGrass"
+    },
+    {
+      "x": 2,
+      "y": 35,
+      "z": 4,
+      "name": "Rock_Marble"
+    },
+    {
+      "x": 2,
+      "y": 36,
+      "z": 4,
+      "name": "Rock_Lime"
+    },
+    {
+      "x": 2,
+      "y": 37,
+      "z": 4,
+      "name": "Rock_Chalk"
+    },
+    {
+      "x": 2,
+      "y": 38,
+      "z": 4,
+      "name": "Rock_Marble"
+    },
+    {
+      "x": 2,
+      "y": 39,
+      "z": 4,
+      "name": "Rock_Marble"
+    },
+    {
+      "x": 2,
+      "y": 40,
+      "z": 4,
+      "name": "Rock_Marble"
+    },
+    {
+      "x": 2,
+      "y": 41,
+      "z": 4,
+      "name": "Rock_Marble_SkyGrass"
+    },
+    {
+      "x": 2,
+      "y": 42,
+      "z": 4,
+      "name": "Plant_Grass_Sky_Short",
+      "support": 15
+    },
+    {
+      "x": 2,
+      "y": 35,
+      "z": 5,
+      "name": "Rock_Marble"
+    },
+    {
+      "x": 2,
+      "y": 36,
+      "z": 5,
+      "name": "Rock_Lime"
+    },
+    {
+      "x": 2,
+      "y": 37,
+      "z": 5,
+      "name": "Rock_Chalk"
+    },
+    {
+      "x": 2,
+      "y": 38,
+      "z": 5,
+      "name": "Rock_Marble"
+    },
+    {
+      "x": 2,
+      "y": 39,
+      "z": 5,
+      "name": "Rock_Marble"
+    },
+    {
+      "x": 2,
+      "y": 40,
+      "z": 5,
+      "name": "Rock_Marble"
+    },
+    {
+      "x": 2,
+      "y": 41,
+      "z": 5,
+      "name": "Rock_Marble_SkyGrass"
+    },
+    {
+      "x": 2,
+      "y": 42,
+      "z": 5,
+      "name": "Plant_Bush_Sky",
+      "support": 15
+    },
+    {
+      "x": 2,
+      "y": 35,
+      "z": 6,
+      "name": "Rock_Marble"
+    },
+    {
+      "x": 2,
+      "y": 36,
+      "z": 6,
+      "name": "Rock_Lime"
+    },
+    {
+      "x": 2,
+      "y": 37,
+      "z": 6,
+      "name": "Rock_Marble"
+    },
+    {
+      "x": 2,
+      "y": 38,
+      "z": 6,
+      "name": "Rock_Marble"
+    },
+    {
+      "x": 2,
+      "y": 39,
+      "z": 6,
+      "name": "Rock_Marble"
+    },
+    {
+      "x": 2,
+      "y": 40,
+      "z": 6,
+      "name": "Rock_Marble"
+    },
+    {
+      "x": 2,
+      "y": 41,
+      "z": 6,
+      "name": "Rock_Marble_SkyGrass"
+    },
+    {
+      "x": 2,
+      "y": 39,
+      "z": 7,
+      "name": "Rock_Chalk"
+    },
+    {
+      "x": 2,
+      "y": 40,
+      "z": 7,
+      "name": "Rock_Marble"
+    },
+    {
+      "x": 2,
+      "y": 41,
+      "z": 7,
+      "name": "Rock_Marble_SkyGrass"
+    },
+    {
+      "x": 3,
+      "y": 36,
+      "z": -6,
+      "name": "Rock_Marble"
+    },
+    {
+      "x": 3,
+      "y": 37,
+      "z": -6,
+      "name": "Rock_Lime"
+    },
+    {
+      "x": 3,
+      "y": 38,
+      "z": -6,
+      "name": "Rock_Marble"
+    },
+    {
+      "x": 3,
+      "y": 39,
+      "z": -6,
+      "name": "Rock_Chalk"
+    },
+    {
+      "x": 3,
+      "y": 40,
+      "z": -6,
+      "name": "Rock_Marble"
+    },
+    {
+      "x": 3,
+      "y": 41,
+      "z": -6,
+      "name": "Rock_Marble_SkyGrass"
+    },
+    {
+      "x": 3,
+      "y": 36,
+      "z": -5,
+      "name": "Rock_Marble"
+    },
+    {
+      "x": 3,
+      "y": 37,
+      "z": -5,
+      "name": "Rock_Lime"
+    },
+    {
+      "x": 3,
+      "y": 38,
+      "z": -5,
+      "name": "Rock_Chalk"
+    },
+    {
+      "x": 3,
+      "y": 39,
+      "z": -5,
+      "name": "Rock_Chalk"
+    },
+    {
+      "x": 3,
+      "y": 40,
+      "z": -5,
+      "name": "Rock_Marble"
+    },
+    {
+      "x": 3,
+      "y": 41,
+      "z": -5,
+      "name": "Rock_Marble_SkyGrass"
+    },
+    {
+      "x": 3,
+      "y": 42,
+      "z": -5,
+      "name": "Rubble_Marble",
+      "support": 15
+    },
+    {
+      "x": 3,
+      "y": 32,
+      "z": -4,
+      "name": "Rock_Chalk"
+    },
+    {
+      "x": 3,
+      "y": 33,
+      "z": -4,
+      "name": "Rock_Marble"
+    },
+    {
+      "x": 3,
+      "y": 34,
+      "z": -4,
+      "name": "Rock_Marble"
+    },
+    {
+      "x": 3,
+      "y": 35,
+      "z": -4,
+      "name": "Rock_Chalk"
+    },
+    {
+      "x": 3,
+      "y": 36,
+      "z": -4,
+      "name": "Rock_Lime"
+    },
+    {
+      "x": 3,
+      "y": 37,
+      "z": -4,
+      "name": "Rock_Lime"
+    },
+    {
+      "x": 3,
+      "y": 38,
+      "z": -4,
+      "name": "Rock_Chalk"
+    },
+    {
+      "x": 3,
+      "y": 39,
+      "z": -4,
+      "name": "Rock_Chalk"
+    },
+    {
+      "x": 3,
+      "y": 40,
+      "z": -4,
+      "name": "Rock_Marble"
+    },
+    {
+      "x": 3,
+      "y": 41,
+      "z": -4,
+      "name": "Rock_Marble_SkyGrass"
+    },
+    {
+      "x": 3,
+      "y": 32,
+      "z": -3,
+      "name": "Rock_Chalk"
+    },
+    {
+      "x": 3,
+      "y": 33,
+      "z": -3,
+      "name": "Rock_Marble"
+    },
+    {
+      "x": 3,
+      "y": 34,
+      "z": -3,
+      "name": "Rock_Chalk"
+    },
+    {
+      "x": 3,
+      "y": 35,
+      "z": -3,
+      "name": "Rock_Chalk"
+    },
+    {
+      "x": 3,
+      "y": 36,
+      "z": -3,
+      "name": "Rock_Lime"
+    },
+    {
+      "x": 3,
+      "y": 37,
+      "z": -3,
+      "name": "Rock_Lime"
+    },
+    {
+      "x": 3,
+      "y": 38,
+      "z": -3,
+      "name": "Rock_Chalk"
+    },
+    {
+      "x": 3,
+      "y": 39,
+      "z": -3,
+      "name": "Rock_Marble"
+    },
+    {
+      "x": 3,
+      "y": 40,
+      "z": -3,
+      "name": "Rock_Marble"
+    },
+    {
+      "x": 3,
+      "y": 41,
+      "z": -3,
+      "name": "Rock_Marble_SkyGrass"
+    },
+    {
+      "x": 3,
+      "y": 42,
+      "z": -3,
+      "name": "Plant_Grass_Sky",
+      "support": 15
+    },
+    {
+      "x": 3,
+      "y": 32,
+      "z": -2,
+      "name": "Rock_Chalk"
+    },
+    {
+      "x": 3,
+      "y": 33,
+      "z": -2,
+      "name": "Rock_Marble"
+    },
+    {
+      "x": 3,
+      "y": 34,
+      "z": -2,
+      "name": "Rock_Chalk"
+    },
+    {
+      "x": 3,
+      "y": 35,
+      "z": -2,
+      "name": "Rock_Chalk"
+    },
+    {
+      "x": 3,
+      "y": 36,
+      "z": -2,
+      "name": "Rock_Lime"
+    },
+    {
+      "x": 3,
+      "y": 37,
+      "z": -2,
+      "name": "Rock_Lime"
+    },
+    {
+      "x": 3,
+      "y": 38,
+      "z": -2,
+      "name": "Rock_Chalk"
+    },
+    {
+      "x": 3,
+      "y": 39,
+      "z": -2,
+      "name": "Rock_Marble"
+    },
+    {
+      "x": 3,
+      "y": 40,
+      "z": -2,
+      "name": "Rock_Marble"
+    },
+    {
+      "x": 3,
+      "y": 41,
+      "z": -2,
+      "name": "Rock_Marble_SkyGrass"
+    },
+    {
+      "x": 3,
+      "y": 32,
+      "z": -1,
+      "name": "Rock_Chalk"
+    },
+    {
+      "x": 3,
+      "y": 33,
+      "z": -1,
+      "name": "Rock_Marble"
+    },
+    {
+      "x": 3,
+      "y": 34,
+      "z": -1,
+      "name": "Rock_Chalk"
+    },
+    {
+      "x": 3,
+      "y": 35,
+      "z": -1,
+      "name": "Rock_Chalk"
+    },
+    {
+      "x": 3,
+      "y": 36,
+      "z": -1,
+      "name": "Rock_Lime"
+    },
+    {
+      "x": 3,
+      "y": 37,
+      "z": -1,
+      "name": "Rock_Lime"
+    },
+    {
+      "x": 3,
+      "y": 38,
+      "z": -1,
+      "name": "Rock_Chalk"
+    },
+    {
+      "x": 3,
+      "y": 39,
+      "z": -1,
+      "name": "Rock_Marble"
+    },
+    {
+      "x": 3,
+      "y": 40,
+      "z": -1,
+      "name": "Rock_Marble"
+    },
+    {
+      "x": 3,
+      "y": 41,
+      "z": -1,
+      "name": "Rock_Marble_SkyGrass"
+    },
+    {
+      "x": 3,
+      "y": 42,
+      "z": -1,
+      "name": "Plant_Grass_Sky_Short",
+      "support": 15
+    },
+    {
+      "x": 3,
+      "y": 32,
+      "z": 0,
+      "name": "Rock_Chalk"
+    },
+    {
+      "x": 3,
+      "y": 33,
+      "z": 0,
+      "name": "Rock_Marble"
+    },
+    {
+      "x": 3,
+      "y": 34,
+      "z": 0,
+      "name": "Rock_Chalk"
+    },
+    {
+      "x": 3,
+      "y": 35,
+      "z": 0,
+      "name": "Rock_Marble"
+    },
+    {
+      "x": 3,
+      "y": 36,
+      "z": 0,
+      "name": "Rock_Lime"
+    },
+    {
+      "x": 3,
+      "y": 37,
+      "z": 0,
+      "name": "Rock_Lime"
+    },
+    {
+      "x": 3,
+      "y": 38,
+      "z": 0,
+      "name": "Rock_Chalk"
+    },
+    {
+      "x": 3,
+      "y": 39,
+      "z": 0,
+      "name": "Rock_Marble"
+    },
+    {
+      "x": 3,
+      "y": 40,
+      "z": 0,
+      "name": "Rock_Marble"
+    },
+    {
+      "x": 3,
+      "y": 41,
+      "z": 0,
+      "name": "Rock_Marble_SkyGrass"
+    },
+    {
+      "x": 3,
+      "y": 33,
+      "z": 1,
+      "name": "Rock_Marble"
+    },
+    {
+      "x": 3,
+      "y": 34,
+      "z": 1,
+      "name": "Rock_Chalk"
+    },
+    {
+      "x": 3,
+      "y": 35,
+      "z": 1,
+      "name": "Rock_Marble"
+    },
+    {
+      "x": 3,
+      "y": 36,
+      "z": 1,
+      "name": "Rock_Lime"
+    },
+    {
+      "x": 3,
+      "y": 37,
+      "z": 1,
+      "name": "Rock_Lime"
+    },
+    {
+      "x": 3,
+      "y": 38,
+      "z": 1,
+      "name": "Rock_Chalk"
+    },
+    {
+      "x": 3,
+      "y": 39,
+      "z": 1,
+      "name": "Rock_Lime"
+    },
+    {
+      "x": 3,
+      "y": 40,
+      "z": 1,
+      "name": "Rock_Marble"
+    },
+    {
+      "x": 3,
+      "y": 41,
+      "z": 1,
+      "name": "Rock_Marble_SkyGrass"
+    },
+    {
+      "x": 3,
+      "y": 33,
+      "z": 2,
+      "name": "Rock_Marble"
+    },
+    {
+      "x": 3,
+      "y": 34,
+      "z": 2,
+      "name": "Rock_Chalk"
+    },
+    {
+      "x": 3,
+      "y": 35,
+      "z": 2,
+      "name": "Rock_Marble"
+    },
+    {
+      "x": 3,
+      "y": 36,
+      "z": 2,
+      "name": "Rock_Lime"
+    },
+    {
+      "x": 3,
+      "y": 37,
+      "z": 2,
+      "name": "Rock_Chalk"
+    },
+    {
+      "x": 3,
+      "y": 38,
+      "z": 2,
+      "name": "Rock_Marble"
+    },
+    {
+      "x": 3,
+      "y": 39,
+      "z": 2,
+      "name": "Rock_Lime"
+    },
+    {
+      "x": 3,
+      "y": 40,
+      "z": 2,
+      "name": "Rock_Marble"
+    },
+    {
+      "x": 3,
+      "y": 41,
+      "z": 2,
+      "name": "Rock_Marble_SkyGrass"
+    },
+    {
+      "x": 3,
+      "y": 42,
+      "z": 2,
+      "name": "Furniture_Ancient_Torch",
+      "rotation": 1
+    },
+    {
+      "x": 3,
+      "y": 35,
+      "z": 3,
+      "name": "Rock_Marble"
+    },
+    {
+      "x": 3,
+      "y": 36,
+      "z": 3,
+      "name": "Rock_Lime"
+    },
+    {
+      "x": 3,
+      "y": 37,
+      "z": 3,
+      "name": "Rock_Chalk"
+    },
+    {
+      "x": 3,
+      "y": 38,
+      "z": 3,
+      "name": "Rock_Marble"
+    },
+    {
+      "x": 3,
+      "y": 39,
+      "z": 3,
+      "name": "Rock_Lime"
+    },
+    {
+      "x": 3,
+      "y": 40,
+      "z": 3,
+      "name": "Rock_Marble"
+    },
+    {
+      "x": 3,
+      "y": 41,
+      "z": 3,
+      "name": "Rock_Marble_SkyGrass"
+    },
+    {
+      "x": 3,
+      "y": 35,
+      "z": 4,
+      "name": "Rock_Marble"
+    },
+    {
+      "x": 3,
+      "y": 36,
+      "z": 4,
+      "name": "Rock_Lime"
+    },
+    {
+      "x": 3,
+      "y": 37,
+      "z": 4,
+      "name": "Rock_Chalk"
+    },
+    {
+      "x": 3,
+      "y": 38,
+      "z": 4,
+      "name": "Rock_Marble"
+    },
+    {
+      "x": 3,
+      "y": 39,
+      "z": 4,
+      "name": "Rock_Marble"
+    },
+    {
+      "x": 3,
+      "y": 40,
+      "z": 4,
+      "name": "Rock_Marble"
+    },
+    {
+      "x": 3,
+      "y": 41,
+      "z": 4,
+      "name": "Rock_Marble_SkyGrass"
+    },
+    {
+      "x": 3,
+      "y": 42,
+      "z": 4,
+      "name": "Plant_Grass_Sky",
+      "support": 15
+    },
+    {
+      "x": 3,
+      "y": 35,
+      "z": 5,
+      "name": "Rock_Marble"
+    },
+    {
+      "x": 3,
+      "y": 36,
+      "z": 5,
+      "name": "Rock_Lime"
+    },
+    {
+      "x": 3,
+      "y": 37,
+      "z": 5,
+      "name": "Rock_Chalk"
+    },
+    {
+      "x": 3,
+      "y": 38,
+      "z": 5,
+      "name": "Rock_Marble"
+    },
+    {
+      "x": 3,
+      "y": 39,
+      "z": 5,
+      "name": "Rock_Marble"
+    },
+    {
+      "x": 3,
+      "y": 40,
+      "z": 5,
+      "name": "Rock_Marble"
+    },
+    {
+      "x": 3,
+      "y": 41,
+      "z": 5,
+      "name": "Rock_Marble_SkyGrass"
+    },
+    {
+      "x": 3,
+      "y": 42,
+      "z": 5,
+      "name": "Plant_Grass_Sky_Short",
+      "support": 15
+    },
+    {
+      "x": 3,
+      "y": 35,
+      "z": 6,
+      "name": "Rock_Marble"
+    },
+    {
+      "x": 3,
+      "y": 36,
+      "z": 6,
+      "name": "Rock_Lime"
+    },
+    {
+      "x": 3,
+      "y": 37,
+      "z": 6,
+      "name": "Rock_Chalk"
+    },
+    {
+      "x": 3,
+      "y": 38,
+      "z": 6,
+      "name": "Rock_Marble"
+    },
+    {
+      "x": 3,
+      "y": 39,
+      "z": 6,
+      "name": "Rock_Chalk"
+    },
+    {
+      "x": 3,
+      "y": 40,
+      "z": 6,
+      "name": "Rock_Marble"
+    },
+    {
+      "x": 3,
+      "y": 41,
+      "z": 6,
+      "name": "Rock_Marble_SkyGrass"
+    },
+    {
+      "x": 4,
+      "y": 36,
+      "z": -6,
+      "name": "Rock_Marble"
+    },
+    {
+      "x": 4,
+      "y": 37,
+      "z": -6,
+      "name": "Rock_Lime"
+    },
+    {
+      "x": 4,
+      "y": 38,
+      "z": -6,
+      "name": "Rock_Chalk"
+    },
+    {
+      "x": 4,
+      "y": 39,
+      "z": -6,
+      "name": "Rock_Chalk"
+    },
+    {
+      "x": 4,
+      "y": 40,
+      "z": -6,
+      "name": "Rock_Marble"
+    },
+    {
+      "x": 4,
+      "y": 41,
+      "z": -6,
+      "name": "Rock_Marble_SkyGrass"
+    },
+    {
+      "x": 4,
+      "y": 36,
+      "z": -5,
+      "name": "Rock_Marble"
+    },
+    {
+      "x": 4,
+      "y": 37,
+      "z": -5,
+      "name": "Rock_Lime"
+    },
+    {
+      "x": 4,
+      "y": 38,
+      "z": -5,
+      "name": "Rock_Chalk"
+    },
+    {
+      "x": 4,
+      "y": 39,
+      "z": -5,
+      "name": "Rock_Chalk"
+    },
+    {
+      "x": 4,
+      "y": 40,
+      "z": -5,
+      "name": "Rock_Marble"
+    },
+    {
+      "x": 4,
+      "y": 41,
+      "z": -5,
+      "name": "Rock_Marble_SkyGrass"
+    },
+    {
+      "x": 4,
+      "y": 39,
+      "z": -4,
+      "name": "Rock_Chalk"
+    },
+    {
+      "x": 4,
+      "y": 40,
+      "z": -4,
+      "name": "Rock_Marble"
+    },
+    {
+      "x": 4,
+      "y": 41,
+      "z": -4,
+      "name": "Rock_Marble_SkyGrass"
+    },
+    {
+      "x": 4,
+      "y": 32,
+      "z": -3,
+      "name": "Rock_Chalk"
+    },
+    {
+      "x": 4,
+      "y": 33,
+      "z": -3,
+      "name": "Rock_Marble"
+    },
+    {
+      "x": 4,
+      "y": 34,
+      "z": -3,
+      "name": "Rock_Chalk"
+    },
+    {
+      "x": 4,
+      "y": 35,
+      "z": -3,
+      "name": "Rock_Chalk"
+    },
+    {
+      "x": 4,
+      "y": 36,
+      "z": -3,
+      "name": "Rock_Lime"
+    },
+    {
+      "x": 4,
+      "y": 37,
+      "z": -3,
+      "name": "Rock_Lime"
+    },
+    {
+      "x": 4,
+      "y": 38,
+      "z": -3,
+      "name": "Rock_Chalk"
+    },
+    {
+      "x": 4,
+      "y": 39,
+      "z": -3,
+      "name": "Rock_Marble"
+    },
+    {
+      "x": 4,
+      "y": 40,
+      "z": -3,
+      "name": "Rock_Marble"
+    },
+    {
+      "x": 4,
+      "y": 41,
+      "z": -3,
+      "name": "Rock_Marble_SkyGrass"
+    },
+    {
+      "x": 4,
+      "y": 42,
+      "z": -3,
+      "name": "Wood_Birch_Trunk_Full",
+      "support": 15
+    },
+    {
+      "x": 4,
+      "y": 32,
+      "z": -2,
+      "name": "Rock_Chalk"
+    },
+    {
+      "x": 4,
+      "y": 33,
+      "z": -2,
+      "name": "Rock_Marble"
+    },
+    {
+      "x": 4,
+      "y": 34,
+      "z": -2,
+      "name": "Rock_Chalk"
+    },
+    {
+      "x": 4,
+      "y": 35,
+      "z": -2,
+      "name": "Rock_Chalk"
+    },
+    {
+      "x": 4,
+      "y": 36,
+      "z": -2,
+      "name": "Rock_Lime"
+    },
+    {
+      "x": 4,
+      "y": 37,
+      "z": -2,
+      "name": "Rock_Lime"
+    },
+    {
+      "x": 4,
+      "y": 38,
+      "z": -2,
+      "name": "Rock_Chalk"
+    },
+    {
+      "x": 4,
+      "y": 39,
+      "z": -2,
+      "name": "Rock_Marble"
+    },
+    {
+      "x": 4,
+      "y": 40,
+      "z": -2,
+      "name": "Rock_Marble"
+    },
+    {
+      "x": 4,
+      "y": 41,
+      "z": -2,
+      "name": "Rock_Marble_SkyGrass"
+    },
+    {
+      "x": 4,
+      "y": 42,
+      "z": -2,
+      "name": "Wood_Birch_Trunk",
+      "support": 15
+    },
+    {
+      "x": 4,
+      "y": 43,
+      "z": -2,
+      "name": "Wood_Birch_Trunk",
+      "support": 15
+    },
+    {
+      "x": 4,
+      "y": 32,
+      "z": -1,
+      "name": "Rock_Chalk"
+    },
+    {
+      "x": 4,
+      "y": 33,
+      "z": -1,
+      "name": "Rock_Marble"
+    },
+    {
+      "x": 4,
+      "y": 34,
+      "z": -1,
+      "name": "Rock_Chalk"
+    },
+    {
+      "x": 4,
+      "y": 35,
+      "z": -1,
+      "name": "Rock_Chalk"
+    },
+    {
+      "x": 4,
+      "y": 36,
+      "z": -1,
+      "name": "Rock_Lime"
+    },
+    {
+      "x": 4,
+      "y": 37,
+      "z": -1,
+      "name": "Rock_Lime"
+    },
+    {
+      "x": 4,
+      "y": 38,
+      "z": -1,
+      "name": "Rock_Chalk"
+    },
+    {
+      "x": 4,
+      "y": 39,
+      "z": -1,
+      "name": "Rock_Lime"
+    },
+    {
+      "x": 4,
+      "y": 40,
+      "z": -1,
+      "name": "Rock_Marble"
+    },
+    {
+      "x": 4,
+      "y": 41,
+      "z": -1,
+      "name": "Rock_Marble_SkyGrass"
+    },
+    {
+      "x": 4,
+      "y": 35,
+      "z": 0,
+      "name": "Rock_Marble"
+    },
+    {
+      "x": 4,
+      "y": 36,
+      "z": 0,
+      "name": "Rock_Lime"
+    },
+    {
+      "x": 4,
+      "y": 37,
+      "z": 0,
+      "name": "Rock_Lime"
+    },
+    {
+      "x": 4,
+      "y": 38,
+      "z": 0,
+      "name": "Rock_Chalk"
+    },
+    {
+      "x": 4,
+      "y": 39,
+      "z": 0,
+      "name": "Rock_Lime"
+    },
+    {
+      "x": 4,
+      "y": 40,
+      "z": 0,
+      "name": "Rock_Marble"
+    },
+    {
+      "x": 4,
+      "y": 41,
+      "z": 0,
+      "name": "Rock_Marble_SkyGrass"
+    },
+    {
+      "x": 4,
+      "y": 42,
+      "z": 0,
+      "name": "Plant_Grass_Sky_Short",
+      "support": 15
+    },
+    {
+      "x": 4,
+      "y": 35,
+      "z": 1,
+      "name": "Rock_Marble"
+    },
+    {
+      "x": 4,
+      "y": 36,
+      "z": 1,
+      "name": "Rock_Lime"
+    },
+    {
+      "x": 4,
+      "y": 37,
+      "z": 1,
+      "name": "Rock_Lime"
+    },
+    {
+      "x": 4,
+      "y": 38,
+      "z": 1,
+      "name": "Rock_Chalk"
+    },
+    {
+      "x": 4,
+      "y": 39,
+      "z": 1,
+      "name": "Rock_Lime"
+    },
+    {
+      "x": 4,
+      "y": 40,
+      "z": 1,
+      "name": "Rock_Marble"
+    },
+    {
+      "x": 4,
+      "y": 41,
+      "z": 1,
+      "name": "Rock_Marble_SkyGrass"
+    },
+    {
+      "x": 4,
+      "y": 35,
+      "z": 2,
+      "name": "Rock_Marble"
+    },
+    {
+      "x": 4,
+      "y": 36,
+      "z": 2,
+      "name": "Rock_Lime"
+    },
+    {
+      "x": 4,
+      "y": 37,
+      "z": 2,
+      "name": "Rock_Lime"
+    },
+    {
+      "x": 4,
+      "y": 38,
+      "z": 2,
+      "name": "Rock_Chalk"
+    },
+    {
+      "x": 4,
+      "y": 39,
+      "z": 2,
+      "name": "Rock_Lime"
+    },
+    {
+      "x": 4,
+      "y": 40,
+      "z": 2,
+      "name": "Rock_Marble"
+    },
+    {
+      "x": 4,
+      "y": 41,
+      "z": 2,
+      "name": "Soil_Gravel_Lime",
+      "support": 15
+    },
+    {
+      "x": 4,
+      "y": 35,
+      "z": 3,
+      "name": "Rock_Marble"
+    },
+    {
+      "x": 4,
+      "y": 36,
+      "z": 3,
+      "name": "Rock_Lime"
+    },
+    {
+      "x": 4,
+      "y": 37,
+      "z": 3,
+      "name": "Rock_Chalk"
+    },
+    {
+      "x": 4,
+      "y": 38,
+      "z": 3,
+      "name": "Rock_Marble"
+    },
+    {
+      "x": 4,
+      "y": 39,
+      "z": 3,
+      "name": "Rock_Lime"
+    },
+    {
+      "x": 4,
+      "y": 40,
+      "z": 3,
+      "name": "Rock_Marble"
+    },
+    {
+      "x": 4,
+      "y": 41,
+      "z": 3,
+      "name": "Soil_Gravel_Lime",
+      "support": 15
+    },
+    {
+      "x": 4,
+      "y": 42,
+      "z": 3,
+      "name": "Rubble_Marble_Medium",
+      "support": 15
+    },
+    {
+      "x": 4,
+      "y": 35,
+      "z": 4,
+      "name": "Rock_Marble"
+    },
+    {
+      "x": 4,
+      "y": 36,
+      "z": 4,
+      "name": "Rock_Lime"
+    },
+    {
+      "x": 4,
+      "y": 37,
+      "z": 4,
+      "name": "Rock_Chalk"
+    },
+    {
+      "x": 4,
+      "y": 38,
+      "z": 4,
+      "name": "Rock_Marble"
+    },
+    {
+      "x": 4,
+      "y": 39,
+      "z": 4,
+      "name": "Rock_Lime"
+    },
+    {
+      "x": 4,
+      "y": 40,
+      "z": 4,
+      "name": "Rock_Marble"
+    },
+    {
+      "x": 4,
+      "y": 41,
+      "z": 4,
+      "name": "Rock_Marble_SkyGrass"
+    },
+    {
+      "x": 4,
+      "y": 35,
+      "z": 5,
+      "name": "Rock_Marble"
+    },
+    {
+      "x": 4,
+      "y": 36,
+      "z": 5,
+      "name": "Rock_Lime"
+    },
+    {
+      "x": 4,
+      "y": 37,
+      "z": 5,
+      "name": "Rock_Chalk"
+    },
+    {
+      "x": 4,
+      "y": 38,
+      "z": 5,
+      "name": "Rock_Marble"
+    },
+    {
+      "x": 4,
+      "y": 39,
+      "z": 5,
+      "name": "Rock_Lime"
+    },
+    {
+      "x": 4,
+      "y": 40,
+      "z": 5,
+      "name": "Rock_Marble"
+    },
+    {
+      "x": 4,
+      "y": 41,
+      "z": 5,
+      "name": "Rock_Marble_SkyGrass"
+    },
+    {
+      "x": 4,
+      "y": 42,
+      "z": 5,
+      "name": "Plant_Grass_Sky_Long",
+      "support": 15
+    },
+    {
+      "x": 4,
+      "y": 43,
+      "z": 5,
+      "name": "Plant_Grass_Sky_Long",
+      "filler": 1024
+    },
+    {
+      "x": 4,
+      "y": 35,
+      "z": 6,
+      "name": "Rock_Marble"
+    },
+    {
+      "x": 4,
+      "y": 36,
+      "z": 6,
+      "name": "Rock_Lime"
+    },
+    {
+      "x": 4,
+      "y": 37,
+      "z": 6,
+      "name": "Rock_Chalk"
+    },
+    {
+      "x": 4,
+      "y": 38,
+      "z": 6,
+      "name": "Rock_Marble"
+    },
+    {
+      "x": 4,
+      "y": 39,
+      "z": 6,
+      "name": "Rock_Chalk"
+    },
+    {
+      "x": 4,
+      "y": 40,
+      "z": 6,
+      "name": "Rock_Marble"
+    },
+    {
+      "x": 4,
+      "y": 41,
+      "z": 6,
+      "name": "Rock_Marble_SkyGrass"
+    },
+    {
+      "x": 4,
+      "y": 42,
+      "z": 6,
+      "name": "Plant_Grass_Sky",
+      "support": 15
+    },
+    {
+      "x": 5,
+      "y": 39,
+      "z": -5,
+      "name": "Rock_Marble"
+    },
+    {
+      "x": 5,
+      "y": 40,
+      "z": -5,
+      "name": "Rock_Marble"
+    },
+    {
+      "x": 5,
+      "y": 41,
+      "z": -5,
+      "name": "Rock_Marble_SkyGrass"
+    },
+    {
+      "x": 5,
+      "y": 42,
+      "z": -5,
+      "name": "Plant_Grass_Sky",
+      "support": 15
+    },
+    {
+      "x": 5,
+      "y": 39,
+      "z": -4,
+      "name": "Rock_Marble"
+    },
+    {
+      "x": 5,
+      "y": 40,
+      "z": -4,
+      "name": "Rock_Marble"
+    },
+    {
+      "x": 5,
+      "y": 41,
+      "z": -4,
+      "name": "Rock_Marble_SkyGrass"
+    },
+    {
+      "x": 5,
+      "y": 39,
+      "z": -3,
+      "name": "Rock_Marble"
+    },
+    {
+      "x": 5,
+      "y": 40,
+      "z": -3,
+      "name": "Rock_Marble"
+    },
+    {
+      "x": 5,
+      "y": 41,
+      "z": -3,
+      "name": "Rock_Marble_SkyGrass"
+    },
+    {
+      "x": 5,
+      "y": 37,
+      "z": -2,
+      "name": "Rock_Lime"
+    },
+    {
+      "x": 5,
+      "y": 38,
+      "z": -2,
+      "name": "Rock_Chalk"
+    },
+    {
+      "x": 5,
+      "y": 39,
+      "z": -2,
+      "name": "Wood_Birch_Trunk_Full",
+      "support": 15
+    },
+    {
+      "x": 5,
+      "y": 40,
+      "z": -2,
+      "name": "Wood_Birch_Trunk",
+      "support": 15
+    },
+    {
+      "x": 5,
+      "y": 41,
+      "z": -2,
+      "name": "Wood_Birch_Trunk_Full",
+      "support": 15
+    },
+    {
+      "x": 5,
+      "y": 37,
+      "z": -1,
+      "name": "Rock_Lime"
+    },
+    {
+      "x": 5,
+      "y": 38,
+      "z": -1,
+      "name": "Rock_Chalk"
+    },
+    {
+      "x": 5,
+      "y": 39,
+      "z": -1,
+      "name": "Rock_Lime"
+    },
+    {
+      "x": 5,
+      "y": 40,
+      "z": -1,
+      "name": "Rock_Marble"
+    },
+    {
+      "x": 5,
+      "y": 41,
+      "z": -1,
+      "name": "Rock_Marble_SkyGrass"
+    },
+    {
+      "x": 5,
+      "y": 42,
+      "z": -1,
+      "name": "Plant_Grass_Sky_Short",
+      "support": 15
+    },
+    {
+      "x": 5,
+      "y": 37,
+      "z": 0,
+      "name": "Rock_Lime"
+    },
+    {
+      "x": 5,
+      "y": 38,
+      "z": 0,
+      "name": "Rock_Chalk"
+    },
+    {
+      "x": 5,
+      "y": 39,
+      "z": 0,
+      "name": "Rock_Lime"
+    },
+    {
+      "x": 5,
+      "y": 40,
+      "z": 0,
+      "name": "Rock_Marble"
+    },
+    {
+      "x": 5,
+      "y": 41,
+      "z": 0,
+      "name": "Rock_Marble_SkyGrass"
+    },
+    {
+      "x": 5,
+      "y": 42,
+      "z": 0,
+      "name": "Plant_Grass_Sky_Long",
+      "support": 15
+    },
+    {
+      "x": 5,
+      "y": 43,
+      "z": 0,
+      "name": "Plant_Grass_Sky_Long",
+      "filler": 1024
+    },
+    {
+      "x": 5,
+      "y": 35,
+      "z": 1,
+      "name": "Rock_Marble"
+    },
+    {
+      "x": 5,
+      "y": 36,
+      "z": 1,
+      "name": "Rock_Lime"
+    },
+    {
+      "x": 5,
+      "y": 37,
+      "z": 1,
+      "name": "Rock_Lime"
+    },
+    {
+      "x": 5,
+      "y": 38,
+      "z": 1,
+      "name": "Rock_Chalk"
+    },
+    {
+      "x": 5,
+      "y": 39,
+      "z": 1,
+      "name": "Rock_Lime"
+    },
+    {
+      "x": 5,
+      "y": 40,
+      "z": 1,
+      "name": "Rock_Marble"
+    },
+    {
+      "x": 5,
+      "y": 41,
+      "z": 1,
+      "name": "Rock_Marble_SkyGrass"
+    },
+    {
+      "x": 5,
+      "y": 42,
+      "z": 1,
+      "name": "Plant_Grass_Sky",
+      "support": 15
+    },
+    {
+      "x": 5,
+      "y": 35,
+      "z": 2,
+      "name": "Rock_Marble"
+    },
+    {
+      "x": 5,
+      "y": 36,
+      "z": 2,
+      "name": "Rock_Lime"
+    },
+    {
+      "x": 5,
+      "y": 37,
+      "z": 2,
+      "name": "Rock_Lime"
+    },
+    {
+      "x": 5,
+      "y": 38,
+      "z": 2,
+      "name": "Rock_Chalk"
+    },
+    {
+      "x": 5,
+      "y": 39,
+      "z": 2,
+      "name": "Rock_Lime"
+    },
+    {
+      "x": 5,
+      "y": 40,
+      "z": 2,
+      "name": "Rock_Marble"
+    },
+    {
+      "x": 5,
+      "y": 41,
+      "z": 2,
+      "name": "Soil_Gravel_Lime",
+      "support": 15
+    },
+    {
+      "x": 5,
+      "y": 42,
+      "z": 2,
+      "name": "Rubble_Marble",
+      "support": 15
+    },
+    {
+      "x": 5,
+      "y": 35,
+      "z": 3,
+      "name": "Rock_Marble"
+    },
+    {
+      "x": 5,
+      "y": 36,
+      "z": 3,
+      "name": "Rock_Lime"
+    },
+    {
+      "x": 5,
+      "y": 37,
+      "z": 3,
+      "name": "Rock_Chalk"
+    },
+    {
+      "x": 5,
+      "y": 38,
+      "z": 3,
+      "name": "Rock_Marble"
+    },
+    {
+      "x": 5,
+      "y": 39,
+      "z": 3,
+      "name": "Rock_Lime"
+    },
+    {
+      "x": 5,
+      "y": 40,
+      "z": 3,
+      "name": "Rock_Marble"
+    },
+    {
+      "x": 5,
+      "y": 41,
+      "z": 3,
+      "name": "Soil_Gravel_Lime",
+      "support": 15
+    },
+    {
+      "x": 5,
+      "y": 35,
+      "z": 4,
+      "name": "Rock_Marble"
+    },
+    {
+      "x": 5,
+      "y": 36,
+      "z": 4,
+      "name": "Rock_Lime"
+    },
+    {
+      "x": 5,
+      "y": 37,
+      "z": 4,
+      "name": "Rock_Chalk"
+    },
+    {
+      "x": 5,
+      "y": 38,
+      "z": 4,
+      "name": "Rock_Marble"
+    },
+    {
+      "x": 5,
+      "y": 39,
+      "z": 4,
+      "name": "Rock_Lime"
+    },
+    {
+      "x": 5,
+      "y": 40,
+      "z": 4,
+      "name": "Rock_Marble"
+    },
+    {
+      "x": 5,
+      "y": 41,
+      "z": 4,
+      "name": "Rock_Marble_SkyGrass"
+    },
+    {
+      "x": 5,
+      "y": 35,
+      "z": 5,
+      "name": "Rock_Marble"
+    },
+    {
+      "x": 5,
+      "y": 36,
+      "z": 5,
+      "name": "Rock_Lime"
+    },
+    {
+      "x": 5,
+      "y": 37,
+      "z": 5,
+      "name": "Rock_Chalk"
+    },
+    {
+      "x": 5,
+      "y": 38,
+      "z": 5,
+      "name": "Rock_Marble"
+    },
+    {
+      "x": 5,
+      "y": 39,
+      "z": 5,
+      "name": "Rock_Lime"
+    },
+    {
+      "x": 5,
+      "y": 40,
+      "z": 5,
+      "name": "Rock_Marble"
+    },
+    {
+      "x": 5,
+      "y": 41,
+      "z": 5,
+      "name": "Rock_Marble_SkyGrass"
+    },
+    {
+      "x": 5,
+      "y": 42,
+      "z": 5,
+      "name": "Plant_Grass_Sky",
+      "support": 15
+    },
+    {
+      "x": 6,
+      "y": 39,
+      "z": -4,
+      "name": "Rock_Marble"
+    },
+    {
+      "x": 6,
+      "y": 40,
+      "z": -4,
+      "name": "Rock_Marble"
+    },
+    {
+      "x": 6,
+      "y": 41,
+      "z": -4,
+      "name": "Rock_Marble_SkyGrass"
+    },
+    {
+      "x": 6,
+      "y": 42,
+      "z": -4,
+      "name": "Plant_Grass_Sky",
+      "support": 15
+    },
+    {
+      "x": 6,
+      "y": 39,
+      "z": -3,
+      "name": "Rock_Marble"
+    },
+    {
+      "x": 6,
+      "y": 40,
+      "z": -3,
+      "name": "Rock_Marble"
+    },
+    {
+      "x": 6,
+      "y": 41,
+      "z": -3,
+      "name": "Rock_Marble_SkyGrass"
+    },
+    {
+      "x": 6,
+      "y": 36,
+      "z": -2,
+      "name": "Wood_Birch_Trunk_Full",
+      "support": 15
+    },
+    {
+      "x": 6,
+      "y": 37,
+      "z": -2,
+      "name": "Wood_Birch_Trunk",
+      "support": 15
+    },
+    {
+      "x": 6,
+      "y": 38,
+      "z": -2,
+      "name": "Wood_Birch_Trunk",
+      "support": 15
+    },
+    {
+      "x": 6,
+      "y": 39,
+      "z": -2,
+      "name": "Wood_Birch_Trunk_Full",
+      "support": 15,
+      "rotation": 5
+    },
+    {
+      "x": 6,
+      "y": 40,
+      "z": -2,
+      "name": "Rock_Marble"
+    },
+    {
+      "x": 6,
+      "y": 41,
+      "z": -2,
+      "name": "Rock_Marble_SkyGrass"
+    },
+    {
+      "x": 6,
+      "y": 39,
+      "z": -1,
+      "name": "Rock_Lime"
+    },
+    {
+      "x": 6,
+      "y": 40,
+      "z": -1,
+      "name": "Rock_Marble"
+    },
+    {
+      "x": 6,
+      "y": 41,
+      "z": -1,
+      "name": "Rock_Marble_SkyGrass"
+    },
+    {
+      "x": 6,
+      "y": 42,
+      "z": -1,
+      "name": "Plant_Grass_Sky",
+      "support": 15
+    },
+    {
+      "x": 6,
+      "y": 39,
+      "z": 0,
+      "name": "Rock_Lime"
+    },
+    {
+      "x": 6,
+      "y": 40,
+      "z": 0,
+      "name": "Rock_Marble"
+    },
+    {
+      "x": 6,
+      "y": 41,
+      "z": 0,
+      "name": "Rock_Marble_SkyGrass"
+    },
+    {
+      "x": 6,
+      "y": 39,
+      "z": 1,
+      "name": "Rock_Lime"
+    },
+    {
+      "x": 6,
+      "y": 40,
+      "z": 1,
+      "name": "Rock_Marble"
+    },
+    {
+      "x": 6,
+      "y": 41,
+      "z": 1,
+      "name": "Rock_Marble_SkyGrass"
+    },
+    {
+      "x": 6,
+      "y": 35,
+      "z": 2,
+      "name": "Rock_Marble"
+    },
+    {
+      "x": 6,
+      "y": 36,
+      "z": 2,
+      "name": "Rock_Lime"
+    },
+    {
+      "x": 6,
+      "y": 37,
+      "z": 2,
+      "name": "Rock_Lime"
+    },
+    {
+      "x": 6,
+      "y": 38,
+      "z": 2,
+      "name": "Rock_Chalk"
+    },
+    {
+      "x": 6,
+      "y": 39,
+      "z": 2,
+      "name": "Rock_Lime"
+    },
+    {
+      "x": 6,
+      "y": 40,
+      "z": 2,
+      "name": "Rock_Marble"
+    },
+    {
+      "x": 6,
+      "y": 41,
+      "z": 2,
+      "name": "Rock_Marble_SkyGrass"
+    },
+    {
+      "x": 6,
+      "y": 35,
+      "z": 3,
+      "name": "Rock_Marble"
+    },
+    {
+      "x": 6,
+      "y": 36,
+      "z": 3,
+      "name": "Rock_Lime"
+    },
+    {
+      "x": 6,
+      "y": 37,
+      "z": 3,
+      "name": "Rock_Chalk"
+    },
+    {
+      "x": 6,
+      "y": 38,
+      "z": 3,
+      "name": "Rock_Marble"
+    },
+    {
+      "x": 6,
+      "y": 39,
+      "z": 3,
+      "name": "Rock_Lime"
+    },
+    {
+      "x": 6,
+      "y": 40,
+      "z": 3,
+      "name": "Rock_Marble"
+    },
+    {
+      "x": 6,
+      "y": 41,
+      "z": 3,
+      "name": "Rock_Marble_SkyGrass"
+    },
+    {
+      "x": 6,
+      "y": 35,
+      "z": 4,
+      "name": "Rock_Marble"
+    },
+    {
+      "x": 6,
+      "y": 36,
+      "z": 4,
+      "name": "Rock_Marble"
+    },
+    {
+      "x": 6,
+      "y": 37,
+      "z": 4,
+      "name": "Rock_Chalk"
+    },
+    {
+      "x": 6,
+      "y": 38,
+      "z": 4,
+      "name": "Rock_Marble"
+    },
+    {
+      "x": 6,
+      "y": 39,
+      "z": 4,
+      "name": "Rock_Lime"
+    },
+    {
+      "x": 6,
+      "y": 40,
+      "z": 4,
+      "name": "Rock_Marble"
+    },
+    {
+      "x": 6,
+      "y": 41,
+      "z": 4,
+      "name": "Rock_Marble_SkyGrass"
+    },
+    {
+      "x": 7,
+      "y": 37,
+      "z": -5,
+      "name": "Wood_Birch_Branch_Corner",
+      "support": 15,
+      "rotation": 3
+    },
+    {
+      "x": 7,
+      "y": 38,
+      "z": -5,
+      "name": "Wood_Birch_Branch_Long",
+      "support": 15
+    },
+    {
+      "x": 7,
+      "y": 39,
+      "z": -5,
+      "name": "Wood_Birch_Branch_Corner",
+      "support": 15,
+      "rotation": 8
+    },
+    {
+      "x": 7,
+      "y": 39,
+      "z": -4,
+      "name": "Wood_Birch_Branch_Corner",
+      "support": 15
+    },
+    {
+      "x": 7,
+      "y": 40,
+      "z": -4,
+      "name": "Wood_Birch_Branch_Corner",
+      "support": 15,
+      "rotation": 11
+    },
+    {
+      "x": 7,
+      "y": 36,
+      "z": -2,
+      "name": "Wood_Birch_Trunk_Full",
+      "support": 15,
+      "rotation": 5
+    },
+    {
+      "x": 7,
+      "y": 39,
+      "z": -2,
+      "name": "Rock_Lime"
+    },
+    {
+      "x": 7,
+      "y": 40,
+      "z": -2,
+      "name": "Rock_Marble"
+    },
+    {
+      "x": 7,
+      "y": 41,
+      "z": -2,
+      "name": "Rock_Marble_SkyGrass"
+    },
+    {
+      "x": 7,
+      "y": 39,
+      "z": -1,
+      "name": "Rock_Lime"
+    },
+    {
+      "x": 7,
+      "y": 40,
+      "z": -1,
+      "name": "Rock_Marble"
+    },
+    {
+      "x": 7,
+      "y": 41,
+      "z": -1,
+      "name": "Rock_Marble_SkyGrass"
+    },
+    {
+      "x": 7,
+      "y": 39,
+      "z": 0,
+      "name": "Rock_Lime"
+    },
+    {
+      "x": 7,
+      "y": 40,
+      "z": 0,
+      "name": "Rock_Marble"
+    },
+    {
+      "x": 7,
+      "y": 41,
+      "z": 0,
+      "name": "Rock_Marble_SkyGrass"
+    },
+    {
+      "x": 7,
+      "y": 42,
+      "z": 0,
+      "name": "Plant_Grass_Sky",
+      "support": 15
+    },
+    {
+      "x": 7,
+      "y": 39,
+      "z": 1,
+      "name": "Rock_Lime"
+    },
+    {
+      "x": 7,
+      "y": 40,
+      "z": 1,
+      "name": "Rock_Marble"
+    },
+    {
+      "x": 7,
+      "y": 41,
+      "z": 1,
+      "name": "Rock_Marble_SkyGrass"
+    },
+    {
+      "x": 7,
+      "y": 39,
+      "z": 2,
+      "name": "Rock_Lime"
+    },
+    {
+      "x": 7,
+      "y": 40,
+      "z": 2,
+      "name": "Rock_Marble"
+    },
+    {
+      "x": 7,
+      "y": 41,
+      "z": 2,
+      "name": "Rock_Marble_SkyGrass"
+    },
+    {
+      "x": 8,
+      "y": 37,
+      "z": -5,
+      "name": "Wood_Birch_Branch_Corner",
+      "support": 15,
+      "rotation": 1
+    },
+    {
+      "x": 8,
+      "y": 36,
+      "z": -2,
+      "name": "Wood_Birch_Branch_Corner",
+      "support": 15,
+      "rotation": 1
+    },
+    {
+      "x": 8,
+      "y": 37,
+      "z": -2,
+      "name": "Wood_Birch_Branch_Corner",
+      "support": 15,
+      "rotation": 11
+    }
+  ],
+  "entities": [
+    {
+      "Components": {
+        "EffectController": {},
+        "DisplayName": {
+          "DisplayName": {
+            "MessageId": "server.npcRoles.Skeleton_Archer.name",
+            "Bold": null,
+            "Italic": null,
+            "Monospace": null,
+            "Underline": null
+          }
+        },
+        "UIComponentList": {},
+        "Transform": {
+          "Position": {
+            "X": 1.114914894104004,
+            "Y": 43.619293212890625,
+            "Z": 1.6132240295410156
+          },
+          "Rotation": {
+            "Pitch": 0.0,
+            "Yaw": 0.6137070655822754,
+            "Roll": 0.0
+          }
+        },
+        "Velocity": {
+          "Velocity": {
+            "X": 0.0,
+            "Y": 0.0,
+            "Z": 0.0
+          }
+        },
+        "PrefabCopyable": {},
+        "Interactions": {
+          "Interactions": {
+            "Use": "*UseNPC"
+          }
+        },
+        "Model": {
+          "Model": {
+            "Id": "Skeleton_Archer",
+            "Scale": 1.0,
+            "Static": false
+          }
+        },
+        "UUID": {
+          "UUID": {
+            "$binary": "Jd5vfRn/PJmAcH69cmcSEg==",
+            "$type": "04"
+          }
+        },
+        "EntityStats": {
+          "Version": 5,
+          "Stats": {
+            "Oxygen": {
+              "Id": "Oxygen",
+              "Value": 100.0
+            },
+            "Mana": {
+              "Id": "Mana",
+              "Value": 0.0
+            },
+            "Health": {
+              "Id": "Health",
+              "Value": 36.0,
+              "Modifiers": {
+                "NPC_Max": {
+                  "Id": "Static",
+                  "CalculationType": "Additive",
+                  "Amount": -64.0
+                }
+              }
+            },
+            "GlidingActive": {
+              "Id": "GlidingActive",
+              "Value": 0.0
+            },
+            "Immunity": {
+              "Id": "Immunity",
+              "Value": 0.0
+            },
+            "SignatureCharges": {
+              "Id": "SignatureCharges",
+              "Value": 0.0,
+              "Modifiers": {
+                "*Weapon_0": {
+                  "Id": "Static",
+                  "CalculationType": "Additive",
+                  "Amount": 1.0
+                }
+              }
+            },
+            "Stamina": {
+              "Id": "Stamina",
+              "Value": 10.0
+            },
+            "Ammo": {
+              "Id": "Ammo",
+              "Value": 0.0
+            },
+            "Unknown": {
+              "Id": "Unknown",
+              "Value": 0.0
+            },
+            "SignatureEnergy": {
+              "Id": "SignatureEnergy",
+              "Value": 0.0,
+              "Modifiers": {
+                "*Weapon_0": {
+                  "Id": "Static",
+                  "CalculationType": "Additive",
+                  "Amount": 6.0
+                }
+              }
+            },
+            "DeployablePreview": {
+              "Id": "DeployablePreview",
+              "Value": 0.0
+            },
+            "StaminaRegenDelay": {
+              "Id": "StaminaRegenDelay",
+              "Value": 0.0
+            },
+            "MagicCharges": {
+              "Id": "MagicCharges",
+              "Value": 0.0
+            }
+          }
+        },
+        "NPC": {
+          "Version": 5,
+          "UUID": {
+            "$binary": "+VbBQztVMaqNCH7dOb19lQ==",
+            "$type": "04"
+          },
+          "Inventory": {
+            "Version": 4,
+            "Storage": {
+              "Id": "Empty"
+            },
+            "Armor": {
+              "Id": "Simple",
+              "Capacity": 4,
+              "Items": {}
+            },
+            "HotBar": {
+              "Id": "Simple",
+              "Capacity": 3,
+              "Items": {
+                "0": {
+                  "Id": "Weapon_Shortbow_Iron_Rusty",
+                  "Quantity": 1,
+                  "Durability": 120.0,
+                  "MaxDurability": 120.0,
+                  "OverrideDroppedItemAnimation": false
+                }
+              }
+            },
+            "Utility": {
+              "Id": "Simple",
+              "Capacity": 2,
+              "Items": {
+                "0": {
+                  "Id": "Furniture_Crude_Torch",
+                  "Quantity": 1,
+                  "Durability": 0.0,
+                  "MaxDurability": 0.0,
+                  "OverrideDroppedItemAnimation": false
+                }
+              }
+            },
+            "Backpack": {
+              "Id": "Empty"
+            },
+            "ActiveHotbarSlot": 0,
+            "Tool": {
+              "Id": "Empty"
+            },
+            "ActiveToolsSlot": -1,
+            "ActiveUtilitySlot": -1,
+            "SortType": "Name"
+          },
+          "HvrPhs": 0.0,
+          "HvrHght": 0.0,
+          "MdlScl": 1.0,
+          "SpawnInstant": "0001-01-01T12:00:00Z",
+          "WorldgenId": 0,
+          "PathManager": {},
+          "LeashPos": {
+            "X": 12.092906832695007,
+            "Y": 67.19879150390625,
+            "Z": 7.815400719642639
+          },
+          "LeashHdg": 0.6137070655822754,
+          "LeashPtch": 0.0,
+          "RoleName": "Skeleton_Archer"
+        },
+        "HeadRotation": {
+          "Rotation": {
+            "Pitch": 0.0,
+            "Yaw": 0.6137070655822754,
+            "Roll": 0.0
+          }
+        }
+      }
+    }
+  ]
+}

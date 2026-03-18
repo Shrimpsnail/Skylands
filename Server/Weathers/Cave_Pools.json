@@ -1,0 +1,35 @@
+{
+  "FogOptions": {
+    "IgnoreFogLimits": false
+  },
+  "SkyTopColors": [
+    {
+      "Hour": 0,
+      "Color": "#000000ff"
+    }
+  ],
+  "SkyBottomColors": [
+    {
+      "Hour": 0,
+      "Color": "#000000ff"
+    }
+  ],
+  "SkySunsetColors": [
+    {
+      "Hour": 0,
+      "Color": "#000000ff"
+    }
+  ],
+  "FogColors": [
+    {
+      "Hour": 0,
+      "Color": "#112a32"
+    }
+  ],
+  "WaterTints": [
+    {
+      "Hour": 0,
+      "Color": "#5e9db6"
+    }
+  ]
+}

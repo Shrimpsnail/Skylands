@@ -1,0 +1,33 @@
+{
+  "TranslationProperties": {
+    "Name": "server.items.Plant_Grass_Sharp_Wild.name"
+  },
+  "Parent": "Plant_Grass_Lush",
+  "BlockType": {
+    "CustomModel": "Blocks/Foliage/Grass/Dense_VeryTall_4Rows.blockymodel",
+    "CustomModelTexture": [
+      {
+        "Weight": 1,
+        "Texture": "Blocks/Foliage/Grass/Dense_VeryTall_4Rows_Sharp.png"
+      }
+    ],
+    "Tint": [
+      "#eba938"
+    ],
+    "HitboxType": "Plant_Tall_Large",
+    "BiomeTint": 0
+  },
+  "Icon": "Icons/ItemsGenerated/Plant_Grass_Sky_Wild.png",
+  "IconProperties": {
+    "Scale": 0.58823,
+    "Rotation": [
+      22.5,
+      45,
+      22.5
+    ],
+    "Translation": [
+      0,
+      -13.5
+    ]
+  }
+}
