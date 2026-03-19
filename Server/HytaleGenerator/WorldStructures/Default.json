@@ -2,12 +2,12 @@
   "Type": "NoiseRange",
   "Biomes": [
     {
-      "Biome" : "skylands_base",
+      "Biome" : "Biome_1",
       "Min" : -1,
       "Max" : -0.8
     },
     {
-      "Biome" : "skylands_base",
+      "Biome" : "Biome_1",
       "Min" : -0.8,
       "Max" : 1
     }
