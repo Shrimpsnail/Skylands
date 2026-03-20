@@ -1,6 +1,6 @@
 {
   "TranslationProperties": {
-    "Name": "server.items.Plant_Grass_Sharp_Wild.name"
+    "Name": "server.items.Plant_Grass_Sky_Wild.name"
   },
   "Parent": "Plant_Grass_Lush",
   "BlockType": {

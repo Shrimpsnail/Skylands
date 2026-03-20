@@ -1,6 +1,6 @@
 {
   "TranslationProperties": {
-    "Name": "server.items.Plant_Grass_Sharp_Tall.name"
+    "Name": "server.items.Plant_Grass_Sky_Tall.name"
   },
   "Icon": "Icons/ItemsGenerated/Plant_Grass_Sky_Long.png",
   "Parent": "Plant_Grass_Lush",

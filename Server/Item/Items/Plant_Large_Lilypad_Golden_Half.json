@@ -1,6 +1,7 @@
 {
   "TranslationProperties": {
-    "Name": "server.items.Soil_Gravel_Half.name"
+    "Name": "server.items.Plant_Lilypad_Gold_Slab.name",
+    "Description": "ZOOOOOOOOOOOOOOOOOOOOM!"
   },
   "Icon": "Icons/ItemsGenerated/Plant_Large_Lilypad_Golden_Half.png",
   "Set": "Soil_Half",

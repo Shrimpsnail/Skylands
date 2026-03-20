@@ -1,6 +1,6 @@
 {
   "TranslationProperties": {
-    "Name": "server.items.Plant_Bush.name"
+    "Name": "server.items.Plant_Lotus_Yellow.name"
   },
   "Icon": "Icons/ItemsGenerated/Plant_Flower_Lotus_Yellow.png",
   "Categories": [
@@ -69,8 +69,8 @@
     "ParticleColor": "#579a1f",
     "BlockSoundSetId": "Bush",
     "Light": {
-      "Color": "#fea",
-      "Radius": 4
+      "Color": "#b95",
+      "Radius": 1
     }
   },
   "PlayerAnimationsId": "Item",

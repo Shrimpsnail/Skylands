@@ -1,6 +1,6 @@
 {
   "TranslationProperties": {
-    "Name": "server.items.Soil_Dirt.name"
+    "Name": "server.items.Plant_Lilypad_Block.name"
   },
   "ItemLevel": 10,
   "Icon": "Icons/ItemsGenerated/Plant_Large_Lilypad.png",

@@ -1,6 +1,6 @@
 {
   "TranslationProperties": {
-    "Name": "server.items.Ore_Cobalt_Slate.name"
+    "Name": "server.items.Ore_Cobalt_Aqua.name"
   },
   "Parent": "Ore_Cobalt_Shale",
   "BlockType": {
