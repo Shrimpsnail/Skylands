@@ -3,7 +3,7 @@
   "Description": {
     "DisplayName": " Skylands portal",
     "FlavorText": "server.portals.boreal.description",
-    "ThemeColor": "#fff3cb",
+    "ThemeColor": "#918d7e",
     "SplashImage": "DefaultArtwork.png",
     "Tips": [
       "server.portals.taiga.tip1"

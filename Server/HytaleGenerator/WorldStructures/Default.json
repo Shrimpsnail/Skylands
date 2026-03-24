@@ -1,18 +1,7 @@
 {
   "Type": "NoiseRange",
-  "Biomes": [
-    {
-      "Biome" : "Biome_1",
-      "Min" : -1,
-      "Max" : -0.8
-    },
-    {
-      "Biome" : "Biome_1",
-      "Min" : -0.8,
-      "Max" : 1
-    }
-  ],
-  "DefaultBiome": "Basic",
+  "Biomes": [],
+  "DefaultBiome": "Scavengers",
   "DefaultTransitionDistance": 32,
   "MaxBiomeEdgeDistance" : 32,
   "Density": {
@@ -29,6 +18,11 @@
           "Name" : "Base",
           "Value" : 100
         },
+        {
+          "Name" : "Base_High",
+          "Value" : 140
+        },
+
 
 
         

@@ -1,0 +1,16 @@
+{
+  "Spawners": [
+    {
+      "SpawnerId": "Mist",
+      "FixedRotation": true,
+      "PositionOffset": {
+        "Z": 0
+      },
+      "MaxConcurrent": 0,
+      "SpawnRate": {
+        "Min": 1,
+        "Max": 10
+      }
+    }
+  ]
+}

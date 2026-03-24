@@ -1,0 +1,37 @@
+{
+  "NPCs": [
+    {
+      "Id": "Jellyfish_Blue",
+      "SpawnFluidTag": "Glow_Water",
+      "Flock": "Group_Small",
+      "Weight": 1
+    },
+    {
+      "Id": "Jellyfish_Cyan",
+      "Weight": 1,
+      "Flock": "Group_Small",
+      "SpawnFluidTag": "Glow_Water"
+    },
+    {
+      "Id": "Jellyfish_Green",
+      "Weight": 1,
+      "Flock": "Group_Small",
+      "SpawnFluidTag": "Glow_Water"
+    },
+    {
+      "Id": "Jellyfish_Yellow",
+      "Weight": 1,
+      "Flock": "Group_Small",
+      "SpawnFluidTag": "Glow_Water"
+    },
+    {
+      "Id": "Jellyfish_Red",
+      "Weight": 1,
+      "Flock": "Group_Small",
+      "SpawnFluidTag": "Glow_Water"
+    }
+  ],
+  "Environments": [
+    "Env_CavePools"
+  ]
+}

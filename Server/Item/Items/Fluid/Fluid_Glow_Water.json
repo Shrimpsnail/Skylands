@@ -1,6 +1,6 @@
 {
   "TranslationProperties": {
-    "Name": "server.items.Fluid_Water.name"
+    "Name": "server.items.Fluid_Glow_Water.name"
   },
   "Icon": "Icons/ItemsGenerated/Fluid_Water.png",
   "Categories": [

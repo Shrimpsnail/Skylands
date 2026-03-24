@@ -17,3 +17,5 @@ items.Rock_Skygrass.name= Marble Skygrass Block
 items.Plant_Lilypad_Block.name = Giant Lilypad Block
 items.Plant_Lilypad_Slab.name = Giant Lilypad Slab
 items.Plant_Lilypad_Gold_Slab.name = Golden Lilypad
+
+items.Fluid_Glow_Water.name = Glowing Water

@@ -1,0 +1,88 @@
+{
+	"$NodeId":	"Biome-27480920-ec78-4ed2-b502-2431490b0cd2",
+	"Name":	"Basic",
+	"Terrain":	{
+		"$NodeId":	"Terrain-0f33c7b5-8d49-4e57-81d9-ab5d640cd2aa",
+		"Type":	"DAOTerrain",
+		"Density":	{
+			"$NodeId":	"ConstantDensityNode-3e7861ed-3c8f-40a6-a899-3f752410c53c",
+			"Type":	"Constant",
+			"Skip":	false,
+			"Value":	0
+		}
+	},
+	"MaterialProvider":	{
+		"$NodeId":	"ConstantMaterialProvider-3ae886dd-3de3-4b40-859a-e17e44ed552d",
+		"Type":	"Constant",
+		"Material":	{
+			"$NodeId":	"Material-eedbf19e-5a55-4339-9c97-32cec47d24fd",
+			"Solid":	"Empty",
+			"SolidBottomUp":	false
+		}
+	},
+	"Props":	[],
+	"EnvironmentProvider":	{
+		"$NodeId":	"Constant.EnvironmentProvider-7f279f8e-0bf2-492e-922d-13a33acd3199",
+		"Type":	"Constant",
+		"Environment":	"Env_Sky"
+	},
+	"TintProvider":	{
+		"$NodeId":	"Constant.TintProvider-cfabee73-be4f-4ffb-bcf9-693a249c0def",
+		"$Comment":	"Green",
+		"Type":	"Constant",
+		"Color":	"#84A013"
+	},
+	"$NodeEditorMetadata":	{
+		"$Nodes":	{
+			"Biome-27480920-ec78-4ed2-b502-2431490b0cd2":	{
+				"$Position":	{
+					"$x":	-4336,
+					"$y":	-629
+				},
+				"$Title":	"[ROOT] Biome"
+			},
+			"Terrain-0f33c7b5-8d49-4e57-81d9-ab5d640cd2aa":	{
+				"$Position":	{
+					"$x":	-3585,
+					"$y":	-633
+				}
+			},
+			"ConstantDensityNode-3e7861ed-3c8f-40a6-a899-3f752410c53c":	{
+				"$Position":	{
+					"$x":	-3412,
+					"$y":	-634
+				}
+			},
+			"ConstantMaterialProvider-3ae886dd-3de3-4b40-859a-e17e44ed552d":	{
+				"$Position":	{
+					"$x":	-3595,
+					"$y":	-425
+				}
+			},
+			"Material-eedbf19e-5a55-4339-9c97-32cec47d24fd":	{
+				"$Position":	{
+					"$x":	-2987,
+					"$y":	-430
+				}
+			},
+			"Constant.EnvironmentProvider-7f279f8e-0bf2-492e-922d-13a33acd3199":	{
+				"$Position":	{
+					"$x":	-3596,
+					"$y":	-222
+				}
+			},
+			"Constant.TintProvider-cfabee73-be4f-4ffb-bcf9-693a249c0def":	{
+				"$Position":	{
+					"$x":	-3597,
+					"$y":	-71
+				}
+			}
+		},
+		"$FloatingNodes":	[],
+		"$Links":	{
+		},
+		"$Groups":	[],
+		"$Comments":	[],
+		"$WorkspaceID":	"HytaleGenerator - Biome"
+	}
+}

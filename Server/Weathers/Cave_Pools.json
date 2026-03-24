@@ -1,6 +1,7 @@
 {
   "FogOptions": {
-    "IgnoreFogLimits": false
+    "IgnoreFogLimits": false,
+    "EffectiveViewDistanceMultiplier": 0.7
   },
   "SkyTopColors": [
     {
@@ -23,7 +24,7 @@
   "FogColors": [
     {
       "Hour": 0,
-      "Color": "#112a32"
+      "Color": "#0b252f"
     }
   ],
   "WaterTints": [
@@ -31,5 +32,10 @@
       "Hour": 0,
       "Color": "#5e9db6"
     }
-  ]
+  ],
+  "Particle": {
+    "SystemId": "Spawn_Mist",
+    "OvergroundOnly": false,
+    "Scale": 0
+  }
 }
