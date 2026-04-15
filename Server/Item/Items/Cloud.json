@@ -1,0 +1,49 @@
+{
+  "TranslationProperties": {
+    "Name": "server.items.Rock_Stone.name"
+  },
+  "ItemLevel": 10,
+  "MaxStack": 1,
+  "Icon": "Icons/ItemsGenerated/Cloud.png",
+  "Categories": [
+    "Blocks.Rocks"
+  ],
+  "PlayerAnimationsId": "Block",
+  "BlockType": {
+    "DrawType": "Cube",
+    "BlockSoundSetId": "Cloth",
+    "PhysicalMaterialId": "Air",
+    "Textures": [
+      {
+        "All": "Resources/BlockTextures/cloud.png"
+      }
+    ],
+    "CubeShadingMode": "Flat",
+    "Opacity": "Semitransparent",
+    "Effect": [
+      "WindRandom"
+    ],
+    "IgnoreSupportWhenPlaced": true,
+    "SupportsRequiredFor": "Any",
+    "BiomeTint": 0,
+    "RequiresAlphaBlending": true
+  },
+  "Tags": {
+    "Type": [
+      "Rock"
+    ]
+  },
+  "ItemSoundSetId": "ISS_Blocks_Soft",
+  "IconProperties": {
+    "Scale": 0.58823,
+    "Rotation": [
+      22.5,
+      45,
+      22.5
+    ],
+    "Translation": [
+      0,
+      -13.5
+    ]
+  }
+}

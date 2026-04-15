@@ -1,0 +1,34 @@
+{
+  "TranslationProperties": {
+    "Name": "server.items.Plant_Grass_Snowy_Short.name"
+  },
+  "Icon": "Icons/ItemsGenerated/Plant_Grass_Sky_Snowy_Short.png",
+  "Parent": "Plant_Grass_Lush",
+  "BlockType": {
+    "CustomModelTexture": [
+      {
+        "Texture": "Blocks/Foliage/Plants/Cross_10px_Textures/Grass_Small_Snow.png",
+        "Weight": 1
+      }
+    ],
+    "Tint": [
+      "#ffffff"
+    ],
+    "CustomModel": "Blocks/Foliage/Plants/Cross_10px.blockymodel",
+    "HitboxType": "Plant_Small",
+    "ParticleColor": "#e6f5f6",
+    "BiomeTint": 0
+  },
+  "IconProperties": {
+    "Scale": 0.58823,
+    "Rotation": [
+      22.5,
+      45,
+      22.5
+    ],
+    "Translation": [
+      0,
+      -13.5
+    ]
+  }
+}

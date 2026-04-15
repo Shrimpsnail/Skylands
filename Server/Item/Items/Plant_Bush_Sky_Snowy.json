@@ -1,0 +1,34 @@
+{
+  "TranslationProperties": {
+    "Name": "server.items.Plant_Bush_Winter_Snow.name"
+  },
+  "Parent": "Plant_Bush",
+  "BlockType": {
+    "CustomModelTexture": [
+      {
+        "Texture": "Blocks/Foliage/Plants/Bush_Big_Textures/Winter_Snow.png",
+        "Weight": 1
+      }
+    ],
+    "BlockParticleSetId": "Leaves_Fir_Snow",
+    "BlockSoundSetId": "Bush",
+    "BiomeTint": 0,
+    "Tint": [
+      "#ffffff"
+    ],
+    "ParticleColor": "#ffffff"
+  },
+  "Icon": "Icons/ItemsGenerated/Plant_Bush_Sky_Snowy.png",
+  "IconProperties": {
+    "Scale": 0.58823,
+    "Rotation": [
+      22.5,
+      45,
+      22.5
+    ],
+    "Translation": [
+      0,
+      -13.5
+    ]
+  }
+}

@@ -3,7 +3,7 @@
     "Name": "server.items.Plant_Grass_Sky_Tall.name"
   },
   "Icon": "Icons/ItemsGenerated/Plant_Grass_Sky_Long.png",
-  "Parent": "Plant_Grass_Lush",
+  "Parent": "Plant_Grass_Sky",
   "BlockType": {
     "CustomModel": "Blocks/Foliage/Grass/Dense_Tall_3Rows.blockymodel",
     "CustomModelTexture": [
@@ -12,11 +12,7 @@
         "Weight": 1
       }
     ],
-    "Tint": [
-      "#eba938"
-    ],
-    "HitboxType": "Plant_Tall_Small",
-    "BiomeTint": 0
+    "HitboxType": "Plant_Tall_Small"
   },
   "IconProperties": {
     "Scale": 0.58823,

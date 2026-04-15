@@ -28,7 +28,7 @@
       {
         "Weight": 1,
         "Up": "Resources/BlockTextures/large_lilypad_top.png",
-        "Down": "Resources/BlockTextures/large_lilypad_top.png",
+        "Down": "Resources/BlockTextures/large_lilypad_bottom.png",
         "Sides": "Resources/BlockTextures/large_lilypad_side.png"
       }
     ],

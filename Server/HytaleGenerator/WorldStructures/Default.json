@@ -1,12 +1,38 @@
 {
   "Type": "NoiseRange",
-  "Biomes": [],
-  "DefaultBiome": "Scavengers",
+  "Biomes": [
+    {
+      "Biome": "skylands_mountain",
+      "Min": 2,
+      "Max": 3
+    },
+    {
+      "Biome": "skylands_hills",
+      "Min": 1,
+      "Max": 2
+    },    
+    {
+      "Biome": "Biome_1",
+      "Min": 0,
+      "Max": 1
+    },    
+    {
+      "Biome": "skylands_forest",
+      "Min": -1,
+      "Max": 0
+    },    
+    {
+      "Biome": "skylands_bramble",
+      "Min": -2,
+      "Max": -1
+    }
+  ],
+  "DefaultBiome": "Empty",
   "DefaultTransitionDistance": 32,
   "MaxBiomeEdgeDistance" : 32,
   "Density": {
     "Type" : "Imported",
-    "Name" : "Biome-Map"
+    "Name" : "World_Skylands"
 	},
 
 

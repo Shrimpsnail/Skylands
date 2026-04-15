@@ -2,7 +2,7 @@
   "TranslationProperties": {
     "Name": "server.items.Plant_Grass_Sky_Wild.name"
   },
-  "Parent": "Plant_Grass_Lush",
+  "Parent": "Plant_Grass_Sky",
   "BlockType": {
     "CustomModel": "Blocks/Foliage/Grass/Dense_VeryTall_4Rows.blockymodel",
     "CustomModelTexture": [
@@ -11,11 +11,7 @@
         "Texture": "Blocks/Foliage/Grass/Dense_VeryTall_4Rows_Sharp.png"
       }
     ],
-    "Tint": [
-      "#eba938"
-    ],
-    "HitboxType": "Plant_Tall_Large",
-    "BiomeTint": 0
+    "HitboxType": "Plant_Tall_Large"
   },
   "Icon": "Icons/ItemsGenerated/Plant_Grass_Sky_Wild.png",
   "IconProperties": {

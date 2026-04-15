@@ -1,7 +1,9 @@
 {
   "WaterTint": "#4363bd",
   "Tags": {
-    "Zone1": []
+    "Zone1": [
+      "Forests"
+    ]
   },
   "WeatherForecasts": {
     "0": [

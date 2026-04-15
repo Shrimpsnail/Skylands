@@ -16,7 +16,7 @@
       "#eba938"
     ],
     "HitboxType": "Block_Half",
-    "BiomeTint": 0
+    "BiomeTint": 100
   },
   "IconProperties": {
     "Scale": 0.58823,

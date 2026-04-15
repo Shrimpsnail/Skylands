@@ -55,7 +55,7 @@
     "BlockSoundSetId": "Stone",
     "TextureSideMask": "Resources/BlockTextures/Rock_Marble_skygrass_side_GS.png",
     "TintUp": [
-      "#ffc434"
+      "#ffbe32"
     ],
     "TransitionTexture": "BlockTextures/Transition_Soil_Grass_GS.png",
     "TransitionToGroups": [
@@ -68,7 +68,8 @@
       "Wood"
     ],
     "ParticleColor": "#eae8e8",
-    "TransitionToTag": "Fluid=Water"
+    "TransitionToTag": "Fluid=Water",
+    "BiomeTint": 100
   },
   "Tags": {
     "Type": [
@@ -76,7 +77,7 @@
     ]
   },
   "IconProperties": {
-    "Scale": 0.5,
+    "Scale": 0.6,
     "Rotation": [
       339.295,
       229.107,

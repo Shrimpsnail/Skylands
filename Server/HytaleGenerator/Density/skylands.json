@@ -1,0 +1,168 @@
+{
+	"$NodeId":	"Exported.Density-433fa72a-27d5-400c-8bcd-467873a8bc0d",
+	"Type":	"Exported",
+	"ExportAs":	"World_Skylands",
+	"SingleInstance":	false,
+	"Skip":	false,
+	"Inputs":	[{
+			"$NodeId":	"Mix.Density-cfc5145a-349b-461e-acb1-1930c812de6a",
+			"Type":	"Mix",
+			"Skip":	false,
+			"Inputs":	[{
+					"$NodeId":	"Mix.Density-f5d1ba9e-4de5-46cc-8067-78cefda560a4",
+					"Type":	"Mix",
+					"Skip":	false,
+					"Inputs":	[{
+							"$NodeId":	"ConstantDensityNode-7b3e3a73-73dd-4035-8341-dd2bfb918316",
+							"Type":	"Constant",
+							"Skip":	false,
+							"Value":	-3
+						}, {
+							"$NodeId":	"SimplexNoise2DDensityNode-2b82777a-3184-4461-b885-065724519c20",
+							"Type":	"SimplexNoise2D",
+							"Skip":	false,
+							"Lacunarity":	2,
+							"Persistence":	0.5,
+							"Octaves":	6,
+							"Scale":	2000,
+							"Seed":	"World"
+						}, {
+							"$NodeId":	"NormalizerDensityNode-9dde7f79-eb11-4682-825f-2909aa19eddf",
+							"Type":	"Normalizer",
+							"Skip":	false,
+							"FromMin":	-0.7,
+							"FromMax":	-0.7,
+							"ToMin":	-1,
+							"ToMax":	1,
+							"Inputs":	[{
+									"$NodeId":	"ImportedDensityNode-e1cba3f8-e325-4000-82fb-3368a068af5d",
+									"Type":	"Imported",
+									"Skip":	false,
+									"Name":	"Skylands_Main"
+								}]
+						}]
+				}, {
+					"$NodeId":	"NormalizerDensityNode-24d8ba7e-6fec-4ac9-ab42-9d24bb7a27ee",
+					"Type":	"Normalizer",
+					"Skip":	false,
+					"FromMin":	-1,
+					"FromMax":	1,
+					"ToMin":	-3,
+					"ToMax":	3,
+					"Inputs":	[{
+							"$NodeId":	"ImportedDensityNode-05b317c8-b1cd-41eb-9fa3-1ce904047c47",
+							"Type":	"Imported",
+							"Skip":	false,
+							"Name":	"Skylands_Main"
+						}]
+				}, {
+					"$NodeId":	"NormalizerDensityNode-edce8c5f-08a4-489e-b6dd-185bd24a2cfe",
+					"Type":	"Normalizer",
+					"Skip":	false,
+					"FromMin":	0.33,
+					"FromMax":	0.33,
+					"ToMin":	-1,
+					"ToMax":	1,
+					"Inputs":	[{
+							"$NodeId":	"Exported.Density-6ecff586-4fdf-434e-916d-7f08e191a05e",
+							"Type":	"Exported",
+							"ExportAs":	"Skylands_Main",
+							"SingleInstance":	false,
+							"Skip":	false,
+							"Inputs":	[{
+									"$NodeId":	"SimplexNoise2DDensityNode-055846f6-42db-4529-a4ab-1c0f7cfd7cf0",
+									"Type":	"SimplexNoise2D",
+									"Skip":	false,
+									"Lacunarity":	2,
+									"Persistence":	0.5,
+									"Octaves":	7,
+									"Scale":	3000,
+									"Seed":	"World"
+								}]
+						}]
+				}]
+		}],
+	"$NodeEditorMetadata":	{
+		"$Nodes":	{
+			"Exported.Density-433fa72a-27d5-400c-8bcd-467873a8bc0d":	{
+				"$Position":	{
+					"$x":	-1689,
+					"$y":	1742
+				},
+				"$Title":	"[ROOT] [EXPERIMENTAL] Exported Density"
+			},
+			"Mix.Density-cfc5145a-349b-461e-acb1-1930c812de6a":	{
+				"$Position":	{
+					"$x":	-1018,
+					"$y":	1737
+				}
+			},
+			"Mix.Density-f5d1ba9e-4de5-46cc-8067-78cefda560a4":	{
+				"$Position":	{
+					"$x":	888,
+					"$y":	1741
+				}
+			},
+			"ConstantDensityNode-7b3e3a73-73dd-4035-8341-dd2bfb918316":	{
+				"$Position":	{
+					"$x":	1503,
+					"$y":	1555
+				}
+			},
+			"SimplexNoise2DDensityNode-2b82777a-3184-4461-b885-065724519c20":	{
+				"$Position":	{
+					"$x":	1507,
+					"$y":	1748
+				}
+			},
+			"NormalizerDensityNode-9dde7f79-eb11-4682-825f-2909aa19eddf":	{
+				"$Position":	{
+					"$x":	1495,
+					"$y":	2080
+				}
+			},
+			"ImportedDensityNode-e1cba3f8-e325-4000-82fb-3368a068af5d":	{
+				"$Position":	{
+					"$x":	2094,
+					"$y":	2079
+				}
+			},
+			"NormalizerDensityNode-24d8ba7e-6fec-4ac9-ab42-9d24bb7a27ee":	{
+				"$Position":	{
+					"$x":	-344,
+					"$y":	1881
+				}
+			},
+			"ImportedDensityNode-05b317c8-b1cd-41eb-9fa3-1ce904047c47":	{
+				"$Position":	{
+					"$x":	259,
+					"$y":	1892
+				}
+			},
+			"NormalizerDensityNode-edce8c5f-08a4-489e-b6dd-185bd24a2cfe":	{
+				"$Position":	{
+					"$x":	-348,
+					"$y":	2194
+				}
+			},
+			"Exported.Density-6ecff586-4fdf-434e-916d-7f08e191a05e":	{
+				"$Position":	{
+					"$x":	266,
+					"$y":	2183
+				}
+			},
+			"SimplexNoise2DDensityNode-055846f6-42db-4529-a4ab-1c0f7cfd7cf0":	{
+				"$Position":	{
+					"$x":	917,
+					"$y":	2181
+				}
+			}
+		},
+		"$FloatingNodes":	[],
+		"$Links":	{
+		},
+		"$Groups":	[],
+		"$Comments":	[],
+		"$WorkspaceID":	"HytaleGenerator - Density"
+	}
+}
