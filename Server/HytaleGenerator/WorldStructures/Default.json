@@ -27,7 +27,7 @@
       "Max": -1
     }
   ],
-  "DefaultBiome": "Biome_4",
+  "DefaultBiome": "Sky_Forest",
   "DefaultTransitionDistance": 16,
   "MaxBiomeEdgeDistance" : 16,
   "Density": {

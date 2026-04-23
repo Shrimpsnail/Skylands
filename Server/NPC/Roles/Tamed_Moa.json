@@ -1,6 +1,6 @@
 {
   "Type": "Variant",
-  "Reference": "Template_Animal_Neutral",
+  "Reference": "Template_Livestock",
   "Modify": {
     "Appearance": "Moa",
     "AttitudeGroup": "PreyBig",
@@ -8,9 +8,13 @@
       "Moa"
     ],
     "AttractiveItemSet": [
+      "Tool_Feedbag",
       "Plant_Crop_Carrot_Item"
     ],
-    "AttractiveItemSetParticles": "Want_Food_Carrot",
+    "FollowItemDistance": [
+      2.5,
+      3
+    ],
     "DropList": "Drop_Horse",
     "MaxHealth": 124,
     "MaxSpeed": 10,
@@ -18,15 +22,17 @@
     "ViewSector": 350,
     "HearingRange": 12,
     "AlertedRange": 20,
-    "AlertedActionRange": 8,
+    "AlertedActionRange": 4,
     "AbsoluteDetectionRange": 2,
     "AttackWhenStartled": true,
     "Attack": "Root_NPC_Attack_Melee",
     "ProduceItem": "Ingredient_Poop",
-    "IsTameable": true,
-    "TameRoleChange": "Tamed_Moa",
+    "IsMountable": true,
+    "MountAnchorX": 0,
+    "MountAnchorY": 1.6,
+    "MountAnchorZ": 0,
     "IsMemory": true,
-    "MemoriesNameOverride": "Moa",
+    "MemoriesNameOverride": "Horse",
     "NameTranslationKey": {
       "Compute": "NameTranslationKey"
     },
@@ -115,7 +121,7 @@
   },
   "Parameters": {
     "NameTranslationKey": {
-      "Value": "server.npcRoles.Moa.name",
+      "Value": "server.npcRoles.Horse.name",
       "Description": "Translation key for NPC name display"
     }
   }

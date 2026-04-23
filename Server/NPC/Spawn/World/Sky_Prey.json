@@ -39,6 +39,11 @@
       "Id": "Squirrel",
       "Weight": 3,
       "Flock": "One_Or_Two"
+    },
+    {
+      "Id": "Moa",
+      "Weight": 5,
+      "Flock": "Group_Small"
     }
   ],
   "Environments": [
