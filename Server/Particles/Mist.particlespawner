@@ -16,7 +16,6 @@
   },
   "ParticleRotationInfluence": "Billboard",
   "LinearFiltering": true,
-  "LightInfluence": 1,
   "MaxConcurrentParticles": 100,
   "ParticleLifeSpan": {
     "Min": 1,
@@ -99,5 +98,6 @@
   "Shape": "Cube",
   "ParticleCollision": {
     "BlockType": "None"
-  }
+  },
+  "LightInfluence": 2
 }

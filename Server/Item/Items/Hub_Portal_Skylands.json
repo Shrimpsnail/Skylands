@@ -82,5 +82,17 @@
       -13.5
     ]
   },
-  "ItemSoundSetId": "ISS_Blocks_Stone"
+  "ItemSoundSetId": "ISS_Blocks_Stone",
+  "Recipe": {
+    "Input": [
+      {
+        "ItemId": "Rock_Stone"
+      }
+    ],
+    "Output": [
+      {
+        "ItemId": "Hub_Portal_Skylands"
+      }
+    ]
+  }
 }

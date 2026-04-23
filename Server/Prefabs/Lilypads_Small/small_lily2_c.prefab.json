@@ -105,6 +105,12 @@
     },
     {
       "x": -1,
+      "y": 9,
+      "z": 0,
+      "name": "Empty"
+    },
+    {
+      "x": -1,
       "y": 6,
       "z": 1,
       "name": "Wood_Banyan_Branch_Long",
@@ -125,9 +131,21 @@
     },
     {
       "x": -1,
+      "y": 9,
+      "z": 1,
+      "name": "Empty"
+    },
+    {
+      "x": -1,
       "y": 8,
       "z": 2,
       "name": "Plant_Large_Lilypad"
+    },
+    {
+      "x": -1,
+      "y": 9,
+      "z": 2,
+      "name": "Empty"
     },
     {
       "x": -1,
@@ -208,6 +226,12 @@
     },
     {
       "x": 0,
+      "y": 9,
+      "z": 0,
+      "name": "Empty"
+    },
+    {
+      "x": 0,
       "y": 1,
       "z": 1,
       "name": "Wood_Banyan_Branch_Corner",
@@ -262,6 +286,12 @@
     },
     {
       "x": 0,
+      "y": 9,
+      "z": 1,
+      "name": "Empty"
+    },
+    {
+      "x": 0,
       "y": 5,
       "z": 2,
       "name": "Wood_Banyan_Branch_Long",
@@ -279,6 +309,12 @@
       "y": 8,
       "z": 2,
       "name": "Plant_Large_Lilypad"
+    },
+    {
+      "x": 0,
+      "y": 9,
+      "z": 2,
+      "name": "Empty"
     },
     {
       "x": 0,
@@ -363,6 +399,12 @@
     },
     {
       "x": 1,
+      "y": 9,
+      "z": 0,
+      "name": "Empty"
+    },
+    {
+      "x": 1,
       "y": 3,
       "z": 1,
       "name": "Wood_Banyan_Branch_Corner",
@@ -385,9 +427,21 @@
     },
     {
       "x": 1,
+      "y": 9,
+      "z": 1,
+      "name": "Empty"
+    },
+    {
+      "x": 1,
       "y": 8,
       "z": 2,
       "name": "Plant_Large_Lilypad"
+    },
+    {
+      "x": 1,
+      "y": 9,
+      "z": 2,
+      "name": "Empty"
     },
     {
       "x": 1,

@@ -2,1548 +2,714 @@
   "version": 8,
   "blockIdVersion": 11,
   "anchorX": 0,
-  "anchorY": 0,
+  "anchorY": 1,
   "anchorZ": 0,
   "blocks": [
     {
-      "x": -4,
+      "x": -5,
       "y": 0,
       "z": -5,
       "name": "Rock_Marble_Brick"
     },
     {
-      "x": -4,
+      "x": -5,
       "y": 1,
       "z": -5,
       "name": "Rock_Marble_Brick"
     },
     {
-      "x": -4,
-      "y": 7,
-      "z": -5,
-      "name": "Rock_Marble_Brick",
-      "rotation": 1
-    },
-    {
-      "x": -4,
-      "y": 8,
-      "z": -5,
-      "name": "Rock_Marble_Brick_Roof_Shallow",
-      "rotation": 3
-    },
-    {
-      "x": -4,
+      "x": -5,
       "y": 0,
       "z": -4,
       "name": "Rock_Marble_Brick"
     },
     {
-      "x": -4,
+      "x": -5,
       "y": 1,
       "z": -4,
       "name": "Rock_Marble_Brick"
     },
     {
-      "x": -4,
-      "y": 7,
-      "z": -4,
-      "name": "Rock_Marble_Brick",
-      "rotation": 1
-    },
-    {
-      "x": -4,
-      "y": 8,
-      "z": -4,
-      "name": "Rock_Marble_Brick_Roof_Shallow",
-      "rotation": 3
-    },
-    {
-      "x": -4,
+      "x": -5,
       "y": 0,
       "z": -3,
       "name": "Rock_Marble_Brick"
     },
     {
-      "x": -4,
+      "x": -5,
       "y": 1,
       "z": -3,
       "name": "Rock_Marble_Brick"
     },
     {
-      "x": -4,
-      "y": 7,
-      "z": -3,
-      "name": "Rock_Marble_Brick",
-      "rotation": 1
-    },
-    {
-      "x": -4,
-      "y": 8,
-      "z": -3,
-      "name": "Rock_Marble_Brick_Roof_Shallow",
-      "rotation": 3
-    },
-    {
-      "x": -4,
+      "x": -5,
       "y": 0,
       "z": -2,
       "name": "Rock_Marble_Brick"
     },
     {
-      "x": -4,
+      "x": -5,
       "y": 1,
       "z": -2,
       "name": "Rock_Marble_Brick"
     },
     {
-      "x": -4,
-      "y": 7,
-      "z": -2,
-      "name": "Rock_Marble_Brick",
-      "rotation": 1
-    },
-    {
-      "x": -4,
-      "y": 8,
-      "z": -2,
-      "name": "Rock_Marble_Brick_Roof_Shallow",
-      "rotation": 3
-    },
-    {
-      "x": -4,
+      "x": -5,
       "y": 0,
       "z": -1,
       "name": "Rock_Marble_Brick"
     },
     {
-      "x": -4,
+      "x": -5,
       "y": 1,
       "z": -1,
       "name": "Rock_Marble_Brick"
     },
     {
-      "x": -4,
-      "y": 7,
-      "z": -1,
-      "name": "Rock_Marble_Brick",
-      "rotation": 1
-    },
-    {
-      "x": -4,
-      "y": 8,
-      "z": -1,
-      "name": "Rock_Marble_Brick_Roof_Shallow",
-      "rotation": 3
-    },
-    {
-      "x": -4,
+      "x": -5,
       "y": 0,
       "z": 0,
       "name": "Rock_Marble_Brick"
     },
     {
-      "x": -4,
+      "x": -5,
       "y": 1,
       "z": 0,
       "name": "Rock_Marble_Brick"
     },
     {
-      "x": -4,
-      "y": 7,
-      "z": 0,
-      "name": "Rock_Marble_Brick",
-      "rotation": 1
-    },
-    {
-      "x": -4,
-      "y": 8,
-      "z": 0,
-      "name": "Rock_Marble_Brick_Roof_Shallow",
-      "rotation": 3
-    },
-    {
-      "x": -4,
+      "x": -5,
       "y": 0,
       "z": 1,
       "name": "Rock_Marble_Brick"
     },
     {
-      "x": -4,
+      "x": -5,
       "y": 1,
       "z": 1,
       "name": "Rock_Marble_Brick"
     },
     {
-      "x": -4,
-      "y": 7,
-      "z": 1,
-      "name": "Rock_Marble_Brick",
-      "rotation": 1
-    },
-    {
-      "x": -4,
-      "y": 8,
-      "z": 1,
-      "name": "Rock_Marble_Brick_Roof_Shallow",
-      "rotation": 3
-    },
-    {
-      "x": -4,
+      "x": -5,
       "y": 0,
       "z": 2,
       "name": "Rock_Marble_Brick"
     },
     {
-      "x": -4,
+      "x": -5,
       "y": 1,
       "z": 2,
       "name": "Rock_Marble_Brick"
     },
     {
-      "x": -4,
-      "y": 7,
-      "z": 2,
-      "name": "Rock_Marble_Brick",
-      "rotation": 1
-    },
-    {
-      "x": -4,
-      "y": 8,
-      "z": 2,
-      "name": "Rock_Marble_Brick_Roof_Shallow",
-      "rotation": 3
-    },
-    {
-      "x": -4,
+      "x": -5,
       "y": 0,
       "z": 3,
       "name": "Rock_Marble_Brick"
     },
     {
-      "x": -4,
+      "x": -5,
       "y": 1,
       "z": 3,
       "name": "Rock_Marble_Brick"
     },
     {
-      "x": -4,
-      "y": 7,
-      "z": 3,
-      "name": "Rock_Marble_Brick",
-      "rotation": 1
-    },
-    {
-      "x": -4,
-      "y": 8,
-      "z": 3,
-      "name": "Rock_Marble_Brick_Roof_Shallow",
-      "rotation": 3
-    },
-    {
-      "x": -4,
+      "x": -5,
       "y": 0,
       "z": 4,
       "name": "Rock_Marble_Brick"
     },
     {
-      "x": -4,
+      "x": -5,
       "y": 1,
       "z": 4,
-      "name": "Rock_Marble_Brick",
-      "rotation": 1
+      "name": "Rock_Marble_Brick"
     },
     {
-      "x": -4,
-      "y": 7,
-      "z": 4,
-      "name": "Rock_Marble_Brick",
-      "rotation": 1
-    },
-    {
-      "x": -4,
-      "y": 8,
-      "z": 4,
-      "name": "Rock_Marble_Brick_Roof_Shallow",
-      "rotation": 3
-    },
-    {
-      "x": -4,
+      "x": -5,
       "y": 0,
       "z": 5,
       "name": "Rock_Marble_Brick"
     },
     {
-      "x": -4,
+      "x": -5,
       "y": 1,
       "z": 5,
-      "name": "Rock_Marble_Brick",
-      "rotation": 1
+      "name": "Rock_Marble_Brick"
     },
     {
       "x": -4,
-      "y": 7,
-      "z": 5,
-      "name": "Rock_Marble_Brick",
-      "rotation": 1
-    },
-    {
-      "x": -4,
-      "y": 8,
-      "z": 5,
-      "name": "Rock_Marble_Brick_Roof_Shallow",
-      "rotation": 3
-    },
-    {
-      "x": -3,
       "y": 0,
       "z": -5,
       "name": "Rock_Marble_Brick"
     },
     {
-      "x": -3,
+      "x": -4,
       "y": 1,
       "z": -5,
       "name": "Rock_Marble_Brick"
     },
     {
-      "x": -3,
-      "y": 7,
-      "z": -5,
-      "name": "Rock_Marble_Brick",
-      "rotation": 1
-    },
-    {
-      "x": -3,
-      "y": 8,
-      "z": -5,
-      "name": "Rock_Marble_Brick_Roof_Shallow",
-      "filler": 1,
-      "rotation": 3
-    },
-    {
-      "x": -3,
+      "x": -4,
       "y": 0,
       "z": -4,
       "name": "Rock_Marble_Brick"
     },
     {
-      "x": -3,
+      "x": -4,
       "y": 1,
       "z": -4,
       "name": "Rock_Marble_Brick"
     },
     {
-      "x": -3,
+      "x": -4,
       "y": 2,
       "z": -4,
-      "name": "Rock_Marble_Brick_Pillar_Base",
-      "rotation": 1
+      "name": "Rock_Marble_Brick_Pillar_Base"
     },
     {
-      "x": -3,
+      "x": -4,
       "y": 3,
       "z": -4,
-      "name": "Rock_Marble_Brick_Pillar_Middle",
-      "rotation": 1
+      "name": "Rock_Marble_Brick_Pillar_Middle"
     },
     {
-      "x": -3,
+      "x": -4,
       "y": 4,
       "z": -4,
-      "name": "Rock_Marble_Brick_Pillar_Middle",
-      "rotation": 1
+      "name": "Rock_Marble_Brick_Pillar_Middle"
     },
     {
-      "x": -3,
+      "x": -4,
       "y": 5,
       "z": -4,
-      "name": "Rock_Marble_Brick_Pillar_Middle",
-      "rotation": 1
+      "name": "Rock_Marble_Brick_Pillar_Middle"
     },
     {
-      "x": -3,
+      "x": -4,
       "y": 6,
       "z": -4,
       "name": "Rock_Marble_Brick_Pillar_Base",
-      "rotation": 9
+      "rotation": 8
     },
     {
-      "x": -3,
+      "x": -4,
       "y": 7,
       "z": -4,
-      "name": "Rock_Marble_Brick",
-      "rotation": 1
+      "name": "Rock_Marble_Brick"
     },
     {
-      "x": -3,
-      "y": 8,
-      "z": -4,
-      "name": "Rock_Marble_Brick_Roof_Shallow",
-      "filler": 1,
-      "rotation": 3
-    },
-    {
-      "x": -3,
+      "x": -4,
       "y": 0,
       "z": -3,
       "name": "Rock_Marble_Brick"
     },
     {
-      "x": -3,
+      "x": -4,
       "y": 1,
       "z": -3,
       "name": "Rock_Marble_Brick"
     },
     {
-      "x": -3,
+      "x": -4,
       "y": 7,
       "z": -3,
-      "name": "Rock_Marble_Brick",
-      "rotation": 1
+      "name": "Rock_Marble_Brick"
     },
     {
-      "x": -3,
-      "y": 8,
-      "z": -3,
-      "name": "Rock_Marble_Brick_Roof_Shallow",
-      "filler": 1,
-      "rotation": 3
-    },
-    {
-      "x": -3,
+      "x": -4,
       "y": 0,
       "z": -2,
       "name": "Rock_Marble_Brick"
     },
     {
-      "x": -3,
+      "x": -4,
       "y": 1,
       "z": -2,
       "name": "Rock_Marble_Brick"
     },
     {
-      "x": -3,
+      "x": -4,
       "y": 2,
       "z": -2,
-      "name": "Rock_Marble_Brick_Pillar_Base",
-      "rotation": 1
+      "name": "Rock_Marble_Brick_Pillar_Base"
     },
     {
-      "x": -3,
+      "x": -4,
       "y": 3,
       "z": -2,
-      "name": "Rock_Marble_Brick_Pillar_Middle",
-      "rotation": 1
+      "name": "Rock_Marble_Brick_Pillar_Middle"
     },
     {
-      "x": -3,
+      "x": -4,
       "y": 4,
       "z": -2,
-      "name": "Rock_Marble_Brick_Pillar_Middle",
-      "rotation": 1
+      "name": "Rock_Marble_Brick_Pillar_Middle"
     },
     {
-      "x": -3,
+      "x": -4,
       "y": 5,
       "z": -2,
-      "name": "Rock_Marble_Brick_Pillar_Middle",
-      "rotation": 1
+      "name": "Rock_Marble_Brick_Pillar_Middle"
     },
     {
-      "x": -3,
+      "x": -4,
       "y": 6,
       "z": -2,
       "name": "Rock_Marble_Brick_Pillar_Base",
-      "rotation": 9
+      "rotation": 8
     },
     {
-      "x": -3,
+      "x": -4,
       "y": 7,
       "z": -2,
-      "name": "Rock_Marble_Brick",
-      "rotation": 1
+      "name": "Rock_Marble_Brick"
     },
     {
-      "x": -3,
-      "y": 8,
-      "z": -2,
-      "name": "Rock_Marble_Brick_Roof_Shallow",
-      "filler": 1,
-      "rotation": 3
-    },
-    {
-      "x": -3,
+      "x": -4,
       "y": 0,
       "z": -1,
       "name": "Rock_Marble_Brick"
     },
     {
-      "x": -3,
+      "x": -4,
       "y": 1,
       "z": -1,
       "name": "Rock_Marble_Brick"
     },
     {
-      "x": -3,
+      "x": -4,
       "y": 7,
       "z": -1,
-      "name": "Rock_Marble_Brick",
-      "rotation": 1
-    },
-    {
-      "x": -3,
-      "y": 8,
-      "z": -1,
-      "name": "Rock_Marble_Brick_Roof_Shallow",
-      "filler": 1,
-      "rotation": 3
-    },
-    {
-      "x": -3,
-      "y": 0,
-      "z": 0,
-      "name": "Rock_Marble_Brick"
-    },
-    {
-      "x": -3,
-      "y": 1,
-      "z": 0,
-      "name": "Rock_Marble_Brick"
-    },
-    {
-      "x": -3,
-      "y": 2,
-      "z": 0,
-      "name": "Rock_Marble_Brick_Pillar_Base",
-      "rotation": 1
-    },
-    {
-      "x": -3,
-      "y": 3,
-      "z": 0,
-      "name": "Rock_Marble_Brick_Pillar_Middle",
-      "rotation": 1
-    },
-    {
-      "x": -3,
-      "y": 4,
-      "z": 0,
-      "name": "Rock_Marble_Brick_Pillar_Middle",
-      "rotation": 1
-    },
-    {
-      "x": -3,
-      "y": 5,
-      "z": 0,
-      "name": "Rock_Marble_Brick_Pillar_Middle",
-      "rotation": 1
-    },
-    {
-      "x": -3,
-      "y": 6,
-      "z": 0,
-      "name": "Rock_Marble_Brick_Pillar_Base",
-      "rotation": 9
-    },
-    {
-      "x": -3,
-      "y": 7,
-      "z": 0,
-      "name": "Rock_Marble_Brick",
-      "rotation": 1
-    },
-    {
-      "x": -3,
-      "y": 8,
-      "z": 0,
-      "name": "Rock_Marble_Brick_Roof_Shallow",
-      "filler": 1,
-      "rotation": 3
-    },
-    {
-      "x": -3,
-      "y": 0,
-      "z": 1,
-      "name": "Rock_Marble_Brick"
-    },
-    {
-      "x": -3,
-      "y": 1,
-      "z": 1,
-      "name": "Rock_Marble_Brick"
-    },
-    {
-      "x": -3,
-      "y": 7,
-      "z": 1,
-      "name": "Rock_Marble_Brick",
-      "rotation": 1
-    },
-    {
-      "x": -3,
-      "y": 8,
-      "z": 1,
-      "name": "Rock_Marble_Brick_Roof_Shallow",
-      "filler": 1,
-      "rotation": 3
-    },
-    {
-      "x": -3,
-      "y": 0,
-      "z": 2,
-      "name": "Rock_Marble_Brick"
-    },
-    {
-      "x": -3,
-      "y": 1,
-      "z": 2,
-      "name": "Rock_Marble_Brick"
-    },
-    {
-      "x": -3,
-      "y": 2,
-      "z": 2,
-      "name": "Rock_Marble_Brick_Pillar_Base",
-      "rotation": 1
-    },
-    {
-      "x": -3,
-      "y": 3,
-      "z": 2,
-      "name": "Rock_Marble_Brick_Pillar_Middle",
-      "rotation": 1
-    },
-    {
-      "x": -3,
-      "y": 4,
-      "z": 2,
-      "name": "Rock_Marble_Brick_Pillar_Middle",
-      "rotation": 1
-    },
-    {
-      "x": -3,
-      "y": 5,
-      "z": 2,
-      "name": "Rock_Marble_Brick_Pillar_Middle",
-      "rotation": 1
-    },
-    {
-      "x": -3,
-      "y": 6,
-      "z": 2,
-      "name": "Rock_Marble_Brick_Pillar_Base",
-      "rotation": 9
-    },
-    {
-      "x": -3,
-      "y": 7,
-      "z": 2,
-      "name": "Rock_Marble_Brick",
-      "rotation": 1
-    },
-    {
-      "x": -3,
-      "y": 8,
-      "z": 2,
-      "name": "Rock_Marble_Brick_Roof_Shallow",
-      "filler": 1,
-      "rotation": 3
-    },
-    {
-      "x": -3,
-      "y": 0,
-      "z": 3,
-      "name": "Rock_Marble_Brick"
-    },
-    {
-      "x": -3,
-      "y": 1,
-      "z": 3,
-      "name": "Rock_Marble_Brick"
-    },
-    {
-      "x": -3,
-      "y": 7,
-      "z": 3,
-      "name": "Rock_Marble_Brick",
-      "rotation": 1
-    },
-    {
-      "x": -3,
-      "y": 8,
-      "z": 3,
-      "name": "Rock_Marble_Brick_Roof_Shallow",
-      "filler": 1,
-      "rotation": 3
-    },
-    {
-      "x": -3,
-      "y": 0,
-      "z": 4,
-      "name": "Rock_Marble_Brick"
-    },
-    {
-      "x": -3,
-      "y": 1,
-      "z": 4,
-      "name": "Rock_Marble_Brick",
-      "rotation": 1
-    },
-    {
-      "x": -3,
-      "y": 2,
-      "z": 4,
-      "name": "Rock_Marble_Brick_Pillar_Base",
-      "rotation": 1
-    },
-    {
-      "x": -3,
-      "y": 3,
-      "z": 4,
-      "name": "Rock_Marble_Brick_Pillar_Middle",
-      "rotation": 1
-    },
-    {
-      "x": -3,
-      "y": 4,
-      "z": 4,
-      "name": "Rock_Marble_Brick_Pillar_Middle",
-      "rotation": 1
-    },
-    {
-      "x": -3,
-      "y": 5,
-      "z": 4,
-      "name": "Rock_Marble_Brick_Pillar_Middle",
-      "rotation": 1
-    },
-    {
-      "x": -3,
-      "y": 6,
-      "z": 4,
-      "name": "Rock_Marble_Brick_Pillar_Base",
-      "rotation": 9
-    },
-    {
-      "x": -3,
-      "y": 7,
-      "z": 4,
-      "name": "Rock_Marble_Brick",
-      "rotation": 1
-    },
-    {
-      "x": -3,
-      "y": 8,
-      "z": 4,
-      "name": "Rock_Marble_Brick_Roof_Shallow",
-      "filler": 1,
-      "rotation": 3
-    },
-    {
-      "x": -3,
-      "y": 0,
-      "z": 5,
-      "name": "Rock_Marble_Brick"
-    },
-    {
-      "x": -3,
-      "y": 1,
-      "z": 5,
-      "name": "Rock_Marble_Brick",
-      "rotation": 1
-    },
-    {
-      "x": -3,
-      "y": 7,
-      "z": 5,
-      "name": "Rock_Marble_Brick",
-      "rotation": 1
-    },
-    {
-      "x": -3,
-      "y": 8,
-      "z": 5,
-      "name": "Rock_Marble_Brick_Roof_Shallow",
-      "filler": 1,
-      "rotation": 3
-    },
-    {
-      "x": -2,
-      "y": 0,
-      "z": -5,
-      "name": "Rock_Marble_Brick"
-    },
-    {
-      "x": -2,
-      "y": 1,
-      "z": -5,
-      "name": "Rock_Marble_Brick"
-    },
-    {
-      "x": -2,
-      "y": 7,
-      "z": -5,
-      "name": "Rock_Marble_Brick",
-      "rotation": 1
-    },
-    {
-      "x": -2,
-      "y": 8,
-      "z": -5,
       "name": "Rock_Marble_Brick_Smooth_Half",
-      "rotation": 9
+      "rotation": 4
     },
     {
-      "x": -2,
-      "y": 9,
-      "z": -5,
-      "name": "Rock_Marble_Brick_Roof_Shallow",
-      "rotation": 3
-    },
-    {
-      "x": -2,
-      "y": 0,
-      "z": -4,
-      "name": "Rock_Marble_Brick"
-    },
-    {
-      "x": -2,
-      "y": 1,
-      "z": -4,
-      "name": "Rock_Marble_Brick"
-    },
-    {
-      "x": -2,
-      "y": 7,
-      "z": -4,
-      "name": "Rock_Marble_Brick",
-      "rotation": 1
-    },
-    {
-      "x": -2,
-      "y": 8,
-      "z": -4,
-      "name": "Rock_Marble_Brick",
-      "rotation": 1
-    },
-    {
-      "x": -2,
-      "y": 9,
-      "z": -4,
-      "name": "Rock_Marble_Brick_Roof_Shallow",
-      "rotation": 3
-    },
-    {
-      "x": -2,
-      "y": 0,
-      "z": -3,
-      "name": "Rock_Marble_Brick"
-    },
-    {
-      "x": -2,
-      "y": 1,
-      "z": -3,
-      "name": "Rock_Marble_Brick"
-    },
-    {
-      "x": -2,
-      "y": 7,
-      "z": -3,
-      "name": "Rock_Marble_Brick",
-      "rotation": 1
-    },
-    {
-      "x": -2,
-      "y": 8,
-      "z": -3,
-      "name": "Rock_Marble_Brick",
-      "rotation": 1
-    },
-    {
-      "x": -2,
-      "y": 9,
-      "z": -3,
-      "name": "Rock_Marble_Brick_Roof_Shallow",
-      "rotation": 3
-    },
-    {
-      "x": -2,
-      "y": 0,
-      "z": -2,
-      "name": "Rock_Marble_Brick"
-    },
-    {
-      "x": -2,
-      "y": 1,
-      "z": -2,
-      "name": "Rock_Marble_Brick"
-    },
-    {
-      "x": -2,
-      "y": 7,
-      "z": -2,
-      "name": "Rock_Marble_Brick",
-      "rotation": 1
-    },
-    {
-      "x": -2,
-      "y": 8,
-      "z": -2,
-      "name": "Rock_Marble_Brick",
-      "rotation": 1
-    },
-    {
-      "x": -2,
-      "y": 9,
-      "z": -2,
-      "name": "Rock_Marble_Brick_Roof_Shallow",
-      "rotation": 3
-    },
-    {
-      "x": -2,
-      "y": 0,
-      "z": -1,
-      "name": "Rock_Marble_Brick"
-    },
-    {
-      "x": -2,
-      "y": 1,
-      "z": -1,
-      "name": "Rock_Marble_Brick"
-    },
-    {
-      "x": -2,
-      "y": 7,
-      "z": -1,
-      "name": "Rock_Marble_Brick",
-      "rotation": 1
-    },
-    {
-      "x": -2,
-      "y": 8,
-      "z": -1,
-      "name": "Rock_Marble_Brick",
-      "rotation": 1
-    },
-    {
-      "x": -2,
-      "y": 9,
-      "z": -1,
-      "name": "Rock_Marble_Brick_Roof_Shallow",
-      "rotation": 3
-    },
-    {
-      "x": -2,
+      "x": -4,
       "y": 0,
       "z": 0,
       "name": "Rock_Marble_Brick"
     },
     {
-      "x": -2,
+      "x": -4,
       "y": 1,
       "z": 0,
       "name": "Rock_Marble_Brick"
     },
     {
-      "x": -2,
-      "y": 7,
-      "z": 0,
-      "name": "Rock_Marble_Brick",
-      "rotation": 1
-    },
-    {
-      "x": -2,
-      "y": 8,
-      "z": 0,
-      "name": "Rock_Marble_Brick",
-      "rotation": 1
-    },
-    {
-      "x": -2,
-      "y": 9,
-      "z": 0,
-      "name": "Rock_Marble_Brick_Roof_Shallow",
-      "rotation": 3
-    },
-    {
-      "x": -2,
+      "x": -4,
       "y": 0,
       "z": 1,
       "name": "Rock_Marble_Brick"
     },
     {
-      "x": -2,
+      "x": -4,
       "y": 1,
       "z": 1,
       "name": "Rock_Marble_Brick"
     },
     {
-      "x": -2,
+      "x": -4,
       "y": 7,
       "z": 1,
-      "name": "Rock_Marble_Brick",
-      "rotation": 1
-    },
-    {
-      "x": -2,
-      "y": 8,
-      "z": 1,
-      "name": "Rock_Marble_Brick",
-      "rotation": 1
-    },
-    {
-      "x": -2,
-      "y": 9,
-      "z": 1,
-      "name": "Rock_Marble_Brick_Roof_Shallow",
-      "rotation": 3
-    },
-    {
-      "x": -2,
-      "y": 0,
-      "z": 2,
-      "name": "Rock_Marble_Brick"
-    },
-    {
-      "x": -2,
-      "y": 1,
-      "z": 2,
-      "name": "Rock_Marble_Brick"
-    },
-    {
-      "x": -2,
-      "y": 7,
-      "z": 2,
-      "name": "Rock_Marble_Brick",
-      "rotation": 1
-    },
-    {
-      "x": -2,
-      "y": 8,
-      "z": 2,
-      "name": "Rock_Marble_Brick",
-      "rotation": 1
-    },
-    {
-      "x": -2,
-      "y": 9,
-      "z": 2,
-      "name": "Rock_Marble_Brick_Roof_Shallow",
-      "rotation": 3
-    },
-    {
-      "x": -2,
-      "y": 0,
-      "z": 3,
-      "name": "Rock_Marble_Brick"
-    },
-    {
-      "x": -2,
-      "y": 1,
-      "z": 3,
-      "name": "Rock_Marble_Brick"
-    },
-    {
-      "x": -2,
-      "y": 7,
-      "z": 3,
-      "name": "Rock_Marble_Brick",
-      "rotation": 1
-    },
-    {
-      "x": -2,
-      "y": 8,
-      "z": 3,
-      "name": "Rock_Marble_Brick",
-      "rotation": 1
-    },
-    {
-      "x": -2,
-      "y": 9,
-      "z": 3,
-      "name": "Rock_Marble_Brick_Roof_Shallow",
-      "rotation": 3
-    },
-    {
-      "x": -2,
-      "y": 0,
-      "z": 4,
-      "name": "Rock_Marble_Brick"
-    },
-    {
-      "x": -2,
-      "y": 1,
-      "z": 4,
-      "name": "Rock_Marble_Brick",
-      "rotation": 1
-    },
-    {
-      "x": -2,
-      "y": 7,
-      "z": 4,
-      "name": "Rock_Marble_Brick",
-      "rotation": 1
-    },
-    {
-      "x": -2,
-      "y": 8,
-      "z": 4,
-      "name": "Rock_Marble_Brick",
-      "rotation": 1
-    },
-    {
-      "x": -2,
-      "y": 9,
-      "z": 4,
-      "name": "Rock_Marble_Brick_Roof_Shallow",
-      "rotation": 3
-    },
-    {
-      "x": -2,
-      "y": 0,
-      "z": 5,
-      "name": "Rock_Marble_Brick"
-    },
-    {
-      "x": -2,
-      "y": 1,
-      "z": 5,
-      "name": "Rock_Marble_Brick",
-      "rotation": 1
-    },
-    {
-      "x": -2,
-      "y": 7,
-      "z": 5,
-      "name": "Rock_Marble_Brick",
-      "rotation": 1
-    },
-    {
-      "x": -2,
-      "y": 8,
-      "z": 5,
       "name": "Rock_Marble_Brick_Smooth_Half",
-      "rotation": 9
+      "rotation": 6
+    },
+    {
+      "x": -4,
+      "y": 0,
+      "z": 2,
+      "name": "Rock_Marble_Brick"
+    },
+    {
+      "x": -4,
+      "y": 1,
+      "z": 2,
+      "name": "Rock_Marble_Brick"
+    },
+    {
+      "x": -4,
+      "y": 2,
+      "z": 2,
+      "name": "Rock_Marble_Brick_Pillar_Base"
+    },
+    {
+      "x": -4,
+      "y": 3,
+      "z": 2,
+      "name": "Rock_Marble_Brick_Pillar_Middle"
+    },
+    {
+      "x": -4,
+      "y": 4,
+      "z": 2,
+      "name": "Rock_Marble_Brick_Pillar_Middle"
+    },
+    {
+      "x": -4,
+      "y": 5,
+      "z": 2,
+      "name": "Rock_Marble_Brick_Pillar_Middle"
+    },
+    {
+      "x": -4,
+      "y": 6,
+      "z": 2,
+      "name": "Rock_Marble_Brick_Pillar_Base",
+      "rotation": 8
+    },
+    {
+      "x": -4,
+      "y": 7,
+      "z": 2,
+      "name": "Rock_Marble_Brick"
+    },
+    {
+      "x": -4,
+      "y": 0,
+      "z": 3,
+      "name": "Rock_Marble_Brick"
+    },
+    {
+      "x": -4,
+      "y": 1,
+      "z": 3,
+      "name": "Rock_Marble_Brick"
+    },
+    {
+      "x": -4,
+      "y": 7,
+      "z": 3,
+      "name": "Rock_Marble_Brick"
+    },
+    {
+      "x": -4,
+      "y": 0,
+      "z": 4,
+      "name": "Rock_Marble_Brick"
+    },
+    {
+      "x": -4,
+      "y": 1,
+      "z": 4,
+      "name": "Rock_Marble_Brick",
+      "rotation": 1
+    },
+    {
+      "x": -4,
+      "y": 2,
+      "z": 4,
+      "name": "Rock_Marble_Brick_Pillar_Base"
+    },
+    {
+      "x": -4,
+      "y": 3,
+      "z": 4,
+      "name": "Rock_Marble_Brick_Pillar_Middle"
+    },
+    {
+      "x": -4,
+      "y": 4,
+      "z": 4,
+      "name": "Rock_Marble_Brick_Pillar_Middle"
+    },
+    {
+      "x": -4,
+      "y": 5,
+      "z": 4,
+      "name": "Rock_Marble_Brick_Pillar_Middle"
+    },
+    {
+      "x": -4,
+      "y": 6,
+      "z": 4,
+      "name": "Rock_Marble_Brick_Pillar_Base",
+      "rotation": 8
+    },
+    {
+      "x": -4,
+      "y": 7,
+      "z": 4,
+      "name": "Rock_Marble_Brick"
+    },
+    {
+      "x": -4,
+      "y": 0,
+      "z": 5,
+      "name": "Rock_Marble_Brick"
+    },
+    {
+      "x": -4,
+      "y": 1,
+      "z": 5,
+      "name": "Rock_Marble_Brick",
+      "rotation": 1
+    },
+    {
+      "x": -3,
+      "y": 0,
+      "z": -5,
+      "name": "Rock_Marble_Brick"
+    },
+    {
+      "x": -3,
+      "y": 1,
+      "z": -5,
+      "name": "Rock_Marble_Brick"
+    },
+    {
+      "x": -3,
+      "y": 0,
+      "z": -4,
+      "name": "Rock_Marble_Brick"
+    },
+    {
+      "x": -3,
+      "y": 1,
+      "z": -4,
+      "name": "Rock_Marble_Brick"
+    },
+    {
+      "x": -3,
+      "y": 7,
+      "z": -4,
+      "name": "Rock_Marble_Brick"
+    },
+    {
+      "x": -3,
+      "y": 0,
+      "z": -3,
+      "name": "Rock_Marble_Brick"
+    },
+    {
+      "x": -3,
+      "y": 0,
+      "z": -2,
+      "name": "Rock_Marble_Brick"
+    },
+    {
+      "x": -3,
+      "y": 0,
+      "z": -1,
+      "name": "Rock_Marble_Brick"
+    },
+    {
+      "x": -3,
+      "y": 0,
+      "z": 0,
+      "name": "Rock_Marble_Brick"
+    },
+    {
+      "x": -3,
+      "y": 0,
+      "z": 1,
+      "name": "Rock_Marble_Brick"
+    },
+    {
+      "x": -3,
+      "y": 0,
+      "z": 2,
+      "name": "Rock_Marble_Brick"
+    },
+    {
+      "x": -3,
+      "y": 0,
+      "z": 3,
+      "name": "Rock_Marble_Brick"
+    },
+    {
+      "x": -3,
+      "y": 0,
+      "z": 4,
+      "name": "Rock_Marble_Brick"
+    },
+    {
+      "x": -3,
+      "y": 1,
+      "z": 4,
+      "name": "Rock_Marble_Brick",
+      "rotation": 1
+    },
+    {
+      "x": -3,
+      "y": 7,
+      "z": 4,
+      "name": "Rock_Marble_Brick"
+    },
+    {
+      "x": -3,
+      "y": 0,
+      "z": 5,
+      "name": "Rock_Marble_Brick"
+    },
+    {
+      "x": -3,
+      "y": 1,
+      "z": 5,
+      "name": "Rock_Marble_Brick",
+      "rotation": 1
     },
     {
       "x": -2,
-      "y": 9,
-      "z": 5,
-      "name": "Rock_Marble_Brick_Roof_Shallow",
-      "rotation": 3
-    },
-    {
-      "x": -1,
       "y": 0,
       "z": -5,
       "name": "Rock_Marble_Brick"
     },
     {
-      "x": -1,
+      "x": -2,
       "y": 1,
       "z": -5,
       "name": "Rock_Marble_Brick"
     },
     {
-      "x": -1,
-      "y": 7,
-      "z": -5,
-      "name": "Rock_Marble_Brick",
-      "rotation": 1
-    },
-    {
-      "x": -1,
-      "y": 9,
-      "z": -5,
-      "name": "Rock_Marble_Brick_Roof_Shallow",
-      "filler": 1,
-      "rotation": 3
-    },
-    {
-      "x": -1,
+      "x": -2,
       "y": 0,
       "z": -4,
       "name": "Rock_Marble_Brick"
     },
     {
-      "x": -1,
+      "x": -2,
       "y": 1,
       "z": -4,
       "name": "Rock_Marble_Brick"
     },
     {
-      "x": -1,
+      "x": -2,
       "y": 2,
       "z": -4,
-      "name": "Rock_Marble_Brick_Pillar_Base",
-      "rotation": 1
+      "name": "Rock_Marble_Brick_Pillar_Base"
     },
     {
-      "x": -1,
+      "x": -2,
       "y": 3,
       "z": -4,
-      "name": "Rock_Marble_Brick_Pillar_Middle",
-      "rotation": 1
+      "name": "Rock_Marble_Brick_Pillar_Middle"
     },
     {
-      "x": -1,
+      "x": -2,
       "y": 4,
       "z": -4,
-      "name": "Rock_Marble_Brick_Pillar_Middle",
-      "rotation": 1
+      "name": "Rock_Marble_Brick_Pillar_Middle"
     },
     {
-      "x": -1,
+      "x": -2,
       "y": 5,
       "z": -4,
-      "name": "Rock_Marble_Brick_Pillar_Middle",
-      "rotation": 1
+      "name": "Rock_Marble_Brick_Pillar_Middle"
     },
     {
-      "x": -1,
+      "x": -2,
       "y": 6,
       "z": -4,
       "name": "Rock_Marble_Brick_Pillar_Base",
-      "rotation": 9
+      "rotation": 8
     },
     {
-      "x": -1,
+      "x": -2,
       "y": 7,
       "z": -4,
-      "name": "Rock_Marble_Brick",
-      "rotation": 1
+      "name": "Rock_Marble_Brick"
     },
     {
-      "x": -1,
-      "y": 8,
-      "z": -4,
-      "name": "Rock_Marble_Brick",
-      "rotation": 1
-    },
-    {
-      "x": -1,
-      "y": 9,
-      "z": -4,
-      "name": "Rock_Marble_Brick_Roof_Shallow",
-      "filler": 1,
-      "rotation": 3
-    },
-    {
-      "x": -1,
+      "x": -2,
       "y": 0,
       "z": -3,
       "name": "Rock_Marble_Brick"
     },
     {
-      "x": -1,
-      "y": 1,
-      "z": -3,
-      "name": "Rock_Marble_Brick"
-    },
-    {
-      "x": -1,
-      "y": 7,
-      "z": -3,
-      "name": "Rock_Marble_Brick",
-      "rotation": 1
-    },
-    {
-      "x": -1,
-      "y": 8,
-      "z": -3,
-      "name": "Rock_Marble_Brick",
-      "rotation": 1
-    },
-    {
-      "x": -1,
-      "y": 9,
-      "z": -3,
-      "name": "Rock_Marble_Brick_Roof_Shallow",
-      "filler": 1,
-      "rotation": 3
-    },
-    {
-      "x": -1,
+      "x": -2,
       "y": 0,
       "z": -2,
       "name": "Rock_Marble_Brick"
     },
     {
-      "x": -1,
-      "y": 1,
-      "z": -2,
-      "name": "Rock_Marble_Brick"
-    },
-    {
-      "x": -1,
-      "y": 7,
-      "z": -2,
-      "name": "Rock_Marble_Brick",
-      "rotation": 1
-    },
-    {
-      "x": -1,
-      "y": 8,
-      "z": -2,
-      "name": "Rock_Marble_Brick",
-      "rotation": 1
-    },
-    {
-      "x": -1,
-      "y": 9,
-      "z": -2,
-      "name": "Rock_Marble_Brick_Roof_Shallow",
-      "filler": 1,
-      "rotation": 3
-    },
-    {
-      "x": -1,
+      "x": -2,
       "y": 0,
       "z": -1,
       "name": "Rock_Marble_Brick"
     },
     {
-      "x": -1,
-      "y": 1,
-      "z": -1,
-      "name": "Rock_Marble_Brick"
-    },
-    {
-      "x": -1,
-      "y": 7,
-      "z": -1,
-      "name": "Rock_Marble_Brick",
-      "rotation": 1
-    },
-    {
-      "x": -1,
-      "y": 8,
-      "z": -1,
-      "name": "Rock_Marble_Brick",
-      "rotation": 1
-    },
-    {
-      "x": -1,
-      "y": 9,
-      "z": -1,
-      "name": "Rock_Marble_Brick_Roof_Shallow",
-      "filler": 1,
-      "rotation": 3
-    },
-    {
-      "x": -1,
+      "x": -2,
       "y": 0,
       "z": 0,
       "name": "Rock_Marble_Brick"
     },
     {
-      "x": -1,
-      "y": 1,
-      "z": 0,
-      "name": "Rock_Marble_Brick"
-    },
-    {
-      "x": -1,
-      "y": 7,
-      "z": 0,
-      "name": "Rock_Marble_Brick",
-      "rotation": 1
-    },
-    {
-      "x": -1,
-      "y": 8,
-      "z": 0,
-      "name": "Rock_Marble_Brick",
-      "rotation": 1
-    },
-    {
-      "x": -1,
-      "y": 9,
-      "z": 0,
-      "name": "Rock_Marble_Brick_Roof_Shallow",
-      "filler": 1,
-      "rotation": 3
-    },
-    {
-      "x": -1,
+      "x": -2,
       "y": 0,
       "z": 1,
       "name": "Rock_Marble_Brick"
     },
     {
-      "x": -1,
-      "y": 1,
-      "z": 1,
-      "name": "Rock_Marble_Brick"
-    },
-    {
-      "x": -1,
-      "y": 7,
-      "z": 1,
-      "name": "Rock_Marble_Brick",
-      "rotation": 1
-    },
-    {
-      "x": -1,
-      "y": 8,
-      "z": 1,
-      "name": "Rock_Marble_Brick",
-      "rotation": 1
-    },
-    {
-      "x": -1,
-      "y": 9,
-      "z": 1,
-      "name": "Rock_Marble_Brick_Roof_Shallow",
-      "filler": 1,
-      "rotation": 3
-    },
-    {
-      "x": -1,
+      "x": -2,
       "y": 0,
       "z": 2,
       "name": "Rock_Marble_Brick"
     },
     {
-      "x": -1,
-      "y": 1,
-      "z": 2,
-      "name": "Rock_Marble_Brick"
-    },
-    {
-      "x": -1,
-      "y": 7,
-      "z": 2,
-      "name": "Rock_Marble_Brick",
-      "rotation": 1
-    },
-    {
-      "x": -1,
-      "y": 8,
-      "z": 2,
-      "name": "Rock_Marble_Brick",
-      "rotation": 1
-    },
-    {
-      "x": -1,
-      "y": 9,
-      "z": 2,
-      "name": "Rock_Marble_Brick_Roof_Shallow",
-      "filler": 1,
-      "rotation": 3
-    },
-    {
-      "x": -1,
+      "x": -2,
       "y": 0,
       "z": 3,
       "name": "Rock_Marble_Brick"
     },
     {
-      "x": -1,
-      "y": 1,
-      "z": 3,
-      "name": "Rock_Marble_Brick"
-    },
-    {
-      "x": -1,
-      "y": 7,
-      "z": 3,
-      "name": "Rock_Marble_Brick",
-      "rotation": 1
-    },
-    {
-      "x": -1,
-      "y": 8,
-      "z": 3,
-      "name": "Rock_Marble_Brick",
-      "rotation": 1
-    },
-    {
-      "x": -1,
-      "y": 9,
-      "z": 3,
-      "name": "Rock_Marble_Brick_Roof_Shallow",
-      "filler": 1,
-      "rotation": 3
-    },
-    {
-      "x": -1,
+      "x": -2,
       "y": 0,
       "z": 4,
       "name": "Rock_Marble_Brick"
     },
     {
-      "x": -1,
+      "x": -2,
       "y": 1,
       "z": 4,
       "name": "Rock_Marble_Brick",
       "rotation": 1
     },
     {
-      "x": -1,
+      "x": -2,
       "y": 2,
       "z": 4,
-      "name": "Rock_Marble_Brick_Pillar_Base",
-      "rotation": 1
+      "name": "Rock_Marble_Brick_Pillar_Base"
     },
     {
-      "x": -1,
+      "x": -2,
       "y": 3,
       "z": 4,
-      "name": "Rock_Marble_Brick_Pillar_Middle",
-      "rotation": 1
+      "name": "Rock_Marble_Brick_Pillar_Middle"
     },
     {
-      "x": -1,
+      "x": -2,
       "y": 4,
       "z": 4,
-      "name": "Rock_Marble_Brick_Pillar_Middle",
-      "rotation": 1
+      "name": "Rock_Marble_Brick_Pillar_Middle"
     },
     {
-      "x": -1,
+      "x": -2,
       "y": 5,
       "z": 4,
-      "name": "Rock_Marble_Brick_Pillar_Middle",
-      "rotation": 1
+      "name": "Rock_Marble_Brick_Pillar_Middle"
     },
     {
-      "x": -1,
+      "x": -2,
       "y": 6,
       "z": 4,
       "name": "Rock_Marble_Brick_Pillar_Base",
-      "rotation": 9
+      "rotation": 8
     },
     {
-      "x": -1,
+      "x": -2,
       "y": 7,
       "z": 4,
-      "name": "Rock_Marble_Brick",
-      "rotation": 1
+      "name": "Rock_Marble_Brick"
     },
     {
-      "x": -1,
-      "y": 8,
-      "z": 4,
-      "name": "Rock_Marble_Brick",
-      "rotation": 1
-    },
-    {
-      "x": -1,
-      "y": 9,
-      "z": 4,
-      "name": "Rock_Marble_Brick_Roof_Shallow",
-      "filler": 1,
-      "rotation": 3
-    },
-    {
-      "x": -1,
+      "x": -2,
       "y": 0,
       "z": 5,
       "name": "Rock_Marble_Brick"
     },
     {
-      "x": -1,
+      "x": -2,
       "y": 1,
       "z": 5,
       "name": "Rock_Marble_Brick",
@@ -1551,51 +717,114 @@
     },
     {
       "x": -1,
-      "y": 7,
-      "z": 5,
-      "name": "Rock_Marble_Brick",
-      "rotation": 1
-    },
-    {
-      "x": -1,
-      "y": 9,
-      "z": 5,
-      "name": "Rock_Marble_Brick_Roof_Shallow",
-      "filler": 1,
-      "rotation": 3
-    },
-    {
-      "x": 0,
       "y": 0,
       "z": -5,
       "name": "Rock_Marble_Brick"
     },
     {
-      "x": 0,
+      "x": -1,
       "y": 1,
       "z": -5,
       "name": "Rock_Marble_Brick"
     },
     {
-      "x": 0,
-      "y": 7,
-      "z": -5,
+      "x": -1,
+      "y": 0,
+      "z": -4,
+      "name": "Rock_Marble_Brick"
+    },
+    {
+      "x": -1,
+      "y": 1,
+      "z": -4,
+      "name": "Rock_Marble_Brick"
+    },
+    {
+      "x": -1,
+      "y": 0,
+      "z": -3,
+      "name": "Rock_Marble_Brick"
+    },
+    {
+      "x": -1,
+      "y": 0,
+      "z": -2,
+      "name": "Rock_Marble_Brick"
+    },
+    {
+      "x": -1,
+      "y": 0,
+      "z": -1,
+      "name": "Rock_Marble_Brick"
+    },
+    {
+      "x": -1,
+      "y": 0,
+      "z": 0,
+      "name": "Rock_Marble_Brick"
+    },
+    {
+      "x": -1,
+      "y": 0,
+      "z": 1,
+      "name": "Rock_Marble_Brick"
+    },
+    {
+      "x": -1,
+      "y": 0,
+      "z": 2,
+      "name": "Rock_Marble_Brick"
+    },
+    {
+      "x": -1,
+      "y": 0,
+      "z": 3,
+      "name": "Rock_Marble_Brick"
+    },
+    {
+      "x": -1,
+      "y": 0,
+      "z": 4,
+      "name": "Rock_Marble_Brick"
+    },
+    {
+      "x": -1,
+      "y": 1,
+      "z": 4,
       "name": "Rock_Marble_Brick",
       "rotation": 1
     },
     {
-      "x": 0,
-      "y": 9,
-      "z": -5,
+      "x": -1,
+      "y": 7,
+      "z": 4,
       "name": "Rock_Marble_Brick_Smooth_Half",
-      "rotation": 9
+      "rotation": 5
+    },
+    {
+      "x": -1,
+      "y": 0,
+      "z": 5,
+      "name": "Rock_Marble_Brick"
+    },
+    {
+      "x": -1,
+      "y": 1,
+      "z": 5,
+      "name": "Rock_Marble_Brick",
+      "rotation": 1
     },
     {
       "x": 0,
-      "y": 10,
+      "y": 0,
       "z": -5,
-      "name": "Rock_Marble_Brick_Roof_Flat",
-      "rotation": 1
+      "name": "Rock_Marble_Brick"
+    },
+    {
+      "x": 0,
+      "y": 1,
+      "z": -5,
+      "name": "Rock_Marble_Brick"
     },
     {
       "x": 0,
@@ -1611,71 +840,9 @@
     },
     {
       "x": 0,
-      "y": 7,
-      "z": -4,
-      "name": "Rock_Marble_Brick",
-      "rotation": 1
-    },
-    {
-      "x": 0,
-      "y": 8,
-      "z": -4,
-      "name": "Rock_Marble_Brick",
-      "rotation": 1
-    },
-    {
-      "x": 0,
-      "y": 9,
-      "z": -4,
-      "name": "Rock_Marble_Brick",
-      "rotation": 1
-    },
-    {
-      "x": 0,
-      "y": 10,
-      "z": -4,
-      "name": "Rock_Marble_Brick_Roof_Flat",
-      "rotation": 1
-    },
-    {
-      "x": 0,
       "y": 0,
       "z": -3,
       "name": "Rock_Marble_Brick"
-    },
-    {
-      "x": 0,
-      "y": 1,
-      "z": -3,
-      "name": "Rock_Marble_Brick"
-    },
-    {
-      "x": 0,
-      "y": 7,
-      "z": -3,
-      "name": "Rock_Marble_Brick",
-      "rotation": 1
-    },
-    {
-      "x": 0,
-      "y": 8,
-      "z": -3,
-      "name": "Rock_Marble_Brick",
-      "rotation": 1
-    },
-    {
-      "x": 0,
-      "y": 9,
-      "z": -3,
-      "name": "Rock_Marble_Brick",
-      "rotation": 1
-    },
-    {
-      "x": 0,
-      "y": 10,
-      "z": -3,
-      "name": "Rock_Marble_Brick_Roof_Flat",
-      "rotation": 1
     },
     {
       "x": 0,
@@ -1685,77 +852,9 @@
     },
     {
       "x": 0,
-      "y": 1,
-      "z": -2,
-      "name": "Rock_Marble_Brick"
-    },
-    {
-      "x": 0,
-      "y": 7,
-      "z": -2,
-      "name": "Rock_Marble_Brick",
-      "rotation": 1
-    },
-    {
-      "x": 0,
-      "y": 8,
-      "z": -2,
-      "name": "Rock_Marble_Brick",
-      "rotation": 1
-    },
-    {
-      "x": 0,
-      "y": 9,
-      "z": -2,
-      "name": "Rock_Marble_Brick",
-      "rotation": 1
-    },
-    {
-      "x": 0,
-      "y": 10,
-      "z": -2,
-      "name": "Rock_Marble_Brick_Roof_Flat",
-      "rotation": 1
-    },
-    {
-      "x": 0,
       "y": 0,
       "z": -1,
       "name": "Rock_Marble_Brick"
-    },
-    {
-      "x": 0,
-      "y": 1,
-      "z": -1,
-      "name": "Rock_Marble_Brick"
-    },
-    {
-      "x": 0,
-      "y": 7,
-      "z": -1,
-      "name": "Rock_Marble_Brick",
-      "rotation": 1
-    },
-    {
-      "x": 0,
-      "y": 8,
-      "z": -1,
-      "name": "Rock_Marble_Brick",
-      "rotation": 1
-    },
-    {
-      "x": 0,
-      "y": 9,
-      "z": -1,
-      "name": "Rock_Marble_Brick",
-      "rotation": 1
-    },
-    {
-      "x": 0,
-      "y": 10,
-      "z": -1,
-      "name": "Rock_Marble_Brick_Roof_Flat",
-      "rotation": 1
     },
     {
       "x": 0,
@@ -1765,77 +864,9 @@
     },
     {
       "x": 0,
-      "y": 1,
-      "z": 0,
-      "name": "Rock_Marble_Brick"
-    },
-    {
-      "x": 0,
-      "y": 7,
-      "z": 0,
-      "name": "Rock_Marble_Brick",
-      "rotation": 1
-    },
-    {
-      "x": 0,
-      "y": 8,
-      "z": 0,
-      "name": "Rock_Marble_Brick",
-      "rotation": 1
-    },
-    {
-      "x": 0,
-      "y": 9,
-      "z": 0,
-      "name": "Rock_Marble_Brick",
-      "rotation": 1
-    },
-    {
-      "x": 0,
-      "y": 10,
-      "z": 0,
-      "name": "Rock_Marble_Brick_Roof_Flat",
-      "rotation": 1
-    },
-    {
-      "x": 0,
       "y": 0,
       "z": 1,
       "name": "Rock_Marble_Brick"
-    },
-    {
-      "x": 0,
-      "y": 1,
-      "z": 1,
-      "name": "Rock_Marble_Brick"
-    },
-    {
-      "x": 0,
-      "y": 7,
-      "z": 1,
-      "name": "Rock_Marble_Brick",
-      "rotation": 1
-    },
-    {
-      "x": 0,
-      "y": 8,
-      "z": 1,
-      "name": "Rock_Marble_Brick",
-      "rotation": 1
-    },
-    {
-      "x": 0,
-      "y": 9,
-      "z": 1,
-      "name": "Rock_Marble_Brick",
-      "rotation": 1
-    },
-    {
-      "x": 0,
-      "y": 10,
-      "z": 1,
-      "name": "Rock_Marble_Brick_Roof_Flat",
-      "rotation": 1
     },
     {
       "x": 0,
@@ -1845,77 +876,9 @@
     },
     {
       "x": 0,
-      "y": 1,
-      "z": 2,
-      "name": "Rock_Marble_Brick"
-    },
-    {
-      "x": 0,
-      "y": 7,
-      "z": 2,
-      "name": "Rock_Marble_Brick",
-      "rotation": 1
-    },
-    {
-      "x": 0,
-      "y": 8,
-      "z": 2,
-      "name": "Rock_Marble_Brick",
-      "rotation": 1
-    },
-    {
-      "x": 0,
-      "y": 9,
-      "z": 2,
-      "name": "Rock_Marble_Brick",
-      "rotation": 1
-    },
-    {
-      "x": 0,
-      "y": 10,
-      "z": 2,
-      "name": "Rock_Marble_Brick_Roof_Flat",
-      "rotation": 1
-    },
-    {
-      "x": 0,
       "y": 0,
       "z": 3,
       "name": "Rock_Marble_Brick"
-    },
-    {
-      "x": 0,
-      "y": 1,
-      "z": 3,
-      "name": "Rock_Marble_Brick"
-    },
-    {
-      "x": 0,
-      "y": 7,
-      "z": 3,
-      "name": "Rock_Marble_Brick",
-      "rotation": 1
-    },
-    {
-      "x": 0,
-      "y": 8,
-      "z": 3,
-      "name": "Rock_Marble_Brick",
-      "rotation": 1
-    },
-    {
-      "x": 0,
-      "y": 9,
-      "z": 3,
-      "name": "Rock_Marble_Brick",
-      "rotation": 1
-    },
-    {
-      "x": 0,
-      "y": 10,
-      "z": 3,
-      "name": "Rock_Marble_Brick_Roof_Flat",
-      "rotation": 1
     },
     {
       "x": 0,
@@ -1928,34 +891,6 @@
       "y": 1,
       "z": 4,
       "name": "Rock_Marble_Brick",
-      "rotation": 1
-    },
-    {
-      "x": 0,
-      "y": 7,
-      "z": 4,
-      "name": "Rock_Marble_Brick",
-      "rotation": 1
-    },
-    {
-      "x": 0,
-      "y": 8,
-      "z": 4,
-      "name": "Rock_Marble_Brick",
-      "rotation": 1
-    },
-    {
-      "x": 0,
-      "y": 9,
-      "z": 4,
-      "name": "Rock_Marble_Brick",
-      "rotation": 1
-    },
-    {
-      "x": 0,
-      "y": 10,
-      "z": 4,
-      "name": "Rock_Marble_Brick_Roof_Flat",
       "rotation": 1
     },
     {
@@ -1972,121 +907,35 @@
       "rotation": 1
     },
     {
-      "x": 0,
-      "y": 7,
-      "z": 5,
-      "name": "Rock_Marble_Brick",
-      "rotation": 1
+      "x": 1,
+      "y": 0,
+      "z": -5,
+      "name": "Rock_Marble_Brick"
     },
     {
-      "x": 0,
-      "y": 9,
-      "z": 5,
+      "x": 1,
+      "y": 1,
+      "z": -5,
+      "name": "Rock_Marble_Brick"
+    },
+    {
+      "x": 1,
+      "y": 0,
+      "z": -4,
+      "name": "Rock_Marble_Brick"
+    },
+    {
+      "x": 1,
+      "y": 1,
+      "z": -4,
+      "name": "Rock_Marble_Brick"
+    },
+    {
+      "x": 1,
+      "y": 7,
+      "z": -4,
       "name": "Rock_Marble_Brick_Smooth_Half",
-      "rotation": 9
-    },
-    {
-      "x": 0,
-      "y": 10,
-      "z": 5,
-      "name": "Rock_Marble_Brick_Roof_Flat",
-      "rotation": 1
-    },
-    {
-      "x": 1,
-      "y": 0,
-      "z": -5,
-      "name": "Rock_Marble_Brick"
-    },
-    {
-      "x": 1,
-      "y": 1,
-      "z": -5,
-      "name": "Rock_Marble_Brick"
-    },
-    {
-      "x": 1,
-      "y": 7,
-      "z": -5,
-      "name": "Rock_Marble_Brick",
-      "rotation": 1
-    },
-    {
-      "x": 1,
-      "y": 9,
-      "z": -5,
-      "name": "Rock_Marble_Brick_Roof_Shallow",
-      "filler": 31,
-      "rotation": 1
-    },
-    {
-      "x": 1,
-      "y": 0,
-      "z": -4,
-      "name": "Rock_Marble_Brick"
-    },
-    {
-      "x": 1,
-      "y": 1,
-      "z": -4,
-      "name": "Rock_Marble_Brick"
-    },
-    {
-      "x": 1,
-      "y": 2,
-      "z": -4,
-      "name": "Rock_Marble_Brick_Pillar_Base",
-      "rotation": 1
-    },
-    {
-      "x": 1,
-      "y": 3,
-      "z": -4,
-      "name": "Rock_Marble_Brick_Pillar_Middle",
-      "rotation": 1
-    },
-    {
-      "x": 1,
-      "y": 4,
-      "z": -4,
-      "name": "Rock_Marble_Brick_Pillar_Middle",
-      "rotation": 1
-    },
-    {
-      "x": 1,
-      "y": 5,
-      "z": -4,
-      "name": "Rock_Marble_Brick_Pillar_Middle",
-      "rotation": 1
-    },
-    {
-      "x": 1,
-      "y": 6,
-      "z": -4,
-      "name": "Rock_Marble_Brick_Pillar_Base",
-      "rotation": 9
-    },
-    {
-      "x": 1,
-      "y": 7,
-      "z": -4,
-      "name": "Rock_Marble_Brick",
-      "rotation": 1
-    },
-    {
-      "x": 1,
-      "y": 8,
-      "z": -4,
-      "name": "Rock_Marble_Brick",
-      "rotation": 1
-    },
-    {
-      "x": 1,
-      "y": 9,
-      "z": -4,
-      "name": "Rock_Marble_Brick_Roof_Shallow",
-      "filler": 31,
-      "rotation": 1
+      "rotation": 7
     },
     {
       "x": 1,
@@ -2096,65 +945,9 @@
     },
     {
       "x": 1,
-      "y": 1,
-      "z": -3,
-      "name": "Rock_Marble_Brick"
-    },
-    {
-      "x": 1,
-      "y": 7,
-      "z": -3,
-      "name": "Rock_Marble_Brick",
-      "rotation": 1
-    },
-    {
-      "x": 1,
-      "y": 8,
-      "z": -3,
-      "name": "Rock_Marble_Brick",
-      "rotation": 1
-    },
-    {
-      "x": 1,
-      "y": 9,
-      "z": -3,
-      "name": "Rock_Marble_Brick_Roof_Shallow",
-      "filler": 31,
-      "rotation": 1
-    },
-    {
-      "x": 1,
       "y": 0,
       "z": -2,
       "name": "Rock_Marble_Brick"
-    },
-    {
-      "x": 1,
-      "y": 1,
-      "z": -2,
-      "name": "Rock_Marble_Brick"
-    },
-    {
-      "x": 1,
-      "y": 7,
-      "z": -2,
-      "name": "Rock_Marble_Brick",
-      "rotation": 1
-    },
-    {
-      "x": 1,
-      "y": 8,
-      "z": -2,
-      "name": "Rock_Marble_Brick",
-      "rotation": 1
-    },
-    {
-      "x": 1,
-      "y": 9,
-      "z": -2,
-      "name": "Rock_Marble_Brick_Roof_Shallow",
-      "filler": 31,
-      "rotation": 1
     },
     {
       "x": 1,
@@ -2164,65 +957,9 @@
     },
     {
       "x": 1,
-      "y": 1,
-      "z": -1,
-      "name": "Rock_Marble_Brick"
-    },
-    {
-      "x": 1,
-      "y": 7,
-      "z": -1,
-      "name": "Rock_Marble_Brick",
-      "rotation": 1
-    },
-    {
-      "x": 1,
-      "y": 8,
-      "z": -1,
-      "name": "Rock_Marble_Brick",
-      "rotation": 1
-    },
-    {
-      "x": 1,
-      "y": 9,
-      "z": -1,
-      "name": "Rock_Marble_Brick_Roof_Shallow",
-      "filler": 31,
-      "rotation": 1
-    },
-    {
-      "x": 1,
       "y": 0,
       "z": 0,
       "name": "Rock_Marble_Brick"
-    },
-    {
-      "x": 1,
-      "y": 1,
-      "z": 0,
-      "name": "Rock_Marble_Brick"
-    },
-    {
-      "x": 1,
-      "y": 7,
-      "z": 0,
-      "name": "Rock_Marble_Brick",
-      "rotation": 1
-    },
-    {
-      "x": 1,
-      "y": 8,
-      "z": 0,
-      "name": "Rock_Marble_Brick",
-      "rotation": 1
-    },
-    {
-      "x": 1,
-      "y": 9,
-      "z": 0,
-      "name": "Rock_Marble_Brick_Roof_Shallow",
-      "filler": 31,
-      "rotation": 1
     },
     {
       "x": 1,
@@ -2232,99 +969,15 @@
     },
     {
       "x": 1,
-      "y": 1,
-      "z": 1,
-      "name": "Rock_Marble_Brick"
-    },
-    {
-      "x": 1,
-      "y": 7,
-      "z": 1,
-      "name": "Rock_Marble_Brick",
-      "rotation": 1
-    },
-    {
-      "x": 1,
-      "y": 8,
-      "z": 1,
-      "name": "Rock_Marble_Brick",
-      "rotation": 1
-    },
-    {
-      "x": 1,
-      "y": 9,
-      "z": 1,
-      "name": "Rock_Marble_Brick_Roof_Shallow",
-      "filler": 31,
-      "rotation": 1
-    },
-    {
-      "x": 1,
       "y": 0,
       "z": 2,
       "name": "Rock_Marble_Brick"
     },
     {
       "x": 1,
-      "y": 1,
-      "z": 2,
-      "name": "Rock_Marble_Brick"
-    },
-    {
-      "x": 1,
-      "y": 7,
-      "z": 2,
-      "name": "Rock_Marble_Brick",
-      "rotation": 1
-    },
-    {
-      "x": 1,
-      "y": 8,
-      "z": 2,
-      "name": "Rock_Marble_Brick",
-      "rotation": 1
-    },
-    {
-      "x": 1,
-      "y": 9,
-      "z": 2,
-      "name": "Rock_Marble_Brick_Roof_Shallow",
-      "filler": 31,
-      "rotation": 1
-    },
-    {
-      "x": 1,
       "y": 0,
       "z": 3,
       "name": "Rock_Marble_Brick"
-    },
-    {
-      "x": 1,
-      "y": 1,
-      "z": 3,
-      "name": "Rock_Marble_Brick"
-    },
-    {
-      "x": 1,
-      "y": 7,
-      "z": 3,
-      "name": "Rock_Marble_Brick",
-      "rotation": 1
-    },
-    {
-      "x": 1,
-      "y": 8,
-      "z": 3,
-      "name": "Rock_Marble_Brick",
-      "rotation": 1
-    },
-    {
-      "x": 1,
-      "y": 9,
-      "z": 3,
-      "name": "Rock_Marble_Brick_Roof_Shallow",
-      "filler": 31,
-      "rotation": 1
     },
     {
       "x": 1,
@@ -2341,121 +994,35 @@
     },
     {
       "x": 1,
-      "y": 2,
-      "z": 4,
-      "name": "Rock_Marble_Brick_Pillar_Base",
-      "rotation": 1
-    },
-    {
-      "x": 1,
-      "y": 3,
-      "z": 4,
-      "name": "Rock_Marble_Brick_Pillar_Middle",
-      "rotation": 1
-    },
-    {
-      "x": 1,
-      "y": 4,
-      "z": 4,
-      "name": "Rock_Marble_Brick_Pillar_Middle",
-      "rotation": 1
-    },
-    {
-      "x": 1,
-      "y": 5,
-      "z": 4,
-      "name": "Rock_Marble_Brick_Pillar_Middle",
-      "rotation": 1
-    },
-    {
-      "x": 1,
-      "y": 6,
-      "z": 4,
-      "name": "Rock_Marble_Brick_Pillar_Base",
-      "rotation": 9
-    },
-    {
-      "x": 1,
       "y": 7,
       "z": 4,
-      "name": "Rock_Marble_Brick",
-      "rotation": 1
-    },
-    {
-      "x": 1,
-      "y": 8,
-      "z": 4,
-      "name": "Rock_Marble_Brick",
-      "rotation": 1
-    },
-    {
-      "x": 1,
-      "y": 9,
-      "z": 4,
-      "name": "Rock_Marble_Brick_Roof_Shallow",
-      "filler": 31,
-      "rotation": 1
-    },
-    {
-      "x": 1,
-      "y": 0,
-      "z": 5,
-      "name": "Rock_Marble_Brick"
-    },
-    {
-      "x": 1,
-      "y": 1,
-      "z": 5,
-      "name": "Rock_Marble_Brick",
-      "rotation": 1
-    },
-    {
-      "x": 1,
-      "y": 7,
-      "z": 5,
-      "name": "Rock_Marble_Brick",
-      "rotation": 1
-    },
-    {
-      "x": 1,
-      "y": 9,
-      "z": 5,
-      "name": "Rock_Marble_Brick_Roof_Shallow",
-      "filler": 31,
-      "rotation": 1
-    },
-    {
-      "x": 2,
-      "y": 0,
-      "z": -5,
-      "name": "Rock_Marble_Brick"
-    },
-    {
-      "x": 2,
-      "y": 1,
-      "z": -5,
-      "name": "Rock_Marble_Brick"
-    },
-    {
-      "x": 2,
-      "y": 7,
-      "z": -5,
-      "name": "Rock_Marble_Brick",
-      "rotation": 1
-    },
-    {
-      "x": 2,
-      "y": 8,
-      "z": -5,
       "name": "Rock_Marble_Brick_Smooth_Half",
-      "rotation": 9
+      "rotation": 7
+    },
+    {
+      "x": 1,
+      "y": 0,
+      "z": 5,
+      "name": "Rock_Marble_Brick"
+    },
+    {
+      "x": 1,
+      "y": 1,
+      "z": 5,
+      "name": "Rock_Marble_Brick",
+      "rotation": 1
     },
     {
       "x": 2,
-      "y": 9,
+      "y": 0,
       "z": -5,
-      "name": "Rock_Marble_Brick_Roof_Shallow",
-      "rotation": 1
+      "name": "Rock_Marble_Brick"
+    },
+    {
+      "x": 2,
+      "y": 1,
+      "z": -5,
+      "name": "Rock_Marble_Brick"
     },
     {
       "x": 2,
@@ -2471,24 +1038,40 @@
     },
     {
       "x": 2,
+      "y": 2,
+      "z": -4,
+      "name": "Rock_Marble_Brick_Pillar_Base"
+    },
+    {
+      "x": 2,
+      "y": 3,
+      "z": -4,
+      "name": "Rock_Marble_Brick_Pillar_Middle"
+    },
+    {
+      "x": 2,
+      "y": 4,
+      "z": -4,
+      "name": "Rock_Marble_Brick_Pillar_Middle"
+    },
+    {
+      "x": 2,
+      "y": 5,
+      "z": -4,
+      "name": "Rock_Marble_Brick_Pillar_Middle"
+    },
+    {
+      "x": 2,
+      "y": 6,
+      "z": -4,
+      "name": "Rock_Marble_Brick_Pillar_Base",
+      "rotation": 8
+    },
+    {
+      "x": 2,
       "y": 7,
       "z": -4,
-      "name": "Rock_Marble_Brick",
-      "rotation": 1
-    },
-    {
-      "x": 2,
-      "y": 8,
-      "z": -4,
-      "name": "Rock_Marble_Brick",
-      "rotation": 1
-    },
-    {
-      "x": 2,
-      "y": 9,
-      "z": -4,
-      "name": "Rock_Marble_Brick_Roof_Shallow",
-      "rotation": 1
+      "name": "Rock_Marble_Brick"
     },
     {
       "x": 2,
@@ -2498,63 +1081,9 @@
     },
     {
       "x": 2,
-      "y": 1,
-      "z": -3,
-      "name": "Rock_Marble_Brick"
-    },
-    {
-      "x": 2,
-      "y": 7,
-      "z": -3,
-      "name": "Rock_Marble_Brick",
-      "rotation": 1
-    },
-    {
-      "x": 2,
-      "y": 8,
-      "z": -3,
-      "name": "Rock_Marble_Brick",
-      "rotation": 1
-    },
-    {
-      "x": 2,
-      "y": 9,
-      "z": -3,
-      "name": "Rock_Marble_Brick_Roof_Shallow",
-      "rotation": 1
-    },
-    {
-      "x": 2,
       "y": 0,
       "z": -2,
       "name": "Rock_Marble_Brick"
-    },
-    {
-      "x": 2,
-      "y": 1,
-      "z": -2,
-      "name": "Rock_Marble_Brick"
-    },
-    {
-      "x": 2,
-      "y": 7,
-      "z": -2,
-      "name": "Rock_Marble_Brick",
-      "rotation": 1
-    },
-    {
-      "x": 2,
-      "y": 8,
-      "z": -2,
-      "name": "Rock_Marble_Brick",
-      "rotation": 1
-    },
-    {
-      "x": 2,
-      "y": 9,
-      "z": -2,
-      "name": "Rock_Marble_Brick_Roof_Shallow",
-      "rotation": 1
     },
     {
       "x": 2,
@@ -2564,63 +1093,9 @@
     },
     {
       "x": 2,
-      "y": 1,
-      "z": -1,
-      "name": "Rock_Marble_Brick"
-    },
-    {
-      "x": 2,
-      "y": 7,
-      "z": -1,
-      "name": "Rock_Marble_Brick",
-      "rotation": 1
-    },
-    {
-      "x": 2,
-      "y": 8,
-      "z": -1,
-      "name": "Rock_Marble_Brick",
-      "rotation": 1
-    },
-    {
-      "x": 2,
-      "y": 9,
-      "z": -1,
-      "name": "Rock_Marble_Brick_Roof_Shallow",
-      "rotation": 1
-    },
-    {
-      "x": 2,
       "y": 0,
       "z": 0,
       "name": "Rock_Marble_Brick"
-    },
-    {
-      "x": 2,
-      "y": 1,
-      "z": 0,
-      "name": "Rock_Marble_Brick"
-    },
-    {
-      "x": 2,
-      "y": 7,
-      "z": 0,
-      "name": "Rock_Marble_Brick",
-      "rotation": 1
-    },
-    {
-      "x": 2,
-      "y": 8,
-      "z": 0,
-      "name": "Rock_Marble_Brick",
-      "rotation": 1
-    },
-    {
-      "x": 2,
-      "y": 9,
-      "z": 0,
-      "name": "Rock_Marble_Brick_Roof_Shallow",
-      "rotation": 1
     },
     {
       "x": 2,
@@ -2630,96 +1105,15 @@
     },
     {
       "x": 2,
-      "y": 1,
-      "z": 1,
-      "name": "Rock_Marble_Brick"
-    },
-    {
-      "x": 2,
-      "y": 7,
-      "z": 1,
-      "name": "Rock_Marble_Brick",
-      "rotation": 1
-    },
-    {
-      "x": 2,
-      "y": 8,
-      "z": 1,
-      "name": "Rock_Marble_Brick",
-      "rotation": 1
-    },
-    {
-      "x": 2,
-      "y": 9,
-      "z": 1,
-      "name": "Rock_Marble_Brick_Roof_Shallow",
-      "rotation": 1
-    },
-    {
-      "x": 2,
       "y": 0,
       "z": 2,
       "name": "Rock_Marble_Brick"
     },
     {
       "x": 2,
-      "y": 1,
-      "z": 2,
-      "name": "Rock_Marble_Brick"
-    },
-    {
-      "x": 2,
-      "y": 7,
-      "z": 2,
-      "name": "Rock_Marble_Brick",
-      "rotation": 1
-    },
-    {
-      "x": 2,
-      "y": 8,
-      "z": 2,
-      "name": "Rock_Marble_Brick",
-      "rotation": 1
-    },
-    {
-      "x": 2,
-      "y": 9,
-      "z": 2,
-      "name": "Rock_Marble_Brick_Roof_Shallow",
-      "rotation": 1
-    },
-    {
-      "x": 2,
       "y": 0,
       "z": 3,
       "name": "Rock_Marble_Brick"
-    },
-    {
-      "x": 2,
-      "y": 1,
-      "z": 3,
-      "name": "Rock_Marble_Brick"
-    },
-    {
-      "x": 2,
-      "y": 7,
-      "z": 3,
-      "name": "Rock_Marble_Brick",
-      "rotation": 1
-    },
-    {
-      "x": 2,
-      "y": 8,
-      "z": 3,
-      "name": "Rock_Marble_Brick",
-      "rotation": 1
-    },
-    {
-      "x": 2,
-      "y": 9,
-      "z": 3,
-      "name": "Rock_Marble_Brick_Roof_Shallow",
-      "rotation": 1
     },
     {
       "x": 2,
@@ -2736,24 +1130,40 @@
     },
     {
       "x": 2,
+      "y": 2,
+      "z": 4,
+      "name": "Rock_Marble_Brick_Pillar_Base"
+    },
+    {
+      "x": 2,
+      "y": 3,
+      "z": 4,
+      "name": "Rock_Marble_Brick_Pillar_Middle"
+    },
+    {
+      "x": 2,
+      "y": 4,
+      "z": 4,
+      "name": "Rock_Marble_Brick_Pillar_Middle"
+    },
+    {
+      "x": 2,
+      "y": 5,
+      "z": 4,
+      "name": "Rock_Marble_Brick_Pillar_Middle"
+    },
+    {
+      "x": 2,
+      "y": 6,
+      "z": 4,
+      "name": "Rock_Marble_Brick_Pillar_Base",
+      "rotation": 8
+    },
+    {
+      "x": 2,
       "y": 7,
       "z": 4,
-      "name": "Rock_Marble_Brick",
-      "rotation": 1
-    },
-    {
-      "x": 2,
-      "y": 8,
-      "z": 4,
-      "name": "Rock_Marble_Brick",
-      "rotation": 1
-    },
-    {
-      "x": 2,
-      "y": 9,
-      "z": 4,
-      "name": "Rock_Marble_Brick_Roof_Shallow",
-      "rotation": 1
+      "name": "Rock_Marble_Brick"
     },
     {
       "x": 2,
@@ -2769,760 +1179,403 @@
       "rotation": 1
     },
     {
-      "x": 2,
+      "x": 3,
+      "y": 0,
+      "z": -5,
+      "name": "Rock_Marble_Brick"
+    },
+    {
+      "x": 3,
+      "y": 1,
+      "z": -5,
+      "name": "Rock_Marble_Brick"
+    },
+    {
+      "x": 3,
+      "y": 0,
+      "z": -4,
+      "name": "Rock_Marble_Brick"
+    },
+    {
+      "x": 3,
+      "y": 1,
+      "z": -4,
+      "name": "Rock_Marble_Brick"
+    },
+    {
+      "x": 3,
       "y": 7,
+      "z": -4,
+      "name": "Rock_Marble_Brick"
+    },
+    {
+      "x": 3,
+      "y": 0,
+      "z": -3,
+      "name": "Rock_Marble_Brick"
+    },
+    {
+      "x": 3,
+      "y": 0,
+      "z": -2,
+      "name": "Rock_Marble_Brick"
+    },
+    {
+      "x": 3,
+      "y": 0,
+      "z": -1,
+      "name": "Rock_Marble_Brick"
+    },
+    {
+      "x": 3,
+      "y": 0,
+      "z": 0,
+      "name": "Rock_Marble_Brick"
+    },
+    {
+      "x": 3,
+      "y": 0,
+      "z": 1,
+      "name": "Rock_Marble_Brick"
+    },
+    {
+      "x": 3,
+      "y": 0,
+      "z": 2,
+      "name": "Rock_Marble_Brick"
+    },
+    {
+      "x": 3,
+      "y": 0,
+      "z": 3,
+      "name": "Rock_Marble_Brick"
+    },
+    {
+      "x": 3,
+      "y": 0,
+      "z": 4,
+      "name": "Rock_Marble_Brick"
+    },
+    {
+      "x": 3,
+      "y": 1,
+      "z": 4,
+      "name": "Rock_Marble_Brick",
+      "rotation": 1
+    },
+    {
+      "x": 3,
+      "y": 7,
+      "z": 4,
+      "name": "Rock_Marble_Brick"
+    },
+    {
+      "x": 3,
+      "y": 0,
+      "z": 5,
+      "name": "Rock_Marble_Brick"
+    },
+    {
+      "x": 3,
+      "y": 1,
       "z": 5,
       "name": "Rock_Marble_Brick",
       "rotation": 1
     },
     {
-      "x": 2,
-      "y": 8,
-      "z": 5,
+      "x": 4,
+      "y": 0,
+      "z": -5,
+      "name": "Rock_Marble_Brick"
+    },
+    {
+      "x": 4,
+      "y": 1,
+      "z": -5,
+      "name": "Rock_Marble_Brick"
+    },
+    {
+      "x": 4,
+      "y": 0,
+      "z": -4,
+      "name": "Rock_Marble_Brick"
+    },
+    {
+      "x": 4,
+      "y": 1,
+      "z": -4,
+      "name": "Rock_Marble_Brick"
+    },
+    {
+      "x": 4,
+      "y": 2,
+      "z": -4,
+      "name": "Rock_Marble_Brick_Pillar_Base"
+    },
+    {
+      "x": 4,
+      "y": 3,
+      "z": -4,
+      "name": "Rock_Marble_Brick_Pillar_Middle"
+    },
+    {
+      "x": 4,
+      "y": 4,
+      "z": -4,
+      "name": "Rock_Marble_Brick_Pillar_Middle"
+    },
+    {
+      "x": 4,
+      "y": 5,
+      "z": -4,
+      "name": "Rock_Marble_Brick_Pillar_Middle"
+    },
+    {
+      "x": 4,
+      "y": 6,
+      "z": -4,
+      "name": "Rock_Marble_Brick_Pillar_Base",
+      "rotation": 8
+    },
+    {
+      "x": 4,
+      "y": 7,
+      "z": -4,
+      "name": "Rock_Marble_Brick"
+    },
+    {
+      "x": 4,
+      "y": 0,
+      "z": -3,
+      "name": "Rock_Marble_Brick"
+    },
+    {
+      "x": 4,
+      "y": 1,
+      "z": -3,
+      "name": "Rock_Marble_Brick"
+    },
+    {
+      "x": 4,
+      "y": 7,
+      "z": -3,
+      "name": "Rock_Marble_Brick"
+    },
+    {
+      "x": 4,
+      "y": 0,
+      "z": -2,
+      "name": "Rock_Marble_Brick"
+    },
+    {
+      "x": 4,
+      "y": 1,
+      "z": -2,
+      "name": "Rock_Marble_Brick"
+    },
+    {
+      "x": 4,
+      "y": 2,
+      "z": -2,
+      "name": "Rock_Marble_Brick_Pillar_Base"
+    },
+    {
+      "x": 4,
+      "y": 3,
+      "z": -2,
+      "name": "Rock_Marble_Brick_Pillar_Middle"
+    },
+    {
+      "x": 4,
+      "y": 4,
+      "z": -2,
+      "name": "Rock_Marble_Brick_Pillar_Middle"
+    },
+    {
+      "x": 4,
+      "y": 5,
+      "z": -2,
+      "name": "Rock_Marble_Brick_Pillar_Middle"
+    },
+    {
+      "x": 4,
+      "y": 6,
+      "z": -2,
+      "name": "Rock_Marble_Brick_Pillar_Base",
+      "rotation": 8
+    },
+    {
+      "x": 4,
+      "y": 7,
+      "z": -2,
+      "name": "Rock_Marble_Brick"
+    },
+    {
+      "x": 4,
+      "y": 0,
+      "z": -1,
+      "name": "Rock_Marble_Brick"
+    },
+    {
+      "x": 4,
+      "y": 1,
+      "z": -1,
+      "name": "Rock_Marble_Brick"
+    },
+    {
+      "x": 4,
+      "y": 7,
+      "z": -1,
       "name": "Rock_Marble_Brick_Smooth_Half",
-      "rotation": 9
+      "rotation": 4
     },
     {
-      "x": 2,
-      "y": 9,
-      "z": 5,
-      "name": "Rock_Marble_Brick_Roof_Shallow",
-      "rotation": 1
-    },
-    {
-      "x": 3,
-      "y": 0,
-      "z": -5,
-      "name": "Rock_Marble_Brick"
-    },
-    {
-      "x": 3,
-      "y": 1,
-      "z": -5,
-      "name": "Rock_Marble_Brick"
-    },
-    {
-      "x": 3,
-      "y": 7,
-      "z": -5,
-      "name": "Rock_Marble_Brick",
-      "rotation": 1
-    },
-    {
-      "x": 3,
-      "y": 8,
-      "z": -5,
-      "name": "Rock_Marble_Brick_Roof_Shallow",
-      "filler": 31,
-      "rotation": 1
-    },
-    {
-      "x": 3,
-      "y": 0,
-      "z": -4,
-      "name": "Rock_Marble_Brick"
-    },
-    {
-      "x": 3,
-      "y": 1,
-      "z": -4,
-      "name": "Rock_Marble_Brick"
-    },
-    {
-      "x": 3,
-      "y": 2,
-      "z": -4,
-      "name": "Rock_Marble_Brick_Pillar_Base",
-      "rotation": 1
-    },
-    {
-      "x": 3,
-      "y": 3,
-      "z": -4,
-      "name": "Rock_Marble_Brick_Pillar_Middle",
-      "rotation": 1
-    },
-    {
-      "x": 3,
-      "y": 4,
-      "z": -4,
-      "name": "Rock_Marble_Brick_Pillar_Middle",
-      "rotation": 1
-    },
-    {
-      "x": 3,
-      "y": 5,
-      "z": -4,
-      "name": "Rock_Marble_Brick_Pillar_Middle",
-      "rotation": 1
-    },
-    {
-      "x": 3,
-      "y": 6,
-      "z": -4,
-      "name": "Rock_Marble_Brick_Pillar_Base",
-      "rotation": 9
-    },
-    {
-      "x": 3,
-      "y": 7,
-      "z": -4,
-      "name": "Rock_Marble_Brick",
-      "rotation": 1
-    },
-    {
-      "x": 3,
-      "y": 8,
-      "z": -4,
-      "name": "Rock_Marble_Brick_Roof_Shallow",
-      "filler": 31,
-      "rotation": 1
-    },
-    {
-      "x": 3,
-      "y": 0,
-      "z": -3,
-      "name": "Rock_Marble_Brick"
-    },
-    {
-      "x": 3,
-      "y": 1,
-      "z": -3,
-      "name": "Rock_Marble_Brick"
-    },
-    {
-      "x": 3,
-      "y": 7,
-      "z": -3,
-      "name": "Rock_Marble_Brick",
-      "rotation": 1
-    },
-    {
-      "x": 3,
-      "y": 8,
-      "z": -3,
-      "name": "Rock_Marble_Brick_Roof_Shallow",
-      "filler": 31,
-      "rotation": 1
-    },
-    {
-      "x": 3,
-      "y": 0,
-      "z": -2,
-      "name": "Rock_Marble_Brick"
-    },
-    {
-      "x": 3,
-      "y": 1,
-      "z": -2,
-      "name": "Rock_Marble_Brick"
-    },
-    {
-      "x": 3,
-      "y": 2,
-      "z": -2,
-      "name": "Rock_Marble_Brick_Pillar_Base",
-      "rotation": 1
-    },
-    {
-      "x": 3,
-      "y": 3,
-      "z": -2,
-      "name": "Rock_Marble_Brick_Pillar_Middle",
-      "rotation": 1
-    },
-    {
-      "x": 3,
-      "y": 4,
-      "z": -2,
-      "name": "Rock_Marble_Brick_Pillar_Middle",
-      "rotation": 1
-    },
-    {
-      "x": 3,
-      "y": 5,
-      "z": -2,
-      "name": "Rock_Marble_Brick_Pillar_Middle",
-      "rotation": 1
-    },
-    {
-      "x": 3,
-      "y": 6,
-      "z": -2,
-      "name": "Rock_Marble_Brick_Pillar_Base",
-      "rotation": 9
-    },
-    {
-      "x": 3,
-      "y": 7,
-      "z": -2,
-      "name": "Rock_Marble_Brick",
-      "rotation": 1
-    },
-    {
-      "x": 3,
-      "y": 8,
-      "z": -2,
-      "name": "Rock_Marble_Brick_Roof_Shallow",
-      "filler": 31,
-      "rotation": 1
-    },
-    {
-      "x": 3,
-      "y": 0,
-      "z": -1,
-      "name": "Rock_Marble_Brick"
-    },
-    {
-      "x": 3,
-      "y": 1,
-      "z": -1,
-      "name": "Rock_Marble_Brick"
-    },
-    {
-      "x": 3,
-      "y": 7,
-      "z": -1,
-      "name": "Rock_Marble_Brick",
-      "rotation": 1
-    },
-    {
-      "x": 3,
-      "y": 8,
-      "z": -1,
-      "name": "Rock_Marble_Brick_Roof_Shallow",
-      "filler": 31,
-      "rotation": 1
-    },
-    {
-      "x": 3,
+      "x": 4,
       "y": 0,
       "z": 0,
       "name": "Rock_Marble_Brick"
     },
     {
-      "x": 3,
+      "x": 4,
       "y": 1,
       "z": 0,
       "name": "Rock_Marble_Brick"
     },
     {
-      "x": 3,
-      "y": 2,
-      "z": 0,
-      "name": "Rock_Marble_Brick_Pillar_Base",
-      "rotation": 1
-    },
-    {
-      "x": 3,
-      "y": 3,
-      "z": 0,
-      "name": "Rock_Marble_Brick_Pillar_Middle",
-      "rotation": 1
-    },
-    {
-      "x": 3,
-      "y": 4,
-      "z": 0,
-      "name": "Rock_Marble_Brick_Pillar_Middle",
-      "rotation": 1
-    },
-    {
-      "x": 3,
-      "y": 5,
-      "z": 0,
-      "name": "Rock_Marble_Brick_Pillar_Middle",
-      "rotation": 1
-    },
-    {
-      "x": 3,
-      "y": 6,
-      "z": 0,
-      "name": "Rock_Marble_Brick_Pillar_Base",
-      "rotation": 9
-    },
-    {
-      "x": 3,
-      "y": 7,
-      "z": 0,
-      "name": "Rock_Marble_Brick",
-      "rotation": 1
-    },
-    {
-      "x": 3,
-      "y": 8,
-      "z": 0,
-      "name": "Rock_Marble_Brick_Roof_Shallow",
-      "filler": 31,
-      "rotation": 1
-    },
-    {
-      "x": 3,
+      "x": 4,
       "y": 0,
       "z": 1,
       "name": "Rock_Marble_Brick"
     },
     {
-      "x": 3,
+      "x": 4,
       "y": 1,
       "z": 1,
       "name": "Rock_Marble_Brick"
     },
     {
-      "x": 3,
+      "x": 4,
       "y": 7,
       "z": 1,
-      "name": "Rock_Marble_Brick",
-      "rotation": 1
+      "name": "Rock_Marble_Brick_Smooth_Half",
+      "rotation": 6
     },
     {
-      "x": 3,
-      "y": 8,
-      "z": 1,
-      "name": "Rock_Marble_Brick_Roof_Shallow",
-      "filler": 31,
-      "rotation": 1
-    },
-    {
-      "x": 3,
+      "x": 4,
       "y": 0,
       "z": 2,
       "name": "Rock_Marble_Brick"
     },
     {
-      "x": 3,
+      "x": 4,
       "y": 1,
       "z": 2,
       "name": "Rock_Marble_Brick"
     },
     {
-      "x": 3,
+      "x": 4,
       "y": 2,
       "z": 2,
-      "name": "Rock_Marble_Brick_Pillar_Base",
-      "rotation": 1
+      "name": "Rock_Marble_Brick_Pillar_Base"
     },
     {
-      "x": 3,
+      "x": 4,
       "y": 3,
       "z": 2,
-      "name": "Rock_Marble_Brick_Pillar_Middle",
-      "rotation": 1
+      "name": "Rock_Marble_Brick_Pillar_Middle"
     },
     {
-      "x": 3,
+      "x": 4,
       "y": 4,
       "z": 2,
-      "name": "Rock_Marble_Brick_Pillar_Middle",
-      "rotation": 1
+      "name": "Rock_Marble_Brick_Pillar_Middle"
     },
     {
-      "x": 3,
+      "x": 4,
       "y": 5,
       "z": 2,
-      "name": "Rock_Marble_Brick_Pillar_Middle",
-      "rotation": 1
+      "name": "Rock_Marble_Brick_Pillar_Middle"
     },
     {
-      "x": 3,
+      "x": 4,
       "y": 6,
       "z": 2,
       "name": "Rock_Marble_Brick_Pillar_Base",
-      "rotation": 9
+      "rotation": 8
     },
     {
-      "x": 3,
+      "x": 4,
       "y": 7,
       "z": 2,
-      "name": "Rock_Marble_Brick",
-      "rotation": 1
+      "name": "Rock_Marble_Brick"
     },
     {
-      "x": 3,
-      "y": 8,
-      "z": 2,
-      "name": "Rock_Marble_Brick_Roof_Shallow",
-      "filler": 31,
-      "rotation": 1
-    },
-    {
-      "x": 3,
+      "x": 4,
       "y": 0,
       "z": 3,
       "name": "Rock_Marble_Brick"
     },
     {
-      "x": 3,
+      "x": 4,
       "y": 1,
       "z": 3,
       "name": "Rock_Marble_Brick"
     },
     {
-      "x": 3,
+      "x": 4,
       "y": 7,
       "z": 3,
-      "name": "Rock_Marble_Brick",
-      "rotation": 1
+      "name": "Rock_Marble_Brick"
     },
     {
-      "x": 3,
-      "y": 8,
-      "z": 3,
-      "name": "Rock_Marble_Brick_Roof_Shallow",
-      "filler": 31,
-      "rotation": 1
-    },
-    {
-      "x": 3,
+      "x": 4,
       "y": 0,
       "z": 4,
       "name": "Rock_Marble_Brick"
     },
     {
-      "x": 3,
+      "x": 4,
       "y": 1,
       "z": 4,
       "name": "Rock_Marble_Brick",
       "rotation": 1
     },
     {
-      "x": 3,
+      "x": 4,
       "y": 2,
       "z": 4,
-      "name": "Rock_Marble_Brick_Pillar_Base",
-      "rotation": 1
+      "name": "Rock_Marble_Brick_Pillar_Base"
     },
     {
-      "x": 3,
+      "x": 4,
       "y": 3,
       "z": 4,
-      "name": "Rock_Marble_Brick_Pillar_Middle",
-      "rotation": 1
+      "name": "Rock_Marble_Brick_Pillar_Middle"
     },
     {
-      "x": 3,
+      "x": 4,
       "y": 4,
       "z": 4,
-      "name": "Rock_Marble_Brick_Pillar_Middle",
-      "rotation": 1
+      "name": "Rock_Marble_Brick_Pillar_Middle"
     },
     {
-      "x": 3,
+      "x": 4,
       "y": 5,
       "z": 4,
-      "name": "Rock_Marble_Brick_Pillar_Middle",
-      "rotation": 1
+      "name": "Rock_Marble_Brick_Pillar_Middle"
     },
     {
-      "x": 3,
+      "x": 4,
       "y": 6,
       "z": 4,
       "name": "Rock_Marble_Brick_Pillar_Base",
-      "rotation": 9
-    },
-    {
-      "x": 3,
-      "y": 7,
-      "z": 4,
-      "name": "Rock_Marble_Brick",
-      "rotation": 1
-    },
-    {
-      "x": 3,
-      "y": 8,
-      "z": 4,
-      "name": "Rock_Marble_Brick_Roof_Shallow",
-      "filler": 31,
-      "rotation": 1
-    },
-    {
-      "x": 3,
-      "y": 0,
-      "z": 5,
-      "name": "Rock_Marble_Brick"
-    },
-    {
-      "x": 3,
-      "y": 1,
-      "z": 5,
-      "name": "Rock_Marble_Brick",
-      "rotation": 1
-    },
-    {
-      "x": 3,
-      "y": 7,
-      "z": 5,
-      "name": "Rock_Marble_Brick",
-      "rotation": 1
-    },
-    {
-      "x": 3,
-      "y": 8,
-      "z": 5,
-      "name": "Rock_Marble_Brick_Roof_Shallow",
-      "filler": 31,
-      "rotation": 1
-    },
-    {
-      "x": 4,
-      "y": 0,
-      "z": -5,
-      "name": "Rock_Marble_Brick"
-    },
-    {
-      "x": 4,
-      "y": 1,
-      "z": -5,
-      "name": "Rock_Marble_Brick"
-    },
-    {
-      "x": 4,
-      "y": 7,
-      "z": -5,
-      "name": "Rock_Marble_Brick",
-      "rotation": 1
-    },
-    {
-      "x": 4,
-      "y": 8,
-      "z": -5,
-      "name": "Rock_Marble_Brick_Roof_Shallow",
-      "rotation": 1
-    },
-    {
-      "x": 4,
-      "y": 0,
-      "z": -4,
-      "name": "Rock_Marble_Brick"
-    },
-    {
-      "x": 4,
-      "y": 1,
-      "z": -4,
-      "name": "Rock_Marble_Brick"
-    },
-    {
-      "x": 4,
-      "y": 7,
-      "z": -4,
-      "name": "Rock_Marble_Brick",
-      "rotation": 1
-    },
-    {
-      "x": 4,
-      "y": 8,
-      "z": -4,
-      "name": "Rock_Marble_Brick_Roof_Shallow",
-      "rotation": 1
-    },
-    {
-      "x": 4,
-      "y": 0,
-      "z": -3,
-      "name": "Rock_Marble_Brick"
-    },
-    {
-      "x": 4,
-      "y": 1,
-      "z": -3,
-      "name": "Rock_Marble_Brick"
-    },
-    {
-      "x": 4,
-      "y": 7,
-      "z": -3,
-      "name": "Rock_Marble_Brick",
-      "rotation": 1
-    },
-    {
-      "x": 4,
-      "y": 8,
-      "z": -3,
-      "name": "Rock_Marble_Brick_Roof_Shallow",
-      "rotation": 1
-    },
-    {
-      "x": 4,
-      "y": 0,
-      "z": -2,
-      "name": "Rock_Marble_Brick"
-    },
-    {
-      "x": 4,
-      "y": 1,
-      "z": -2,
-      "name": "Rock_Marble_Brick"
-    },
-    {
-      "x": 4,
-      "y": 7,
-      "z": -2,
-      "name": "Rock_Marble_Brick",
-      "rotation": 1
-    },
-    {
-      "x": 4,
-      "y": 8,
-      "z": -2,
-      "name": "Rock_Marble_Brick_Roof_Shallow",
-      "rotation": 1
-    },
-    {
-      "x": 4,
-      "y": 0,
-      "z": -1,
-      "name": "Rock_Marble_Brick"
-    },
-    {
-      "x": 4,
-      "y": 1,
-      "z": -1,
-      "name": "Rock_Marble_Brick"
-    },
-    {
-      "x": 4,
-      "y": 7,
-      "z": -1,
-      "name": "Rock_Marble_Brick",
-      "rotation": 1
-    },
-    {
-      "x": 4,
-      "y": 8,
-      "z": -1,
-      "name": "Rock_Marble_Brick_Roof_Shallow",
-      "rotation": 1
-    },
-    {
-      "x": 4,
-      "y": 0,
-      "z": 0,
-      "name": "Rock_Marble_Brick"
-    },
-    {
-      "x": 4,
-      "y": 1,
-      "z": 0,
-      "name": "Rock_Marble_Brick"
-    },
-    {
-      "x": 4,
-      "y": 7,
-      "z": 0,
-      "name": "Rock_Marble_Brick",
-      "rotation": 1
-    },
-    {
-      "x": 4,
-      "y": 8,
-      "z": 0,
-      "name": "Rock_Marble_Brick_Roof_Shallow",
-      "rotation": 1
-    },
-    {
-      "x": 4,
-      "y": 0,
-      "z": 1,
-      "name": "Rock_Marble_Brick"
-    },
-    {
-      "x": 4,
-      "y": 1,
-      "z": 1,
-      "name": "Rock_Marble_Brick"
-    },
-    {
-      "x": 4,
-      "y": 7,
-      "z": 1,
-      "name": "Rock_Marble_Brick",
-      "rotation": 1
-    },
-    {
-      "x": 4,
-      "y": 8,
-      "z": 1,
-      "name": "Rock_Marble_Brick_Roof_Shallow",
-      "rotation": 1
-    },
-    {
-      "x": 4,
-      "y": 0,
-      "z": 2,
-      "name": "Rock_Marble_Brick"
-    },
-    {
-      "x": 4,
-      "y": 1,
-      "z": 2,
-      "name": "Rock_Marble_Brick"
-    },
-    {
-      "x": 4,
-      "y": 7,
-      "z": 2,
-      "name": "Rock_Marble_Brick",
-      "rotation": 1
-    },
-    {
-      "x": 4,
-      "y": 8,
-      "z": 2,
-      "name": "Rock_Marble_Brick_Roof_Shallow",
-      "rotation": 1
-    },
-    {
-      "x": 4,
-      "y": 0,
-      "z": 3,
-      "name": "Rock_Marble_Brick"
-    },
-    {
-      "x": 4,
-      "y": 1,
-      "z": 3,
-      "name": "Rock_Marble_Brick"
-    },
-    {
-      "x": 4,
-      "y": 7,
-      "z": 3,
-      "name": "Rock_Marble_Brick",
-      "rotation": 1
-    },
-    {
-      "x": 4,
-      "y": 8,
-      "z": 3,
-      "name": "Rock_Marble_Brick_Roof_Shallow",
-      "rotation": 1
-    },
-    {
-      "x": 4,
-      "y": 0,
-      "z": 4,
-      "name": "Rock_Marble_Brick"
-    },
-    {
-      "x": 4,
-      "y": 1,
-      "z": 4,
-      "name": "Rock_Marble_Brick",
-      "rotation": 1
+      "rotation": 8
     },
     {
       "x": 4,
       "y": 7,
       "z": 4,
-      "name": "Rock_Marble_Brick",
-      "rotation": 1
-    },
-    {
-      "x": 4,
-      "y": 8,
-      "z": 4,
-      "name": "Rock_Marble_Brick_Roof_Shallow",
-      "rotation": 1
+      "name": "Rock_Marble_Brick"
     },
     {
       "x": 4,
@@ -3538,3702 +1591,136 @@
       "rotation": 1
     },
     {
-      "x": 4,
-      "y": 7,
-      "z": 5,
-      "name": "Rock_Marble_Brick",
-      "rotation": 1
-    },
-    {
-      "x": 4,
-      "y": 8,
-      "z": 5,
-      "name": "Rock_Marble_Brick_Roof_Shallow",
-      "rotation": 1
-    }
-  ],
-  "fluids": [
-    {
-      "x": -4,
+      "x": 5,
       "y": 0,
       "z": -5,
-      "name": "Empty",
-      "level": 0
+      "name": "Rock_Marble_Brick"
     },
     {
-      "x": -4,
+      "x": 5,
       "y": 1,
       "z": -5,
-      "name": "Empty",
-      "level": 0
+      "name": "Rock_Marble_Brick"
     },
     {
-      "x": -4,
-      "y": 7,
-      "z": -5,
-      "name": "Empty",
-      "level": 0
-    },
-    {
-      "x": -4,
-      "y": 8,
-      "z": -5,
-      "name": "Empty",
-      "level": 0
-    },
-    {
-      "x": -4,
+      "x": 5,
       "y": 0,
       "z": -4,
-      "name": "Empty",
-      "level": 0
+      "name": "Rock_Marble_Brick"
     },
     {
-      "x": -4,
+      "x": 5,
       "y": 1,
       "z": -4,
-      "name": "Empty",
-      "level": 0
+      "name": "Rock_Marble_Brick"
     },
     {
-      "x": -4,
-      "y": 7,
-      "z": -4,
-      "name": "Empty",
-      "level": 0
-    },
-    {
-      "x": -4,
-      "y": 8,
-      "z": -4,
-      "name": "Empty",
-      "level": 0
-    },
-    {
-      "x": -4,
+      "x": 5,
       "y": 0,
       "z": -3,
-      "name": "Empty",
-      "level": 0
+      "name": "Rock_Marble_Brick"
     },
     {
-      "x": -4,
+      "x": 5,
       "y": 1,
       "z": -3,
-      "name": "Empty",
-      "level": 0
+      "name": "Rock_Marble_Brick"
     },
     {
-      "x": -4,
-      "y": 7,
-      "z": -3,
-      "name": "Empty",
-      "level": 0
-    },
-    {
-      "x": -4,
-      "y": 8,
-      "z": -3,
-      "name": "Empty",
-      "level": 0
-    },
-    {
-      "x": -4,
+      "x": 5,
       "y": 0,
       "z": -2,
-      "name": "Empty",
-      "level": 0
+      "name": "Rock_Marble_Brick"
     },
     {
-      "x": -4,
+      "x": 5,
       "y": 1,
       "z": -2,
-      "name": "Empty",
-      "level": 0
+      "name": "Rock_Marble_Brick"
     },
     {
-      "x": -4,
-      "y": 7,
-      "z": -2,
-      "name": "Empty",
-      "level": 0
-    },
-    {
-      "x": -4,
-      "y": 8,
-      "z": -2,
-      "name": "Empty",
-      "level": 0
-    },
-    {
-      "x": -4,
+      "x": 5,
       "y": 0,
       "z": -1,
-      "name": "Empty",
-      "level": 0
+      "name": "Rock_Marble_Brick"
     },
     {
-      "x": -4,
+      "x": 5,
       "y": 1,
       "z": -1,
-      "name": "Empty",
-      "level": 0
+      "name": "Rock_Marble_Brick"
     },
     {
-      "x": -4,
-      "y": 7,
-      "z": -1,
-      "name": "Empty",
-      "level": 0
-    },
-    {
-      "x": -4,
-      "y": 8,
-      "z": -1,
-      "name": "Empty",
-      "level": 0
-    },
-    {
-      "x": -4,
+      "x": 5,
       "y": 0,
       "z": 0,
-      "name": "Empty",
-      "level": 0
+      "name": "Rock_Marble_Brick"
     },
     {
-      "x": -4,
+      "x": 5,
       "y": 1,
       "z": 0,
-      "name": "Empty",
-      "level": 0
+      "name": "Rock_Marble_Brick"
     },
     {
-      "x": -4,
-      "y": 7,
-      "z": 0,
-      "name": "Empty",
-      "level": 0
-    },
-    {
-      "x": -4,
-      "y": 8,
-      "z": 0,
-      "name": "Empty",
-      "level": 0
-    },
-    {
-      "x": -4,
+      "x": 5,
       "y": 0,
       "z": 1,
-      "name": "Empty",
-      "level": 0
+      "name": "Rock_Marble_Brick"
     },
     {
-      "x": -4,
+      "x": 5,
       "y": 1,
       "z": 1,
-      "name": "Empty",
-      "level": 0
+      "name": "Rock_Marble_Brick"
     },
     {
-      "x": -4,
-      "y": 7,
-      "z": 1,
-      "name": "Empty",
-      "level": 0
-    },
-    {
-      "x": -4,
-      "y": 8,
-      "z": 1,
-      "name": "Empty",
-      "level": 0
-    },
-    {
-      "x": -4,
+      "x": 5,
       "y": 0,
       "z": 2,
-      "name": "Empty",
-      "level": 0
+      "name": "Rock_Marble_Brick"
     },
     {
-      "x": -4,
+      "x": 5,
       "y": 1,
       "z": 2,
-      "name": "Empty",
-      "level": 0
+      "name": "Rock_Marble_Brick"
     },
     {
-      "x": -4,
-      "y": 7,
-      "z": 2,
-      "name": "Empty",
-      "level": 0
-    },
-    {
-      "x": -4,
-      "y": 8,
-      "z": 2,
-      "name": "Empty",
-      "level": 0
-    },
-    {
-      "x": -4,
+      "x": 5,
       "y": 0,
       "z": 3,
-      "name": "Empty",
-      "level": 0
+      "name": "Rock_Marble_Brick"
     },
     {
-      "x": -4,
+      "x": 5,
       "y": 1,
       "z": 3,
-      "name": "Empty",
-      "level": 0
+      "name": "Rock_Marble_Brick"
     },
     {
-      "x": -4,
-      "y": 7,
-      "z": 3,
-      "name": "Empty",
-      "level": 0
-    },
-    {
-      "x": -4,
-      "y": 8,
-      "z": 3,
-      "name": "Empty",
-      "level": 0
-    },
-    {
-      "x": -4,
+      "x": 5,
       "y": 0,
       "z": 4,
-      "name": "Empty",
-      "level": 0
+      "name": "Rock_Marble_Brick"
     },
     {
-      "x": -4,
+      "x": 5,
       "y": 1,
       "z": 4,
-      "name": "Empty",
-      "level": 0
+      "name": "Rock_Marble_Brick"
     },
     {
-      "x": -4,
-      "y": 7,
-      "z": 4,
-      "name": "Empty",
-      "level": 0
-    },
-    {
-      "x": -4,
-      "y": 8,
-      "z": 4,
-      "name": "Empty",
-      "level": 0
-    },
-    {
-      "x": -4,
+      "x": 5,
       "y": 0,
       "z": 5,
-      "name": "Empty",
-      "level": 0
+      "name": "Rock_Marble_Brick"
     },
     {
-      "x": -4,
+      "x": 5,
       "y": 1,
       "z": 5,
-      "name": "Empty",
-      "level": 0
-    },
-    {
-      "x": -4,
-      "y": 7,
-      "z": 5,
-      "name": "Empty",
-      "level": 0
-    },
-    {
-      "x": -4,
-      "y": 8,
-      "z": 5,
-      "name": "Empty",
-      "level": 0
-    },
-    {
-      "x": -3,
-      "y": 0,
-      "z": -5,
-      "name": "Empty",
-      "level": 0
-    },
-    {
-      "x": -3,
-      "y": 1,
-      "z": -5,
-      "name": "Empty",
-      "level": 0
-    },
-    {
-      "x": -3,
-      "y": 7,
-      "z": -5,
-      "name": "Empty",
-      "level": 0
-    },
-    {
-      "x": -3,
-      "y": 8,
-      "z": -5,
-      "name": "Empty",
-      "level": 0
-    },
-    {
-      "x": -3,
-      "y": 0,
-      "z": -4,
-      "name": "Empty",
-      "level": 0
-    },
-    {
-      "x": -3,
-      "y": 1,
-      "z": -4,
-      "name": "Empty",
-      "level": 0
-    },
-    {
-      "x": -3,
-      "y": 2,
-      "z": -4,
-      "name": "Empty",
-      "level": 0
-    },
-    {
-      "x": -3,
-      "y": 3,
-      "z": -4,
-      "name": "Empty",
-      "level": 0
-    },
-    {
-      "x": -3,
-      "y": 4,
-      "z": -4,
-      "name": "Empty",
-      "level": 0
-    },
-    {
-      "x": -3,
-      "y": 5,
-      "z": -4,
-      "name": "Empty",
-      "level": 0
-    },
-    {
-      "x": -3,
-      "y": 6,
-      "z": -4,
-      "name": "Empty",
-      "level": 0
-    },
-    {
-      "x": -3,
-      "y": 7,
-      "z": -4,
-      "name": "Empty",
-      "level": 0
-    },
-    {
-      "x": -3,
-      "y": 8,
-      "z": -4,
-      "name": "Empty",
-      "level": 0
-    },
-    {
-      "x": -3,
-      "y": 0,
-      "z": -3,
-      "name": "Empty",
-      "level": 0
-    },
-    {
-      "x": -3,
-      "y": 1,
-      "z": -3,
-      "name": "Empty",
-      "level": 0
-    },
-    {
-      "x": -3,
-      "y": 7,
-      "z": -3,
-      "name": "Empty",
-      "level": 0
-    },
-    {
-      "x": -3,
-      "y": 8,
-      "z": -3,
-      "name": "Empty",
-      "level": 0
-    },
-    {
-      "x": -3,
-      "y": 0,
-      "z": -2,
-      "name": "Empty",
-      "level": 0
-    },
-    {
-      "x": -3,
-      "y": 1,
-      "z": -2,
-      "name": "Empty",
-      "level": 0
-    },
-    {
-      "x": -3,
-      "y": 2,
-      "z": -2,
-      "name": "Empty",
-      "level": 0
-    },
-    {
-      "x": -3,
-      "y": 3,
-      "z": -2,
-      "name": "Empty",
-      "level": 0
-    },
-    {
-      "x": -3,
-      "y": 4,
-      "z": -2,
-      "name": "Empty",
-      "level": 0
-    },
-    {
-      "x": -3,
-      "y": 5,
-      "z": -2,
-      "name": "Empty",
-      "level": 0
-    },
-    {
-      "x": -3,
-      "y": 6,
-      "z": -2,
-      "name": "Empty",
-      "level": 0
-    },
-    {
-      "x": -3,
-      "y": 7,
-      "z": -2,
-      "name": "Empty",
-      "level": 0
-    },
-    {
-      "x": -3,
-      "y": 8,
-      "z": -2,
-      "name": "Empty",
-      "level": 0
-    },
-    {
-      "x": -3,
-      "y": 0,
-      "z": -1,
-      "name": "Empty",
-      "level": 0
-    },
-    {
-      "x": -3,
-      "y": 1,
-      "z": -1,
-      "name": "Empty",
-      "level": 0
-    },
-    {
-      "x": -3,
-      "y": 7,
-      "z": -1,
-      "name": "Empty",
-      "level": 0
-    },
-    {
-      "x": -3,
-      "y": 8,
-      "z": -1,
-      "name": "Empty",
-      "level": 0
-    },
-    {
-      "x": -3,
-      "y": 0,
-      "z": 0,
-      "name": "Empty",
-      "level": 0
-    },
-    {
-      "x": -3,
-      "y": 1,
-      "z": 0,
-      "name": "Empty",
-      "level": 0
-    },
-    {
-      "x": -3,
-      "y": 2,
-      "z": 0,
-      "name": "Empty",
-      "level": 0
-    },
-    {
-      "x": -3,
-      "y": 3,
-      "z": 0,
-      "name": "Empty",
-      "level": 0
-    },
-    {
-      "x": -3,
-      "y": 4,
-      "z": 0,
-      "name": "Empty",
-      "level": 0
-    },
-    {
-      "x": -3,
-      "y": 5,
-      "z": 0,
-      "name": "Empty",
-      "level": 0
-    },
-    {
-      "x": -3,
-      "y": 6,
-      "z": 0,
-      "name": "Empty",
-      "level": 0
-    },
-    {
-      "x": -3,
-      "y": 7,
-      "z": 0,
-      "name": "Empty",
-      "level": 0
-    },
-    {
-      "x": -3,
-      "y": 8,
-      "z": 0,
-      "name": "Empty",
-      "level": 0
-    },
-    {
-      "x": -3,
-      "y": 0,
-      "z": 1,
-      "name": "Empty",
-      "level": 0
-    },
-    {
-      "x": -3,
-      "y": 1,
-      "z": 1,
-      "name": "Empty",
-      "level": 0
-    },
-    {
-      "x": -3,
-      "y": 7,
-      "z": 1,
-      "name": "Empty",
-      "level": 0
-    },
-    {
-      "x": -3,
-      "y": 8,
-      "z": 1,
-      "name": "Empty",
-      "level": 0
-    },
-    {
-      "x": -3,
-      "y": 0,
-      "z": 2,
-      "name": "Empty",
-      "level": 0
-    },
-    {
-      "x": -3,
-      "y": 1,
-      "z": 2,
-      "name": "Empty",
-      "level": 0
-    },
-    {
-      "x": -3,
-      "y": 2,
-      "z": 2,
-      "name": "Empty",
-      "level": 0
-    },
-    {
-      "x": -3,
-      "y": 3,
-      "z": 2,
-      "name": "Empty",
-      "level": 0
-    },
-    {
-      "x": -3,
-      "y": 4,
-      "z": 2,
-      "name": "Empty",
-      "level": 0
-    },
-    {
-      "x": -3,
-      "y": 5,
-      "z": 2,
-      "name": "Empty",
-      "level": 0
-    },
-    {
-      "x": -3,
-      "y": 6,
-      "z": 2,
-      "name": "Empty",
-      "level": 0
-    },
-    {
-      "x": -3,
-      "y": 7,
-      "z": 2,
-      "name": "Empty",
-      "level": 0
-    },
-    {
-      "x": -3,
-      "y": 8,
-      "z": 2,
-      "name": "Empty",
-      "level": 0
-    },
-    {
-      "x": -3,
-      "y": 0,
-      "z": 3,
-      "name": "Empty",
-      "level": 0
-    },
-    {
-      "x": -3,
-      "y": 1,
-      "z": 3,
-      "name": "Empty",
-      "level": 0
-    },
-    {
-      "x": -3,
-      "y": 7,
-      "z": 3,
-      "name": "Empty",
-      "level": 0
-    },
-    {
-      "x": -3,
-      "y": 8,
-      "z": 3,
-      "name": "Empty",
-      "level": 0
-    },
-    {
-      "x": -3,
-      "y": 0,
-      "z": 4,
-      "name": "Empty",
-      "level": 0
-    },
-    {
-      "x": -3,
-      "y": 1,
-      "z": 4,
-      "name": "Empty",
-      "level": 0
-    },
-    {
-      "x": -3,
-      "y": 2,
-      "z": 4,
-      "name": "Empty",
-      "level": 0
-    },
-    {
-      "x": -3,
-      "y": 3,
-      "z": 4,
-      "name": "Empty",
-      "level": 0
-    },
-    {
-      "x": -3,
-      "y": 4,
-      "z": 4,
-      "name": "Empty",
-      "level": 0
-    },
-    {
-      "x": -3,
-      "y": 5,
-      "z": 4,
-      "name": "Empty",
-      "level": 0
-    },
-    {
-      "x": -3,
-      "y": 6,
-      "z": 4,
-      "name": "Empty",
-      "level": 0
-    },
-    {
-      "x": -3,
-      "y": 7,
-      "z": 4,
-      "name": "Empty",
-      "level": 0
-    },
-    {
-      "x": -3,
-      "y": 8,
-      "z": 4,
-      "name": "Empty",
-      "level": 0
-    },
-    {
-      "x": -3,
-      "y": 0,
-      "z": 5,
-      "name": "Empty",
-      "level": 0
-    },
-    {
-      "x": -3,
-      "y": 1,
-      "z": 5,
-      "name": "Empty",
-      "level": 0
-    },
-    {
-      "x": -3,
-      "y": 7,
-      "z": 5,
-      "name": "Empty",
-      "level": 0
-    },
-    {
-      "x": -3,
-      "y": 8,
-      "z": 5,
-      "name": "Empty",
-      "level": 0
-    },
-    {
-      "x": -2,
-      "y": 0,
-      "z": -5,
-      "name": "Empty",
-      "level": 0
-    },
-    {
-      "x": -2,
-      "y": 1,
-      "z": -5,
-      "name": "Empty",
-      "level": 0
-    },
-    {
-      "x": -2,
-      "y": 7,
-      "z": -5,
-      "name": "Empty",
-      "level": 0
-    },
-    {
-      "x": -2,
-      "y": 8,
-      "z": -5,
-      "name": "Empty",
-      "level": 0
-    },
-    {
-      "x": -2,
-      "y": 9,
-      "z": -5,
-      "name": "Empty",
-      "level": 0
-    },
-    {
-      "x": -2,
-      "y": 0,
-      "z": -4,
-      "name": "Empty",
-      "level": 0
-    },
-    {
-      "x": -2,
-      "y": 1,
-      "z": -4,
-      "name": "Empty",
-      "level": 0
-    },
-    {
-      "x": -2,
-      "y": 7,
-      "z": -4,
-      "name": "Empty",
-      "level": 0
-    },
-    {
-      "x": -2,
-      "y": 8,
-      "z": -4,
-      "name": "Empty",
-      "level": 0
-    },
-    {
-      "x": -2,
-      "y": 9,
-      "z": -4,
-      "name": "Empty",
-      "level": 0
-    },
-    {
-      "x": -2,
-      "y": 0,
-      "z": -3,
-      "name": "Empty",
-      "level": 0
-    },
-    {
-      "x": -2,
-      "y": 1,
-      "z": -3,
-      "name": "Empty",
-      "level": 0
-    },
-    {
-      "x": -2,
-      "y": 7,
-      "z": -3,
-      "name": "Empty",
-      "level": 0
-    },
-    {
-      "x": -2,
-      "y": 8,
-      "z": -3,
-      "name": "Empty",
-      "level": 0
-    },
-    {
-      "x": -2,
-      "y": 9,
-      "z": -3,
-      "name": "Empty",
-      "level": 0
-    },
-    {
-      "x": -2,
-      "y": 0,
-      "z": -2,
-      "name": "Empty",
-      "level": 0
-    },
-    {
-      "x": -2,
-      "y": 1,
-      "z": -2,
-      "name": "Empty",
-      "level": 0
-    },
-    {
-      "x": -2,
-      "y": 7,
-      "z": -2,
-      "name": "Empty",
-      "level": 0
-    },
-    {
-      "x": -2,
-      "y": 8,
-      "z": -2,
-      "name": "Empty",
-      "level": 0
-    },
-    {
-      "x": -2,
-      "y": 9,
-      "z": -2,
-      "name": "Empty",
-      "level": 0
-    },
-    {
-      "x": -2,
-      "y": 0,
-      "z": -1,
-      "name": "Empty",
-      "level": 0
-    },
-    {
-      "x": -2,
-      "y": 1,
-      "z": -1,
-      "name": "Empty",
-      "level": 0
-    },
-    {
-      "x": -2,
-      "y": 7,
-      "z": -1,
-      "name": "Empty",
-      "level": 0
-    },
-    {
-      "x": -2,
-      "y": 8,
-      "z": -1,
-      "name": "Empty",
-      "level": 0
-    },
-    {
-      "x": -2,
-      "y": 9,
-      "z": -1,
-      "name": "Empty",
-      "level": 0
-    },
-    {
-      "x": -2,
-      "y": 0,
-      "z": 0,
-      "name": "Empty",
-      "level": 0
-    },
-    {
-      "x": -2,
-      "y": 1,
-      "z": 0,
-      "name": "Empty",
-      "level": 0
-    },
-    {
-      "x": -2,
-      "y": 7,
-      "z": 0,
-      "name": "Empty",
-      "level": 0
-    },
-    {
-      "x": -2,
-      "y": 8,
-      "z": 0,
-      "name": "Empty",
-      "level": 0
-    },
-    {
-      "x": -2,
-      "y": 9,
-      "z": 0,
-      "name": "Empty",
-      "level": 0
-    },
-    {
-      "x": -2,
-      "y": 0,
-      "z": 1,
-      "name": "Empty",
-      "level": 0
-    },
-    {
-      "x": -2,
-      "y": 1,
-      "z": 1,
-      "name": "Empty",
-      "level": 0
-    },
-    {
-      "x": -2,
-      "y": 7,
-      "z": 1,
-      "name": "Empty",
-      "level": 0
-    },
-    {
-      "x": -2,
-      "y": 8,
-      "z": 1,
-      "name": "Empty",
-      "level": 0
-    },
-    {
-      "x": -2,
-      "y": 9,
-      "z": 1,
-      "name": "Empty",
-      "level": 0
-    },
-    {
-      "x": -2,
-      "y": 0,
-      "z": 2,
-      "name": "Empty",
-      "level": 0
-    },
-    {
-      "x": -2,
-      "y": 1,
-      "z": 2,
-      "name": "Empty",
-      "level": 0
-    },
-    {
-      "x": -2,
-      "y": 7,
-      "z": 2,
-      "name": "Empty",
-      "level": 0
-    },
-    {
-      "x": -2,
-      "y": 8,
-      "z": 2,
-      "name": "Empty",
-      "level": 0
-    },
-    {
-      "x": -2,
-      "y": 9,
-      "z": 2,
-      "name": "Empty",
-      "level": 0
-    },
-    {
-      "x": -2,
-      "y": 0,
-      "z": 3,
-      "name": "Empty",
-      "level": 0
-    },
-    {
-      "x": -2,
-      "y": 1,
-      "z": 3,
-      "name": "Empty",
-      "level": 0
-    },
-    {
-      "x": -2,
-      "y": 7,
-      "z": 3,
-      "name": "Empty",
-      "level": 0
-    },
-    {
-      "x": -2,
-      "y": 8,
-      "z": 3,
-      "name": "Empty",
-      "level": 0
-    },
-    {
-      "x": -2,
-      "y": 9,
-      "z": 3,
-      "name": "Empty",
-      "level": 0
-    },
-    {
-      "x": -2,
-      "y": 0,
-      "z": 4,
-      "name": "Empty",
-      "level": 0
-    },
-    {
-      "x": -2,
-      "y": 1,
-      "z": 4,
-      "name": "Empty",
-      "level": 0
-    },
-    {
-      "x": -2,
-      "y": 7,
-      "z": 4,
-      "name": "Empty",
-      "level": 0
-    },
-    {
-      "x": -2,
-      "y": 8,
-      "z": 4,
-      "name": "Empty",
-      "level": 0
-    },
-    {
-      "x": -2,
-      "y": 9,
-      "z": 4,
-      "name": "Empty",
-      "level": 0
-    },
-    {
-      "x": -2,
-      "y": 0,
-      "z": 5,
-      "name": "Empty",
-      "level": 0
-    },
-    {
-      "x": -2,
-      "y": 1,
-      "z": 5,
-      "name": "Empty",
-      "level": 0
-    },
-    {
-      "x": -2,
-      "y": 7,
-      "z": 5,
-      "name": "Empty",
-      "level": 0
-    },
-    {
-      "x": -2,
-      "y": 8,
-      "z": 5,
-      "name": "Empty",
-      "level": 0
-    },
-    {
-      "x": -2,
-      "y": 9,
-      "z": 5,
-      "name": "Empty",
-      "level": 0
-    },
-    {
-      "x": -1,
-      "y": 0,
-      "z": -5,
-      "name": "Empty",
-      "level": 0
-    },
-    {
-      "x": -1,
-      "y": 1,
-      "z": -5,
-      "name": "Empty",
-      "level": 0
-    },
-    {
-      "x": -1,
-      "y": 7,
-      "z": -5,
-      "name": "Empty",
-      "level": 0
-    },
-    {
-      "x": -1,
-      "y": 9,
-      "z": -5,
-      "name": "Empty",
-      "level": 0
-    },
-    {
-      "x": -1,
-      "y": 0,
-      "z": -4,
-      "name": "Empty",
-      "level": 0
-    },
-    {
-      "x": -1,
-      "y": 1,
-      "z": -4,
-      "name": "Empty",
-      "level": 0
-    },
-    {
-      "x": -1,
-      "y": 2,
-      "z": -4,
-      "name": "Empty",
-      "level": 0
-    },
-    {
-      "x": -1,
-      "y": 3,
-      "z": -4,
-      "name": "Empty",
-      "level": 0
-    },
-    {
-      "x": -1,
-      "y": 4,
-      "z": -4,
-      "name": "Empty",
-      "level": 0
-    },
-    {
-      "x": -1,
-      "y": 5,
-      "z": -4,
-      "name": "Empty",
-      "level": 0
-    },
-    {
-      "x": -1,
-      "y": 6,
-      "z": -4,
-      "name": "Empty",
-      "level": 0
-    },
-    {
-      "x": -1,
-      "y": 7,
-      "z": -4,
-      "name": "Empty",
-      "level": 0
-    },
-    {
-      "x": -1,
-      "y": 8,
-      "z": -4,
-      "name": "Empty",
-      "level": 0
-    },
-    {
-      "x": -1,
-      "y": 9,
-      "z": -4,
-      "name": "Empty",
-      "level": 0
-    },
-    {
-      "x": -1,
-      "y": 0,
-      "z": -3,
-      "name": "Empty",
-      "level": 0
-    },
-    {
-      "x": -1,
-      "y": 1,
-      "z": -3,
-      "name": "Empty",
-      "level": 0
-    },
-    {
-      "x": -1,
-      "y": 7,
-      "z": -3,
-      "name": "Empty",
-      "level": 0
-    },
-    {
-      "x": -1,
-      "y": 8,
-      "z": -3,
-      "name": "Empty",
-      "level": 0
-    },
-    {
-      "x": -1,
-      "y": 9,
-      "z": -3,
-      "name": "Empty",
-      "level": 0
-    },
-    {
-      "x": -1,
-      "y": 0,
-      "z": -2,
-      "name": "Empty",
-      "level": 0
-    },
-    {
-      "x": -1,
-      "y": 1,
-      "z": -2,
-      "name": "Empty",
-      "level": 0
-    },
-    {
-      "x": -1,
-      "y": 7,
-      "z": -2,
-      "name": "Empty",
-      "level": 0
-    },
-    {
-      "x": -1,
-      "y": 8,
-      "z": -2,
-      "name": "Empty",
-      "level": 0
-    },
-    {
-      "x": -1,
-      "y": 9,
-      "z": -2,
-      "name": "Empty",
-      "level": 0
-    },
-    {
-      "x": -1,
-      "y": 0,
-      "z": -1,
-      "name": "Empty",
-      "level": 0
-    },
-    {
-      "x": -1,
-      "y": 1,
-      "z": -1,
-      "name": "Empty",
-      "level": 0
-    },
-    {
-      "x": -1,
-      "y": 7,
-      "z": -1,
-      "name": "Empty",
-      "level": 0
-    },
-    {
-      "x": -1,
-      "y": 8,
-      "z": -1,
-      "name": "Empty",
-      "level": 0
-    },
-    {
-      "x": -1,
-      "y": 9,
-      "z": -1,
-      "name": "Empty",
-      "level": 0
-    },
-    {
-      "x": -1,
-      "y": 0,
-      "z": 0,
-      "name": "Empty",
-      "level": 0
-    },
-    {
-      "x": -1,
-      "y": 1,
-      "z": 0,
-      "name": "Empty",
-      "level": 0
-    },
-    {
-      "x": -1,
-      "y": 7,
-      "z": 0,
-      "name": "Empty",
-      "level": 0
-    },
-    {
-      "x": -1,
-      "y": 8,
-      "z": 0,
-      "name": "Empty",
-      "level": 0
-    },
-    {
-      "x": -1,
-      "y": 9,
-      "z": 0,
-      "name": "Empty",
-      "level": 0
-    },
-    {
-      "x": -1,
-      "y": 0,
-      "z": 1,
-      "name": "Empty",
-      "level": 0
-    },
-    {
-      "x": -1,
-      "y": 1,
-      "z": 1,
-      "name": "Empty",
-      "level": 0
-    },
-    {
-      "x": -1,
-      "y": 7,
-      "z": 1,
-      "name": "Empty",
-      "level": 0
-    },
-    {
-      "x": -1,
-      "y": 8,
-      "z": 1,
-      "name": "Empty",
-      "level": 0
-    },
-    {
-      "x": -1,
-      "y": 9,
-      "z": 1,
-      "name": "Empty",
-      "level": 0
-    },
-    {
-      "x": -1,
-      "y": 0,
-      "z": 2,
-      "name": "Empty",
-      "level": 0
-    },
-    {
-      "x": -1,
-      "y": 1,
-      "z": 2,
-      "name": "Empty",
-      "level": 0
-    },
-    {
-      "x": -1,
-      "y": 7,
-      "z": 2,
-      "name": "Empty",
-      "level": 0
-    },
-    {
-      "x": -1,
-      "y": 8,
-      "z": 2,
-      "name": "Empty",
-      "level": 0
-    },
-    {
-      "x": -1,
-      "y": 9,
-      "z": 2,
-      "name": "Empty",
-      "level": 0
-    },
-    {
-      "x": -1,
-      "y": 0,
-      "z": 3,
-      "name": "Empty",
-      "level": 0
-    },
-    {
-      "x": -1,
-      "y": 1,
-      "z": 3,
-      "name": "Empty",
-      "level": 0
-    },
-    {
-      "x": -1,
-      "y": 7,
-      "z": 3,
-      "name": "Empty",
-      "level": 0
-    },
-    {
-      "x": -1,
-      "y": 8,
-      "z": 3,
-      "name": "Empty",
-      "level": 0
-    },
-    {
-      "x": -1,
-      "y": 9,
-      "z": 3,
-      "name": "Empty",
-      "level": 0
-    },
-    {
-      "x": -1,
-      "y": 0,
-      "z": 4,
-      "name": "Empty",
-      "level": 0
-    },
-    {
-      "x": -1,
-      "y": 1,
-      "z": 4,
-      "name": "Empty",
-      "level": 0
-    },
-    {
-      "x": -1,
-      "y": 2,
-      "z": 4,
-      "name": "Empty",
-      "level": 0
-    },
-    {
-      "x": -1,
-      "y": 3,
-      "z": 4,
-      "name": "Empty",
-      "level": 0
-    },
-    {
-      "x": -1,
-      "y": 4,
-      "z": 4,
-      "name": "Empty",
-      "level": 0
-    },
-    {
-      "x": -1,
-      "y": 5,
-      "z": 4,
-      "name": "Empty",
-      "level": 0
-    },
-    {
-      "x": -1,
-      "y": 6,
-      "z": 4,
-      "name": "Empty",
-      "level": 0
-    },
-    {
-      "x": -1,
-      "y": 7,
-      "z": 4,
-      "name": "Empty",
-      "level": 0
-    },
-    {
-      "x": -1,
-      "y": 8,
-      "z": 4,
-      "name": "Empty",
-      "level": 0
-    },
-    {
-      "x": -1,
-      "y": 9,
-      "z": 4,
-      "name": "Empty",
-      "level": 0
-    },
-    {
-      "x": -1,
-      "y": 0,
-      "z": 5,
-      "name": "Empty",
-      "level": 0
-    },
-    {
-      "x": -1,
-      "y": 1,
-      "z": 5,
-      "name": "Empty",
-      "level": 0
-    },
-    {
-      "x": -1,
-      "y": 7,
-      "z": 5,
-      "name": "Empty",
-      "level": 0
-    },
-    {
-      "x": -1,
-      "y": 9,
-      "z": 5,
-      "name": "Empty",
-      "level": 0
-    },
-    {
-      "x": 0,
-      "y": 0,
-      "z": -5,
-      "name": "Empty",
-      "level": 0
-    },
-    {
-      "x": 0,
-      "y": 1,
-      "z": -5,
-      "name": "Empty",
-      "level": 0
-    },
-    {
-      "x": 0,
-      "y": 7,
-      "z": -5,
-      "name": "Empty",
-      "level": 0
-    },
-    {
-      "x": 0,
-      "y": 9,
-      "z": -5,
-      "name": "Empty",
-      "level": 0
-    },
-    {
-      "x": 0,
-      "y": 10,
-      "z": -5,
-      "name": "Empty",
-      "level": 0
-    },
-    {
-      "x": 0,
-      "y": 0,
-      "z": -4,
-      "name": "Empty",
-      "level": 0
-    },
-    {
-      "x": 0,
-      "y": 1,
-      "z": -4,
-      "name": "Empty",
-      "level": 0
-    },
-    {
-      "x": 0,
-      "y": 7,
-      "z": -4,
-      "name": "Empty",
-      "level": 0
-    },
-    {
-      "x": 0,
-      "y": 8,
-      "z": -4,
-      "name": "Empty",
-      "level": 0
-    },
-    {
-      "x": 0,
-      "y": 9,
-      "z": -4,
-      "name": "Empty",
-      "level": 0
-    },
-    {
-      "x": 0,
-      "y": 10,
-      "z": -4,
-      "name": "Empty",
-      "level": 0
-    },
-    {
-      "x": 0,
-      "y": 0,
-      "z": -3,
-      "name": "Empty",
-      "level": 0
-    },
-    {
-      "x": 0,
-      "y": 1,
-      "z": -3,
-      "name": "Empty",
-      "level": 0
-    },
-    {
-      "x": 0,
-      "y": 7,
-      "z": -3,
-      "name": "Empty",
-      "level": 0
-    },
-    {
-      "x": 0,
-      "y": 8,
-      "z": -3,
-      "name": "Empty",
-      "level": 0
-    },
-    {
-      "x": 0,
-      "y": 9,
-      "z": -3,
-      "name": "Empty",
-      "level": 0
-    },
-    {
-      "x": 0,
-      "y": 10,
-      "z": -3,
-      "name": "Empty",
-      "level": 0
-    },
-    {
-      "x": 0,
-      "y": 0,
-      "z": -2,
-      "name": "Empty",
-      "level": 0
-    },
-    {
-      "x": 0,
-      "y": 1,
-      "z": -2,
-      "name": "Empty",
-      "level": 0
-    },
-    {
-      "x": 0,
-      "y": 7,
-      "z": -2,
-      "name": "Empty",
-      "level": 0
-    },
-    {
-      "x": 0,
-      "y": 8,
-      "z": -2,
-      "name": "Empty",
-      "level": 0
-    },
-    {
-      "x": 0,
-      "y": 9,
-      "z": -2,
-      "name": "Empty",
-      "level": 0
-    },
-    {
-      "x": 0,
-      "y": 10,
-      "z": -2,
-      "name": "Empty",
-      "level": 0
-    },
-    {
-      "x": 0,
-      "y": 0,
-      "z": -1,
-      "name": "Empty",
-      "level": 0
-    },
-    {
-      "x": 0,
-      "y": 1,
-      "z": -1,
-      "name": "Empty",
-      "level": 0
-    },
-    {
-      "x": 0,
-      "y": 7,
-      "z": -1,
-      "name": "Empty",
-      "level": 0
-    },
-    {
-      "x": 0,
-      "y": 8,
-      "z": -1,
-      "name": "Empty",
-      "level": 0
-    },
-    {
-      "x": 0,
-      "y": 9,
-      "z": -1,
-      "name": "Empty",
-      "level": 0
-    },
-    {
-      "x": 0,
-      "y": 10,
-      "z": -1,
-      "name": "Empty",
-      "level": 0
-    },
-    {
-      "x": 0,
-      "y": 0,
-      "z": 0,
-      "name": "Empty",
-      "level": 0
-    },
-    {
-      "x": 0,
-      "y": 1,
-      "z": 0,
-      "name": "Empty",
-      "level": 0
-    },
-    {
-      "x": 0,
-      "y": 7,
-      "z": 0,
-      "name": "Empty",
-      "level": 0
-    },
-    {
-      "x": 0,
-      "y": 8,
-      "z": 0,
-      "name": "Empty",
-      "level": 0
-    },
-    {
-      "x": 0,
-      "y": 9,
-      "z": 0,
-      "name": "Empty",
-      "level": 0
-    },
-    {
-      "x": 0,
-      "y": 10,
-      "z": 0,
-      "name": "Empty",
-      "level": 0
-    },
-    {
-      "x": 0,
-      "y": 0,
-      "z": 1,
-      "name": "Empty",
-      "level": 0
-    },
-    {
-      "x": 0,
-      "y": 1,
-      "z": 1,
-      "name": "Empty",
-      "level": 0
-    },
-    {
-      "x": 0,
-      "y": 7,
-      "z": 1,
-      "name": "Empty",
-      "level": 0
-    },
-    {
-      "x": 0,
-      "y": 8,
-      "z": 1,
-      "name": "Empty",
-      "level": 0
-    },
-    {
-      "x": 0,
-      "y": 9,
-      "z": 1,
-      "name": "Empty",
-      "level": 0
-    },
-    {
-      "x": 0,
-      "y": 10,
-      "z": 1,
-      "name": "Empty",
-      "level": 0
-    },
-    {
-      "x": 0,
-      "y": 0,
-      "z": 2,
-      "name": "Empty",
-      "level": 0
-    },
-    {
-      "x": 0,
-      "y": 1,
-      "z": 2,
-      "name": "Empty",
-      "level": 0
-    },
-    {
-      "x": 0,
-      "y": 7,
-      "z": 2,
-      "name": "Empty",
-      "level": 0
-    },
-    {
-      "x": 0,
-      "y": 8,
-      "z": 2,
-      "name": "Empty",
-      "level": 0
-    },
-    {
-      "x": 0,
-      "y": 9,
-      "z": 2,
-      "name": "Empty",
-      "level": 0
-    },
-    {
-      "x": 0,
-      "y": 10,
-      "z": 2,
-      "name": "Empty",
-      "level": 0
-    },
-    {
-      "x": 0,
-      "y": 0,
-      "z": 3,
-      "name": "Empty",
-      "level": 0
-    },
-    {
-      "x": 0,
-      "y": 1,
-      "z": 3,
-      "name": "Empty",
-      "level": 0
-    },
-    {
-      "x": 0,
-      "y": 7,
-      "z": 3,
-      "name": "Empty",
-      "level": 0
-    },
-    {
-      "x": 0,
-      "y": 8,
-      "z": 3,
-      "name": "Empty",
-      "level": 0
-    },
-    {
-      "x": 0,
-      "y": 9,
-      "z": 3,
-      "name": "Empty",
-      "level": 0
-    },
-    {
-      "x": 0,
-      "y": 10,
-      "z": 3,
-      "name": "Empty",
-      "level": 0
-    },
-    {
-      "x": 0,
-      "y": 0,
-      "z": 4,
-      "name": "Empty",
-      "level": 0
-    },
-    {
-      "x": 0,
-      "y": 1,
-      "z": 4,
-      "name": "Empty",
-      "level": 0
-    },
-    {
-      "x": 0,
-      "y": 7,
-      "z": 4,
-      "name": "Empty",
-      "level": 0
-    },
-    {
-      "x": 0,
-      "y": 8,
-      "z": 4,
-      "name": "Empty",
-      "level": 0
-    },
-    {
-      "x": 0,
-      "y": 9,
-      "z": 4,
-      "name": "Empty",
-      "level": 0
-    },
-    {
-      "x": 0,
-      "y": 10,
-      "z": 4,
-      "name": "Empty",
-      "level": 0
-    },
-    {
-      "x": 0,
-      "y": 0,
-      "z": 5,
-      "name": "Empty",
-      "level": 0
-    },
-    {
-      "x": 0,
-      "y": 1,
-      "z": 5,
-      "name": "Empty",
-      "level": 0
-    },
-    {
-      "x": 0,
-      "y": 7,
-      "z": 5,
-      "name": "Empty",
-      "level": 0
-    },
-    {
-      "x": 0,
-      "y": 9,
-      "z": 5,
-      "name": "Empty",
-      "level": 0
-    },
-    {
-      "x": 0,
-      "y": 10,
-      "z": 5,
-      "name": "Empty",
-      "level": 0
-    },
-    {
-      "x": 1,
-      "y": 0,
-      "z": -5,
-      "name": "Empty",
-      "level": 0
-    },
-    {
-      "x": 1,
-      "y": 1,
-      "z": -5,
-      "name": "Empty",
-      "level": 0
-    },
-    {
-      "x": 1,
-      "y": 7,
-      "z": -5,
-      "name": "Empty",
-      "level": 0
-    },
-    {
-      "x": 1,
-      "y": 9,
-      "z": -5,
-      "name": "Empty",
-      "level": 0
-    },
-    {
-      "x": 1,
-      "y": 0,
-      "z": -4,
-      "name": "Empty",
-      "level": 0
-    },
-    {
-      "x": 1,
-      "y": 1,
-      "z": -4,
-      "name": "Empty",
-      "level": 0
-    },
-    {
-      "x": 1,
-      "y": 2,
-      "z": -4,
-      "name": "Empty",
-      "level": 0
-    },
-    {
-      "x": 1,
-      "y": 3,
-      "z": -4,
-      "name": "Empty",
-      "level": 0
-    },
-    {
-      "x": 1,
-      "y": 4,
-      "z": -4,
-      "name": "Empty",
-      "level": 0
-    },
-    {
-      "x": 1,
-      "y": 5,
-      "z": -4,
-      "name": "Empty",
-      "level": 0
-    },
-    {
-      "x": 1,
-      "y": 6,
-      "z": -4,
-      "name": "Empty",
-      "level": 0
-    },
-    {
-      "x": 1,
-      "y": 7,
-      "z": -4,
-      "name": "Empty",
-      "level": 0
-    },
-    {
-      "x": 1,
-      "y": 8,
-      "z": -4,
-      "name": "Empty",
-      "level": 0
-    },
-    {
-      "x": 1,
-      "y": 9,
-      "z": -4,
-      "name": "Empty",
-      "level": 0
-    },
-    {
-      "x": 1,
-      "y": 0,
-      "z": -3,
-      "name": "Empty",
-      "level": 0
-    },
-    {
-      "x": 1,
-      "y": 1,
-      "z": -3,
-      "name": "Empty",
-      "level": 0
-    },
-    {
-      "x": 1,
-      "y": 7,
-      "z": -3,
-      "name": "Empty",
-      "level": 0
-    },
-    {
-      "x": 1,
-      "y": 8,
-      "z": -3,
-      "name": "Empty",
-      "level": 0
-    },
-    {
-      "x": 1,
-      "y": 9,
-      "z": -3,
-      "name": "Empty",
-      "level": 0
-    },
-    {
-      "x": 1,
-      "y": 0,
-      "z": -2,
-      "name": "Empty",
-      "level": 0
-    },
-    {
-      "x": 1,
-      "y": 1,
-      "z": -2,
-      "name": "Empty",
-      "level": 0
-    },
-    {
-      "x": 1,
-      "y": 7,
-      "z": -2,
-      "name": "Empty",
-      "level": 0
-    },
-    {
-      "x": 1,
-      "y": 8,
-      "z": -2,
-      "name": "Empty",
-      "level": 0
-    },
-    {
-      "x": 1,
-      "y": 9,
-      "z": -2,
-      "name": "Empty",
-      "level": 0
-    },
-    {
-      "x": 1,
-      "y": 0,
-      "z": -1,
-      "name": "Empty",
-      "level": 0
-    },
-    {
-      "x": 1,
-      "y": 1,
-      "z": -1,
-      "name": "Empty",
-      "level": 0
-    },
-    {
-      "x": 1,
-      "y": 7,
-      "z": -1,
-      "name": "Empty",
-      "level": 0
-    },
-    {
-      "x": 1,
-      "y": 8,
-      "z": -1,
-      "name": "Empty",
-      "level": 0
-    },
-    {
-      "x": 1,
-      "y": 9,
-      "z": -1,
-      "name": "Empty",
-      "level": 0
-    },
-    {
-      "x": 1,
-      "y": 0,
-      "z": 0,
-      "name": "Empty",
-      "level": 0
-    },
-    {
-      "x": 1,
-      "y": 1,
-      "z": 0,
-      "name": "Empty",
-      "level": 0
-    },
-    {
-      "x": 1,
-      "y": 7,
-      "z": 0,
-      "name": "Empty",
-      "level": 0
-    },
-    {
-      "x": 1,
-      "y": 8,
-      "z": 0,
-      "name": "Empty",
-      "level": 0
-    },
-    {
-      "x": 1,
-      "y": 9,
-      "z": 0,
-      "name": "Empty",
-      "level": 0
-    },
-    {
-      "x": 1,
-      "y": 0,
-      "z": 1,
-      "name": "Empty",
-      "level": 0
-    },
-    {
-      "x": 1,
-      "y": 1,
-      "z": 1,
-      "name": "Empty",
-      "level": 0
-    },
-    {
-      "x": 1,
-      "y": 7,
-      "z": 1,
-      "name": "Empty",
-      "level": 0
-    },
-    {
-      "x": 1,
-      "y": 8,
-      "z": 1,
-      "name": "Empty",
-      "level": 0
-    },
-    {
-      "x": 1,
-      "y": 9,
-      "z": 1,
-      "name": "Empty",
-      "level": 0
-    },
-    {
-      "x": 1,
-      "y": 0,
-      "z": 2,
-      "name": "Empty",
-      "level": 0
-    },
-    {
-      "x": 1,
-      "y": 1,
-      "z": 2,
-      "name": "Empty",
-      "level": 0
-    },
-    {
-      "x": 1,
-      "y": 7,
-      "z": 2,
-      "name": "Empty",
-      "level": 0
-    },
-    {
-      "x": 1,
-      "y": 8,
-      "z": 2,
-      "name": "Empty",
-      "level": 0
-    },
-    {
-      "x": 1,
-      "y": 9,
-      "z": 2,
-      "name": "Empty",
-      "level": 0
-    },
-    {
-      "x": 1,
-      "y": 0,
-      "z": 3,
-      "name": "Empty",
-      "level": 0
-    },
-    {
-      "x": 1,
-      "y": 1,
-      "z": 3,
-      "name": "Empty",
-      "level": 0
-    },
-    {
-      "x": 1,
-      "y": 7,
-      "z": 3,
-      "name": "Empty",
-      "level": 0
-    },
-    {
-      "x": 1,
-      "y": 8,
-      "z": 3,
-      "name": "Empty",
-      "level": 0
-    },
-    {
-      "x": 1,
-      "y": 9,
-      "z": 3,
-      "name": "Empty",
-      "level": 0
-    },
-    {
-      "x": 1,
-      "y": 0,
-      "z": 4,
-      "name": "Empty",
-      "level": 0
-    },
-    {
-      "x": 1,
-      "y": 1,
-      "z": 4,
-      "name": "Empty",
-      "level": 0
-    },
-    {
-      "x": 1,
-      "y": 2,
-      "z": 4,
-      "name": "Empty",
-      "level": 0
-    },
-    {
-      "x": 1,
-      "y": 3,
-      "z": 4,
-      "name": "Empty",
-      "level": 0
-    },
-    {
-      "x": 1,
-      "y": 4,
-      "z": 4,
-      "name": "Empty",
-      "level": 0
-    },
-    {
-      "x": 1,
-      "y": 5,
-      "z": 4,
-      "name": "Empty",
-      "level": 0
-    },
-    {
-      "x": 1,
-      "y": 6,
-      "z": 4,
-      "name": "Empty",
-      "level": 0
-    },
-    {
-      "x": 1,
-      "y": 7,
-      "z": 4,
-      "name": "Empty",
-      "level": 0
-    },
-    {
-      "x": 1,
-      "y": 8,
-      "z": 4,
-      "name": "Empty",
-      "level": 0
-    },
-    {
-      "x": 1,
-      "y": 9,
-      "z": 4,
-      "name": "Empty",
-      "level": 0
-    },
-    {
-      "x": 1,
-      "y": 0,
-      "z": 5,
-      "name": "Empty",
-      "level": 0
-    },
-    {
-      "x": 1,
-      "y": 1,
-      "z": 5,
-      "name": "Empty",
-      "level": 0
-    },
-    {
-      "x": 1,
-      "y": 7,
-      "z": 5,
-      "name": "Empty",
-      "level": 0
-    },
-    {
-      "x": 1,
-      "y": 9,
-      "z": 5,
-      "name": "Empty",
-      "level": 0
-    },
-    {
-      "x": 2,
-      "y": 0,
-      "z": -5,
-      "name": "Empty",
-      "level": 0
-    },
-    {
-      "x": 2,
-      "y": 1,
-      "z": -5,
-      "name": "Empty",
-      "level": 0
-    },
-    {
-      "x": 2,
-      "y": 7,
-      "z": -5,
-      "name": "Empty",
-      "level": 0
-    },
-    {
-      "x": 2,
-      "y": 8,
-      "z": -5,
-      "name": "Empty",
-      "level": 0
-    },
-    {
-      "x": 2,
-      "y": 9,
-      "z": -5,
-      "name": "Empty",
-      "level": 0
-    },
-    {
-      "x": 2,
-      "y": 0,
-      "z": -4,
-      "name": "Empty",
-      "level": 0
-    },
-    {
-      "x": 2,
-      "y": 1,
-      "z": -4,
-      "name": "Empty",
-      "level": 0
-    },
-    {
-      "x": 2,
-      "y": 7,
-      "z": -4,
-      "name": "Empty",
-      "level": 0
-    },
-    {
-      "x": 2,
-      "y": 8,
-      "z": -4,
-      "name": "Empty",
-      "level": 0
-    },
-    {
-      "x": 2,
-      "y": 9,
-      "z": -4,
-      "name": "Empty",
-      "level": 0
-    },
-    {
-      "x": 2,
-      "y": 0,
-      "z": -3,
-      "name": "Empty",
-      "level": 0
-    },
-    {
-      "x": 2,
-      "y": 1,
-      "z": -3,
-      "name": "Empty",
-      "level": 0
-    },
-    {
-      "x": 2,
-      "y": 7,
-      "z": -3,
-      "name": "Empty",
-      "level": 0
-    },
-    {
-      "x": 2,
-      "y": 8,
-      "z": -3,
-      "name": "Empty",
-      "level": 0
-    },
-    {
-      "x": 2,
-      "y": 9,
-      "z": -3,
-      "name": "Empty",
-      "level": 0
-    },
-    {
-      "x": 2,
-      "y": 0,
-      "z": -2,
-      "name": "Empty",
-      "level": 0
-    },
-    {
-      "x": 2,
-      "y": 1,
-      "z": -2,
-      "name": "Empty",
-      "level": 0
-    },
-    {
-      "x": 2,
-      "y": 7,
-      "z": -2,
-      "name": "Empty",
-      "level": 0
-    },
-    {
-      "x": 2,
-      "y": 8,
-      "z": -2,
-      "name": "Empty",
-      "level": 0
-    },
-    {
-      "x": 2,
-      "y": 9,
-      "z": -2,
-      "name": "Empty",
-      "level": 0
-    },
-    {
-      "x": 2,
-      "y": 0,
-      "z": -1,
-      "name": "Empty",
-      "level": 0
-    },
-    {
-      "x": 2,
-      "y": 1,
-      "z": -1,
-      "name": "Empty",
-      "level": 0
-    },
-    {
-      "x": 2,
-      "y": 7,
-      "z": -1,
-      "name": "Empty",
-      "level": 0
-    },
-    {
-      "x": 2,
-      "y": 8,
-      "z": -1,
-      "name": "Empty",
-      "level": 0
-    },
-    {
-      "x": 2,
-      "y": 9,
-      "z": -1,
-      "name": "Empty",
-      "level": 0
-    },
-    {
-      "x": 2,
-      "y": 0,
-      "z": 0,
-      "name": "Empty",
-      "level": 0
-    },
-    {
-      "x": 2,
-      "y": 1,
-      "z": 0,
-      "name": "Empty",
-      "level": 0
-    },
-    {
-      "x": 2,
-      "y": 7,
-      "z": 0,
-      "name": "Empty",
-      "level": 0
-    },
-    {
-      "x": 2,
-      "y": 8,
-      "z": 0,
-      "name": "Empty",
-      "level": 0
-    },
-    {
-      "x": 2,
-      "y": 9,
-      "z": 0,
-      "name": "Empty",
-      "level": 0
-    },
-    {
-      "x": 2,
-      "y": 0,
-      "z": 1,
-      "name": "Empty",
-      "level": 0
-    },
-    {
-      "x": 2,
-      "y": 1,
-      "z": 1,
-      "name": "Empty",
-      "level": 0
-    },
-    {
-      "x": 2,
-      "y": 7,
-      "z": 1,
-      "name": "Empty",
-      "level": 0
-    },
-    {
-      "x": 2,
-      "y": 8,
-      "z": 1,
-      "name": "Empty",
-      "level": 0
-    },
-    {
-      "x": 2,
-      "y": 9,
-      "z": 1,
-      "name": "Empty",
-      "level": 0
-    },
-    {
-      "x": 2,
-      "y": 0,
-      "z": 2,
-      "name": "Empty",
-      "level": 0
-    },
-    {
-      "x": 2,
-      "y": 1,
-      "z": 2,
-      "name": "Empty",
-      "level": 0
-    },
-    {
-      "x": 2,
-      "y": 7,
-      "z": 2,
-      "name": "Empty",
-      "level": 0
-    },
-    {
-      "x": 2,
-      "y": 8,
-      "z": 2,
-      "name": "Empty",
-      "level": 0
-    },
-    {
-      "x": 2,
-      "y": 9,
-      "z": 2,
-      "name": "Empty",
-      "level": 0
-    },
-    {
-      "x": 2,
-      "y": 0,
-      "z": 3,
-      "name": "Empty",
-      "level": 0
-    },
-    {
-      "x": 2,
-      "y": 1,
-      "z": 3,
-      "name": "Empty",
-      "level": 0
-    },
-    {
-      "x": 2,
-      "y": 7,
-      "z": 3,
-      "name": "Empty",
-      "level": 0
-    },
-    {
-      "x": 2,
-      "y": 8,
-      "z": 3,
-      "name": "Empty",
-      "level": 0
-    },
-    {
-      "x": 2,
-      "y": 9,
-      "z": 3,
-      "name": "Empty",
-      "level": 0
-    },
-    {
-      "x": 2,
-      "y": 0,
-      "z": 4,
-      "name": "Empty",
-      "level": 0
-    },
-    {
-      "x": 2,
-      "y": 1,
-      "z": 4,
-      "name": "Empty",
-      "level": 0
-    },
-    {
-      "x": 2,
-      "y": 7,
-      "z": 4,
-      "name": "Empty",
-      "level": 0
-    },
-    {
-      "x": 2,
-      "y": 8,
-      "z": 4,
-      "name": "Empty",
-      "level": 0
-    },
-    {
-      "x": 2,
-      "y": 9,
-      "z": 4,
-      "name": "Empty",
-      "level": 0
-    },
-    {
-      "x": 2,
-      "y": 0,
-      "z": 5,
-      "name": "Empty",
-      "level": 0
-    },
-    {
-      "x": 2,
-      "y": 1,
-      "z": 5,
-      "name": "Empty",
-      "level": 0
-    },
-    {
-      "x": 2,
-      "y": 7,
-      "z": 5,
-      "name": "Empty",
-      "level": 0
-    },
-    {
-      "x": 2,
-      "y": 8,
-      "z": 5,
-      "name": "Empty",
-      "level": 0
-    },
-    {
-      "x": 2,
-      "y": 9,
-      "z": 5,
-      "name": "Empty",
-      "level": 0
-    },
-    {
-      "x": 3,
-      "y": 0,
-      "z": -5,
-      "name": "Empty",
-      "level": 0
-    },
-    {
-      "x": 3,
-      "y": 1,
-      "z": -5,
-      "name": "Empty",
-      "level": 0
-    },
-    {
-      "x": 3,
-      "y": 7,
-      "z": -5,
-      "name": "Empty",
-      "level": 0
-    },
-    {
-      "x": 3,
-      "y": 8,
-      "z": -5,
-      "name": "Empty",
-      "level": 0
-    },
-    {
-      "x": 3,
-      "y": 0,
-      "z": -4,
-      "name": "Empty",
-      "level": 0
-    },
-    {
-      "x": 3,
-      "y": 1,
-      "z": -4,
-      "name": "Empty",
-      "level": 0
-    },
-    {
-      "x": 3,
-      "y": 2,
-      "z": -4,
-      "name": "Empty",
-      "level": 0
-    },
-    {
-      "x": 3,
-      "y": 3,
-      "z": -4,
-      "name": "Empty",
-      "level": 0
-    },
-    {
-      "x": 3,
-      "y": 4,
-      "z": -4,
-      "name": "Empty",
-      "level": 0
-    },
-    {
-      "x": 3,
-      "y": 5,
-      "z": -4,
-      "name": "Empty",
-      "level": 0
-    },
-    {
-      "x": 3,
-      "y": 6,
-      "z": -4,
-      "name": "Empty",
-      "level": 0
-    },
-    {
-      "x": 3,
-      "y": 7,
-      "z": -4,
-      "name": "Empty",
-      "level": 0
-    },
-    {
-      "x": 3,
-      "y": 8,
-      "z": -4,
-      "name": "Empty",
-      "level": 0
-    },
-    {
-      "x": 3,
-      "y": 0,
-      "z": -3,
-      "name": "Empty",
-      "level": 0
-    },
-    {
-      "x": 3,
-      "y": 1,
-      "z": -3,
-      "name": "Empty",
-      "level": 0
-    },
-    {
-      "x": 3,
-      "y": 7,
-      "z": -3,
-      "name": "Empty",
-      "level": 0
-    },
-    {
-      "x": 3,
-      "y": 8,
-      "z": -3,
-      "name": "Empty",
-      "level": 0
-    },
-    {
-      "x": 3,
-      "y": 0,
-      "z": -2,
-      "name": "Empty",
-      "level": 0
-    },
-    {
-      "x": 3,
-      "y": 1,
-      "z": -2,
-      "name": "Empty",
-      "level": 0
-    },
-    {
-      "x": 3,
-      "y": 2,
-      "z": -2,
-      "name": "Empty",
-      "level": 0
-    },
-    {
-      "x": 3,
-      "y": 3,
-      "z": -2,
-      "name": "Empty",
-      "level": 0
-    },
-    {
-      "x": 3,
-      "y": 4,
-      "z": -2,
-      "name": "Empty",
-      "level": 0
-    },
-    {
-      "x": 3,
-      "y": 5,
-      "z": -2,
-      "name": "Empty",
-      "level": 0
-    },
-    {
-      "x": 3,
-      "y": 6,
-      "z": -2,
-      "name": "Empty",
-      "level": 0
-    },
-    {
-      "x": 3,
-      "y": 7,
-      "z": -2,
-      "name": "Empty",
-      "level": 0
-    },
-    {
-      "x": 3,
-      "y": 8,
-      "z": -2,
-      "name": "Empty",
-      "level": 0
-    },
-    {
-      "x": 3,
-      "y": 0,
-      "z": -1,
-      "name": "Empty",
-      "level": 0
-    },
-    {
-      "x": 3,
-      "y": 1,
-      "z": -1,
-      "name": "Empty",
-      "level": 0
-    },
-    {
-      "x": 3,
-      "y": 7,
-      "z": -1,
-      "name": "Empty",
-      "level": 0
-    },
-    {
-      "x": 3,
-      "y": 8,
-      "z": -1,
-      "name": "Empty",
-      "level": 0
-    },
-    {
-      "x": 3,
-      "y": 0,
-      "z": 0,
-      "name": "Empty",
-      "level": 0
-    },
-    {
-      "x": 3,
-      "y": 1,
-      "z": 0,
-      "name": "Empty",
-      "level": 0
-    },
-    {
-      "x": 3,
-      "y": 2,
-      "z": 0,
-      "name": "Empty",
-      "level": 0
-    },
-    {
-      "x": 3,
-      "y": 3,
-      "z": 0,
-      "name": "Empty",
-      "level": 0
-    },
-    {
-      "x": 3,
-      "y": 4,
-      "z": 0,
-      "name": "Empty",
-      "level": 0
-    },
-    {
-      "x": 3,
-      "y": 5,
-      "z": 0,
-      "name": "Empty",
-      "level": 0
-    },
-    {
-      "x": 3,
-      "y": 6,
-      "z": 0,
-      "name": "Empty",
-      "level": 0
-    },
-    {
-      "x": 3,
-      "y": 7,
-      "z": 0,
-      "name": "Empty",
-      "level": 0
-    },
-    {
-      "x": 3,
-      "y": 8,
-      "z": 0,
-      "name": "Empty",
-      "level": 0
-    },
-    {
-      "x": 3,
-      "y": 0,
-      "z": 1,
-      "name": "Empty",
-      "level": 0
-    },
-    {
-      "x": 3,
-      "y": 1,
-      "z": 1,
-      "name": "Empty",
-      "level": 0
-    },
-    {
-      "x": 3,
-      "y": 7,
-      "z": 1,
-      "name": "Empty",
-      "level": 0
-    },
-    {
-      "x": 3,
-      "y": 8,
-      "z": 1,
-      "name": "Empty",
-      "level": 0
-    },
-    {
-      "x": 3,
-      "y": 0,
-      "z": 2,
-      "name": "Empty",
-      "level": 0
-    },
-    {
-      "x": 3,
-      "y": 1,
-      "z": 2,
-      "name": "Empty",
-      "level": 0
-    },
-    {
-      "x": 3,
-      "y": 2,
-      "z": 2,
-      "name": "Empty",
-      "level": 0
-    },
-    {
-      "x": 3,
-      "y": 3,
-      "z": 2,
-      "name": "Empty",
-      "level": 0
-    },
-    {
-      "x": 3,
-      "y": 4,
-      "z": 2,
-      "name": "Empty",
-      "level": 0
-    },
-    {
-      "x": 3,
-      "y": 5,
-      "z": 2,
-      "name": "Empty",
-      "level": 0
-    },
-    {
-      "x": 3,
-      "y": 6,
-      "z": 2,
-      "name": "Empty",
-      "level": 0
-    },
-    {
-      "x": 3,
-      "y": 7,
-      "z": 2,
-      "name": "Empty",
-      "level": 0
-    },
-    {
-      "x": 3,
-      "y": 8,
-      "z": 2,
-      "name": "Empty",
-      "level": 0
-    },
-    {
-      "x": 3,
-      "y": 0,
-      "z": 3,
-      "name": "Empty",
-      "level": 0
-    },
-    {
-      "x": 3,
-      "y": 1,
-      "z": 3,
-      "name": "Empty",
-      "level": 0
-    },
-    {
-      "x": 3,
-      "y": 7,
-      "z": 3,
-      "name": "Empty",
-      "level": 0
-    },
-    {
-      "x": 3,
-      "y": 8,
-      "z": 3,
-      "name": "Empty",
-      "level": 0
-    },
-    {
-      "x": 3,
-      "y": 0,
-      "z": 4,
-      "name": "Empty",
-      "level": 0
-    },
-    {
-      "x": 3,
-      "y": 1,
-      "z": 4,
-      "name": "Empty",
-      "level": 0
-    },
-    {
-      "x": 3,
-      "y": 2,
-      "z": 4,
-      "name": "Empty",
-      "level": 0
-    },
-    {
-      "x": 3,
-      "y": 3,
-      "z": 4,
-      "name": "Empty",
-      "level": 0
-    },
-    {
-      "x": 3,
-      "y": 4,
-      "z": 4,
-      "name": "Empty",
-      "level": 0
-    },
-    {
-      "x": 3,
-      "y": 5,
-      "z": 4,
-      "name": "Empty",
-      "level": 0
-    },
-    {
-      "x": 3,
-      "y": 6,
-      "z": 4,
-      "name": "Empty",
-      "level": 0
-    },
-    {
-      "x": 3,
-      "y": 7,
-      "z": 4,
-      "name": "Empty",
-      "level": 0
-    },
-    {
-      "x": 3,
-      "y": 8,
-      "z": 4,
-      "name": "Empty",
-      "level": 0
-    },
-    {
-      "x": 3,
-      "y": 0,
-      "z": 5,
-      "name": "Empty",
-      "level": 0
-    },
-    {
-      "x": 3,
-      "y": 1,
-      "z": 5,
-      "name": "Empty",
-      "level": 0
-    },
-    {
-      "x": 3,
-      "y": 7,
-      "z": 5,
-      "name": "Empty",
-      "level": 0
-    },
-    {
-      "x": 3,
-      "y": 8,
-      "z": 5,
-      "name": "Empty",
-      "level": 0
-    },
-    {
-      "x": 4,
-      "y": 0,
-      "z": -5,
-      "name": "Empty",
-      "level": 0
-    },
-    {
-      "x": 4,
-      "y": 1,
-      "z": -5,
-      "name": "Empty",
-      "level": 0
-    },
-    {
-      "x": 4,
-      "y": 7,
-      "z": -5,
-      "name": "Empty",
-      "level": 0
-    },
-    {
-      "x": 4,
-      "y": 8,
-      "z": -5,
-      "name": "Empty",
-      "level": 0
-    },
-    {
-      "x": 4,
-      "y": 0,
-      "z": -4,
-      "name": "Empty",
-      "level": 0
-    },
-    {
-      "x": 4,
-      "y": 1,
-      "z": -4,
-      "name": "Empty",
-      "level": 0
-    },
-    {
-      "x": 4,
-      "y": 7,
-      "z": -4,
-      "name": "Empty",
-      "level": 0
-    },
-    {
-      "x": 4,
-      "y": 8,
-      "z": -4,
-      "name": "Empty",
-      "level": 0
-    },
-    {
-      "x": 4,
-      "y": 0,
-      "z": -3,
-      "name": "Empty",
-      "level": 0
-    },
-    {
-      "x": 4,
-      "y": 1,
-      "z": -3,
-      "name": "Empty",
-      "level": 0
-    },
-    {
-      "x": 4,
-      "y": 7,
-      "z": -3,
-      "name": "Empty",
-      "level": 0
-    },
-    {
-      "x": 4,
-      "y": 8,
-      "z": -3,
-      "name": "Empty",
-      "level": 0
-    },
-    {
-      "x": 4,
-      "y": 0,
-      "z": -2,
-      "name": "Empty",
-      "level": 0
-    },
-    {
-      "x": 4,
-      "y": 1,
-      "z": -2,
-      "name": "Empty",
-      "level": 0
-    },
-    {
-      "x": 4,
-      "y": 7,
-      "z": -2,
-      "name": "Empty",
-      "level": 0
-    },
-    {
-      "x": 4,
-      "y": 8,
-      "z": -2,
-      "name": "Empty",
-      "level": 0
-    },
-    {
-      "x": 4,
-      "y": 0,
-      "z": -1,
-      "name": "Empty",
-      "level": 0
-    },
-    {
-      "x": 4,
-      "y": 1,
-      "z": -1,
-      "name": "Empty",
-      "level": 0
-    },
-    {
-      "x": 4,
-      "y": 7,
-      "z": -1,
-      "name": "Empty",
-      "level": 0
-    },
-    {
-      "x": 4,
-      "y": 8,
-      "z": -1,
-      "name": "Empty",
-      "level": 0
-    },
-    {
-      "x": 4,
-      "y": 0,
-      "z": 0,
-      "name": "Empty",
-      "level": 0
-    },
-    {
-      "x": 4,
-      "y": 1,
-      "z": 0,
-      "name": "Empty",
-      "level": 0
-    },
-    {
-      "x": 4,
-      "y": 7,
-      "z": 0,
-      "name": "Empty",
-      "level": 0
-    },
-    {
-      "x": 4,
-      "y": 8,
-      "z": 0,
-      "name": "Empty",
-      "level": 0
-    },
-    {
-      "x": 4,
-      "y": 0,
-      "z": 1,
-      "name": "Empty",
-      "level": 0
-    },
-    {
-      "x": 4,
-      "y": 1,
-      "z": 1,
-      "name": "Empty",
-      "level": 0
-    },
-    {
-      "x": 4,
-      "y": 7,
-      "z": 1,
-      "name": "Empty",
-      "level": 0
-    },
-    {
-      "x": 4,
-      "y": 8,
-      "z": 1,
-      "name": "Empty",
-      "level": 0
-    },
-    {
-      "x": 4,
-      "y": 0,
-      "z": 2,
-      "name": "Empty",
-      "level": 0
-    },
-    {
-      "x": 4,
-      "y": 1,
-      "z": 2,
-      "name": "Empty",
-      "level": 0
-    },
-    {
-      "x": 4,
-      "y": 7,
-      "z": 2,
-      "name": "Empty",
-      "level": 0
-    },
-    {
-      "x": 4,
-      "y": 8,
-      "z": 2,
-      "name": "Empty",
-      "level": 0
-    },
-    {
-      "x": 4,
-      "y": 0,
-      "z": 3,
-      "name": "Empty",
-      "level": 0
-    },
-    {
-      "x": 4,
-      "y": 1,
-      "z": 3,
-      "name": "Empty",
-      "level": 0
-    },
-    {
-      "x": 4,
-      "y": 7,
-      "z": 3,
-      "name": "Empty",
-      "level": 0
-    },
-    {
-      "x": 4,
-      "y": 8,
-      "z": 3,
-      "name": "Empty",
-      "level": 0
-    },
-    {
-      "x": 4,
-      "y": 0,
-      "z": 4,
-      "name": "Empty",
-      "level": 0
-    },
-    {
-      "x": 4,
-      "y": 1,
-      "z": 4,
-      "name": "Empty",
-      "level": 0
-    },
-    {
-      "x": 4,
-      "y": 7,
-      "z": 4,
-      "name": "Empty",
-      "level": 0
-    },
-    {
-      "x": 4,
-      "y": 8,
-      "z": 4,
-      "name": "Empty",
-      "level": 0
-    },
-    {
-      "x": 4,
-      "y": 0,
-      "z": 5,
-      "name": "Empty",
-      "level": 0
-    },
-    {
-      "x": 4,
-      "y": 1,
-      "z": 5,
-      "name": "Empty",
-      "level": 0
-    },
-    {
-      "x": 4,
-      "y": 7,
-      "z": 5,
-      "name": "Empty",
-      "level": 0
-    },
-    {
-      "x": 4,
-      "y": 8,
-      "z": 5,
-      "name": "Empty",
-      "level": 0
+      "name": "Rock_Marble_Brick"
     }
   ]
 }

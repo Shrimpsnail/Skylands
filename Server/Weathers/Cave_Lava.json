@@ -1,0 +1,55 @@
+{
+  "FogOptions": {
+    "IgnoreFogLimits": false,
+    "EffectiveViewDistanceMultiplier": 0.6
+  },
+  "SkyTopColors": [
+    {
+      "Hour": 0,
+      "Color": "#2d0000ff"
+    }
+  ],
+  "SkyBottomColors": null,
+  "SkySunsetColors": [
+    {
+      "Hour": 0,
+      "Color": "#2d0000ff"
+    }
+  ],
+  "FogColors": [
+    {
+      "Hour": 0,
+      "Color": "#3c1100"
+    }
+  ],
+  "WaterTints": [
+    {
+      "Hour": 0,
+      "Color": "#5e9db6"
+    }
+  ],
+  "ColorFilters": [
+    {
+      "Hour": 0,
+      "Color": "#fff9f3"
+    }
+  ],
+  "FogHeightFalloffs": null,
+  "Particle": {
+    "SystemId": "Burning_Wasteland"
+  },
+  "SunlightColors": [
+    {
+      "Hour": 0,
+      "Color": "#fff9f0"
+    }
+  ],
+  "SunColors": null,
+  "SunGlowColors": null,
+  "SunScales": [
+    {
+      "Hour": 0,
+      "Value": 0
+    }
+  ]
+}

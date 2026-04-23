@@ -24,7 +24,7 @@
 							"Lacunarity":	2,
 							"Persistence":	0.5,
 							"Octaves":	6,
-							"Scale":	2000,
+							"Scale":	1000,
 							"Seed":	"World"
 						}, {
 							"$NodeId":	"NormalizerDensityNode-9dde7f79-eb11-4682-825f-2909aa19eddf",
@@ -47,7 +47,7 @@
 					"Skip":	false,
 					"FromMin":	-1,
 					"FromMax":	1,
-					"ToMin":	-3,
+					"ToMin":	-1,
 					"ToMax":	3,
 					"Inputs":	[{
 							"$NodeId":	"ImportedDensityNode-05b317c8-b1cd-41eb-9fa3-1ce904047c47",
@@ -76,7 +76,7 @@
 									"Lacunarity":	2,
 									"Persistence":	0.5,
 									"Octaves":	7,
-									"Scale":	3000,
+									"Scale":	2000,
 									"Seed":	"World"
 								}]
 						}]

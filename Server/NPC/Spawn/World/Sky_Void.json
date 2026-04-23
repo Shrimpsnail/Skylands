@@ -1,0 +1,39 @@
+{
+  "NPCs": [
+    {
+      "Id": "Crawler_Void",
+      "Weight": 6,
+      "Flock": "Group_Tiny"
+    },
+    {
+      "Id": "Eye_Void",
+      "Weight": 1,
+      "Flock": "Group_Tiny"
+    },
+    {
+      "Id": "Spawn_Void",
+      "Weight": 3,
+      "Flock": "Group_Tiny"
+    },
+    {
+      "Id": "Spectre_Void",
+      "Weight": 1,
+      "Flock": "Group_Tiny"
+    }
+  ],
+  "Environments": [
+    "Env_Sky"
+  ],
+  "DayTimeRange": [
+    20,
+    21,
+    22,
+    23,
+    24,
+    0,
+    1,
+    2,
+    3,
+    4
+  ]
+}

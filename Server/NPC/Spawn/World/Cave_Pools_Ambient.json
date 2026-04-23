@@ -2,33 +2,63 @@
   "NPCs": [
     {
       "Id": "Jellyfish_Blue",
-      "SpawnFluidTag": "Glow_Water",
+      "SpawnFluidTag": "Water",
       "Flock": "Group_Small",
-      "Weight": 1
+      "Weight": 2
     },
     {
       "Id": "Jellyfish_Cyan",
-      "Weight": 1,
+      "Weight": 2,
       "Flock": "Group_Small",
-      "SpawnFluidTag": "Glow_Water"
+      "SpawnFluidTag": "Water"
     },
     {
       "Id": "Jellyfish_Green",
-      "Weight": 1,
+      "Weight": 1.5,
       "Flock": "Group_Small",
-      "SpawnFluidTag": "Glow_Water"
+      "SpawnFluidTag": "Water"
     },
     {
       "Id": "Jellyfish_Yellow",
       "Weight": 1,
       "Flock": "Group_Small",
-      "SpawnFluidTag": "Glow_Water"
+      "SpawnFluidTag": "Water"
     },
     {
       "Id": "Jellyfish_Red",
       "Weight": 1,
       "Flock": "Group_Small",
-      "SpawnFluidTag": "Glow_Water"
+      "SpawnFluidTag": "Water"
+    },
+    {
+      "Id": "Jellyfish_Man_Of_War",
+      "Weight": 0.5,
+      "SpawnFluidTag": "Water",
+      "Flock": "One_Or_Two"
+    },
+    {
+      "Id": "Tang_Blue",
+      "Weight": 1,
+      "Flock": "Group_Medium",
+      "SpawnFluidTag": "Water"
+    },
+    {
+      "Id": "Tang_Chevron",
+      "Weight": 1,
+      "SpawnFluidTag": "Water",
+      "Flock": "Group_Medium"
+    },
+    {
+      "Id": "Tang_Lemon_Peel",
+      "SpawnFluidTag": "Water",
+      "Flock": "Group_Small",
+      "Weight": 1
+    },
+    {
+      "Id": "Tang_Sailfin",
+      "Weight": 1,
+      "SpawnFluidTag": "Water",
+      "Flock": "Group_Medium"
     }
   ],
   "Environments": [

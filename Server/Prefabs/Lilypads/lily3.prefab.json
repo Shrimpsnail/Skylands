@@ -127,6 +127,20 @@
       "name": "Plant_Large_Lilypad"
     },
     {
+      "x": -5,
+      "y": 13,
+      "z": 4,
+      "name": "Plant_Reeds_Arid",
+      "support": 15
+    },
+    {
+      "x": -5,
+      "y": 14,
+      "z": 4,
+      "name": "Plant_Reeds_Arid",
+      "filler": 1024
+    },
+    {
       "x": -4,
       "y": 17,
       "z": -5,
@@ -218,20 +232,6 @@
     },
     {
       "x": -4,
-      "y": 13,
-      "z": 3,
-      "name": "Plant_Reeds_Arid",
-      "support": 15
-    },
-    {
-      "x": -4,
-      "y": 14,
-      "z": 3,
-      "name": "Plant_Reeds_Arid",
-      "filler": 1024
-    },
-    {
-      "x": -4,
       "y": 12,
       "z": 4,
       "name": "Plant_Large_Lilypad"
@@ -240,15 +240,8 @@
       "x": -4,
       "y": 13,
       "z": 4,
-      "name": "Plant_Grass_Wet_Overgrown",
+      "name": "Plant_Reeds_Marsh",
       "support": 15
-    },
-    {
-      "x": -4,
-      "y": 14,
-      "z": 4,
-      "name": "Plant_Grass_Wet_Overgrown",
-      "filler": 1024
     },
     {
       "x": -3,
@@ -419,20 +412,6 @@
     },
     {
       "x": -2,
-      "y": 14,
-      "z": -1,
-      "name": "Plant_Grass_Sharp_Wild",
-      "support": 15
-    },
-    {
-      "x": -2,
-      "y": 15,
-      "z": -1,
-      "name": "Plant_Grass_Sharp_Wild",
-      "filler": 1024
-    },
-    {
-      "x": -2,
       "y": 2,
       "z": 0,
       "name": "Wood_Banyan_Branch_Long",
@@ -453,13 +432,6 @@
       "z": 0,
       "name": "Plant_Large_Lilypad",
       "rotation": 3
-    },
-    {
-      "x": -2,
-      "y": 14,
-      "z": 0,
-      "name": "Plant_Grass_Sharp_Short",
-      "support": 15
     },
     {
       "x": -2,
@@ -525,38 +497,10 @@
     },
     {
       "x": -1,
-      "y": 14,
-      "z": -2,
-      "name": "Plant_Grass_Sharp_Wild",
-      "support": 15
-    },
-    {
-      "x": -1,
-      "y": 15,
-      "z": -2,
-      "name": "Plant_Grass_Sharp_Wild",
-      "filler": 1024
-    },
-    {
-      "x": -1,
       "y": 13,
       "z": -1,
       "name": "Plant_Large_Lilypad",
       "rotation": 3
-    },
-    {
-      "x": -1,
-      "y": 14,
-      "z": -1,
-      "name": "Plant_Grass_Sharp_Tall",
-      "support": 15
-    },
-    {
-      "x": -1,
-      "y": 15,
-      "z": -1,
-      "name": "Plant_Grass_Sharp_Tall",
-      "filler": 1024
     },
     {
       "x": -1,
@@ -745,13 +689,6 @@
     },
     {
       "x": 0,
-      "y": 14,
-      "z": -2,
-      "name": "Plant_Grass_Sharp_Short",
-      "support": 15
-    },
-    {
-      "x": 0,
       "y": 7,
       "z": -1,
       "name": "Wood_Banyan_Trunk",
@@ -764,13 +701,6 @@
       "z": -1,
       "name": "Plant_Large_Lilypad",
       "rotation": 3
-    },
-    {
-      "x": 0,
-      "y": 14,
-      "z": -1,
-      "name": "Plant_Grass_Sharp_Short",
-      "support": 15
     },
     {
       "x": 0,
@@ -1031,13 +961,6 @@
     },
     {
       "x": 1,
-      "y": 14,
-      "z": 2,
-      "name": "Plant_Grass_Sharp_Short",
-      "support": 15
-    },
-    {
-      "x": 1,
       "y": 6,
       "z": 3,
       "name": "Wood_Banyan_Trunk",
@@ -1183,31 +1106,10 @@
     },
     {
       "x": 2,
-      "y": 14,
-      "z": 0,
-      "name": "Plant_Grass_Sharp_Short",
-      "support": 15
-    },
-    {
-      "x": 2,
       "y": 13,
       "z": 1,
       "name": "Plant_Large_Lilypad",
       "rotation": 3
-    },
-    {
-      "x": 2,
-      "y": 14,
-      "z": 1,
-      "name": "Plant_Grass_Sharp_Tall",
-      "support": 15
-    },
-    {
-      "x": 2,
-      "y": 15,
-      "z": 1,
-      "name": "Plant_Grass_Sharp_Tall",
-      "filler": 1024
     },
     {
       "x": 2,
@@ -1268,20 +1170,6 @@
     },
     {
       "x": 3,
-      "y": 13,
-      "z": -5,
-      "name": "Plant_Grass_Wet_Overgrown",
-      "support": 15
-    },
-    {
-      "x": 3,
-      "y": 14,
-      "z": -5,
-      "name": "Plant_Grass_Wet_Overgrown",
-      "filler": 1024
-    },
-    {
-      "x": 3,
       "y": 8,
       "z": -4,
       "name": "Wood_Banyan_Trunk_Full",
@@ -1293,13 +1181,6 @@
       "y": 12,
       "z": -4,
       "name": "Plant_Large_Lilypad"
-    },
-    {
-      "x": 3,
-      "y": 13,
-      "z": -4,
-      "name": "Plant_Reeds_Marsh",
-      "support": 15
     },
     {
       "x": 3,
@@ -1486,6 +1367,20 @@
     },
     {
       "x": 3,
+      "y": 13,
+      "z": 3,
+      "name": "Plant_Reeds_Arid",
+      "support": 15
+    },
+    {
+      "x": 3,
+      "y": 14,
+      "z": 3,
+      "name": "Plant_Reeds_Arid",
+      "filler": 1024
+    },
+    {
+      "x": 3,
       "y": 6,
       "z": 4,
       "name": "Wood_Banyan_Branch_Long",
@@ -1503,6 +1398,20 @@
       "y": 12,
       "z": 4,
       "name": "Plant_Large_Lilypad"
+    },
+    {
+      "x": 3,
+      "y": 13,
+      "z": 4,
+      "name": "Plant_Reeds_Arid",
+      "support": 15
+    },
+    {
+      "x": 3,
+      "y": 14,
+      "z": 4,
+      "name": "Plant_Reeds_Arid",
+      "filler": 1024
     },
     {
       "x": 3,
@@ -1540,13 +1449,6 @@
       "name": "Plant_Large_Lilypad"
     },
     {
-      "x": 3,
-      "y": 13,
-      "z": 5,
-      "name": "Plant_Reeds_Marsh",
-      "support": 15
-    },
-    {
       "x": 4,
       "y": 12,
       "z": -6,
@@ -1563,20 +1465,6 @@
       "y": 12,
       "z": -5,
       "name": "Plant_Large_Lilypad"
-    },
-    {
-      "x": 4,
-      "y": 13,
-      "z": -5,
-      "name": "Plant_Reeds_Arid",
-      "support": 15
-    },
-    {
-      "x": 4,
-      "y": 14,
-      "z": -5,
-      "name": "Plant_Reeds_Arid",
-      "filler": 1024
     },
     {
       "x": 4,
@@ -1620,30 +1508,9 @@
     },
     {
       "x": 4,
-      "y": 13,
-      "z": -4,
-      "name": "Plant_Reeds_Arid",
-      "support": 15
-    },
-    {
-      "x": 4,
-      "y": 14,
-      "z": -4,
-      "name": "Plant_Reeds_Arid",
-      "filler": 1024
-    },
-    {
-      "x": 4,
       "y": 12,
       "z": -3,
       "name": "Plant_Large_Lilypad"
-    },
-    {
-      "x": 4,
-      "y": 13,
-      "z": -3,
-      "name": "Plant_Reeds_Marsh",
-      "support": 15
     },
     {
       "x": 4,
@@ -1672,20 +1539,6 @@
       "y": 12,
       "z": 3,
       "name": "Plant_Large_Lilypad"
-    },
-    {
-      "x": 4,
-      "y": 13,
-      "z": 3,
-      "name": "Plant_Reeds_Arid",
-      "support": 15
-    },
-    {
-      "x": 4,
-      "y": 14,
-      "z": 3,
-      "name": "Plant_Reeds_Arid",
-      "filler": 1024
     },
     {
       "x": 4,
@@ -1740,15 +1593,8 @@
       "x": 4,
       "y": 13,
       "z": 4,
-      "name": "Plant_Grass_Wet_Overgrown",
+      "name": "Plant_Fern_Jungle",
       "support": 15
-    },
-    {
-      "x": 4,
-      "y": 14,
-      "z": 4,
-      "name": "Plant_Grass_Wet_Overgrown",
-      "filler": 1024
     },
     {
       "x": 4,
@@ -1757,24 +1603,17 @@
       "name": "Plant_Large_Lilypad"
     },
     {
-      "x": 5,
-      "y": 12,
-      "z": -6,
-      "name": "Plant_Large_Lilypad"
-    },
-    {
-      "x": 5,
+      "x": 4,
       "y": 13,
-      "z": -6,
-      "name": "Plant_Grass_Wet_Overgrown",
+      "z": 5,
+      "name": "Plant_Reeds_Marsh",
       "support": 15
     },
     {
       "x": 5,
-      "y": 14,
+      "y": 12,
       "z": -6,
-      "name": "Plant_Grass_Wet_Overgrown",
-      "filler": 1024
+      "name": "Plant_Large_Lilypad"
     },
     {
       "x": 5,
@@ -1793,20 +1632,6 @@
       "y": 12,
       "z": -4,
       "name": "Plant_Large_Lilypad"
-    },
-    {
-      "x": 5,
-      "y": 13,
-      "z": -4,
-      "name": "Plant_Grass_Wet_Overgrown",
-      "support": 15
-    },
-    {
-      "x": 5,
-      "y": 14,
-      "z": -4,
-      "name": "Plant_Grass_Wet_Overgrown",
-      "filler": 1024
     },
     {
       "x": 5,
@@ -1866,8 +1691,15 @@
       "x": 5,
       "y": 13,
       "z": 3,
-      "name": "Plant_Reeds_Marsh",
+      "name": "Plant_Reeds_Arid",
       "support": 15
+    },
+    {
+      "x": 5,
+      "y": 14,
+      "z": 3,
+      "name": "Plant_Reeds_Arid",
+      "filler": 1024
     },
     {
       "x": 5,
@@ -1877,37 +1709,9 @@
     },
     {
       "x": 5,
-      "y": 13,
-      "z": 4,
-      "name": "Plant_Reeds_Arid",
-      "support": 15
-    },
-    {
-      "x": 5,
-      "y": 14,
-      "z": 4,
-      "name": "Plant_Reeds_Arid",
-      "filler": 1024
-    },
-    {
-      "x": 5,
       "y": 12,
       "z": 5,
       "name": "Plant_Large_Lilypad"
-    },
-    {
-      "x": 5,
-      "y": 13,
-      "z": 5,
-      "name": "Plant_Grass_Wet_Overgrown",
-      "support": 15
-    },
-    {
-      "x": 5,
-      "y": 14,
-      "z": 5,
-      "name": "Plant_Grass_Wet_Overgrown",
-      "filler": 1024
     },
     {
       "x": 6,
@@ -1917,30 +1721,9 @@
     },
     {
       "x": 6,
-      "y": 13,
-      "z": -5,
-      "name": "Plant_Reeds_Marsh",
-      "support": 15
-    },
-    {
-      "x": 6,
       "y": 12,
       "z": -4,
       "name": "Plant_Large_Lilypad"
-    },
-    {
-      "x": 6,
-      "y": 13,
-      "z": -4,
-      "name": "Plant_Reeds_Arid",
-      "support": 15
-    },
-    {
-      "x": 6,
-      "y": 14,
-      "z": -4,
-      "name": "Plant_Reeds_Arid",
-      "filler": 1024
     },
     {
       "x": 6,
@@ -2076,13 +1859,6 @@
     },
     {
       "x": -5,
-      "y": 13,
-      "z": 3,
-      "name": "Water_Source",
-      "level": 1
-    },
-    {
-      "x": -5,
       "y": 11,
       "z": 4,
       "name": "Water_Source",
@@ -2127,20 +1903,6 @@
       "x": -4,
       "y": 11,
       "z": 3,
-      "name": "Water_Source",
-      "level": 1
-    },
-    {
-      "x": -4,
-      "y": 13,
-      "z": 3,
-      "name": "Water_Source",
-      "level": 1
-    },
-    {
-      "x": -4,
-      "y": 13,
-      "z": 4,
       "name": "Water_Source",
       "level": 1
     },
@@ -2377,20 +2139,6 @@
     },
     {
       "x": 3,
-      "y": 13,
-      "z": -5,
-      "name": "Water_Source",
-      "level": 1
-    },
-    {
-      "x": 3,
-      "y": 13,
-      "z": -4,
-      "name": "Water_Source",
-      "level": 1
-    },
-    {
-      "x": 3,
       "y": -1,
       "z": -3,
       "name": "Water_Source",
@@ -2467,13 +2215,6 @@
       "level": 1
     },
     {
-      "x": 3,
-      "y": 13,
-      "z": 5,
-      "name": "Water_Source",
-      "level": 1
-    },
-    {
       "x": 4,
       "y": 11,
       "z": -5,
@@ -2482,29 +2223,8 @@
     },
     {
       "x": 4,
-      "y": 13,
-      "z": -5,
-      "name": "Water_Source",
-      "level": 1
-    },
-    {
-      "x": 4,
       "y": 7,
       "z": -4,
-      "name": "Water_Source",
-      "level": 1
-    },
-    {
-      "x": 4,
-      "y": 13,
-      "z": -4,
-      "name": "Water_Source",
-      "level": 1
-    },
-    {
-      "x": 4,
-      "y": 13,
-      "z": -3,
       "name": "Water_Source",
       "level": 1
     },
@@ -2525,13 +2245,6 @@
     {
       "x": 4,
       "y": 11,
-      "z": 3,
-      "name": "Water_Source",
-      "level": 1
-    },
-    {
-      "x": 4,
-      "y": 13,
       "z": 3,
       "name": "Water_Source",
       "level": 1
@@ -2579,29 +2292,8 @@
       "level": 1
     },
     {
-      "x": 4,
-      "y": 13,
-      "z": 4,
-      "name": "Water_Source",
-      "level": 1
-    },
-    {
-      "x": 5,
-      "y": 13,
-      "z": -6,
-      "name": "Water_Source",
-      "level": 1
-    },
-    {
       "x": 5,
       "y": 11,
-      "z": -4,
-      "name": "Water_Source",
-      "level": 1
-    },
-    {
-      "x": 5,
-      "y": 13,
       "z": -4,
       "name": "Water_Source",
       "level": 1
@@ -2645,41 +2337,6 @@
       "x": 5,
       "y": 7,
       "z": 1,
-      "name": "Water_Source",
-      "level": 1
-    },
-    {
-      "x": 5,
-      "y": 13,
-      "z": 3,
-      "name": "Water_Source",
-      "level": 1
-    },
-    {
-      "x": 5,
-      "y": 13,
-      "z": 4,
-      "name": "Water_Source",
-      "level": 1
-    },
-    {
-      "x": 5,
-      "y": 13,
-      "z": 5,
-      "name": "Water_Source",
-      "level": 1
-    },
-    {
-      "x": 6,
-      "y": 13,
-      "z": -5,
-      "name": "Water_Source",
-      "level": 1
-    },
-    {
-      "x": 6,
-      "y": 13,
-      "z": -4,
       "name": "Water_Source",
       "level": 1
     },

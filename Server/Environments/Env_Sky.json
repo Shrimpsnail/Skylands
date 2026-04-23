@@ -150,5 +150,6 @@
         "Weight": 0
       }
     ]
-  }
+  },
+  "SpawnDensity": 2
 }

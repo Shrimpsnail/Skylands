@@ -1,0 +1,47 @@
+{
+  "NPCs": [
+    {
+      "Id": "Rabbit",
+      "Weight": 3,
+      "Flock": "Group_Tiny"
+    },
+    {
+      "Id": "Chicken_Desert",
+      "Weight": 3,
+      "Flock": "Parent_And_Young_75_25"
+    },
+    {
+      "Id": "Mouflon",
+      "Weight": 3,
+      "Flock": "Parent_And_Young_75_25"
+    },
+    {
+      "Id": "Warthog",
+      "Weight": 3,
+      "Flock": "Parent_And_Young_75_25"
+    },
+    {
+      "Id": "Deer_Doe",
+      "Weight": 3,
+      "Flock": "Parent_And_Young_75_25"
+    },
+    {
+      "Id": "Deer_Stag",
+      "Weight": 3,
+      "Flock": "Parent_And_Young_75_25"
+    },
+    {
+      "Id": "Fox",
+      "Weight": 3,
+      "Flock": "One_Or_Two"
+    },
+    {
+      "Id": "Squirrel",
+      "Weight": 3,
+      "Flock": "One_Or_Two"
+    }
+  ],
+  "Environments": [
+    "Env_Sky"
+  ]
+}

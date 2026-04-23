@@ -1,0 +1,48 @@
+{
+  "NPCs": [
+    {
+      "Id": "Bear_Grizzly",
+      "Weight": 3,
+      "Flock": "One_Or_Two",
+      "SpawnBlockSet": "Mud"
+    },
+    {
+      "Id": "Spider",
+      "Weight": 6,
+      "Flock": "One_Or_Two"
+    },
+    {
+      "Id": "Wolf_White",
+      "Weight": 5,
+      "Flock": "Pack_Small"
+    },
+    {
+      "Id": "Skeleton_Archer_Wander",
+      "Weight": 2,
+      "Flock": "Group_Tiny"
+    },
+    {
+      "Id": "Skeleton_Archmage_Wander",
+      "Weight": 3,
+      "Flock": "Group_Tiny"
+    },
+    {
+      "Id": "Skeleton_Scout_Wander",
+      "Weight": 3,
+      "Flock": "Group_Tiny"
+    },
+    {
+      "Id": "Skeleton_Fighter",
+      "Weight": 3,
+      "Flock": "Group_Tiny"
+    },
+    {
+      "Id": "Skeleton_Soldier",
+      "Weight": 3,
+      "Flock": "Group_Tiny"
+    }
+  ],
+  "Environments": [
+    "Env_Sky"
+  ]
+}

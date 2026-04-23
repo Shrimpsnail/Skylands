@@ -145,7 +145,7 @@
       "x": -4,
       "y": 1,
       "z": 0,
-      "name": "Rock_Marble_Brick"
+      "name": "Rock_Marble_Brick_Smooth_Half"
     },
     {
       "x": -4,
@@ -156,13 +156,6 @@
     },
     {
       "x": -4,
-      "y": 8,
-      "z": 0,
-      "name": "Rock_Marble_Brick_Roof_Shallow",
-      "rotation": 3
-    },
-    {
-      "x": -4,
       "y": 0,
       "z": 1,
       "name": "Rock_Marble_Brick"
@@ -171,47 +164,13 @@
       "x": -4,
       "y": 1,
       "z": 1,
-      "name": "Rock_Marble_Brick"
-    },
-    {
-      "x": -4,
-      "y": 7,
-      "z": 1,
-      "name": "Rock_Marble_Brick",
-      "rotation": 1
-    },
-    {
-      "x": -4,
-      "y": 8,
-      "z": 1,
-      "name": "Rock_Marble_Brick_Roof_Shallow",
-      "rotation": 3
+      "name": "Rock_Marble_Brick_Smooth_Half"
     },
     {
       "x": -4,
       "y": 0,
       "z": 2,
       "name": "Rock_Marble_Brick"
-    },
-    {
-      "x": -4,
-      "y": 1,
-      "z": 2,
-      "name": "Rock_Marble_Brick"
-    },
-    {
-      "x": -4,
-      "y": 7,
-      "z": 2,
-      "name": "Rock_Marble_Brick",
-      "rotation": 1
-    },
-    {
-      "x": -4,
-      "y": 8,
-      "z": 2,
-      "name": "Rock_Marble_Brick_Roof_Shallow",
-      "rotation": 3
     },
     {
       "x": -4,
@@ -223,21 +182,7 @@
       "x": -4,
       "y": 1,
       "z": 3,
-      "name": "Rock_Marble_Brick"
-    },
-    {
-      "x": -4,
-      "y": 7,
-      "z": 3,
-      "name": "Rock_Marble_Brick",
-      "rotation": 1
-    },
-    {
-      "x": -4,
-      "y": 8,
-      "z": 3,
-      "name": "Rock_Marble_Brick_Roof_Shallow",
-      "rotation": 3
+      "name": "Rock_Marble_Brick_Smooth_Half"
     },
     {
       "x": -4,
@@ -254,20 +199,6 @@
     },
     {
       "x": -4,
-      "y": 7,
-      "z": 4,
-      "name": "Rock_Marble_Brick",
-      "rotation": 1
-    },
-    {
-      "x": -4,
-      "y": 8,
-      "z": 4,
-      "name": "Rock_Marble_Brick_Roof_Shallow",
-      "rotation": 3
-    },
-    {
-      "x": -4,
       "y": 0,
       "z": 5,
       "name": "Rock_Marble_Brick"
@@ -278,20 +209,6 @@
       "z": 5,
       "name": "Rock_Marble_Brick",
       "rotation": 1
-    },
-    {
-      "x": -4,
-      "y": 7,
-      "z": 5,
-      "name": "Rock_Marble_Brick",
-      "rotation": 1
-    },
-    {
-      "x": -4,
-      "y": 8,
-      "z": 5,
-      "name": "Rock_Marble_Brick_Roof_Shallow",
-      "rotation": 3
     },
     {
       "x": -3,
@@ -396,6 +313,12 @@
     },
     {
       "x": -3,
+      "y": 2,
+      "z": -3,
+      "name": "Furniture_Temple_Light_Pot"
+    },
+    {
+      "x": -3,
       "y": 7,
       "z": -3,
       "name": "Rock_Marble_Brick",
@@ -481,7 +404,14 @@
       "x": -3,
       "y": 1,
       "z": -1,
-      "name": "Rock_Marble_Brick"
+      "name": "Rock_Marble_SkyGrass"
+    },
+    {
+      "x": -3,
+      "y": 2,
+      "z": -1,
+      "name": "Plant_Bush_Sky",
+      "support": 15
     },
     {
       "x": -3,
@@ -554,14 +484,6 @@
     },
     {
       "x": -3,
-      "y": 8,
-      "z": 0,
-      "name": "Rock_Marble_Brick_Roof_Shallow",
-      "filler": 1,
-      "rotation": 3
-    },
-    {
-      "x": -3,
       "y": 0,
       "z": 1,
       "name": "Rock_Marble_Brick"
@@ -576,16 +498,8 @@
       "x": -3,
       "y": 7,
       "z": 1,
-      "name": "Rock_Marble_Brick",
-      "rotation": 1
-    },
-    {
-      "x": -3,
-      "y": 8,
-      "z": 1,
-      "name": "Rock_Marble_Brick_Roof_Shallow",
-      "filler": 1,
-      "rotation": 3
+      "name": "Rock_Marble_Brick_Smooth_Half",
+      "rotation": 8
     },
     {
       "x": -3,
@@ -622,35 +536,6 @@
     },
     {
       "x": -3,
-      "y": 5,
-      "z": 2,
-      "name": "Rock_Marble_Brick_Pillar_Middle",
-      "rotation": 1
-    },
-    {
-      "x": -3,
-      "y": 6,
-      "z": 2,
-      "name": "Rock_Marble_Brick_Pillar_Base",
-      "rotation": 9
-    },
-    {
-      "x": -3,
-      "y": 7,
-      "z": 2,
-      "name": "Rock_Marble_Brick",
-      "rotation": 1
-    },
-    {
-      "x": -3,
-      "y": 8,
-      "z": 2,
-      "name": "Rock_Marble_Brick_Roof_Shallow",
-      "filler": 1,
-      "rotation": 3
-    },
-    {
-      "x": -3,
       "y": 0,
       "z": 3,
       "name": "Rock_Marble_Brick"
@@ -660,21 +545,6 @@
       "y": 1,
       "z": 3,
       "name": "Rock_Marble_Brick"
-    },
-    {
-      "x": -3,
-      "y": 7,
-      "z": 3,
-      "name": "Rock_Marble_Brick",
-      "rotation": 1
-    },
-    {
-      "x": -3,
-      "y": 8,
-      "z": 3,
-      "name": "Rock_Marble_Brick_Roof_Shallow",
-      "filler": 1,
-      "rotation": 3
     },
     {
       "x": -3,
@@ -705,42 +575,6 @@
     },
     {
       "x": -3,
-      "y": 4,
-      "z": 4,
-      "name": "Rock_Marble_Brick_Pillar_Middle",
-      "rotation": 1
-    },
-    {
-      "x": -3,
-      "y": 5,
-      "z": 4,
-      "name": "Rock_Marble_Brick_Pillar_Middle",
-      "rotation": 1
-    },
-    {
-      "x": -3,
-      "y": 6,
-      "z": 4,
-      "name": "Rock_Marble_Brick_Pillar_Base",
-      "rotation": 9
-    },
-    {
-      "x": -3,
-      "y": 7,
-      "z": 4,
-      "name": "Rock_Marble_Brick",
-      "rotation": 1
-    },
-    {
-      "x": -3,
-      "y": 8,
-      "z": 4,
-      "name": "Rock_Marble_Brick_Roof_Shallow",
-      "filler": 1,
-      "rotation": 3
-    },
-    {
-      "x": -3,
       "y": 0,
       "z": 5,
       "name": "Rock_Marble_Brick"
@@ -751,21 +585,6 @@
       "z": 5,
       "name": "Rock_Marble_Brick",
       "rotation": 1
-    },
-    {
-      "x": -3,
-      "y": 7,
-      "z": 5,
-      "name": "Rock_Marble_Brick",
-      "rotation": 1
-    },
-    {
-      "x": -3,
-      "y": 8,
-      "z": 5,
-      "name": "Rock_Marble_Brick_Roof_Shallow",
-      "filler": 1,
-      "rotation": 3
     },
     {
       "x": -2,
@@ -847,6 +666,12 @@
     },
     {
       "x": -2,
+      "y": 2,
+      "z": -3,
+      "name": "Furniture_Temple_Light_Pot"
+    },
+    {
+      "x": -2,
       "y": 7,
       "z": -3,
       "name": "Rock_Marble_Brick",
@@ -909,7 +734,14 @@
       "x": -2,
       "y": 1,
       "z": -1,
-      "name": "Rock_Marble_Brick"
+      "name": "Rock_Marble_SkyGrass"
+    },
+    {
+      "x": -2,
+      "y": 2,
+      "z": -1,
+      "name": "Plant_Grass_Sky_Short",
+      "support": 15
     },
     {
       "x": -2,
@@ -927,510 +759,359 @@
     },
     {
       "x": -2,
+      "y": 0,
+      "z": 0,
+      "name": "Rock_Marble_Brick"
+    },
+    {
+      "x": -2,
+      "y": 1,
+      "z": 0,
+      "name": "Rock_Marble_SkyGrass"
+    },
+    {
+      "x": -2,
+      "y": 2,
+      "z": 0,
+      "name": "Plant_Grass_Sky_Short",
+      "support": 15
+    },
+    {
+      "x": -2,
+      "y": 7,
+      "z": 0,
+      "name": "Rock_Marble_Brick",
+      "rotation": 1
+    },
+    {
+      "x": -2,
+      "y": 0,
+      "z": 1,
+      "name": "Rock_Marble_Brick"
+    },
+    {
+      "x": -2,
+      "y": 1,
+      "z": 1,
+      "name": "Rock_Marble_Brick"
+    },
+    {
+      "x": -2,
+      "y": 2,
+      "z": 1,
+      "name": "Rubble_Marble_Medium",
+      "support": 15
+    },
+    {
+      "x": -2,
+      "y": 0,
+      "z": 2,
+      "name": "Rock_Marble_Brick"
+    },
+    {
+      "x": -2,
+      "y": 1,
+      "z": 2,
+      "name": "Rock_Marble_Brick"
+    },
+    {
+      "x": -2,
+      "y": 0,
+      "z": 3,
+      "name": "Rock_Marble_Brick"
+    },
+    {
+      "x": -2,
+      "y": 1,
+      "z": 3,
+      "name": "Rock_Marble_Brick"
+    },
+    {
+      "x": -2,
+      "y": 0,
+      "z": 4,
+      "name": "Rock_Marble_Brick"
+    },
+    {
+      "x": -2,
+      "y": 1,
+      "z": 4,
+      "name": "Rock_Marble_Brick",
+      "rotation": 1
+    },
+    {
+      "x": -2,
+      "y": 2,
+      "z": 4,
+      "name": "Rubble_Marble",
+      "support": 15
+    },
+    {
+      "x": -2,
+      "y": 0,
+      "z": 5,
+      "name": "Rock_Marble_Brick"
+    },
+    {
+      "x": -2,
+      "y": 1,
+      "z": 5,
+      "name": "Rock_Marble_Brick",
+      "rotation": 1
+    },
+    {
+      "x": -1,
+      "y": 0,
+      "z": -5,
+      "name": "Rock_Marble_Brick"
+    },
+    {
+      "x": -1,
+      "y": 1,
+      "z": -5,
+      "name": "Rock_Marble_Brick"
+    },
+    {
+      "x": -1,
+      "y": 7,
+      "z": -5,
+      "name": "Rock_Marble_Brick",
+      "rotation": 1
+    },
+    {
+      "x": -1,
       "y": 9,
+      "z": -5,
+      "name": "Rock_Marble_Brick_Roof_Shallow",
+      "filler": 1,
+      "rotation": 3
+    },
+    {
+      "x": -1,
+      "y": 0,
+      "z": -4,
+      "name": "Rock_Marble_Brick"
+    },
+    {
+      "x": -1,
+      "y": 1,
+      "z": -4,
+      "name": "Rock_Marble_Brick"
+    },
+    {
+      "x": -1,
+      "y": 2,
+      "z": -4,
+      "name": "Rock_Marble_Brick_Pillar_Base",
+      "rotation": 1
+    },
+    {
+      "x": -1,
+      "y": 3,
+      "z": -4,
+      "name": "Rock_Marble_Brick_Pillar_Middle",
+      "rotation": 1
+    },
+    {
+      "x": -1,
+      "y": 4,
+      "z": -4,
+      "name": "Rock_Marble_Brick_Pillar_Middle",
+      "rotation": 1
+    },
+    {
+      "x": -1,
+      "y": 5,
+      "z": -4,
+      "name": "Rock_Marble_Brick_Pillar_Middle",
+      "rotation": 1
+    },
+    {
+      "x": -1,
+      "y": 6,
+      "z": -4,
+      "name": "Rock_Marble_Brick_Pillar_Base",
+      "rotation": 9
+    },
+    {
+      "x": -1,
+      "y": 7,
+      "z": -4,
+      "name": "Rock_Marble_Brick",
+      "rotation": 1
+    },
+    {
+      "x": -1,
+      "y": 8,
+      "z": -4,
+      "name": "Rock_Marble_Brick",
+      "rotation": 1
+    },
+    {
+      "x": -1,
+      "y": 9,
+      "z": -4,
+      "name": "Rock_Marble_Brick_Roof_Shallow",
+      "filler": 1,
+      "rotation": 3
+    },
+    {
+      "x": -1,
+      "y": 0,
+      "z": -3,
+      "name": "Rock_Marble_Brick"
+    },
+    {
+      "x": -1,
+      "y": 1,
+      "z": -3,
+      "name": "Rock_Marble_Brick"
+    },
+    {
+      "x": -1,
+      "y": 7,
+      "z": -3,
+      "name": "Rock_Marble_Brick",
+      "rotation": 1
+    },
+    {
+      "x": -1,
+      "y": 8,
+      "z": -3,
+      "name": "Rock_Marble_Brick",
+      "rotation": 1
+    },
+    {
+      "x": -1,
+      "y": 9,
+      "z": -3,
+      "name": "Rock_Marble_Brick_Roof_Shallow",
+      "filler": 1,
+      "rotation": 3
+    },
+    {
+      "x": -1,
+      "y": 0,
+      "z": -2,
+      "name": "Rock_Marble_Brick"
+    },
+    {
+      "x": -1,
+      "y": 1,
+      "z": -2,
+      "name": "Rock_Marble_Brick_Smooth_Half"
+    },
+    {
+      "x": -1,
+      "y": 7,
+      "z": -2,
+      "name": "Rock_Marble_Brick",
+      "rotation": 1
+    },
+    {
+      "x": -1,
+      "y": 8,
+      "z": -2,
+      "name": "Rock_Marble_Brick",
+      "rotation": 1
+    },
+    {
+      "x": -1,
+      "y": 9,
+      "z": -2,
+      "name": "Rock_Marble_Brick_Roof_Shallow",
+      "filler": 1,
+      "rotation": 3
+    },
+    {
+      "x": -1,
+      "y": 0,
       "z": -1,
-      "name": "Rock_Marble_Brick_Roof_Shallow",
-      "rotation": 3
+      "name": "Rock_Marble_Brick"
     },
     {
-      "x": -2,
+      "x": -1,
+      "y": 1,
+      "z": -1,
+      "name": "Rock_Marble_Brick_Smooth_Half"
+    },
+    {
+      "x": -1,
+      "y": 7,
+      "z": -1,
+      "name": "Rock_Marble_Brick",
+      "rotation": 1
+    },
+    {
+      "x": -1,
+      "y": 8,
+      "z": -1,
+      "name": "Rock_Marble_Brick",
+      "rotation": 1
+    },
+    {
+      "x": -1,
       "y": 0,
       "z": 0,
       "name": "Rock_Marble_Brick"
     },
     {
-      "x": -2,
+      "x": -1,
       "y": 1,
       "z": 0,
       "name": "Rock_Marble_Brick"
     },
     {
-      "x": -2,
+      "x": -1,
       "y": 7,
       "z": 0,
       "name": "Rock_Marble_Brick",
       "rotation": 1
     },
     {
-      "x": -2,
+      "x": -1,
       "y": 8,
       "z": 0,
-      "name": "Rock_Marble_Brick",
-      "rotation": 1
-    },
-    {
-      "x": -2,
-      "y": 9,
-      "z": 0,
-      "name": "Rock_Marble_Brick_Roof_Shallow",
-      "rotation": 3
-    },
-    {
-      "x": -2,
-      "y": 0,
-      "z": 1,
-      "name": "Rock_Marble_Brick"
-    },
-    {
-      "x": -2,
-      "y": 1,
-      "z": 1,
-      "name": "Rock_Marble_Brick"
-    },
-    {
-      "x": -2,
-      "y": 7,
-      "z": 1,
-      "name": "Rock_Marble_Brick",
-      "rotation": 1
-    },
-    {
-      "x": -2,
-      "y": 8,
-      "z": 1,
-      "name": "Rock_Marble_Brick",
-      "rotation": 1
-    },
-    {
-      "x": -2,
-      "y": 9,
-      "z": 1,
-      "name": "Rock_Marble_Brick_Roof_Shallow",
-      "rotation": 3
-    },
-    {
-      "x": -2,
-      "y": 0,
-      "z": 2,
-      "name": "Rock_Marble_Brick"
-    },
-    {
-      "x": -2,
-      "y": 1,
-      "z": 2,
-      "name": "Rock_Marble_Brick"
-    },
-    {
-      "x": -2,
-      "y": 7,
-      "z": 2,
-      "name": "Rock_Marble_Brick",
-      "rotation": 1
-    },
-    {
-      "x": -2,
-      "y": 8,
-      "z": 2,
-      "name": "Rock_Marble_Brick",
-      "rotation": 1
-    },
-    {
-      "x": -2,
-      "y": 9,
-      "z": 2,
-      "name": "Rock_Marble_Brick_Roof_Shallow",
-      "rotation": 3
-    },
-    {
-      "x": -2,
-      "y": 0,
-      "z": 3,
-      "name": "Rock_Marble_Brick"
-    },
-    {
-      "x": -2,
-      "y": 1,
-      "z": 3,
-      "name": "Rock_Marble_Brick"
-    },
-    {
-      "x": -2,
-      "y": 7,
-      "z": 3,
-      "name": "Rock_Marble_Brick",
-      "rotation": 1
-    },
-    {
-      "x": -2,
-      "y": 8,
-      "z": 3,
-      "name": "Rock_Marble_Brick",
-      "rotation": 1
-    },
-    {
-      "x": -2,
-      "y": 9,
-      "z": 3,
-      "name": "Rock_Marble_Brick_Roof_Shallow",
-      "rotation": 3
-    },
-    {
-      "x": -2,
-      "y": 0,
-      "z": 4,
-      "name": "Rock_Marble_Brick"
-    },
-    {
-      "x": -2,
-      "y": 1,
-      "z": 4,
-      "name": "Rock_Marble_Brick",
-      "rotation": 1
-    },
-    {
-      "x": -2,
-      "y": 7,
-      "z": 4,
-      "name": "Rock_Marble_Brick",
-      "rotation": 1
-    },
-    {
-      "x": -2,
-      "y": 8,
-      "z": 4,
-      "name": "Rock_Marble_Brick",
-      "rotation": 1
-    },
-    {
-      "x": -2,
-      "y": 9,
-      "z": 4,
-      "name": "Rock_Marble_Brick_Roof_Shallow",
-      "rotation": 3
-    },
-    {
-      "x": -2,
-      "y": 0,
-      "z": 5,
-      "name": "Rock_Marble_Brick"
-    },
-    {
-      "x": -2,
-      "y": 1,
-      "z": 5,
-      "name": "Rock_Marble_Brick",
-      "rotation": 1
-    },
-    {
-      "x": -2,
-      "y": 7,
-      "z": 5,
-      "name": "Rock_Marble_Brick",
-      "rotation": 1
-    },
-    {
-      "x": -2,
-      "y": 8,
-      "z": 5,
       "name": "Rock_Marble_Brick_Smooth_Half",
-      "rotation": 9
-    },
-    {
-      "x": -2,
-      "y": 9,
-      "z": 5,
-      "name": "Rock_Marble_Brick_Roof_Shallow",
-      "rotation": 3
+      "rotation": 8
     },
     {
       "x": -1,
       "y": 0,
-      "z": -5,
+      "z": 1,
       "name": "Rock_Marble_Brick"
     },
     {
       "x": -1,
       "y": 1,
-      "z": -5,
+      "z": 1,
       "name": "Rock_Marble_Brick"
     },
     {
       "x": -1,
       "y": 7,
-      "z": -5,
-      "name": "Rock_Marble_Brick",
-      "rotation": 1
-    },
-    {
-      "x": -1,
-      "y": 9,
-      "z": -5,
-      "name": "Rock_Marble_Brick_Roof_Shallow",
-      "filler": 1,
-      "rotation": 3
+      "z": 1,
+      "name": "Rock_Marble_Brick_Smooth_Half"
     },
     {
       "x": -1,
       "y": 0,
-      "z": -4,
+      "z": 2,
       "name": "Rock_Marble_Brick"
     },
     {
       "x": -1,
       "y": 1,
-      "z": -4,
+      "z": 2,
       "name": "Rock_Marble_Brick"
     },
     {
       "x": -1,
       "y": 2,
-      "z": -4,
-      "name": "Rock_Marble_Brick_Pillar_Base",
-      "rotation": 1
-    },
-    {
-      "x": -1,
-      "y": 3,
-      "z": -4,
-      "name": "Rock_Marble_Brick_Pillar_Middle",
-      "rotation": 1
-    },
-    {
-      "x": -1,
-      "y": 4,
-      "z": -4,
-      "name": "Rock_Marble_Brick_Pillar_Middle",
-      "rotation": 1
-    },
-    {
-      "x": -1,
-      "y": 5,
-      "z": -4,
-      "name": "Rock_Marble_Brick_Pillar_Middle",
-      "rotation": 1
-    },
-    {
-      "x": -1,
-      "y": 6,
-      "z": -4,
-      "name": "Rock_Marble_Brick_Pillar_Base",
-      "rotation": 9
-    },
-    {
-      "x": -1,
-      "y": 7,
-      "z": -4,
-      "name": "Rock_Marble_Brick",
-      "rotation": 1
-    },
-    {
-      "x": -1,
-      "y": 8,
-      "z": -4,
-      "name": "Rock_Marble_Brick",
-      "rotation": 1
-    },
-    {
-      "x": -1,
-      "y": 9,
-      "z": -4,
-      "name": "Rock_Marble_Brick_Roof_Shallow",
-      "filler": 1,
-      "rotation": 3
-    },
-    {
-      "x": -1,
-      "y": 0,
-      "z": -3,
-      "name": "Rock_Marble_Brick"
-    },
-    {
-      "x": -1,
-      "y": 1,
-      "z": -3,
-      "name": "Rock_Marble_Brick"
-    },
-    {
-      "x": -1,
-      "y": 7,
-      "z": -3,
-      "name": "Rock_Marble_Brick",
-      "rotation": 1
-    },
-    {
-      "x": -1,
-      "y": 8,
-      "z": -3,
-      "name": "Rock_Marble_Brick",
-      "rotation": 1
-    },
-    {
-      "x": -1,
-      "y": 9,
-      "z": -3,
-      "name": "Rock_Marble_Brick_Roof_Shallow",
-      "filler": 1,
-      "rotation": 3
-    },
-    {
-      "x": -1,
-      "y": 0,
-      "z": -2,
-      "name": "Rock_Marble_Brick"
-    },
-    {
-      "x": -1,
-      "y": 1,
-      "z": -2,
-      "name": "Rock_Marble_Brick"
-    },
-    {
-      "x": -1,
-      "y": 7,
-      "z": -2,
-      "name": "Rock_Marble_Brick",
-      "rotation": 1
-    },
-    {
-      "x": -1,
-      "y": 8,
-      "z": -2,
-      "name": "Rock_Marble_Brick",
-      "rotation": 1
-    },
-    {
-      "x": -1,
-      "y": 9,
-      "z": -2,
-      "name": "Rock_Marble_Brick_Roof_Shallow",
-      "filler": 1,
-      "rotation": 3
-    },
-    {
-      "x": -1,
-      "y": 0,
-      "z": -1,
-      "name": "Rock_Marble_Brick"
-    },
-    {
-      "x": -1,
-      "y": 1,
-      "z": -1,
-      "name": "Rock_Marble_Brick"
-    },
-    {
-      "x": -1,
-      "y": 7,
-      "z": -1,
-      "name": "Rock_Marble_Brick",
-      "rotation": 1
-    },
-    {
-      "x": -1,
-      "y": 8,
-      "z": -1,
-      "name": "Rock_Marble_Brick",
-      "rotation": 1
-    },
-    {
-      "x": -1,
-      "y": 9,
-      "z": -1,
-      "name": "Rock_Marble_Brick_Roof_Shallow",
-      "filler": 1,
-      "rotation": 3
-    },
-    {
-      "x": -1,
-      "y": 0,
-      "z": 0,
-      "name": "Rock_Marble_Brick"
-    },
-    {
-      "x": -1,
-      "y": 1,
-      "z": 0,
-      "name": "Rock_Marble_Brick"
-    },
-    {
-      "x": -1,
-      "y": 7,
-      "z": 0,
-      "name": "Rock_Marble_Brick",
-      "rotation": 1
-    },
-    {
-      "x": -1,
-      "y": 8,
-      "z": 0,
-      "name": "Rock_Marble_Brick",
-      "rotation": 1
-    },
-    {
-      "x": -1,
-      "y": 9,
-      "z": 0,
-      "name": "Rock_Marble_Brick_Roof_Shallow",
-      "filler": 1,
-      "rotation": 3
-    },
-    {
-      "x": -1,
-      "y": 0,
-      "z": 1,
-      "name": "Rock_Marble_Brick"
-    },
-    {
-      "x": -1,
-      "y": 1,
-      "z": 1,
-      "name": "Rock_Marble_Brick"
-    },
-    {
-      "x": -1,
-      "y": 7,
-      "z": 1,
-      "name": "Rock_Marble_Brick",
-      "rotation": 1
-    },
-    {
-      "x": -1,
-      "y": 8,
-      "z": 1,
-      "name": "Rock_Marble_Brick",
-      "rotation": 1
-    },
-    {
-      "x": -1,
-      "y": 9,
-      "z": 1,
-      "name": "Rock_Marble_Brick_Roof_Shallow",
-      "filler": 1,
-      "rotation": 3
-    },
-    {
-      "x": -1,
-      "y": 0,
       "z": 2,
-      "name": "Rock_Marble_Brick"
-    },
-    {
-      "x": -1,
-      "y": 1,
-      "z": 2,
-      "name": "Rock_Marble_Brick"
-    },
-    {
-      "x": -1,
-      "y": 7,
-      "z": 2,
-      "name": "Rock_Marble_Brick",
+      "name": "Furniture_Temple_Light_Bed",
+      "filler": 992,
       "rotation": 1
-    },
-    {
-      "x": -1,
-      "y": 8,
-      "z": 2,
-      "name": "Rock_Marble_Brick",
-      "rotation": 1
-    },
-    {
-      "x": -1,
-      "y": 9,
-      "z": 2,
-      "name": "Rock_Marble_Brick_Roof_Shallow",
-      "filler": 1,
-      "rotation": 3
     },
     {
       "x": -1,
@@ -1446,25 +1127,21 @@
     },
     {
       "x": -1,
-      "y": 7,
+      "y": 2,
       "z": 3,
-      "name": "Rock_Marble_Brick",
+      "name": "Furniture_Temple_Light_Bed",
+      "components": {
+        "Components": {
+          "PlacedByInteraction": {
+            "WhoPlacedUuid": {
+              "$binary": "rmwkrpH8RVykTc7XnK4YBA==",
+              "$type": "04"
+            }
+          },
+          "RespawnBlock": {}
+        }
+      },
       "rotation": 1
-    },
-    {
-      "x": -1,
-      "y": 8,
-      "z": 3,
-      "name": "Rock_Marble_Brick",
-      "rotation": 1
-    },
-    {
-      "x": -1,
-      "y": 9,
-      "z": 3,
-      "name": "Rock_Marble_Brick_Roof_Shallow",
-      "filler": 1,
-      "rotation": 3
     },
     {
       "x": -1,
@@ -1495,49 +1172,6 @@
     },
     {
       "x": -1,
-      "y": 4,
-      "z": 4,
-      "name": "Rock_Marble_Brick_Pillar_Middle",
-      "rotation": 1
-    },
-    {
-      "x": -1,
-      "y": 5,
-      "z": 4,
-      "name": "Rock_Marble_Brick_Pillar_Middle",
-      "rotation": 1
-    },
-    {
-      "x": -1,
-      "y": 6,
-      "z": 4,
-      "name": "Rock_Marble_Brick_Pillar_Base",
-      "rotation": 9
-    },
-    {
-      "x": -1,
-      "y": 7,
-      "z": 4,
-      "name": "Rock_Marble_Brick",
-      "rotation": 1
-    },
-    {
-      "x": -1,
-      "y": 8,
-      "z": 4,
-      "name": "Rock_Marble_Brick",
-      "rotation": 1
-    },
-    {
-      "x": -1,
-      "y": 9,
-      "z": 4,
-      "name": "Rock_Marble_Brick_Roof_Shallow",
-      "filler": 1,
-      "rotation": 3
-    },
-    {
-      "x": -1,
       "y": 0,
       "z": 5,
       "name": "Rock_Marble_Brick"
@@ -1546,23 +1180,7 @@
       "x": -1,
       "y": 1,
       "z": 5,
-      "name": "Rock_Marble_Brick",
-      "rotation": 1
-    },
-    {
-      "x": -1,
-      "y": 7,
-      "z": 5,
-      "name": "Rock_Marble_Brick",
-      "rotation": 1
-    },
-    {
-      "x": -1,
-      "y": 9,
-      "z": 5,
-      "name": "Rock_Marble_Brick_Roof_Shallow",
-      "filler": 1,
-      "rotation": 3
+      "name": "Rock_Marble_Brick_Smooth_Half"
     },
     {
       "x": 0,
@@ -1611,6 +1229,13 @@
     },
     {
       "x": 0,
+      "y": 2,
+      "z": -4,
+      "name": "Rubble_Marble",
+      "support": 15
+    },
+    {
+      "x": 0,
       "y": 7,
       "z": -4,
       "name": "Rock_Marble_Brick",
@@ -1647,7 +1272,7 @@
       "x": 0,
       "y": 1,
       "z": -3,
-      "name": "Rock_Marble_Brick"
+      "name": "Rock_Marble_Brick_Smooth_Half"
     },
     {
       "x": 0,
@@ -1685,19 +1310,6 @@
     },
     {
       "x": 0,
-      "y": 1,
-      "z": -2,
-      "name": "Rock_Marble_Brick"
-    },
-    {
-      "x": 0,
-      "y": 7,
-      "z": -2,
-      "name": "Rock_Marble_Brick",
-      "rotation": 1
-    },
-    {
-      "x": 0,
       "y": 8,
       "z": -2,
       "name": "Rock_Marble_Brick",
@@ -1725,19 +1337,6 @@
     },
     {
       "x": 0,
-      "y": 1,
-      "z": -1,
-      "name": "Rock_Marble_Brick"
-    },
-    {
-      "x": 0,
-      "y": 7,
-      "z": -1,
-      "name": "Rock_Marble_Brick",
-      "rotation": 1
-    },
-    {
-      "x": 0,
       "y": 8,
       "z": -1,
       "name": "Rock_Marble_Brick",
@@ -1765,27 +1364,7 @@
     },
     {
       "x": 0,
-      "y": 1,
-      "z": 0,
-      "name": "Rock_Marble_Brick"
-    },
-    {
-      "x": 0,
-      "y": 7,
-      "z": 0,
-      "name": "Rock_Marble_Brick",
-      "rotation": 1
-    },
-    {
-      "x": 0,
       "y": 8,
-      "z": 0,
-      "name": "Rock_Marble_Brick",
-      "rotation": 1
-    },
-    {
-      "x": 0,
-      "y": 9,
       "z": 0,
       "name": "Rock_Marble_Brick",
       "rotation": 1
@@ -1807,35 +1386,7 @@
       "x": 0,
       "y": 1,
       "z": 1,
-      "name": "Rock_Marble_Brick"
-    },
-    {
-      "x": 0,
-      "y": 7,
-      "z": 1,
-      "name": "Rock_Marble_Brick",
-      "rotation": 1
-    },
-    {
-      "x": 0,
-      "y": 8,
-      "z": 1,
-      "name": "Rock_Marble_Brick",
-      "rotation": 1
-    },
-    {
-      "x": 0,
-      "y": 9,
-      "z": 1,
-      "name": "Rock_Marble_Brick",
-      "rotation": 1
-    },
-    {
-      "x": 0,
-      "y": 10,
-      "z": 1,
-      "name": "Rock_Marble_Brick_Roof_Flat",
-      "rotation": 1
+      "name": "Rock_Marble_Brick_Smooth_Half"
     },
     {
       "x": 0,
@@ -1847,34 +1398,32 @@
       "x": 0,
       "y": 1,
       "z": 2,
-      "name": "Rock_Marble_Brick"
+      "name": "Furniture_Temple_Light_Chest_Small",
+      "components": {
+        "Components": {
+          "PlacedByInteraction": {
+            "WhoPlacedUuid": {
+              "$binary": "rmwkrpH8RVykTc7XnK4YBA==",
+              "$type": "04"
+            }
+          },
+          "ItemContainerBlock": {
+            "ItemContainer": {
+              "Capacity": 18,
+              "Items": {}
+            },
+            "Capacity": 18
+          }
+        }
+      },
+      "rotation": 2
     },
     {
       "x": 0,
-      "y": 7,
+      "y": 2,
       "z": 2,
-      "name": "Rock_Marble_Brick",
-      "rotation": 1
-    },
-    {
-      "x": 0,
-      "y": 8,
-      "z": 2,
-      "name": "Rock_Marble_Brick",
-      "rotation": 1
-    },
-    {
-      "x": 0,
-      "y": 9,
-      "z": 2,
-      "name": "Rock_Marble_Brick",
-      "rotation": 1
-    },
-    {
-      "x": 0,
-      "y": 10,
-      "z": 2,
-      "name": "Rock_Marble_Brick_Roof_Flat",
+      "name": "Furniture_Temple_Light_Bed",
+      "filler": 993,
       "rotation": 1
     },
     {
@@ -1891,30 +1440,10 @@
     },
     {
       "x": 0,
-      "y": 7,
+      "y": 2,
       "z": 3,
-      "name": "Rock_Marble_Brick",
-      "rotation": 1
-    },
-    {
-      "x": 0,
-      "y": 8,
-      "z": 3,
-      "name": "Rock_Marble_Brick",
-      "rotation": 1
-    },
-    {
-      "x": 0,
-      "y": 9,
-      "z": 3,
-      "name": "Rock_Marble_Brick",
-      "rotation": 1
-    },
-    {
-      "x": 0,
-      "y": 10,
-      "z": 3,
-      "name": "Rock_Marble_Brick_Roof_Flat",
+      "name": "Furniture_Temple_Light_Bed",
+      "filler": 1,
       "rotation": 1
     },
     {
@@ -1928,34 +1457,6 @@
       "y": 1,
       "z": 4,
       "name": "Rock_Marble_Brick",
-      "rotation": 1
-    },
-    {
-      "x": 0,
-      "y": 7,
-      "z": 4,
-      "name": "Rock_Marble_Brick",
-      "rotation": 1
-    },
-    {
-      "x": 0,
-      "y": 8,
-      "z": 4,
-      "name": "Rock_Marble_Brick",
-      "rotation": 1
-    },
-    {
-      "x": 0,
-      "y": 9,
-      "z": 4,
-      "name": "Rock_Marble_Brick",
-      "rotation": 1
-    },
-    {
-      "x": 0,
-      "y": 10,
-      "z": 4,
-      "name": "Rock_Marble_Brick_Roof_Flat",
       "rotation": 1
     },
     {
@@ -1968,461 +1469,363 @@
       "x": 0,
       "y": 1,
       "z": 5,
-      "name": "Rock_Marble_Brick",
-      "rotation": 1
+      "name": "Rock_Marble_Brick_Smooth_Half"
     },
     {
-      "x": 0,
+      "x": 1,
+      "y": 0,
+      "z": -5,
+      "name": "Rock_Marble_Brick"
+    },
+    {
+      "x": 1,
+      "y": 1,
+      "z": -5,
+      "name": "Rock_Marble_Brick"
+    },
+    {
+      "x": 1,
       "y": 7,
-      "z": 5,
+      "z": -5,
       "name": "Rock_Marble_Brick",
       "rotation": 1
     },
     {
-      "x": 0,
+      "x": 1,
       "y": 9,
+      "z": -5,
+      "name": "Rock_Marble_Brick_Roof_Shallow",
+      "filler": 31,
+      "rotation": 1
+    },
+    {
+      "x": 1,
+      "y": 0,
+      "z": -4,
+      "name": "Rock_Marble_Brick"
+    },
+    {
+      "x": 1,
+      "y": 1,
+      "z": -4,
+      "name": "Rock_Marble_Brick"
+    },
+    {
+      "x": 1,
+      "y": 2,
+      "z": -4,
+      "name": "Rock_Marble_Brick_Pillar_Base",
+      "rotation": 1
+    },
+    {
+      "x": 1,
+      "y": 3,
+      "z": -4,
+      "name": "Rock_Marble_Brick_Pillar_Middle",
+      "rotation": 1
+    },
+    {
+      "x": 1,
+      "y": 4,
+      "z": -4,
+      "name": "Rock_Marble_Brick_Pillar_Middle",
+      "rotation": 1
+    },
+    {
+      "x": 1,
+      "y": 5,
+      "z": -4,
+      "name": "Rock_Marble_Brick_Pillar_Middle",
+      "rotation": 1
+    },
+    {
+      "x": 1,
+      "y": 6,
+      "z": -4,
+      "name": "Rock_Marble_Brick_Pillar_Base",
+      "rotation": 9
+    },
+    {
+      "x": 1,
+      "y": 7,
+      "z": -4,
+      "name": "Rock_Marble_Brick",
+      "rotation": 1
+    },
+    {
+      "x": 1,
+      "y": 8,
+      "z": -4,
+      "name": "Rock_Marble_Brick",
+      "rotation": 1
+    },
+    {
+      "x": 1,
+      "y": 9,
+      "z": -4,
+      "name": "Rock_Marble_Brick_Roof_Shallow",
+      "filler": 31,
+      "rotation": 1
+    },
+    {
+      "x": 1,
+      "y": 0,
+      "z": -3,
+      "name": "Rock_Marble_Brick"
+    },
+    {
+      "x": 1,
+      "y": 1,
+      "z": -3,
+      "name": "Rock_Marble_SkyGrass"
+    },
+    {
+      "x": 1,
+      "y": 7,
+      "z": -3,
+      "name": "Rock_Marble_Brick",
+      "rotation": 1
+    },
+    {
+      "x": 1,
+      "y": 8,
+      "z": -3,
+      "name": "Rock_Marble_Brick",
+      "rotation": 1
+    },
+    {
+      "x": 1,
+      "y": 9,
+      "z": -3,
+      "name": "Rock_Marble_Brick_Roof_Shallow",
+      "filler": 31,
+      "rotation": 1
+    },
+    {
+      "x": 1,
+      "y": 0,
+      "z": -2,
+      "name": "Rock_Marble_Brick"
+    },
+    {
+      "x": 1,
+      "y": 7,
+      "z": -2,
+      "name": "Rock_Marble_Brick_Smooth_Half",
+      "rotation": 8
+    },
+    {
+      "x": 1,
+      "y": 8,
+      "z": -2,
+      "name": "Rock_Marble_Brick",
+      "rotation": 1
+    },
+    {
+      "x": 1,
+      "y": 9,
+      "z": -2,
+      "name": "Rock_Marble_Brick_Roof_Shallow",
+      "filler": 31,
+      "rotation": 1
+    },
+    {
+      "x": 1,
+      "y": 0,
+      "z": -1,
+      "name": "Rock_Marble_Brick"
+    },
+    {
+      "x": 1,
+      "y": 8,
+      "z": -1,
+      "name": "Rock_Marble_Brick",
+      "rotation": 1
+    },
+    {
+      "x": 1,
+      "y": 9,
+      "z": -1,
+      "name": "Rock_Marble_Brick_Roof_Shallow",
+      "filler": 31,
+      "rotation": 1
+    },
+    {
+      "x": 1,
+      "y": 0,
+      "z": 0,
+      "name": "Rock_Marble_Brick"
+    },
+    {
+      "x": 1,
+      "y": 1,
+      "z": 0,
+      "name": "Rock_Marble_Brick_Smooth_Half"
+    },
+    {
+      "x": 1,
+      "y": 8,
+      "z": 0,
+      "name": "Rock_Marble_Brick",
+      "rotation": 1
+    },
+    {
+      "x": 1,
+      "y": 9,
+      "z": 0,
+      "name": "Rock_Marble_Brick_Roof_Shallow",
+      "filler": 31,
+      "rotation": 1
+    },
+    {
+      "x": 1,
+      "y": 0,
+      "z": 1,
+      "name": "Rock_Marble_Brick"
+    },
+    {
+      "x": 1,
+      "y": 1,
+      "z": 1,
+      "name": "Rock_Marble_Brick_Smooth_Half"
+    },
+    {
+      "x": 1,
+      "y": 7,
+      "z": 1,
+      "name": "Rock_Marble_Brick",
+      "rotation": 1
+    },
+    {
+      "x": 1,
+      "y": 0,
+      "z": 2,
+      "name": "Rock_Marble_Brick"
+    },
+    {
+      "x": 1,
+      "y": 1,
+      "z": 2,
+      "name": "Rock_Marble_Brick"
+    },
+    {
+      "x": 1,
+      "y": 2,
+      "z": 2,
+      "name": "Furniture_Temple_Light_Bed",
+      "filler": 994,
+      "rotation": 1
+    },
+    {
+      "x": 1,
+      "y": 7,
+      "z": 2,
+      "name": "Rock_Marble_Brick",
+      "rotation": 1
+    },
+    {
+      "x": 1,
+      "y": 9,
+      "z": 2,
+      "name": "Rock_Marble_Brick_Roof_Shallow",
+      "filler": 31,
+      "rotation": 1
+    },
+    {
+      "x": 1,
+      "y": 0,
+      "z": 3,
+      "name": "Rock_Marble_Brick"
+    },
+    {
+      "x": 1,
+      "y": 1,
+      "z": 3,
+      "name": "Rock_Marble_Brick"
+    },
+    {
+      "x": 1,
+      "y": 2,
+      "z": 3,
+      "name": "Furniture_Temple_Light_Bed",
+      "filler": 2,
+      "rotation": 1
+    },
+    {
+      "x": 1,
+      "y": 9,
+      "z": 3,
+      "name": "Rock_Marble_Brick_Roof_Shallow",
+      "filler": 31,
+      "rotation": 1
+    },
+    {
+      "x": 1,
+      "y": 0,
+      "z": 4,
+      "name": "Rock_Marble_Brick"
+    },
+    {
+      "x": 1,
+      "y": 1,
+      "z": 4,
+      "name": "Rock_Marble_Brick",
+      "rotation": 1
+    },
+    {
+      "x": 1,
+      "y": 2,
+      "z": 4,
+      "name": "Rock_Marble_Brick_Pillar_Base",
+      "rotation": 1
+    },
+    {
+      "x": 1,
+      "y": 3,
+      "z": 4,
+      "name": "Rock_Marble_Brick_Pillar_Middle",
+      "rotation": 1
+    },
+    {
+      "x": 1,
+      "y": 4,
+      "z": 4,
+      "name": "Rock_Marble_Brick_Pillar_Middle",
+      "rotation": 1
+    },
+    {
+      "x": 1,
+      "y": 5,
+      "z": 4,
+      "name": "Rock_Marble_Brick_Pillar_Middle",
+      "rotation": 1
+    },
+    {
+      "x": 1,
+      "y": 6,
+      "z": 4,
+      "name": "Rock_Marble_Brick_Pillar_Base",
+      "rotation": 9
+    },
+    {
+      "x": 1,
+      "y": 7,
+      "z": 4,
+      "name": "Rock_Marble_Brick",
+      "rotation": 1
+    },
+    {
+      "x": 1,
+      "y": 0,
+      "z": 5,
+      "name": "Rock_Marble_Brick"
+    },
+    {
+      "x": 1,
+      "y": 1,
       "z": 5,
       "name": "Rock_Marble_Brick_Smooth_Half",
-      "rotation": 9
-    },
-    {
-      "x": 0,
-      "y": 10,
-      "z": 5,
-      "name": "Rock_Marble_Brick_Roof_Flat",
-      "rotation": 1
-    },
-    {
-      "x": 1,
-      "y": 0,
-      "z": -5,
-      "name": "Rock_Marble_Brick"
-    },
-    {
-      "x": 1,
-      "y": 1,
-      "z": -5,
-      "name": "Rock_Marble_Brick"
-    },
-    {
-      "x": 1,
-      "y": 7,
-      "z": -5,
-      "name": "Rock_Marble_Brick",
-      "rotation": 1
-    },
-    {
-      "x": 1,
-      "y": 9,
-      "z": -5,
-      "name": "Rock_Marble_Brick_Roof_Shallow",
-      "filler": 31,
-      "rotation": 1
-    },
-    {
-      "x": 1,
-      "y": 0,
-      "z": -4,
-      "name": "Rock_Marble_Brick"
-    },
-    {
-      "x": 1,
-      "y": 1,
-      "z": -4,
-      "name": "Rock_Marble_Brick"
-    },
-    {
-      "x": 1,
-      "y": 2,
-      "z": -4,
-      "name": "Rock_Marble_Brick_Pillar_Base",
-      "rotation": 1
-    },
-    {
-      "x": 1,
-      "y": 3,
-      "z": -4,
-      "name": "Rock_Marble_Brick_Pillar_Middle",
-      "rotation": 1
-    },
-    {
-      "x": 1,
-      "y": 4,
-      "z": -4,
-      "name": "Rock_Marble_Brick_Pillar_Middle",
-      "rotation": 1
-    },
-    {
-      "x": 1,
-      "y": 5,
-      "z": -4,
-      "name": "Rock_Marble_Brick_Pillar_Middle",
-      "rotation": 1
-    },
-    {
-      "x": 1,
-      "y": 6,
-      "z": -4,
-      "name": "Rock_Marble_Brick_Pillar_Base",
-      "rotation": 9
-    },
-    {
-      "x": 1,
-      "y": 7,
-      "z": -4,
-      "name": "Rock_Marble_Brick",
-      "rotation": 1
-    },
-    {
-      "x": 1,
-      "y": 8,
-      "z": -4,
-      "name": "Rock_Marble_Brick",
-      "rotation": 1
-    },
-    {
-      "x": 1,
-      "y": 9,
-      "z": -4,
-      "name": "Rock_Marble_Brick_Roof_Shallow",
-      "filler": 31,
-      "rotation": 1
-    },
-    {
-      "x": 1,
-      "y": 0,
-      "z": -3,
-      "name": "Rock_Marble_Brick"
-    },
-    {
-      "x": 1,
-      "y": 1,
-      "z": -3,
-      "name": "Rock_Marble_Brick"
-    },
-    {
-      "x": 1,
-      "y": 7,
-      "z": -3,
-      "name": "Rock_Marble_Brick",
-      "rotation": 1
-    },
-    {
-      "x": 1,
-      "y": 8,
-      "z": -3,
-      "name": "Rock_Marble_Brick",
-      "rotation": 1
-    },
-    {
-      "x": 1,
-      "y": 9,
-      "z": -3,
-      "name": "Rock_Marble_Brick_Roof_Shallow",
-      "filler": 31,
-      "rotation": 1
-    },
-    {
-      "x": 1,
-      "y": 0,
-      "z": -2,
-      "name": "Rock_Marble_Brick"
-    },
-    {
-      "x": 1,
-      "y": 1,
-      "z": -2,
-      "name": "Rock_Marble_Brick"
-    },
-    {
-      "x": 1,
-      "y": 7,
-      "z": -2,
-      "name": "Rock_Marble_Brick",
-      "rotation": 1
-    },
-    {
-      "x": 1,
-      "y": 8,
-      "z": -2,
-      "name": "Rock_Marble_Brick",
-      "rotation": 1
-    },
-    {
-      "x": 1,
-      "y": 9,
-      "z": -2,
-      "name": "Rock_Marble_Brick_Roof_Shallow",
-      "filler": 31,
-      "rotation": 1
-    },
-    {
-      "x": 1,
-      "y": 0,
-      "z": -1,
-      "name": "Rock_Marble_Brick"
-    },
-    {
-      "x": 1,
-      "y": 1,
-      "z": -1,
-      "name": "Rock_Marble_Brick"
-    },
-    {
-      "x": 1,
-      "y": 7,
-      "z": -1,
-      "name": "Rock_Marble_Brick",
-      "rotation": 1
-    },
-    {
-      "x": 1,
-      "y": 8,
-      "z": -1,
-      "name": "Rock_Marble_Brick",
-      "rotation": 1
-    },
-    {
-      "x": 1,
-      "y": 9,
-      "z": -1,
-      "name": "Rock_Marble_Brick_Roof_Shallow",
-      "filler": 31,
-      "rotation": 1
-    },
-    {
-      "x": 1,
-      "y": 0,
-      "z": 0,
-      "name": "Rock_Marble_Brick"
-    },
-    {
-      "x": 1,
-      "y": 1,
-      "z": 0,
-      "name": "Rock_Marble_Brick"
-    },
-    {
-      "x": 1,
-      "y": 7,
-      "z": 0,
-      "name": "Rock_Marble_Brick",
-      "rotation": 1
-    },
-    {
-      "x": 1,
-      "y": 8,
-      "z": 0,
-      "name": "Rock_Marble_Brick",
-      "rotation": 1
-    },
-    {
-      "x": 1,
-      "y": 9,
-      "z": 0,
-      "name": "Rock_Marble_Brick_Roof_Shallow",
-      "filler": 31,
-      "rotation": 1
-    },
-    {
-      "x": 1,
-      "y": 0,
-      "z": 1,
-      "name": "Rock_Marble_Brick"
-    },
-    {
-      "x": 1,
-      "y": 1,
-      "z": 1,
-      "name": "Rock_Marble_Brick"
-    },
-    {
-      "x": 1,
-      "y": 7,
-      "z": 1,
-      "name": "Rock_Marble_Brick",
-      "rotation": 1
-    },
-    {
-      "x": 1,
-      "y": 8,
-      "z": 1,
-      "name": "Rock_Marble_Brick",
-      "rotation": 1
-    },
-    {
-      "x": 1,
-      "y": 9,
-      "z": 1,
-      "name": "Rock_Marble_Brick_Roof_Shallow",
-      "filler": 31,
-      "rotation": 1
-    },
-    {
-      "x": 1,
-      "y": 0,
-      "z": 2,
-      "name": "Rock_Marble_Brick"
-    },
-    {
-      "x": 1,
-      "y": 1,
-      "z": 2,
-      "name": "Rock_Marble_Brick"
-    },
-    {
-      "x": 1,
-      "y": 7,
-      "z": 2,
-      "name": "Rock_Marble_Brick",
-      "rotation": 1
-    },
-    {
-      "x": 1,
-      "y": 8,
-      "z": 2,
-      "name": "Rock_Marble_Brick",
-      "rotation": 1
-    },
-    {
-      "x": 1,
-      "y": 9,
-      "z": 2,
-      "name": "Rock_Marble_Brick_Roof_Shallow",
-      "filler": 31,
-      "rotation": 1
-    },
-    {
-      "x": 1,
-      "y": 0,
-      "z": 3,
-      "name": "Rock_Marble_Brick"
-    },
-    {
-      "x": 1,
-      "y": 1,
-      "z": 3,
-      "name": "Rock_Marble_Brick"
-    },
-    {
-      "x": 1,
-      "y": 7,
-      "z": 3,
-      "name": "Rock_Marble_Brick",
-      "rotation": 1
-    },
-    {
-      "x": 1,
-      "y": 8,
-      "z": 3,
-      "name": "Rock_Marble_Brick",
-      "rotation": 1
-    },
-    {
-      "x": 1,
-      "y": 9,
-      "z": 3,
-      "name": "Rock_Marble_Brick_Roof_Shallow",
-      "filler": 31,
-      "rotation": 1
-    },
-    {
-      "x": 1,
-      "y": 0,
-      "z": 4,
-      "name": "Rock_Marble_Brick"
-    },
-    {
-      "x": 1,
-      "y": 1,
-      "z": 4,
-      "name": "Rock_Marble_Brick",
-      "rotation": 1
-    },
-    {
-      "x": 1,
-      "y": 2,
-      "z": 4,
-      "name": "Rock_Marble_Brick_Pillar_Base",
-      "rotation": 1
-    },
-    {
-      "x": 1,
-      "y": 3,
-      "z": 4,
-      "name": "Rock_Marble_Brick_Pillar_Middle",
-      "rotation": 1
-    },
-    {
-      "x": 1,
-      "y": 4,
-      "z": 4,
-      "name": "Rock_Marble_Brick_Pillar_Middle",
-      "rotation": 1
-    },
-    {
-      "x": 1,
-      "y": 5,
-      "z": 4,
-      "name": "Rock_Marble_Brick_Pillar_Middle",
-      "rotation": 1
-    },
-    {
-      "x": 1,
-      "y": 6,
-      "z": 4,
-      "name": "Rock_Marble_Brick_Pillar_Base",
-      "rotation": 9
-    },
-    {
-      "x": 1,
-      "y": 7,
-      "z": 4,
-      "name": "Rock_Marble_Brick",
-      "rotation": 1
-    },
-    {
-      "x": 1,
-      "y": 8,
-      "z": 4,
-      "name": "Rock_Marble_Brick",
-      "rotation": 1
-    },
-    {
-      "x": 1,
-      "y": 9,
-      "z": 4,
-      "name": "Rock_Marble_Brick_Roof_Shallow",
-      "filler": 31,
-      "rotation": 1
-    },
-    {
-      "x": 1,
-      "y": 0,
-      "z": 5,
-      "name": "Rock_Marble_Brick"
-    },
-    {
-      "x": 1,
-      "y": 1,
-      "z": 5,
-      "name": "Rock_Marble_Brick",
-      "rotation": 1
-    },
-    {
-      "x": 1,
-      "y": 7,
-      "z": 5,
-      "name": "Rock_Marble_Brick",
-      "rotation": 1
-    },
-    {
-      "x": 1,
-      "y": 9,
-      "z": 5,
-      "name": "Rock_Marble_Brick_Roof_Shallow",
-      "filler": 31,
-      "rotation": 1
+      "rotation": 4
     },
     {
       "x": 2,
@@ -2435,6 +1838,12 @@
       "y": 1,
       "z": -5,
       "name": "Rock_Marble_Brick"
+    },
+    {
+      "x": 2,
+      "y": 2,
+      "z": -5,
+      "name": "Rock_Marble_SkyGrass"
     },
     {
       "x": 2,
@@ -2467,7 +1876,20 @@
       "x": 2,
       "y": 1,
       "z": -4,
-      "name": "Rock_Marble_Brick"
+      "name": "Rock_Marble_SkyGrass"
+    },
+    {
+      "x": 2,
+      "y": 2,
+      "z": -4,
+      "name": "Rock_Marble_SkyGrass"
+    },
+    {
+      "x": 2,
+      "y": 3,
+      "z": -4,
+      "name": "Plant_Bush_Sky",
+      "support": 15
     },
     {
       "x": 2,
@@ -2500,7 +1922,21 @@
       "x": 2,
       "y": 1,
       "z": -3,
-      "name": "Rock_Marble_Brick"
+      "name": "Rock_Marble_SkyGrass"
+    },
+    {
+      "x": 2,
+      "y": 2,
+      "z": -3,
+      "name": "Plant_Grass_Sky_Wild",
+      "support": 15
+    },
+    {
+      "x": 2,
+      "y": 3,
+      "z": -3,
+      "name": "Plant_Grass_Sky_Wild",
+      "filler": 1024
     },
     {
       "x": 2,
@@ -2533,21 +1969,20 @@
       "x": 2,
       "y": 1,
       "z": -2,
-      "name": "Rock_Marble_Brick"
+      "name": "Rock_Marble_SkyGrass"
     },
     {
       "x": 2,
-      "y": 7,
+      "y": 2,
       "z": -2,
-      "name": "Rock_Marble_Brick",
-      "rotation": 1
+      "name": "Plant_Bush_Sky",
+      "support": 15
     },
     {
       "x": 2,
       "y": 8,
       "z": -2,
-      "name": "Rock_Marble_Brick",
-      "rotation": 1
+      "name": "Rock_Marble_Brick_Decorative"
     },
     {
       "x": 2,
@@ -2570,20 +2005,26 @@
     },
     {
       "x": 2,
+      "y": 2,
+      "z": -1,
+      "name": "Furniture_Temple_Light_Pot"
+    },
+    {
+      "x": 2,
       "y": 7,
+      "z": -1,
+      "name": "Rock_Marble_Brick_Smooth_Half",
+      "rotation": 8
+    },
+    {
+      "x": 2,
+      "y": 8,
       "z": -1,
       "name": "Rock_Marble_Brick",
       "rotation": 1
     },
     {
       "x": 2,
-      "y": 8,
-      "z": -1,
-      "name": "Rock_Marble_Brick",
-      "rotation": 1
-    },
-    {
-      "x": 2,
       "y": 9,
       "z": -1,
       "name": "Rock_Marble_Brick_Roof_Shallow",
@@ -2636,6 +2077,13 @@
     },
     {
       "x": 2,
+      "y": 2,
+      "z": 1,
+      "name": "Rubble_Marble_Medium",
+      "support": 15
+    },
+    {
+      "x": 2,
       "y": 7,
       "z": 1,
       "name": "Rock_Marble_Brick",
@@ -2646,13 +2094,6 @@
       "y": 8,
       "z": 1,
       "name": "Rock_Marble_Brick",
-      "rotation": 1
-    },
-    {
-      "x": 2,
-      "y": 9,
-      "z": 1,
-      "name": "Rock_Marble_Brick_Roof_Shallow",
       "rotation": 1
     },
     {
@@ -2702,6 +2143,12 @@
     },
     {
       "x": 2,
+      "y": 2,
+      "z": 3,
+      "name": "Furniture_Temple_Light_Pot"
+    },
+    {
+      "x": 2,
       "y": 7,
       "z": 3,
       "name": "Rock_Marble_Brick",
@@ -2746,13 +2193,6 @@
       "y": 8,
       "z": 4,
       "name": "Rock_Marble_Brick",
-      "rotation": 1
-    },
-    {
-      "x": 2,
-      "y": 9,
-      "z": 4,
-      "name": "Rock_Marble_Brick_Roof_Shallow",
       "rotation": 1
     },
     {
@@ -2783,13 +2223,6 @@
       "rotation": 9
     },
     {
-      "x": 2,
-      "y": 9,
-      "z": 5,
-      "name": "Rock_Marble_Brick_Roof_Shallow",
-      "rotation": 1
-    },
-    {
       "x": 3,
       "y": 0,
       "z": -5,
@@ -2867,16 +2300,8 @@
       "x": 3,
       "y": 7,
       "z": -4,
-      "name": "Rock_Marble_Brick",
-      "rotation": 1
-    },
-    {
-      "x": 3,
-      "y": 8,
-      "z": -4,
-      "name": "Rock_Marble_Brick_Roof_Shallow",
-      "filler": 31,
-      "rotation": 1
+      "name": "Plant_Moss_Yellow",
+      "support": 15
     },
     {
       "x": 3,
@@ -2892,17 +2317,38 @@
     },
     {
       "x": 3,
+      "y": 2,
+      "z": -3,
+      "name": "Rock_Marble_SkyGrass"
+    },
+    {
+      "x": 3,
+      "y": 3,
+      "z": -3,
+      "name": "Plant_Grass_Sky_Long",
+      "support": 15
+    },
+    {
+      "x": 3,
+      "y": 4,
+      "z": -3,
+      "name": "Plant_Grass_Sky_Long",
+      "filler": 1024
+    },
+    {
+      "x": 3,
       "y": 7,
       "z": -3,
-      "name": "Rock_Marble_Brick",
+      "name": "Plant_Moss_Wall_Yellow",
+      "support": 15,
       "rotation": 1
     },
     {
       "x": 3,
       "y": 8,
       "z": -3,
-      "name": "Rock_Marble_Brick_Roof_Shallow",
-      "filler": 31,
+      "name": "Plant_Moss_Wall_Yellow",
+      "support": 15,
       "rotation": 1
     },
     {
@@ -2935,37 +2381,8 @@
       "x": 3,
       "y": 4,
       "z": -2,
-      "name": "Rock_Marble_Brick_Pillar_Middle",
-      "rotation": 1
-    },
-    {
-      "x": 3,
-      "y": 5,
-      "z": -2,
-      "name": "Rock_Marble_Brick_Pillar_Middle",
-      "rotation": 1
-    },
-    {
-      "x": 3,
-      "y": 6,
-      "z": -2,
-      "name": "Rock_Marble_Brick_Pillar_Base",
-      "rotation": 9
-    },
-    {
-      "x": 3,
-      "y": 7,
-      "z": -2,
-      "name": "Rock_Marble_Brick",
-      "rotation": 1
-    },
-    {
-      "x": 3,
-      "y": 8,
-      "z": -2,
-      "name": "Rock_Marble_Brick_Roof_Shallow",
-      "filler": 31,
-      "rotation": 1
+      "name": "Rubble_Marble",
+      "support": 15
     },
     {
       "x": 3,
@@ -2978,21 +2395,6 @@
       "y": 1,
       "z": -1,
       "name": "Rock_Marble_Brick"
-    },
-    {
-      "x": 3,
-      "y": 7,
-      "z": -1,
-      "name": "Rock_Marble_Brick",
-      "rotation": 1
-    },
-    {
-      "x": 3,
-      "y": 8,
-      "z": -1,
-      "name": "Rock_Marble_Brick_Roof_Shallow",
-      "filler": 31,
-      "rotation": 1
     },
     {
       "x": 3,
@@ -3031,8 +2433,8 @@
       "x": 3,
       "y": 5,
       "z": 0,
-      "name": "Rock_Marble_Brick_Pillar_Middle",
-      "rotation": 1
+      "name": "Rubble_Marble",
+      "support": 15
     },
     {
       "x": 3,
@@ -3166,14 +2568,6 @@
     },
     {
       "x": 3,
-      "y": 8,
-      "z": 3,
-      "name": "Rock_Marble_Brick_Roof_Shallow",
-      "filler": 31,
-      "rotation": 1
-    },
-    {
-      "x": 3,
       "y": 0,
       "z": 4,
       "name": "Rock_Marble_Brick"
@@ -3303,6 +2697,19 @@
     },
     {
       "x": 4,
+      "y": 2,
+      "z": -4,
+      "name": "Rock_Marble_SkyGrass"
+    },
+    {
+      "x": 4,
+      "y": 3,
+      "z": -4,
+      "name": "Plant_Grass_Sky_Short",
+      "support": 15
+    },
+    {
+      "x": 4,
       "y": 7,
       "z": -4,
       "name": "Rock_Marble_Brick",
@@ -3310,13 +2717,6 @@
     },
     {
       "x": 4,
-      "y": 8,
-      "z": -4,
-      "name": "Rock_Marble_Brick_Roof_Shallow",
-      "rotation": 1
-    },
-    {
-      "x": 4,
       "y": 0,
       "z": -3,
       "name": "Rock_Marble_Brick"
@@ -3329,17 +2729,16 @@
     },
     {
       "x": 4,
-      "y": 7,
+      "y": 2,
       "z": -3,
-      "name": "Rock_Marble_Brick",
-      "rotation": 1
+      "name": "Rock_Marble_SkyGrass"
     },
     {
       "x": 4,
-      "y": 8,
+      "y": 3,
       "z": -3,
-      "name": "Rock_Marble_Brick_Roof_Shallow",
-      "rotation": 1
+      "name": "Plant_Grass_Sky",
+      "support": 15
     },
     {
       "x": 4,
@@ -3355,17 +2754,16 @@
     },
     {
       "x": 4,
-      "y": 7,
+      "y": 2,
       "z": -2,
-      "name": "Rock_Marble_Brick",
-      "rotation": 1
+      "name": "Rock_Marble_SkyGrass"
     },
     {
       "x": 4,
-      "y": 8,
+      "y": 3,
       "z": -2,
-      "name": "Rock_Marble_Brick_Roof_Shallow",
-      "rotation": 1
+      "name": "Plant_Grass_Sky",
+      "support": 15
     },
     {
       "x": 4,
@@ -3377,21 +2775,7 @@
       "x": 4,
       "y": 1,
       "z": -1,
-      "name": "Rock_Marble_Brick"
-    },
-    {
-      "x": 4,
-      "y": 7,
-      "z": -1,
-      "name": "Rock_Marble_Brick",
-      "rotation": 1
-    },
-    {
-      "x": 4,
-      "y": 8,
-      "z": -1,
-      "name": "Rock_Marble_Brick_Roof_Shallow",
-      "rotation": 1
+      "name": "Rock_Marble_Brick_Decorative"
     },
     {
       "x": 4,
@@ -3461,8 +2845,7 @@
       "x": 4,
       "y": 7,
       "z": 2,
-      "name": "Rock_Marble_Brick",
-      "rotation": 1
+      "name": "Rock_Marble_Brick_Decorative"
     },
     {
       "x": 4,
@@ -3488,13 +2871,6 @@
       "y": 7,
       "z": 3,
       "name": "Rock_Marble_Brick",
-      "rotation": 1
-    },
-    {
-      "x": 4,
-      "y": 8,
-      "z": 3,
-      "name": "Rock_Marble_Brick_Roof_Shallow",
       "rotation": 1
     },
     {

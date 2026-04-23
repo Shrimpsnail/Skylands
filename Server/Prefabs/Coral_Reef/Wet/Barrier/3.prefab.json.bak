@@ -1,0 +1,100 @@
+{
+  "version": 8,
+  "blockIdVersion": 11,
+  "anchorX": 0,
+  "anchorY": 0,
+  "anchorZ": 0,
+  "blocks": [
+    {
+      "x": -1,
+      "y": 0,
+      "z": -1,
+      "name": "Plant_Coral_Block_Purple"
+    },
+    {
+      "x": -1,
+      "y": 1,
+      "z": -1,
+      "name": "Plant_Coral_Block_Purple"
+    },
+    {
+      "x": -1,
+      "y": 2,
+      "z": -1,
+      "name": "Plant_Coral_Bush_Purple"
+    },
+    {
+      "x": -1,
+      "y": 0,
+      "z": 1,
+      "name": "Plant_Coral_Block_Purple"
+    },
+    {
+      "x": -1,
+      "y": 1,
+      "z": 1,
+      "name": "Plant_Coral_Bush_Purple"
+    },
+    {
+      "x": 0,
+      "y": 0,
+      "z": -1,
+      "name": "Plant_Coral_Block_Purple"
+    },
+    {
+      "x": 0,
+      "y": 0,
+      "z": 0,
+      "name": "Plant_Coral_Block_Purple"
+    },
+    {
+      "x": 0,
+      "y": 1,
+      "z": 0,
+      "name": "Plant_Coral_Block_Purple"
+    },
+    {
+      "x": 0,
+      "y": 2,
+      "z": 0,
+      "name": "Plant_Coral_Bush_Purple"
+    },
+    {
+      "x": 1,
+      "y": 0,
+      "z": 0,
+      "name": "Plant_Coral_Block_Purple"
+    },
+    {
+      "x": 1,
+      "y": 1,
+      "z": 0,
+      "name": "Plant_Coral_Model_Purple"
+    },
+    {
+      "x": 1,
+      "y": 2,
+      "z": 0,
+      "name": "Plant_Coral_Model_Purple",
+      "filler": 1024
+    },
+    {
+      "x": 1,
+      "y": 0,
+      "z": 1,
+      "name": "Plant_Coral_Block_Purple"
+    },
+    {
+      "x": 1,
+      "y": 1,
+      "z": 1,
+      "name": "Plant_Coral_Block_Purple"
+    },
+    {
+      "x": 1,
+      "y": 2,
+      "z": 1,
+      "name": "Plant_Coral_Block_Purple"
+    }
+  ]
+}

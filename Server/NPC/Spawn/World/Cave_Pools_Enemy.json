@@ -1,0 +1,38 @@
+{
+  "NPCs": [
+    {
+      "Id": "Toad_Rhino",
+      "Flock": "One_Or_Two",
+      "Weight": 5
+    },
+    {
+      "Weight": 3,
+      "Id": "Fen_Stalker",
+      "Flock": "One_Or_Two"
+    },
+    {
+      "Id": "Skeleton_Pirate_Captain",
+      "Flock": "One_Or_Two",
+      "Weight": 1
+    },
+    {
+      "Id": "Skeleton_Pirate_Gunner_Wander",
+      "Weight": 2,
+      "Flock": "Group_Tiny"
+    },
+    {
+      "Id": "Skeleton_Pirate_Striker_Wander",
+      "Weight": 2,
+      "Flock": "Group_Tiny"
+    },
+    {
+      "Id": "Snapjaw",
+      "Weight": 3,
+      "SpawnFluidTag": "Water",
+      "Flock": "One_Or_Two"
+    }
+  ],
+  "Environments": [
+    "Env_CavePools"
+  ]
+}

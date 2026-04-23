@@ -2,7 +2,7 @@
   "version": 8,
   "blockIdVersion": 11,
   "anchorX": 0,
-  "anchorY": 14,
+  "anchorY": 13,
   "anchorZ": 0,
   "blocks": [
     {
@@ -343,6 +343,12 @@
     },
     {
       "x": -2,
+      "y": 12,
+      "z": -1,
+      "name": "Wood_Banyan_Roots"
+    },
+    {
+      "x": -2,
       "y": 13,
       "z": -1,
       "name": "Plant_Large_Lilypad",
@@ -387,13 +393,6 @@
       "z": 1,
       "name": "Plant_Large_Lilypad",
       "rotation": 3
-    },
-    {
-      "x": -2,
-      "y": 14,
-      "z": 1,
-      "name": "Plant_Grass_Sharp_Short",
-      "support": 15
     },
     {
       "x": -2,
@@ -444,12 +443,6 @@
     },
     {
       "x": -1,
-      "y": 12,
-      "z": -1,
-      "name": "Wood_Banyan_Roots"
-    },
-    {
-      "x": -1,
       "y": 13,
       "z": -1,
       "name": "Plant_Large_Lilypad",
@@ -479,10 +472,15 @@
     },
     {
       "x": -1,
+      "y": 12,
+      "z": 0,
+      "name": "Wood_Banyan_Roots"
+    },
+    {
+      "x": -1,
       "y": 13,
       "z": 0,
-      "name": "Plant_Large_Lilypad",
-      "rotation": 3
+      "name": "Plant_Large_Lilypad"
     },
     {
       "x": -1,
@@ -538,13 +536,6 @@
       "z": 2,
       "name": "Plant_Large_Lilypad",
       "rotation": 3
-    },
-    {
-      "x": -1,
-      "y": 14,
-      "z": 2,
-      "name": "Plant_Grass_Sharp_Short",
-      "support": 15
     },
     {
       "x": -1,
@@ -657,13 +648,6 @@
     },
     {
       "x": 0,
-      "y": 14,
-      "z": -2,
-      "name": "Plant_Grass_Sharp_Short",
-      "support": 15
-    },
-    {
-      "x": 0,
       "y": 4,
       "z": -1,
       "name": "Wood_Banyan_Trunk",
@@ -788,12 +772,6 @@
       "name": "Wood_Banyan_Branch_Long",
       "support": 15,
       "rotation": 4
-    },
-    {
-      "x": 0,
-      "y": 12,
-      "z": 1,
-      "name": "Wood_Banyan_Roots"
     },
     {
       "x": 0,
@@ -929,17 +907,9 @@
     },
     {
       "x": 1,
-      "y": 14,
-      "z": -2,
-      "name": "Plant_Grass_Sharp_Tall",
-      "support": 15
-    },
-    {
-      "x": 1,
-      "y": 15,
-      "z": -2,
-      "name": "Plant_Grass_Sharp_Tall",
-      "filler": 1024
+      "y": 12,
+      "z": -1,
+      "name": "Wood_Banyan_Roots"
     },
     {
       "x": 1,
@@ -972,12 +942,6 @@
     },
     {
       "x": 1,
-      "y": 12,
-      "z": 0,
-      "name": "Wood_Banyan_Roots"
-    },
-    {
-      "x": 1,
       "y": 13,
       "z": 0,
       "name": "Plant_Large_Lilypad",
@@ -988,6 +952,12 @@
       "y": 14,
       "z": 0,
       "name": "Empty"
+    },
+    {
+      "x": 1,
+      "y": 12,
+      "z": 1,
+      "name": "Wood_Banyan_Roots"
     },
     {
       "x": 1,
@@ -1078,20 +1048,6 @@
       "z": -1,
       "name": "Plant_Large_Lilypad",
       "rotation": 3
-    },
-    {
-      "x": 2,
-      "y": 14,
-      "z": -1,
-      "name": "Plant_Grass_Sharp_Tall",
-      "support": 15
-    },
-    {
-      "x": 2,
-      "y": 15,
-      "z": -1,
-      "name": "Plant_Grass_Sharp_Tall",
-      "filler": 1024
     },
     {
       "x": 2,
@@ -1338,9 +1294,44 @@
   ],
   "fluids": [
     {
+      "x": -8,
+      "y": 12,
+      "z": 1,
+      "name": "Water_Source",
+      "level": 1
+    },
+    {
+      "x": -7,
+      "y": 12,
+      "z": -1,
+      "name": "Water_Source",
+      "level": 1
+    },
+    {
       "x": -7,
       "y": 10,
       "z": 0,
+      "name": "Water_Source",
+      "level": 1
+    },
+    {
+      "x": -7,
+      "y": 12,
+      "z": 0,
+      "name": "Water_Source",
+      "level": 1
+    },
+    {
+      "x": -7,
+      "y": 12,
+      "z": 2,
+      "name": "Water_Source",
+      "level": 1
+    },
+    {
+      "x": -6,
+      "y": 12,
+      "z": -1,
       "name": "Water_Source",
       "level": 1
     },
@@ -1354,6 +1345,13 @@
     {
       "x": -6,
       "y": 10,
+      "z": 1,
+      "name": "Water_Source",
+      "level": 1
+    },
+    {
+      "x": -5,
+      "y": 12,
       "z": 1,
       "name": "Water_Source",
       "level": 1
@@ -1416,6 +1414,13 @@
     },
     {
       "x": -2,
+      "y": 12,
+      "z": -1,
+      "name": "Water_Source",
+      "level": 1
+    },
+    {
+      "x": -2,
       "y": 6,
       "z": 0,
       "name": "Water_Source",
@@ -1430,14 +1435,14 @@
     },
     {
       "x": -1,
-      "y": 12,
-      "z": -1,
+      "y": 8,
+      "z": 0,
       "name": "Water_Source",
       "level": 1
     },
     {
       "x": -1,
-      "y": 8,
+      "y": 12,
       "z": 0,
       "name": "Water_Source",
       "level": 1
@@ -1528,13 +1533,6 @@
     },
     {
       "x": 0,
-      "y": 12,
-      "z": 1,
-      "name": "Water_Source",
-      "level": 1
-    },
-    {
-      "x": 0,
       "y": 1,
       "z": 2,
       "name": "Water_Source",
@@ -1577,6 +1575,13 @@
     },
     {
       "x": 1,
+      "y": 12,
+      "z": -1,
+      "name": "Water_Source",
+      "level": 1
+    },
+    {
+      "x": 1,
       "y": 4,
       "z": 0,
       "name": "Water_Source",
@@ -1592,7 +1597,7 @@
     {
       "x": 1,
       "y": 12,
-      "z": 0,
+      "z": 1,
       "name": "Water_Source",
       "level": 1
     },
@@ -1684,20 +1689,6 @@
       "x": 2,
       "y": 12,
       "z": 4,
-      "name": "Water_Source",
-      "level": 1
-    },
-    {
-      "x": 2,
-      "y": 13,
-      "z": 4,
-      "name": "Water_Source",
-      "level": 1
-    },
-    {
-      "x": 2,
-      "y": 13,
-      "z": 5,
       "name": "Water_Source",
       "level": 1
     },

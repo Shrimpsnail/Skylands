@@ -1,0 +1,22 @@
+{
+  "Environments": [
+    "Env_CaveLava"
+  ],
+  "NPCs": [
+    {
+      "Weight": 1,
+      "Id": "Skeleton_Incandescent_Fighter_Wander",
+      "Flock": "Group_Tiny"
+    },
+    {
+      "Id": "Skeleton_Incandescent_Footman",
+      "Weight": 1,
+      "Flock": "Group_Tiny"
+    },
+    {
+      "Id": "Skeleton_Incandescent_Mage_Wander",
+      "Weight": 1,
+      "Flock": "Group_Tiny"
+    }
+  ]
+}

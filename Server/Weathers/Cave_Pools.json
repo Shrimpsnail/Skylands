@@ -32,10 +32,5 @@
       "Hour": 0,
       "Color": "#5e9db6"
     }
-  ],
-  "Particle": {
-    "SystemId": "Spawn_Mist",
-    "OvergroundOnly": false,
-    "Scale": 0
-  }
+  ]
 }

@@ -1,0 +1,33 @@
+{
+  "NPCs": [
+    {
+      "Id": "Duck",
+      "Weight": 3,
+      "Flock": "Group_Tiny"
+    },
+    {
+      "Id": "Catfish",
+      "Weight": 3,
+      "Flock": "Group_Tiny",
+      "SpawnFluidTag": "Water"
+    },
+    {
+      "Id": "Frog_Blue",
+      "Weight": 1,
+      "Flock": "Group_Tiny"
+    },
+    {
+      "Id": "Frog_Green",
+      "Weight": 1,
+      "Flock": "Group_Tiny"
+    },
+    {
+      "Id": "Frog_Orange",
+      "Weight": 1,
+      "Flock": "Group_Tiny"
+    }
+  ],
+  "Environments": [
+    "Env_Sky_Swamp"
+  ]
+}

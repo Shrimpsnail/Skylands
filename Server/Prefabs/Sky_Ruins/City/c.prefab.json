@@ -6,6 +6,853 @@
   "anchorZ": 0,
   "blocks": [
     {
+      "x": -10,
+      "y": 12,
+      "z": -8,
+      "name": "Plant_Leaves_Aspen",
+      "support": 15,
+      "rotation": 1
+    },
+    {
+      "x": -10,
+      "y": 12,
+      "z": -7,
+      "name": "Plant_Leaves_Aspen",
+      "support": 15,
+      "rotation": 1
+    },
+    {
+      "x": -10,
+      "y": 13,
+      "z": -7,
+      "name": "Plant_Leaves_Aspen",
+      "support": 15,
+      "rotation": 1
+    },
+    {
+      "x": -10,
+      "y": 12,
+      "z": -6,
+      "name": "Plant_Leaves_Aspen",
+      "support": 15,
+      "rotation": 1
+    },
+    {
+      "x": -10,
+      "y": 17,
+      "z": 2,
+      "name": "Plant_Leaves_Aspen",
+      "support": 15,
+      "rotation": 1
+    },
+    {
+      "x": -10,
+      "y": 17,
+      "z": 3,
+      "name": "Plant_Leaves_Aspen",
+      "support": 15,
+      "rotation": 1
+    },
+    {
+      "x": -9,
+      "y": 12,
+      "z": -8,
+      "name": "Plant_Leaves_Aspen",
+      "support": 15,
+      "rotation": 1
+    },
+    {
+      "x": -9,
+      "y": 13,
+      "z": -8,
+      "name": "Plant_Leaves_Aspen",
+      "support": 15,
+      "rotation": 1
+    },
+    {
+      "x": -9,
+      "y": 12,
+      "z": -7,
+      "name": "Plant_Leaves_Aspen",
+      "support": 15,
+      "rotation": 1
+    },
+    {
+      "x": -9,
+      "y": 13,
+      "z": -7,
+      "name": "Plant_Leaves_Aspen",
+      "support": 15,
+      "rotation": 1
+    },
+    {
+      "x": -9,
+      "y": 11,
+      "z": -6,
+      "name": "Plant_Leaves_Aspen",
+      "support": 15,
+      "rotation": 1
+    },
+    {
+      "x": -9,
+      "y": 12,
+      "z": -6,
+      "name": "Plant_Leaves_Aspen",
+      "support": 15,
+      "rotation": 1
+    },
+    {
+      "x": -9,
+      "y": 13,
+      "z": -6,
+      "name": "Plant_Leaves_Aspen",
+      "support": 15,
+      "rotation": 1
+    },
+    {
+      "x": -9,
+      "y": 12,
+      "z": -5,
+      "name": "Plant_Leaves_Aspen",
+      "support": 15,
+      "rotation": 1
+    },
+    {
+      "x": -9,
+      "y": 12,
+      "z": -4,
+      "name": "Plant_Leaves_Aspen",
+      "support": 15,
+      "rotation": 1
+    },
+    {
+      "x": -9,
+      "y": 17,
+      "z": 0,
+      "name": "Plant_Leaves_Aspen",
+      "support": 15,
+      "rotation": 1
+    },
+    {
+      "x": -9,
+      "y": 17,
+      "z": 1,
+      "name": "Plant_Leaves_Aspen",
+      "support": 15,
+      "rotation": 1
+    },
+    {
+      "x": -9,
+      "y": 17,
+      "z": 2,
+      "name": "Plant_Leaves_Aspen",
+      "support": 15,
+      "rotation": 1
+    },
+    {
+      "x": -9,
+      "y": 17,
+      "z": 3,
+      "name": "Plant_Leaves_Aspen",
+      "support": 15,
+      "rotation": 1
+    },
+    {
+      "x": -9,
+      "y": 17,
+      "z": 4,
+      "name": "Plant_Leaves_Aspen",
+      "support": 15,
+      "rotation": 1
+    },
+    {
+      "x": -8,
+      "y": 12,
+      "z": -8,
+      "name": "Plant_Leaves_Aspen",
+      "support": 15,
+      "rotation": 1
+    },
+    {
+      "x": -8,
+      "y": 11,
+      "z": -7,
+      "name": "Plant_Leaves_Aspen",
+      "support": 15,
+      "rotation": 1
+    },
+    {
+      "x": -8,
+      "y": 12,
+      "z": -7,
+      "name": "Plant_Leaves_Aspen",
+      "support": 15,
+      "rotation": 1
+    },
+    {
+      "x": -8,
+      "y": 13,
+      "z": -7,
+      "name": "Plant_Leaves_Aspen",
+      "support": 15,
+      "rotation": 1
+    },
+    {
+      "x": -8,
+      "y": 10,
+      "z": -6,
+      "name": "Wood_Birch_Branch_Corner",
+      "support": 15,
+      "rotation": 2
+    },
+    {
+      "x": -8,
+      "y": 11,
+      "z": -6,
+      "name": "Wood_Birch_Branch_Long",
+      "support": 15,
+      "rotation": 1
+    },
+    {
+      "x": -8,
+      "y": 12,
+      "z": -6,
+      "name": "Wood_Birch_Branch_Long",
+      "support": 15,
+      "rotation": 1
+    },
+    {
+      "x": -8,
+      "y": 13,
+      "z": -6,
+      "name": "Plant_Leaves_Aspen",
+      "support": 15,
+      "rotation": 1
+    },
+    {
+      "x": -8,
+      "y": 14,
+      "z": -6,
+      "name": "Plant_Leaves_Aspen",
+      "support": 15,
+      "rotation": 1
+    },
+    {
+      "x": -8,
+      "y": 10,
+      "z": -5,
+      "name": "Wood_Birch_Branch_Long",
+      "support": 15,
+      "rotation": 6
+    },
+    {
+      "x": -8,
+      "y": 12,
+      "z": -5,
+      "name": "Plant_Leaves_Aspen",
+      "support": 15,
+      "rotation": 1
+    },
+    {
+      "x": -8,
+      "y": 13,
+      "z": -5,
+      "name": "Plant_Leaves_Aspen",
+      "support": 15,
+      "rotation": 1
+    },
+    {
+      "x": -8,
+      "y": 9,
+      "z": -4,
+      "name": "Wood_Birch_Branch_Corner",
+      "support": 15,
+      "rotation": 3
+    },
+    {
+      "x": -8,
+      "y": 10,
+      "z": -4,
+      "name": "Wood_Birch_Branch_Corner",
+      "support": 15,
+      "rotation": 32
+    },
+    {
+      "x": -8,
+      "y": 12,
+      "z": -4,
+      "name": "Plant_Leaves_Aspen",
+      "support": 15,
+      "rotation": 1
+    },
+    {
+      "x": -8,
+      "y": 12,
+      "z": -3,
+      "name": "Plant_Leaves_Aspen",
+      "support": 15,
+      "rotation": 1
+    },
+    {
+      "x": -8,
+      "y": 17,
+      "z": -1,
+      "name": "Plant_Leaves_Aspen",
+      "support": 15,
+      "rotation": 1
+    },
+    {
+      "x": -8,
+      "y": 17,
+      "z": 0,
+      "name": "Plant_Leaves_Aspen",
+      "support": 15,
+      "rotation": 1
+    },
+    {
+      "x": -8,
+      "y": 18,
+      "z": 0,
+      "name": "Plant_Leaves_Aspen",
+      "support": 15,
+      "rotation": 1
+    },
+    {
+      "x": -8,
+      "y": 16,
+      "z": 1,
+      "name": "Plant_Leaves_Aspen",
+      "support": 15,
+      "rotation": 1
+    },
+    {
+      "x": -8,
+      "y": 17,
+      "z": 1,
+      "name": "Plant_Leaves_Aspen",
+      "support": 15,
+      "rotation": 1
+    },
+    {
+      "x": -8,
+      "y": 18,
+      "z": 1,
+      "name": "Plant_Leaves_Aspen",
+      "support": 15,
+      "rotation": 1
+    },
+    {
+      "x": -8,
+      "y": 17,
+      "z": 2,
+      "name": "Plant_Leaves_Aspen",
+      "support": 15,
+      "rotation": 1
+    },
+    {
+      "x": -8,
+      "y": 18,
+      "z": 2,
+      "name": "Plant_Leaves_Aspen",
+      "support": 15,
+      "rotation": 1
+    },
+    {
+      "x": -8,
+      "y": 17,
+      "z": 3,
+      "name": "Plant_Leaves_Aspen",
+      "support": 15,
+      "rotation": 1
+    },
+    {
+      "x": -8,
+      "y": 17,
+      "z": 4,
+      "name": "Plant_Leaves_Aspen",
+      "support": 15,
+      "rotation": 1
+    },
+    {
+      "x": -7,
+      "y": 12,
+      "z": -8,
+      "name": "Plant_Leaves_Aspen",
+      "support": 15,
+      "rotation": 1
+    },
+    {
+      "x": -7,
+      "y": 12,
+      "z": -7,
+      "name": "Plant_Leaves_Aspen",
+      "support": 15,
+      "rotation": 1
+    },
+    {
+      "x": -7,
+      "y": 13,
+      "z": -7,
+      "name": "Plant_Leaves_Aspen",
+      "support": 15,
+      "rotation": 1
+    },
+    {
+      "x": -7,
+      "y": 12,
+      "z": -6,
+      "name": "Plant_Leaves_Aspen",
+      "support": 15,
+      "rotation": 1
+    },
+    {
+      "x": -7,
+      "y": 13,
+      "z": -6,
+      "name": "Plant_Leaves_Aspen",
+      "support": 15,
+      "rotation": 1
+    },
+    {
+      "x": -7,
+      "y": 14,
+      "z": -6,
+      "name": "Plant_Leaves_Aspen",
+      "support": 15,
+      "rotation": 1
+    },
+    {
+      "x": -7,
+      "y": 12,
+      "z": -5,
+      "name": "Plant_Leaves_Aspen",
+      "support": 15,
+      "rotation": 1
+    },
+    {
+      "x": -7,
+      "y": 13,
+      "z": -5,
+      "name": "Plant_Leaves_Aspen",
+      "support": 15,
+      "rotation": 1
+    },
+    {
+      "x": -7,
+      "y": 14,
+      "z": -5,
+      "name": "Plant_Leaves_Aspen",
+      "support": 15,
+      "rotation": 1
+    },
+    {
+      "x": -7,
+      "y": 9,
+      "z": -4,
+      "name": "Wood_Birch_Branch_Long",
+      "support": 15,
+      "rotation": 5
+    },
+    {
+      "x": -7,
+      "y": 11,
+      "z": -4,
+      "name": "Plant_Leaves_Aspen",
+      "support": 15,
+      "rotation": 1
+    },
+    {
+      "x": -7,
+      "y": 12,
+      "z": -4,
+      "name": "Plant_Leaves_Aspen",
+      "support": 15,
+      "rotation": 1
+    },
+    {
+      "x": -7,
+      "y": 13,
+      "z": -4,
+      "name": "Plant_Leaves_Aspen",
+      "support": 15,
+      "rotation": 1
+    },
+    {
+      "x": -7,
+      "y": 14,
+      "z": -4,
+      "name": "Plant_Leaves_Aspen",
+      "support": 15,
+      "rotation": 1
+    },
+    {
+      "x": -7,
+      "y": 12,
+      "z": -3,
+      "name": "Plant_Leaves_Aspen",
+      "support": 15,
+      "rotation": 1
+    },
+    {
+      "x": -7,
+      "y": 13,
+      "z": -3,
+      "name": "Plant_Leaves_Aspen",
+      "support": 15,
+      "rotation": 1
+    },
+    {
+      "x": -7,
+      "y": 14,
+      "z": -3,
+      "name": "Plant_Leaves_Aspen",
+      "support": 15,
+      "rotation": 1
+    },
+    {
+      "x": -7,
+      "y": 12,
+      "z": -2,
+      "name": "Plant_Leaves_Aspen",
+      "support": 15,
+      "rotation": 1
+    },
+    {
+      "x": -7,
+      "y": 17,
+      "z": -1,
+      "name": "Plant_Leaves_Aspen",
+      "support": 15,
+      "rotation": 1
+    },
+    {
+      "x": -7,
+      "y": 17,
+      "z": 0,
+      "name": "Plant_Leaves_Aspen",
+      "support": 15,
+      "rotation": 1
+    },
+    {
+      "x": -7,
+      "y": 18,
+      "z": 0,
+      "name": "Plant_Leaves_Aspen",
+      "support": 15,
+      "rotation": 1
+    },
+    {
+      "x": -7,
+      "y": 15,
+      "z": 1,
+      "name": "Wood_Birch_Branch_Corner",
+      "support": 15,
+      "rotation": 3
+    },
+    {
+      "x": -7,
+      "y": 16,
+      "z": 1,
+      "name": "Wood_Birch_Branch_Long",
+      "support": 15,
+      "rotation": 1
+    },
+    {
+      "x": -7,
+      "y": 17,
+      "z": 1,
+      "name": "Wood_Birch_Branch_Long",
+      "support": 15,
+      "rotation": 1
+    },
+    {
+      "x": -7,
+      "y": 18,
+      "z": 1,
+      "name": "Plant_Leaves_Aspen",
+      "support": 15,
+      "rotation": 1
+    },
+    {
+      "x": -7,
+      "y": 16,
+      "z": 2,
+      "name": "Plant_Leaves_Aspen",
+      "support": 15,
+      "rotation": 1
+    },
+    {
+      "x": -7,
+      "y": 17,
+      "z": 2,
+      "name": "Plant_Leaves_Aspen",
+      "support": 15,
+      "rotation": 1
+    },
+    {
+      "x": -7,
+      "y": 18,
+      "z": 2,
+      "name": "Plant_Leaves_Aspen",
+      "support": 15,
+      "rotation": 1
+    },
+    {
+      "x": -7,
+      "y": 16,
+      "z": 3,
+      "name": "Plant_Leaves_Aspen",
+      "support": 15,
+      "rotation": 1
+    },
+    {
+      "x": -7,
+      "y": 17,
+      "z": 3,
+      "name": "Plant_Leaves_Aspen",
+      "support": 15,
+      "rotation": 1
+    },
+    {
+      "x": -6,
+      "y": 12,
+      "z": -7,
+      "name": "Plant_Leaves_Aspen",
+      "support": 15,
+      "rotation": 1
+    },
+    {
+      "x": -6,
+      "y": 12,
+      "z": -6,
+      "name": "Plant_Leaves_Aspen",
+      "support": 15,
+      "rotation": 1
+    },
+    {
+      "x": -6,
+      "y": 13,
+      "z": -6,
+      "name": "Plant_Leaves_Aspen",
+      "support": 15,
+      "rotation": 1
+    },
+    {
+      "x": -6,
+      "y": 12,
+      "z": -5,
+      "name": "Plant_Leaves_Aspen",
+      "support": 15,
+      "rotation": 1
+    },
+    {
+      "x": -6,
+      "y": 13,
+      "z": -5,
+      "name": "Plant_Leaves_Aspen",
+      "support": 15,
+      "rotation": 1
+    },
+    {
+      "x": -6,
+      "y": 14,
+      "z": -5,
+      "name": "Plant_Leaves_Aspen",
+      "support": 15,
+      "rotation": 1
+    },
+    {
+      "x": -6,
+      "y": 7,
+      "z": -4,
+      "name": "Wood_Birch_Trunk_Full",
+      "support": 15,
+      "rotation": 1
+    },
+    {
+      "x": -6,
+      "y": 8,
+      "z": -4,
+      "name": "Wood_Birch_Trunk",
+      "support": 15,
+      "rotation": 1
+    },
+    {
+      "x": -6,
+      "y": 9,
+      "z": -4,
+      "name": "Wood_Birch_Trunk",
+      "support": 15,
+      "rotation": 1
+    },
+    {
+      "x": -6,
+      "y": 10,
+      "z": -4,
+      "name": "Wood_Birch_Trunk",
+      "support": 15,
+      "rotation": 1
+    },
+    {
+      "x": -6,
+      "y": 11,
+      "z": -4,
+      "name": "Wood_Birch_Trunk",
+      "support": 15,
+      "rotation": 1
+    },
+    {
+      "x": -6,
+      "y": 12,
+      "z": -4,
+      "name": "Wood_Birch_Trunk",
+      "support": 15,
+      "rotation": 1
+    },
+    {
+      "x": -6,
+      "y": 13,
+      "z": -4,
+      "name": "Wood_Birch_Trunk_Full",
+      "support": 15,
+      "rotation": 1
+    },
+    {
+      "x": -6,
+      "y": 14,
+      "z": -4,
+      "name": "Plant_Leaves_Aspen",
+      "support": 15,
+      "rotation": 1
+    },
+    {
+      "x": -6,
+      "y": 6,
+      "z": -3,
+      "name": "Wood_Birch_Trunk_Full",
+      "support": 15
+    },
+    {
+      "x": -6,
+      "y": 7,
+      "z": -3,
+      "name": "Wood_Birch_Trunk_Full",
+      "support": 15,
+      "rotation": 1
+    },
+    {
+      "x": -6,
+      "y": 12,
+      "z": -3,
+      "name": "Plant_Leaves_Aspen",
+      "support": 15,
+      "rotation": 1
+    },
+    {
+      "x": -6,
+      "y": 13,
+      "z": -3,
+      "name": "Wood_Birch_Trunk_Full",
+      "support": 15,
+      "rotation": 5
+    },
+    {
+      "x": -6,
+      "y": 14,
+      "z": -3,
+      "name": "Plant_Leaves_Aspen",
+      "support": 15,
+      "rotation": 1
+    },
+    {
+      "x": -6,
+      "y": 7,
+      "z": -2,
+      "name": "Plant_Leaves_Aspen",
+      "support": 15,
+      "rotation": 1
+    },
+    {
+      "x": -6,
+      "y": 12,
+      "z": -2,
+      "name": "Plant_Leaves_Aspen",
+      "support": 15,
+      "rotation": 1
+    },
+    {
+      "x": -6,
+      "y": 13,
+      "z": -2,
+      "name": "Plant_Leaves_Aspen",
+      "support": 15,
+      "rotation": 1
+    },
+    {
+      "x": -6,
+      "y": 7,
+      "z": -1,
+      "name": "Plant_Leaves_Aspen",
+      "support": 15,
+      "rotation": 1
+    },
+    {
+      "x": -6,
+      "y": 17,
+      "z": -1,
+      "name": "Plant_Leaves_Aspen",
+      "support": 15,
+      "rotation": 1
+    },
+    {
+      "x": -6,
+      "y": 17,
+      "z": 0,
+      "name": "Plant_Leaves_Aspen",
+      "support": 15,
+      "rotation": 1
+    },
+    {
+      "x": -6,
+      "y": 15,
+      "z": 1,
+      "name": "Wood_Birch_Branch_Long",
+      "support": 15,
+      "rotation": 5
+    },
+    {
+      "x": -6,
+      "y": 17,
+      "z": 1,
+      "name": "Plant_Leaves_Aspen",
+      "support": 15,
+      "rotation": 1
+    },
+    {
+      "x": -6,
+      "y": 17,
+      "z": 2,
+      "name": "Plant_Leaves_Aspen",
+      "support": 15,
+      "rotation": 1
+    },
+    {
+      "x": -6,
+      "y": 17,
+      "z": 3,
+      "name": "Plant_Leaves_Aspen",
+      "support": 15,
+      "rotation": 1
+    },
+    {
+      "x": -5,
+      "y": 13,
+      "z": -6,
+      "name": "Plant_Leaves_Aspen",
+      "support": 15,
+      "rotation": 1
+    },
+    {
       "x": -5,
       "y": 0,
       "z": -5,
@@ -37,213 +884,238 @@
     },
     {
       "x": -5,
-      "y": 5,
+      "y": 12,
       "z": -5,
+      "name": "Plant_Leaves_Aspen",
+      "support": 15,
+      "rotation": 1
+    },
+    {
+      "x": -5,
+      "y": 13,
+      "z": -5,
+      "name": "Plant_Leaves_Aspen",
+      "support": 15,
+      "rotation": 1
+    },
+    {
+      "x": -5,
+      "y": 14,
+      "z": -5,
+      "name": "Plant_Leaves_Aspen",
+      "support": 15,
+      "rotation": 1
+    },
+    {
+      "x": -5,
+      "y": 16,
+      "z": -5,
+      "name": "Plant_Leaves_Aspen",
+      "support": 15,
+      "rotation": 1
+    },
+    {
+      "x": -5,
+      "y": 0,
+      "z": -4,
       "name": "Rock_Marble_Brick"
+    },
+    {
+      "x": -5,
+      "y": 1,
+      "z": -4,
+      "name": "Rock_Marble_Brick"
+    },
+    {
+      "x": -5,
+      "y": 2,
+      "z": -4,
+      "name": "Rock_Marble_Brick"
+    },
+    {
+      "x": -5,
+      "y": 4,
+      "z": -4,
+      "name": "Rock_Marble_Brick"
+    },
+    {
+      "x": -5,
+      "y": 5,
+      "z": -4,
+      "name": "Rock_Marble_Brick"
+    },
+    {
+      "x": -5,
+      "y": 7,
+      "z": -4,
+      "name": "Wood_Birch_Trunk_Full",
+      "support": 15,
+      "rotation": 1
+    },
+    {
+      "x": -5,
+      "y": 12,
+      "z": -4,
+      "name": "Plant_Leaves_Aspen",
+      "support": 15,
+      "rotation": 1
+    },
+    {
+      "x": -5,
+      "y": 13,
+      "z": -4,
+      "name": "Wood_Birch_Trunk_Full",
+      "support": 15,
+      "rotation": 5
+    },
+    {
+      "x": -5,
+      "y": 14,
+      "z": -4,
+      "name": "Plant_Leaves_Aspen",
+      "support": 15,
+      "rotation": 1
+    },
+    {
+      "x": -5,
+      "y": 16,
+      "z": -4,
+      "name": "Plant_Leaves_Aspen",
+      "support": 15,
+      "rotation": 1
+    },
+    {
+      "x": -5,
+      "y": 0,
+      "z": -3,
+      "name": "Rock_Marble_Brick"
+    },
+    {
+      "x": -5,
+      "y": 1,
+      "z": -3,
+      "name": "Rock_Marble_Brick"
+    },
+    {
+      "x": -5,
+      "y": 2,
+      "z": -3,
+      "name": "Rock_Marble_Brick"
+    },
+    {
+      "x": -5,
+      "y": 5,
+      "z": -3,
+      "name": "Wood_Birch_Trunk_Full",
+      "support": 15
     },
     {
       "x": -5,
       "y": 6,
-      "z": -5,
-      "name": "Rock_Marble_Brick"
-    },
-    {
-      "x": -5,
-      "y": 7,
-      "z": -5,
-      "name": "Rock_Marble_Brick"
-    },
-    {
-      "x": -5,
-      "y": 8,
-      "z": -5,
-      "name": "Rock_Marble_Brick"
-    },
-    {
-      "x": -5,
-      "y": 9,
-      "z": -5,
-      "name": "Rock_Marble_Brick_Decorative"
-    },
-    {
-      "x": -5,
-      "y": 10,
-      "z": -5,
-      "name": "Rock_Marble_Brick_Smooth_Half"
-    },
-    {
-      "x": -5,
-      "y": 0,
-      "z": -4,
-      "name": "Rock_Marble_Brick"
-    },
-    {
-      "x": -5,
-      "y": 1,
-      "z": -4,
-      "name": "Rock_Marble_Brick"
-    },
-    {
-      "x": -5,
-      "y": 2,
-      "z": -4,
-      "name": "Rock_Marble_Brick"
-    },
-    {
-      "x": -5,
-      "y": 3,
-      "z": -4,
-      "name": "Rock_Marble_Brick"
-    },
-    {
-      "x": -5,
-      "y": 4,
-      "z": -4,
-      "name": "Rock_Marble_Brick"
-    },
-    {
-      "x": -5,
-      "y": 5,
-      "z": -4,
-      "name": "Rock_Marble_Brick"
-    },
-    {
-      "x": -5,
-      "y": 6,
-      "z": -4,
-      "name": "Rock_Marble_Brick"
-    },
-    {
-      "x": -5,
-      "y": 7,
-      "z": -4,
-      "name": "Rock_Marble_Brick"
-    },
-    {
-      "x": -5,
-      "y": 8,
-      "z": -4,
-      "name": "Rock_Marble_Brick"
-    },
-    {
-      "x": -5,
-      "y": 9,
-      "z": -4,
-      "name": "Rock_Marble_Brick_Decorative"
-    },
-    {
-      "x": -5,
-      "y": 10,
-      "z": -4,
-      "name": "Rock_Marble_Brick_Smooth_Half"
-    },
-    {
-      "x": -5,
-      "y": 0,
       "z": -3,
-      "name": "Rock_Marble_Brick"
-    },
-    {
-      "x": -5,
-      "y": 1,
-      "z": -3,
-      "name": "Rock_Marble_Brick"
-    },
-    {
-      "x": -5,
-      "y": 2,
-      "z": -3,
-      "name": "Rock_Marble_Brick"
-    },
-    {
-      "x": -5,
-      "y": 3,
-      "z": -3,
-      "name": "Rock_Marble_Brick"
-    },
-    {
-      "x": -5,
-      "y": 4,
-      "z": -3,
-      "name": "Rock_Marble_Brick"
-    },
-    {
-      "x": -5,
-      "y": 5,
-      "z": -3,
-      "name": "Rock_Marble_Brick_Decorative"
+      "name": "Wood_Birch_Trunk_Full",
+      "support": 15,
+      "rotation": 1
     },
     {
       "x": -5,
       "y": 7,
       "z": -3,
-      "name": "Rock_Marble_Brick_Smooth_Half",
-      "rotation": 4
+      "name": "Wood_Birch_Trunk",
+      "support": 15,
+      "rotation": 1
     },
     {
       "x": -5,
       "y": 8,
       "z": -3,
-      "name": "Rock_Marble_Brick_Stairs",
-      "rotation": 10
+      "name": "Wood_Birch_Trunk_Full",
+      "support": 15,
+      "rotation": 1
     },
     {
       "x": -5,
-      "y": 9,
+      "y": 12,
       "z": -3,
-      "name": "Rock_Marble_Brick_Decorative"
+      "name": "Plant_Leaves_Aspen",
+      "support": 15,
+      "rotation": 1
     },
     {
       "x": -5,
-      "y": 10,
+      "y": 13,
       "z": -3,
-      "name": "Rock_Marble_Brick_Smooth_Half"
-    },
-    {
-      "x": -5,
-      "y": 0,
-      "z": -2,
-      "name": "Rock_Marble_Brick"
-    },
-    {
-      "x": -5,
-      "y": 1,
-      "z": -2,
-      "name": "Rock_Marble_Brick"
-    },
-    {
-      "x": -5,
-      "y": 2,
-      "z": -2,
-      "name": "Rock_Marble_Brick"
-    },
-    {
-      "x": -5,
-      "y": 3,
-      "z": -2,
-      "name": "Rock_Marble_Brick"
-    },
-    {
-      "x": -5,
-      "y": 4,
-      "z": -2,
-      "name": "Rock_Marble_Brick"
-    },
-    {
-      "x": -5,
-      "y": 5,
-      "z": -2,
-      "name": "Rock_Marble_Brick_Decorative"
-    },
-    {
-      "x": -5,
-      "y": 7,
-      "z": -2,
-      "name": "Rock_Marble_Brick_Smooth_Half",
+      "name": "Wood_Birch_Trunk",
+      "support": 15,
       "rotation": 6
     },
     {
       "x": -5,
+      "y": 14,
+      "z": -3,
+      "name": "Wood_Birch_Trunk_Full",
+      "support": 15,
+      "rotation": 6
+    },
+    {
+      "x": -5,
+      "y": 16,
+      "z": -3,
+      "name": "Plant_Leaves_Aspen",
+      "support": 15,
+      "rotation": 1
+    },
+    {
+      "x": -5,
+      "y": 0,
+      "z": -2,
+      "name": "Rock_Marble_Brick"
+    },
+    {
+      "x": -5,
+      "y": 1,
+      "z": -2,
+      "name": "Rock_Marble_Brick"
+    },
+    {
+      "x": -5,
+      "y": 2,
+      "z": -2,
+      "name": "Rock_Marble_Brick"
+    },
+    {
+      "x": -5,
+      "y": 4,
+      "z": -2,
+      "name": "Wood_Birch_Trunk_Full",
+      "support": 15
+    },
+    {
+      "x": -5,
+      "y": 5,
+      "z": -2,
+      "name": "Wood_Birch_Trunk_Full",
+      "support": 15,
+      "rotation": 1
+    },
+    {
+      "x": -5,
+      "y": 6,
+      "z": -2,
+      "name": "Wood_Birch_Trunk",
+      "support": 15,
+      "rotation": 1
+    },
+    {
+      "x": -5,
+      "y": 7,
+      "z": -2,
+      "name": "Wood_Birch_Trunk_Full",
+      "support": 15,
+      "rotation": 1
+    },
+    {
+      "x": -5,
       "y": 8,
       "z": -2,
       "name": "Rock_Marble_Brick_Stairs",
@@ -263,6 +1135,22 @@
     },
     {
       "x": -5,
+      "y": 13,
+      "z": -2,
+      "name": "Plant_Leaves_Aspen",
+      "support": 15,
+      "rotation": 1
+    },
+    {
+      "x": -5,
+      "y": 14,
+      "z": -2,
+      "name": "Wood_Birch_Trunk_Full",
+      "support": 15,
+      "rotation": 6
+    },
+    {
+      "x": -5,
       "y": 0,
       "z": -1,
       "name": "Rock_Marble_Brick"
@@ -307,7 +1195,9 @@
       "x": -5,
       "y": 7,
       "z": -1,
-      "name": "Rock_Marble_Brick"
+      "name": "Plant_Leaves_Aspen",
+      "support": 15,
+      "rotation": 1
     },
     {
       "x": -5,
@@ -326,6 +1216,14 @@
       "y": 10,
       "z": -1,
       "name": "Rock_Marble_Brick_Smooth_Half"
+    },
+    {
+      "x": -5,
+      "y": 14,
+      "z": -1,
+      "name": "Wood_Birch_Branch_Long",
+      "support": 15,
+      "rotation": 6
     },
     {
       "x": -5,
@@ -395,6 +1293,22 @@
     },
     {
       "x": -5,
+      "y": 14,
+      "z": 0,
+      "name": "Wood_Birch_Branch_Long",
+      "support": 15,
+      "rotation": 6
+    },
+    {
+      "x": -5,
+      "y": 17,
+      "z": 0,
+      "name": "Plant_Leaves_Aspen",
+      "support": 15,
+      "rotation": 1
+    },
+    {
+      "x": -5,
       "y": 0,
       "z": 1,
       "name": "Rock_Marble_Brick"
@@ -432,6 +1346,29 @@
     },
     {
       "x": -5,
+      "y": 14,
+      "z": 1,
+      "name": "Wood_Birch_Branch_Corner",
+      "support": 15
+    },
+    {
+      "x": -5,
+      "y": 15,
+      "z": 1,
+      "name": "Wood_Birch_Branch_Corner",
+      "support": 15,
+      "rotation": 33
+    },
+    {
+      "x": -5,
+      "y": 17,
+      "z": 1,
+      "name": "Plant_Leaves_Aspen",
+      "support": 15,
+      "rotation": 1
+    },
+    {
+      "x": -5,
       "y": 0,
       "z": 2,
       "name": "Rock_Marble_Brick"
@@ -447,6 +1384,14 @@
       "y": 5,
       "z": 2,
       "name": "Rock_Marble_Brick_Decorative"
+    },
+    {
+      "x": -5,
+      "y": 17,
+      "z": 2,
+      "name": "Plant_Leaves_Aspen",
+      "support": 15,
+      "rotation": 1
     },
     {
       "x": -5,
@@ -484,6 +1429,14 @@
       "y": 5,
       "z": 3,
       "name": "Rock_Marble_Brick_Decorative"
+    },
+    {
+      "x": -5,
+      "y": 17,
+      "z": 3,
+      "name": "Plant_Leaves_Aspen",
+      "support": 15,
+      "rotation": 1
     },
     {
       "x": -5,
@@ -528,205 +1481,348 @@
       "name": "Rock_Marble_Brick_Pillar_Middle"
     },
     {
-      "x": -5,
+      "x": -4,
+      "y": 0,
+      "z": -5,
+      "name": "Rock_Marble_Brick"
+    },
+    {
+      "x": -4,
+      "y": 1,
+      "z": -5,
+      "name": "Rock_Marble_Brick"
+    },
+    {
+      "x": -4,
+      "y": 2,
+      "z": -5,
+      "name": "Rock_Marble_Brick"
+    },
+    {
+      "x": -4,
+      "y": 3,
+      "z": -5,
+      "name": "Rock_Marble_Brick"
+    },
+    {
+      "x": -4,
       "y": 4,
-      "z": 5,
-      "name": "Rock_Marble_Brick_Pillar_Base",
+      "z": -5,
+      "name": "Rock_Marble_Brick"
+    },
+    {
+      "x": -4,
+      "y": 5,
+      "z": -5,
+      "name": "Rock_Marble_Brick"
+    },
+    {
+      "x": -4,
+      "y": 13,
+      "z": -5,
+      "name": "Plant_Leaves_Aspen",
+      "support": 15,
+      "rotation": 1
+    },
+    {
+      "x": -4,
+      "y": 14,
+      "z": -5,
+      "name": "Plant_Leaves_Aspen",
+      "support": 15,
+      "rotation": 1
+    },
+    {
+      "x": -4,
+      "y": 16,
+      "z": -5,
+      "name": "Plant_Leaves_Aspen",
+      "support": 15,
+      "rotation": 1
+    },
+    {
+      "x": -4,
+      "y": 0,
+      "z": -4,
+      "name": "Wood_Birch_Trunk_Full",
+      "support": 15,
+      "rotation": 1
+    },
+    {
+      "x": -4,
+      "y": 1,
+      "z": -4,
+      "name": "Wood_Birch_Trunk_Full",
+      "support": 15,
+      "rotation": 1
+    },
+    {
+      "x": -4,
+      "y": 13,
+      "z": -4,
+      "name": "Plant_Leaves_Aspen",
+      "support": 15,
+      "rotation": 1
+    },
+    {
+      "x": -4,
+      "y": 14,
+      "z": -4,
+      "name": "Plant_Leaves_Aspen",
+      "support": 15,
+      "rotation": 1
+    },
+    {
+      "x": -4,
+      "y": 16,
+      "z": -4,
+      "name": "Plant_Leaves_Aspen",
+      "support": 15,
+      "rotation": 1
+    },
+    {
+      "x": -4,
+      "y": 17,
+      "z": -4,
+      "name": "Plant_Leaves_Aspen",
+      "support": 15,
+      "rotation": 1
+    },
+    {
+      "x": -4,
+      "y": 0,
+      "z": -3,
+      "name": "Rock_Marble_Brick"
+    },
+    {
+      "x": -4,
+      "y": 1,
+      "z": -3,
+      "name": "Rock_Marble_SkyGrass"
+    },
+    {
+      "x": -4,
+      "y": 2,
+      "z": -3,
+      "name": "Plant_Bush_Sky",
+      "support": 15
+    },
+    {
+      "x": -4,
+      "y": 6,
+      "z": -3,
+      "name": "Wood_Birch_Trunk_Full",
+      "support": 15,
+      "rotation": 1
+    },
+    {
+      "x": -4,
+      "y": 13,
+      "z": -3,
+      "name": "Wood_Birch_Trunk_Full",
+      "support": 15,
+      "rotation": 5
+    },
+    {
+      "x": -4,
+      "y": 14,
+      "z": -3,
+      "name": "Plant_Leaves_Aspen",
+      "support": 15,
+      "rotation": 1
+    },
+    {
+      "x": -4,
+      "y": 16,
+      "z": -3,
+      "name": "Plant_Leaves_Aspen",
+      "support": 15,
+      "rotation": 1
+    },
+    {
+      "x": -4,
+      "y": 17,
+      "z": -3,
+      "name": "Plant_Leaves_Aspen",
+      "support": 15,
+      "rotation": 1
+    },
+    {
+      "x": -4,
+      "y": 0,
+      "z": -2,
+      "name": "Wood_Birch_Trunk",
+      "support": 15,
+      "rotation": 1
+    },
+    {
+      "x": -4,
+      "y": 1,
+      "z": -2,
+      "name": "Wood_Birch_Trunk",
+      "support": 15,
+      "rotation": 1
+    },
+    {
+      "x": -4,
+      "y": 2,
+      "z": -2,
+      "name": "Wood_Birch_Trunk",
+      "support": 15,
+      "rotation": 1
+    },
+    {
+      "x": -4,
+      "y": 3,
+      "z": -2,
+      "name": "Wood_Birch_Trunk_Full",
+      "support": 15,
+      "rotation": 1
+    },
+    {
+      "x": -4,
+      "y": 4,
+      "z": -2,
+      "name": "Wood_Birch_Trunk",
+      "support": 15,
+      "rotation": 1
+    },
+    {
+      "x": -4,
+      "y": 5,
+      "z": -2,
+      "name": "Wood_Birch_Trunk",
+      "support": 15,
+      "rotation": 1
+    },
+    {
+      "x": -4,
+      "y": 6,
+      "z": -2,
+      "name": "Wood_Birch_Trunk_Full",
+      "support": 15,
+      "rotation": 1
+    },
+    {
+      "x": -4,
+      "y": 7,
+      "z": -2,
+      "name": "Plant_Leaves_Aspen",
+      "support": 15,
+      "rotation": 1
+    },
+    {
+      "x": -4,
+      "y": 14,
+      "z": -2,
+      "name": "Wood_Birch_Trunk",
+      "support": 15,
+      "rotation": 5
+    },
+    {
+      "x": -4,
+      "y": 16,
+      "z": -2,
+      "name": "Plant_Leaves_Aspen",
+      "support": 15,
+      "rotation": 1
+    },
+    {
+      "x": -4,
+      "y": 0,
+      "z": -1,
+      "name": "Rock_Marble_Brick"
+    },
+    {
+      "x": -4,
+      "y": 1,
+      "z": -1,
+      "name": "Rock_Marble_Brick"
+    },
+    {
+      "x": -4,
+      "y": 2,
+      "z": -1,
+      "name": "Wood_Birch_Trunk_Full",
+      "support": 15,
+      "rotation": 1
+    },
+    {
+      "x": -4,
+      "y": 3,
+      "z": -1,
+      "name": "Wood_Birch_Trunk",
+      "support": 15,
+      "rotation": 1
+    },
+    {
+      "x": -4,
+      "y": 4,
+      "z": -1,
+      "name": "Wood_Birch_Trunk_Full",
+      "support": 15,
+      "rotation": 1
+    },
+    {
+      "x": -4,
+      "y": 7,
+      "z": -1,
+      "name": "Plant_Leaves_Aspen",
+      "support": 15,
+      "rotation": 1
+    },
+    {
+      "x": -4,
+      "y": 9,
+      "z": -1,
+      "name": "Rock_Marble_Brick"
+    },
+    {
+      "x": -4,
+      "y": 0,
+      "z": 0,
+      "name": "Rock_Marble_Brick"
+    },
+    {
+      "x": -4,
+      "y": 1,
+      "z": 0,
+      "name": "Rock_Marble_Brick"
+    },
+    {
+      "x": -4,
+      "y": 3,
+      "z": 0,
+      "name": "Wood_Birch_Trunk_Full",
+      "support": 15,
+      "rotation": 4
+    },
+    {
+      "x": -4,
+      "y": 4,
+      "z": 0,
+      "name": "Rock_Marble_Brick"
+    },
+    {
+      "x": -4,
+      "y": 5,
+      "z": 0,
+      "name": "Rock_Marble_Brick"
+    },
+    {
+      "x": -4,
+      "y": 6,
+      "z": 0,
+      "name": "Rock_Marble_Brick"
+    },
+    {
+      "x": -4,
+      "y": 7,
+      "z": 0,
+      "name": "Rock_Marble_Brick_Smooth_Half",
       "rotation": 8
     },
     {
-      "x": -5,
-      "y": 5,
-      "z": 5,
-      "name": "Rock_Marble_Brick_Decorative"
-    },
-    {
-      "x": -4,
-      "y": 0,
-      "z": -5,
-      "name": "Rock_Marble_Brick"
-    },
-    {
-      "x": -4,
-      "y": 1,
-      "z": -5,
-      "name": "Rock_Marble_Brick"
-    },
-    {
-      "x": -4,
-      "y": 2,
-      "z": -5,
-      "name": "Rock_Marble_Brick"
-    },
-    {
-      "x": -4,
-      "y": 3,
-      "z": -5,
-      "name": "Rock_Marble_Brick"
-    },
-    {
-      "x": -4,
-      "y": 4,
-      "z": -5,
-      "name": "Rock_Marble_Brick"
-    },
-    {
-      "x": -4,
-      "y": 5,
-      "z": -5,
-      "name": "Rock_Marble_Brick"
-    },
-    {
-      "x": -4,
-      "y": 6,
-      "z": -5,
-      "name": "Rock_Marble_Brick"
-    },
-    {
-      "x": -4,
-      "y": 7,
-      "z": -5,
-      "name": "Rock_Marble_Brick"
-    },
-    {
-      "x": -4,
-      "y": 8,
-      "z": -5,
-      "name": "Rock_Marble_Brick"
-    },
-    {
-      "x": -4,
-      "y": 9,
-      "z": -5,
-      "name": "Rock_Marble_Brick_Decorative"
-    },
-    {
-      "x": -4,
-      "y": 10,
-      "z": -5,
-      "name": "Rock_Marble_Brick_Smooth_Half"
-    },
-    {
-      "x": -4,
-      "y": 0,
-      "z": -4,
-      "name": "Rock_Marble_Brick"
-    },
-    {
-      "x": -4,
-      "y": 1,
-      "z": -4,
-      "name": "Rock_Marble_Brick"
-    },
-    {
-      "x": -4,
-      "y": 9,
-      "z": -4,
-      "name": "Rock_Marble_Brick"
-    },
-    {
-      "x": -4,
-      "y": 0,
-      "z": -3,
-      "name": "Rock_Marble_Brick"
-    },
-    {
-      "x": -4,
-      "y": 1,
-      "z": -3,
-      "name": "Rock_Marble_Brick"
-    },
-    {
-      "x": -4,
-      "y": 9,
-      "z": -3,
-      "name": "Rock_Marble_Brick"
-    },
-    {
-      "x": -4,
-      "y": 0,
-      "z": -2,
-      "name": "Rock_Marble_Brick"
-    },
-    {
-      "x": -4,
-      "y": 1,
-      "z": -2,
-      "name": "Rock_Marble_Brick"
-    },
-    {
-      "x": -4,
-      "y": 9,
-      "z": -2,
-      "name": "Rock_Marble_Brick"
-    },
-    {
-      "x": -4,
-      "y": 0,
-      "z": -1,
-      "name": "Rock_Marble_Brick"
-    },
-    {
-      "x": -4,
-      "y": 1,
-      "z": -1,
-      "name": "Rock_Marble_Brick"
-    },
-    {
-      "x": -4,
-      "y": 9,
-      "z": -1,
-      "name": "Rock_Marble_Brick"
-    },
-    {
-      "x": -4,
-      "y": 0,
-      "z": 0,
-      "name": "Rock_Marble_Brick"
-    },
-    {
-      "x": -4,
-      "y": 1,
-      "z": 0,
-      "name": "Rock_Marble_Brick"
-    },
-    {
-      "x": -4,
-      "y": 2,
-      "z": 0,
-      "name": "Rock_Marble_Brick"
-    },
-    {
-      "x": -4,
-      "y": 3,
-      "z": 0,
-      "name": "Rock_Marble_Brick"
-    },
-    {
-      "x": -4,
-      "y": 4,
-      "z": 0,
-      "name": "Rock_Marble_Brick"
-    },
-    {
-      "x": -4,
-      "y": 5,
-      "z": 0,
-      "name": "Rock_Marble_Brick"
-    },
-    {
-      "x": -4,
-      "y": 6,
-      "z": 0,
-      "name": "Rock_Marble_Brick"
-    },
-    {
-      "x": -4,
-      "y": 7,
-      "z": 0,
-      "name": "Rock_Marble_Brick"
-    },
-    {
       "x": -4,
       "y": 8,
       "z": 0,
@@ -758,6 +1854,21 @@
     },
     {
       "x": -4,
+      "y": 2,
+      "z": 1,
+      "name": "Wood_Birch_Trunk_Full",
+      "support": 15
+    },
+    {
+      "x": -4,
+      "y": 3,
+      "z": 1,
+      "name": "Wood_Birch_Trunk_Full",
+      "support": 15,
+      "rotation": 4
+    },
+    {
+      "x": -4,
       "y": 5,
       "z": 1,
       "name": "Rock_Marble_Brick_Smooth_Half"
@@ -773,6 +1884,13 @@
       "y": 1,
       "z": 2,
       "name": "Rock_Marble_Brick"
+    },
+    {
+      "x": -4,
+      "y": 2,
+      "z": 2,
+      "name": "Wood_Birch_Trunk_Full",
+      "support": 15
     },
     {
       "x": -4,
@@ -831,12 +1949,6 @@
       "rotation": 1
     },
     {
-      "x": -4,
-      "y": 5,
-      "z": 5,
-      "name": "Rock_Marble_Brick_Decorative"
-    },
-    {
       "x": -3,
       "y": 0,
       "z": -5,
@@ -880,30 +1992,6 @@
     },
     {
       "x": -3,
-      "y": 7,
-      "z": -5,
-      "name": "Rock_Marble_Brick"
-    },
-    {
-      "x": -3,
-      "y": 8,
-      "z": -5,
-      "name": "Rock_Marble_Brick"
-    },
-    {
-      "x": -3,
-      "y": 9,
-      "z": -5,
-      "name": "Rock_Marble_Brick_Decorative"
-    },
-    {
-      "x": -3,
-      "y": 10,
-      "z": -5,
-      "name": "Rock_Marble_Brick_Smooth_Half"
-    },
-    {
-      "x": -3,
       "y": 0,
       "z": -4,
       "name": "Rock_Marble_Brick"
@@ -912,7 +2000,9 @@
       "x": -3,
       "y": 1,
       "z": -4,
-      "name": "Rock_Marble_Brick"
+      "name": "Wood_Birch_Trunk_Full",
+      "support": 15,
+      "rotation": 6
     },
     {
       "x": -3,
@@ -923,9 +2013,19 @@
     },
     {
       "x": -3,
-      "y": 9,
+      "y": 16,
       "z": -4,
-      "name": "Rock_Marble_Brick"
+      "name": "Plant_Leaves_Aspen",
+      "support": 15,
+      "rotation": 1
+    },
+    {
+      "x": -3,
+      "y": 17,
+      "z": -4,
+      "name": "Plant_Leaves_Aspen",
+      "support": 15,
+      "rotation": 1
     },
     {
       "x": -3,
@@ -937,56 +2037,136 @@
       "x": -3,
       "y": 1,
       "z": -3,
+      "name": "Wood_Birch_Trunk_Full",
+      "support": 15,
+      "rotation": 1
+    },
+    {
+      "x": -3,
+      "y": 14,
+      "z": -3,
+      "name": "Wood_Birch_Branch_Corner",
+      "support": 15,
+      "rotation": 2
+    },
+    {
+      "x": -3,
+      "y": 15,
+      "z": -3,
+      "name": "Wood_Birch_Branch_Long",
+      "support": 15,
+      "rotation": 1
+    },
+    {
+      "x": -3,
+      "y": 16,
+      "z": -3,
+      "name": "Wood_Birch_Branch_Long",
+      "support": 15,
+      "rotation": 1
+    },
+    {
+      "x": -3,
+      "y": 17,
+      "z": -3,
+      "name": "Plant_Leaves_Aspen",
+      "support": 15,
+      "rotation": 1
+    },
+    {
+      "x": -3,
+      "y": 0,
+      "z": -2,
       "name": "Rock_Marble_Brick"
+    },
+    {
+      "x": -3,
+      "y": 1,
+      "z": -2,
+      "name": "Rock_Marble_SkyGrass"
     },
     {
       "x": -3,
       "y": 2,
-      "z": -3,
-      "name": "Rock_Marble_Brick_Stairs",
-      "rotation": 3
+      "z": -2,
+      "name": "Rock_Marble_SkyGrass"
     },
     {
       "x": -3,
-      "y": 9,
-      "z": -3,
-      "name": "Rock_Marble_Brick"
+      "y": 3,
+      "z": -2,
+      "name": "Plant_Grass_Sky_Long",
+      "support": 15
+    },
+    {
+      "x": -3,
+      "y": 4,
+      "z": -2,
+      "name": "Plant_Grass_Sky_Long",
+      "filler": 1024
+    },
+    {
+      "x": -3,
+      "y": 14,
+      "z": -2,
+      "name": "Wood_Birch_Trunk_Full",
+      "support": 15,
+      "rotation": 5
+    },
+    {
+      "x": -3,
+      "y": 16,
+      "z": -2,
+      "name": "Plant_Leaves_Aspen",
+      "support": 15,
+      "rotation": 1
     },
     {
       "x": -3,
       "y": 0,
-      "z": -2,
-      "name": "Rock_Marble_Brick"
-    },
-    {
-      "x": -3,
-      "y": 1,
-      "z": -2,
-      "name": "Rock_Marble_Brick"
-    },
-    {
-      "x": -3,
-      "y": 9,
-      "z": -2,
-      "name": "Rock_Marble_Brick"
-    },
-    {
-      "x": -3,
-      "y": 0,
       "z": -1,
-      "name": "Rock_Marble_Brick"
+      "name": "Wood_Birch_Branch_Long",
+      "support": 15,
+      "rotation": 1
     },
     {
       "x": -3,
       "y": 1,
       "z": -1,
-      "name": "Rock_Marble_Brick"
+      "name": "Wood_Birch_Trunk",
+      "support": 15,
+      "rotation": 5
     },
     {
       "x": -3,
-      "y": 9,
+      "y": 2,
       "z": -1,
-      "name": "Rock_Marble_Brick"
+      "name": "Wood_Birch_Trunk",
+      "support": 15,
+      "rotation": 5
+    },
+    {
+      "x": -3,
+      "y": 4,
+      "z": -1,
+      "name": "Furniture_Ancient_Bookshelf",
+      "rotation": 2
+    },
+    {
+      "x": -3,
+      "y": 14,
+      "z": -1,
+      "name": "Wood_Birch_Trunk_Full",
+      "support": 15,
+      "rotation": 5
+    },
+    {
+      "x": -3,
+      "y": 16,
+      "z": -1,
+      "name": "Plant_Leaves_Aspen",
+      "support": 15,
+      "rotation": 1
     },
     {
       "x": -3,
@@ -1010,7 +2190,7 @@
       "x": -3,
       "y": 3,
       "z": 0,
-      "name": "Rock_Marble_Brick"
+      "name": "Rock_Marble_Brick_Smooth_Half"
     },
     {
       "x": -3,
@@ -1044,18 +2224,28 @@
     },
     {
       "x": -3,
-      "y": 9,
-      "z": 0,
-      "name": "Rock_Marble_Brick_Decorative"
-    },
-    {
-      "x": -3,
       "y": 10,
       "z": 0,
       "name": "Rock_Marble_Brick_Smooth_Half"
     },
     {
       "x": -3,
+      "y": 13,
+      "z": 0,
+      "name": "Wood_Birch_Trunk_Full",
+      "support": 15,
+      "rotation": 5
+    },
+    {
+      "x": -3,
+      "y": 16,
+      "z": 0,
+      "name": "Plant_Leaves_Aspen",
+      "support": 15,
+      "rotation": 1
+    },
+    {
+      "x": -3,
       "y": 0,
       "z": 1,
       "name": "Rock_Marble_Brick"
@@ -1071,6 +2261,14 @@
       "y": 5,
       "z": 1,
       "name": "Rock_Marble_Brick_Smooth_Half"
+    },
+    {
+      "x": -3,
+      "y": 16,
+      "z": 1,
+      "name": "Plant_Leaves_Aspen",
+      "support": 15,
+      "rotation": 1
     },
     {
       "x": -3,
@@ -1092,6 +2290,14 @@
     },
     {
       "x": -3,
+      "y": 16,
+      "z": 2,
+      "name": "Plant_Leaves_Aspen",
+      "support": 15,
+      "rotation": 1
+    },
+    {
+      "x": -3,
       "y": 0,
       "z": 3,
       "name": "Rock_Marble_Brick"
@@ -1104,9 +2310,10 @@
     },
     {
       "x": -3,
-      "y": 5,
+      "y": 2,
       "z": 3,
-      "name": "Rock_Marble_Brick_Smooth_Half"
+      "name": "Rock_Marble_Brick_Pillar_Middle",
+      "rotation": 4
     },
     {
       "x": -3,
@@ -1123,9 +2330,10 @@
     },
     {
       "x": -3,
-      "y": 5,
+      "y": 2,
       "z": 4,
-      "name": "Rock_Marble_Brick_Smooth_Half"
+      "name": "Rock_Marble_Brick_Pillar_Middle",
+      "rotation": 4
     },
     {
       "x": -3,
@@ -1138,31 +2346,6 @@
       "y": 1,
       "z": 5,
       "name": "Rock_Marble_Brick"
-    },
-    {
-      "x": -3,
-      "y": 2,
-      "z": 5,
-      "name": "Rock_Marble_Brick_Pillar_Base"
-    },
-    {
-      "x": -3,
-      "y": 3,
-      "z": 5,
-      "name": "Rock_Marble_Brick_Pillar_Middle"
-    },
-    {
-      "x": -3,
-      "y": 4,
-      "z": 5,
-      "name": "Rock_Marble_Brick_Pillar_Base",
-      "rotation": 8
-    },
-    {
-      "x": -3,
-      "y": 5,
-      "z": 5,
-      "name": "Rock_Marble_Brick_Decorative"
     },
     {
       "x": -2,
@@ -1193,12 +2376,6 @@
       "y": 4,
       "z": -5,
       "name": "Rock_Marble_Brick"
-    },
-    {
-      "x": -2,
-      "y": 5,
-      "z": -5,
-      "name": "Rock_Marble_Brick_Decorative"
     },
     {
       "x": -2,
@@ -1259,6 +2436,14 @@
     },
     {
       "x": -2,
+      "y": 16,
+      "z": -4,
+      "name": "Plant_Leaves_Aspen",
+      "support": 15,
+      "rotation": 1
+    },
+    {
+      "x": -2,
       "y": 0,
       "z": -3,
       "name": "Rock_Marble_Brick"
@@ -1267,56 +2452,94 @@
       "x": -2,
       "y": 1,
       "z": -3,
+      "name": "Wood_Birch_Trunk_Full",
+      "support": 15,
+      "rotation": 1
+    },
+    {
+      "x": -2,
+      "y": 9,
+      "z": -3,
+      "name": "Rock_Marble_Brick"
+    },
+    {
+      "x": -2,
+      "y": 16,
+      "z": -3,
+      "name": "Plant_Leaves_Aspen",
+      "support": 15,
+      "rotation": 1
+    },
+    {
+      "x": -2,
+      "y": 17,
+      "z": -3,
+      "name": "Plant_Leaves_Aspen",
+      "support": 15,
+      "rotation": 1
+    },
+    {
+      "x": -2,
+      "y": 0,
+      "z": -2,
+      "name": "Rock_Marble_Brick"
+    },
+    {
+      "x": -2,
+      "y": 1,
+      "z": -2,
+      "name": "Wood_Birch_Trunk_Full",
+      "support": 15,
+      "rotation": 1
+    },
+    {
+      "x": -2,
+      "y": 9,
+      "z": -2,
+      "name": "Rock_Marble_Brick"
+    },
+    {
+      "x": -2,
+      "y": 16,
+      "z": -2,
+      "name": "Plant_Leaves_Aspen",
+      "support": 15,
+      "rotation": 1
+    },
+    {
+      "x": -2,
+      "y": 17,
+      "z": -2,
+      "name": "Plant_Leaves_Aspen",
+      "support": 15,
+      "rotation": 1
+    },
+    {
+      "x": -2,
+      "y": 0,
+      "z": -1,
+      "name": "Rock_Marble_Brick"
+    },
+    {
+      "x": -2,
+      "y": 1,
+      "z": -1,
       "name": "Rock_Marble_Brick"
     },
     {
       "x": -2,
       "y": 2,
-      "z": -3,
-      "name": "Rock_Marble_Brick"
-    },
-    {
-      "x": -2,
-      "y": 3,
-      "z": -3,
-      "name": "Rock_Marble_Brick_Stairs",
-      "rotation": 3
-    },
-    {
-      "x": -2,
-      "y": 9,
-      "z": -3,
-      "name": "Rock_Marble_Brick"
-    },
-    {
-      "x": -2,
-      "y": 0,
-      "z": -2,
-      "name": "Rock_Marble_Brick"
-    },
-    {
-      "x": -2,
-      "y": 1,
-      "z": -2,
-      "name": "Rock_Marble_Brick"
-    },
-    {
-      "x": -2,
-      "y": 9,
-      "z": -2,
-      "name": "Rock_Marble_Brick"
-    },
-    {
-      "x": -2,
-      "y": 0,
       "z": -1,
-      "name": "Rock_Marble_Brick"
+      "name": "Wood_Birch_Trunk_Full",
+      "support": 15,
+      "rotation": 5
     },
     {
       "x": -2,
-      "y": 1,
+      "y": 4,
       "z": -1,
-      "name": "Rock_Marble_Brick"
+      "name": "Furniture_Ancient_Bookshelf",
+      "rotation": 2
     },
     {
       "x": -2,
@@ -1332,6 +2555,22 @@
     },
     {
       "x": -2,
+      "y": 14,
+      "z": -1,
+      "name": "Wood_Birch_Trunk_Full",
+      "support": 15,
+      "rotation": 5
+    },
+    {
+      "x": -2,
+      "y": 16,
+      "z": -1,
+      "name": "Plant_Leaves_Aspen",
+      "support": 15,
+      "rotation": 1
+    },
+    {
+      "x": -2,
       "y": 0,
       "z": 0,
       "name": "Rock_Marble_Brick"
@@ -1345,12 +2584,6 @@
     {
       "x": -2,
       "y": 2,
-      "z": 0,
-      "name": "Rock_Marble_Brick"
-    },
-    {
-      "x": -2,
-      "y": 3,
       "z": 0,
       "name": "Rock_Marble_Brick"
     },
@@ -1375,15 +2608,27 @@
     },
     {
       "x": -2,
-      "y": 9,
+      "y": 13,
       "z": 0,
-      "name": "Rock_Marble_Brick_Decorative"
+      "name": "Wood_Birch_Trunk_Full",
+      "support": 15,
+      "rotation": 5
     },
     {
       "x": -2,
-      "y": 10,
+      "y": 14,
       "z": 0,
-      "name": "Rock_Marble_Brick_Smooth_Half"
+      "name": "Wood_Birch_Trunk_Full",
+      "support": 15,
+      "rotation": 5
+    },
+    {
+      "x": -2,
+      "y": 16,
+      "z": 0,
+      "name": "Plant_Leaves_Aspen",
+      "support": 15,
+      "rotation": 1
     },
     {
       "x": -2,
@@ -1405,6 +2650,22 @@
     },
     {
       "x": -2,
+      "y": 13,
+      "z": 1,
+      "name": "Wood_Birch_Trunk_Full",
+      "support": 15,
+      "rotation": 5
+    },
+    {
+      "x": -2,
+      "y": 16,
+      "z": 1,
+      "name": "Plant_Leaves_Aspen",
+      "support": 15,
+      "rotation": 1
+    },
+    {
+      "x": -2,
       "y": 0,
       "z": 2,
       "name": "Rock_Marble_Brick"
@@ -1413,13 +2674,23 @@
       "x": -2,
       "y": 1,
       "z": 2,
-      "name": "Rock_Marble_Brick"
+      "name": "Rock_Marble_Brick_Smooth_Half"
     },
     {
       "x": -2,
-      "y": 5,
+      "y": 16,
       "z": 2,
-      "name": "Rock_Marble_Brick_Smooth_Half"
+      "name": "Plant_Leaves_Aspen",
+      "support": 15,
+      "rotation": 1
+    },
+    {
+      "x": -2,
+      "y": 17,
+      "z": 2,
+      "name": "Plant_Leaves_Aspen",
+      "support": 15,
+      "rotation": 1
     },
     {
       "x": -2,
@@ -1435,9 +2706,11 @@
     },
     {
       "x": -2,
-      "y": 5,
+      "y": 16,
       "z": 3,
-      "name": "Rock_Marble_Brick_Smooth_Half"
+      "name": "Plant_Leaves_Aspen",
+      "support": 15,
+      "rotation": 1
     },
     {
       "x": -2,
@@ -1454,12 +2727,6 @@
     },
     {
       "x": -2,
-      "y": 5,
-      "z": 4,
-      "name": "Rock_Marble_Brick_Smooth_Half"
-    },
-    {
-      "x": -2,
       "y": 0,
       "z": 5,
       "name": "Rock_Marble_Brick"
@@ -1470,12 +2737,6 @@
       "z": 5,
       "name": "Rock_Marble_Brick",
       "rotation": 1
-    },
-    {
-      "x": -2,
-      "y": 5,
-      "z": 5,
-      "name": "Rock_Marble_Brick_Decorative"
     },
     {
       "x": -1,
@@ -1543,32 +2804,30 @@
       "x": -1,
       "y": 0,
       "z": -4,
-      "name": "Rock_Marble_Brick"
+      "name": "Wood_Birch_Trunk",
+      "support": 15,
+      "rotation": 1
     },
     {
       "x": -1,
       "y": 1,
       "z": -4,
-      "name": "Rock_Marble_Brick"
+      "name": "Wood_Birch_Trunk_Full",
+      "support": 15,
+      "rotation": 1
     },
     {
       "x": -1,
       "y": 2,
       "z": -4,
-      "name": "Rock_Marble_Brick"
+      "name": "Rock_Marble_SkyGrass"
     },
     {
       "x": -1,
       "y": 3,
       "z": -4,
-      "name": "Rock_Marble_Brick"
-    },
-    {
-      "x": -1,
-      "y": 4,
-      "z": -4,
-      "name": "Rock_Marble_Brick_Stairs",
-      "rotation": 3
+      "name": "Plant_Bush_Sky",
+      "support": 15
     },
     {
       "x": -1,
@@ -1586,32 +2845,23 @@
       "x": -1,
       "y": 1,
       "z": -3,
-      "name": "Rock_Marble_Brick"
-    },
-    {
-      "x": -1,
-      "y": 2,
-      "z": -3,
-      "name": "Rock_Marble_Brick"
-    },
-    {
-      "x": -1,
-      "y": 3,
-      "z": -3,
-      "name": "Rock_Marble_Brick"
-    },
-    {
-      "x": -1,
-      "y": 4,
-      "z": -3,
-      "name": "Rock_Marble_Brick_Stairs",
-      "rotation": 3
+      "name": "Wood_Birch_Trunk",
+      "support": 15,
+      "rotation": 6
     },
     {
       "x": -1,
       "y": 9,
       "z": -3,
       "name": "Rock_Marble_Brick"
+    },
+    {
+      "x": -1,
+      "y": 16,
+      "z": -3,
+      "name": "Plant_Leaves_Aspen",
+      "support": 15,
+      "rotation": 1
     },
     {
       "x": -1,
@@ -1623,13 +2873,29 @@
       "x": -1,
       "y": 1,
       "z": -2,
-      "name": "Rock_Marble_Brick"
+      "name": "Wood_Birch_Trunk_Full",
+      "support": 15,
+      "rotation": 6
     },
     {
       "x": -1,
       "y": 9,
       "z": -2,
       "name": "Rock_Marble_Brick"
+    },
+    {
+      "x": -1,
+      "y": 10,
+      "z": -2,
+      "name": "Rock_Marble_SkyGrass"
+    },
+    {
+      "x": -1,
+      "y": 16,
+      "z": -2,
+      "name": "Plant_Leaves_Aspen",
+      "support": 15,
+      "rotation": 1
     },
     {
       "x": -1,
@@ -1642,6 +2908,19 @@
       "y": 1,
       "z": -1,
       "name": "Rock_Marble_Brick"
+    },
+    {
+      "x": -1,
+      "y": 2,
+      "z": -1,
+      "name": "Furniture_Temple_Light_Pot"
+    },
+    {
+      "x": -1,
+      "y": 4,
+      "z": -1,
+      "name": "Furniture_Ancient_Bookshelf",
+      "rotation": 2
     },
     {
       "x": -1,
@@ -1654,6 +2933,34 @@
       "y": 9,
       "z": -1,
       "name": "Rock_Marble_Brick"
+    },
+    {
+      "x": -1,
+      "y": 10,
+      "z": -1,
+      "name": "Rock_Marble_SkyGrass"
+    },
+    {
+      "x": -1,
+      "y": 11,
+      "z": -1,
+      "name": "Plant_Grass_Sky_Long",
+      "support": 15
+    },
+    {
+      "x": -1,
+      "y": 12,
+      "z": -1,
+      "name": "Plant_Grass_Sky_Long",
+      "filler": 1024
+    },
+    {
+      "x": -1,
+      "y": 16,
+      "z": -1,
+      "name": "Plant_Leaves_Aspen",
+      "support": 15,
+      "rotation": 1
     },
     {
       "x": -1,
@@ -1712,74 +3019,196 @@
     },
     {
       "x": -1,
-      "y": 0,
-      "z": 1,
-      "name": "Rock_Marble_Brick"
+      "y": 13,
+      "z": 0,
+      "name": "Wood_Birch_Trunk_Full",
+      "support": 15,
+      "rotation": 5
     },
     {
       "x": -1,
-      "y": 1,
-      "z": 1,
-      "name": "Rock_Marble_Brick"
-    },
-    {
-      "x": -1,
-      "y": 5,
-      "z": 1,
-      "name": "Rock_Marble_Brick_Smooth_Half"
-    },
-    {
-      "x": -1,
-      "y": 0,
-      "z": 2,
-      "name": "Rock_Marble_Brick"
-    },
-    {
-      "x": -1,
-      "y": 1,
-      "z": 2,
-      "name": "Rock_Marble_Brick"
-    },
-    {
-      "x": -1,
-      "y": 5,
-      "z": 2,
-      "name": "Rock_Marble_Brick_Smooth_Half"
-    },
-    {
-      "x": -1,
-      "y": 0,
-      "z": 3,
-      "name": "Rock_Marble_Brick"
-    },
-    {
-      "x": -1,
-      "y": 1,
-      "z": 3,
-      "name": "Rock_Marble_Brick"
-    },
-    {
-      "x": -1,
-      "y": 5,
-      "z": 3,
-      "name": "Rock_Marble_Brick_Smooth_Half"
-    },
-    {
-      "x": -1,
-      "y": 0,
-      "z": 4,
-      "name": "Rock_Marble_Brick"
-    },
-    {
-      "x": -1,
-      "y": 1,
-      "z": 4,
-      "name": "Rock_Marble_Brick",
+      "y": 14,
+      "z": 0,
+      "name": "Wood_Birch_Branch_Corner",
+      "support": 15,
       "rotation": 1
     },
     {
       "x": -1,
+      "y": 15,
+      "z": 0,
+      "name": "Wood_Birch_Branch_Corner",
+      "support": 15,
+      "rotation": 34
+    },
+    {
+      "x": -1,
+      "y": 16,
+      "z": 0,
+      "name": "Plant_Leaves_Aspen",
+      "support": 15,
+      "rotation": 1
+    },
+    {
+      "x": -1,
+      "y": 0,
+      "z": 1,
+      "name": "Rock_Marble_Brick"
+    },
+    {
+      "x": -1,
+      "y": 1,
+      "z": 1,
+      "name": "Rock_Marble_Brick"
+    },
+    {
+      "x": -1,
       "y": 5,
+      "z": 1,
+      "name": "Rock_Marble_Brick_Smooth_Half"
+    },
+    {
+      "x": -1,
+      "y": 11,
+      "z": 1,
+      "name": "Wood_Birch_Trunk",
+      "support": 15,
+      "rotation": 1
+    },
+    {
+      "x": -1,
+      "y": 12,
+      "z": 1,
+      "name": "Wood_Birch_Trunk",
+      "support": 15,
+      "rotation": 1
+    },
+    {
+      "x": -1,
+      "y": 13,
+      "z": 1,
+      "name": "Wood_Birch_Trunk_Full",
+      "support": 15,
+      "rotation": 5
+    },
+    {
+      "x": -1,
+      "y": 15,
+      "z": 1,
+      "name": "Wood_Birch_Branch_Long",
+      "support": 15,
+      "rotation": 6
+    },
+    {
+      "x": -1,
+      "y": 16,
+      "z": 1,
+      "name": "Plant_Leaves_Aspen",
+      "support": 15,
+      "rotation": 1
+    },
+    {
+      "x": -1,
+      "y": 17,
+      "z": 1,
+      "name": "Plant_Leaves_Aspen",
+      "support": 15,
+      "rotation": 1
+    },
+    {
+      "x": -1,
+      "y": 0,
+      "z": 2,
+      "name": "Rock_Marble_Brick"
+    },
+    {
+      "x": -1,
+      "y": 1,
+      "z": 2,
+      "name": "Rock_Marble_Brick"
+    },
+    {
+      "x": -1,
+      "y": 5,
+      "z": 2,
+      "name": "Rock_Marble_Brick_Smooth_Half"
+    },
+    {
+      "x": -1,
+      "y": 15,
+      "z": 2,
+      "name": "Wood_Birch_Branch_Corner",
+      "support": 15
+    },
+    {
+      "x": -1,
+      "y": 16,
+      "z": 2,
+      "name": "Wood_Birch_Branch_Corner",
+      "support": 15,
+      "rotation": 35
+    },
+    {
+      "x": -1,
+      "y": 17,
+      "z": 2,
+      "name": "Plant_Leaves_Aspen",
+      "support": 15,
+      "rotation": 1
+    },
+    {
+      "x": -1,
+      "y": 0,
+      "z": 3,
+      "name": "Rock_Marble_Brick"
+    },
+    {
+      "x": -1,
+      "y": 1,
+      "z": 3,
+      "name": "Rock_Marble_Brick"
+    },
+    {
+      "x": -1,
+      "y": 14,
+      "z": 3,
+      "name": "Plant_Leaves_Aspen",
+      "support": 15,
+      "rotation": 1
+    },
+    {
+      "x": -1,
+      "y": 15,
+      "z": 3,
+      "name": "Plant_Leaves_Aspen",
+      "support": 15,
+      "rotation": 1
+    },
+    {
+      "x": -1,
+      "y": 16,
+      "z": 3,
+      "name": "Plant_Leaves_Aspen",
+      "support": 15,
+      "rotation": 1
+    },
+    {
+      "x": -1,
+      "y": 17,
+      "z": 3,
+      "name": "Plant_Leaves_Aspen",
+      "support": 15,
+      "rotation": 1
+    },
+    {
+      "x": -1,
+      "y": 0,
+      "z": 4,
+      "name": "Rock_Marble_Brick"
+    },
+    {
+      "x": -1,
+      "y": 1,
       "z": 4,
       "name": "Rock_Marble_Brick_Smooth_Half"
     },
@@ -1795,12 +3224,6 @@
       "z": 5,
       "name": "Rock_Marble_Brick",
       "rotation": 1
-    },
-    {
-      "x": -1,
-      "y": 5,
-      "z": 5,
-      "name": "Rock_Marble_Brick_Decorative"
     },
     {
       "x": 0,
@@ -1828,12 +3251,6 @@
     },
     {
       "x": 0,
-      "y": 4,
-      "z": -5,
-      "name": "Rock_Marble_Brick"
-    },
-    {
-      "x": 0,
       "y": 5,
       "z": -5,
       "name": "Rock_Marble_Brick"
@@ -1848,7 +3265,8 @@
       "x": 0,
       "y": 7,
       "z": -5,
-      "name": "Rock_Marble_Brick"
+      "name": "Rock_Marble_Brick_Smooth_Half",
+      "rotation": 8
     },
     {
       "x": 0,
@@ -1884,26 +3302,14 @@
       "x": 0,
       "y": 2,
       "z": -4,
-      "name": "Rock_Marble_Brick"
+      "name": "Rock_Marble_SkyGrass"
     },
     {
       "x": 0,
       "y": 3,
       "z": -4,
-      "name": "Rock_Marble_Brick"
-    },
-    {
-      "x": 0,
-      "y": 4,
-      "z": -4,
-      "name": "Rock_Marble_Brick"
-    },
-    {
-      "x": 0,
-      "y": 5,
-      "z": -4,
-      "name": "Rock_Marble_Brick_Stairs",
-      "rotation": 3
+      "name": "Plant_Grass_Sky",
+      "support": 15
     },
     {
       "x": 0,
@@ -1921,25 +3327,14 @@
       "x": 0,
       "y": 1,
       "z": -3,
-      "name": "Rock_Marble_Brick"
+      "name": "Rock_Marble_SkyGrass"
     },
     {
       "x": 0,
       "y": 2,
       "z": -3,
-      "name": "Rock_Marble_Brick"
-    },
-    {
-      "x": 0,
-      "y": 3,
-      "z": -3,
-      "name": "Rock_Marble_Brick"
-    },
-    {
-      "x": 0,
-      "y": 4,
-      "z": -3,
-      "name": "Rock_Marble_Brick"
+      "name": "Plant_Grass_Sky",
+      "support": 15
     },
     {
       "x": 0,
@@ -1956,6 +3351,26 @@
     },
     {
       "x": 0,
+      "y": 10,
+      "z": -3,
+      "name": "Rock_Marble_SkyGrass"
+    },
+    {
+      "x": 0,
+      "y": 11,
+      "z": -3,
+      "name": "Plant_Grass_Sky_Long",
+      "support": 15
+    },
+    {
+      "x": 0,
+      "y": 12,
+      "z": -3,
+      "name": "Plant_Grass_Sky_Long",
+      "filler": 1024
+    },
+    {
+      "x": 0,
       "y": 0,
       "z": -2,
       "name": "Rock_Marble_Brick"
@@ -1964,7 +3379,14 @@
       "x": 0,
       "y": 1,
       "z": -2,
-      "name": "Rock_Marble_Brick"
+      "name": "Rock_Marble_SkyGrass"
+    },
+    {
+      "x": 0,
+      "y": 2,
+      "z": -2,
+      "name": "Plant_Grass_Sky",
+      "support": 15
     },
     {
       "x": 0,
@@ -1980,6 +3402,19 @@
     },
     {
       "x": 0,
+      "y": 10,
+      "z": -2,
+      "name": "Rock_Marble_SkyGrass"
+    },
+    {
+      "x": 0,
+      "y": 11,
+      "z": -2,
+      "name": "Plant_Bush_Sky",
+      "support": 15
+    },
+    {
+      "x": 0,
       "y": 0,
       "z": -1,
       "name": "Rock_Marble_Brick"
@@ -1998,9 +3433,47 @@
     },
     {
       "x": 0,
+      "y": 6,
+      "z": -1,
+      "name": "Furniture_Temple_Light_Chest_Small",
+      "components": {
+        "Components": {
+          "PlacedByInteraction": {
+            "WhoPlacedUuid": {
+              "$binary": "rmwkrpH8RVykTc7XnK4YBA==",
+              "$type": "04"
+            }
+          },
+          "ItemContainerBlock": {
+            "ItemContainer": {
+              "Capacity": 18,
+              "Items": {}
+            },
+            "Capacity": 18
+          }
+        }
+      },
+      "rotation": 3
+    },
+    {
+      "x": 0,
       "y": 9,
       "z": -1,
       "name": "Rock_Marble_Brick"
+    },
+    {
+      "x": 0,
+      "y": 10,
+      "z": -1,
+      "name": "Rock_Marble_SkyGrass"
+    },
+    {
+      "x": 0,
+      "y": 16,
+      "z": -1,
+      "name": "Plant_Leaves_Aspen",
+      "support": 15,
+      "rotation": 1
     },
     {
       "x": 0,
@@ -2017,12 +3490,6 @@
     {
       "x": 0,
       "y": 2,
-      "z": 0,
-      "name": "Rock_Marble_Brick"
-    },
-    {
-      "x": 0,
-      "y": 3,
       "z": 0,
       "name": "Rock_Marble_Brick"
     },
@@ -2070,6 +3537,22 @@
     },
     {
       "x": 0,
+      "y": 12,
+      "z": 0,
+      "name": "Plant_Leaves_Aspen",
+      "support": 15,
+      "rotation": 1
+    },
+    {
+      "x": 0,
+      "y": 16,
+      "z": 0,
+      "name": "Plant_Leaves_Aspen",
+      "support": 15,
+      "rotation": 1
+    },
+    {
+      "x": 0,
       "y": 0,
       "z": 1,
       "name": "Rock_Marble_Brick"
@@ -2078,7 +3561,7 @@
       "x": 0,
       "y": 1,
       "z": 1,
-      "name": "Rock_Marble_Brick"
+      "name": "Rock_Marble_Brick_Smooth_Half"
     },
     {
       "x": 0,
@@ -2088,6 +3571,46 @@
     },
     {
       "x": 0,
+      "y": 11,
+      "z": 1,
+      "name": "Wood_Birch_Branch_Long",
+      "support": 15,
+      "rotation": 5
+    },
+    {
+      "x": 0,
+      "y": 12,
+      "z": 1,
+      "name": "Plant_Leaves_Aspen",
+      "support": 15,
+      "rotation": 1
+    },
+    {
+      "x": 0,
+      "y": 13,
+      "z": 1,
+      "name": "Plant_Leaves_Aspen",
+      "support": 15,
+      "rotation": 1
+    },
+    {
+      "x": 0,
+      "y": 16,
+      "z": 1,
+      "name": "Plant_Leaves_Aspen",
+      "support": 15,
+      "rotation": 1
+    },
+    {
+      "x": 0,
+      "y": 17,
+      "z": 1,
+      "name": "Plant_Leaves_Aspen",
+      "support": 15,
+      "rotation": 1
+    },
+    {
+      "x": 0,
       "y": 0,
       "z": 2,
       "name": "Rock_Marble_Brick"
@@ -2096,13 +3619,45 @@
       "x": 0,
       "y": 1,
       "z": 2,
-      "name": "Rock_Marble_Brick"
+      "name": "Rock_Marble_Brick_Smooth_Half"
     },
     {
       "x": 0,
       "y": 5,
       "z": 2,
       "name": "Rock_Marble_Brick_Smooth_Half"
+    },
+    {
+      "x": 0,
+      "y": 12,
+      "z": 2,
+      "name": "Plant_Leaves_Aspen",
+      "support": 15,
+      "rotation": 1
+    },
+    {
+      "x": 0,
+      "y": 15,
+      "z": 2,
+      "name": "Plant_Leaves_Aspen",
+      "support": 15,
+      "rotation": 1
+    },
+    {
+      "x": 0,
+      "y": 16,
+      "z": 2,
+      "name": "Wood_Birch_Branch_Corner",
+      "support": 15,
+      "rotation": 1
+    },
+    {
+      "x": 0,
+      "y": 17,
+      "z": 2,
+      "name": "Plant_Leaves_Aspen",
+      "support": 15,
+      "rotation": 1
     },
     {
       "x": 0,
@@ -2121,6 +3676,22 @@
       "y": 5,
       "z": 3,
       "name": "Rock_Marble_Brick_Smooth_Half"
+    },
+    {
+      "x": 0,
+      "y": 16,
+      "z": 3,
+      "name": "Plant_Leaves_Aspen",
+      "support": 15,
+      "rotation": 1
+    },
+    {
+      "x": 0,
+      "y": 17,
+      "z": 3,
+      "name": "Plant_Leaves_Aspen",
+      "support": 15,
+      "rotation": 1
     },
     {
       "x": 0,
@@ -2137,9 +3708,11 @@
     },
     {
       "x": 0,
-      "y": 5,
+      "y": 16,
       "z": 4,
-      "name": "Rock_Marble_Brick_Smooth_Half"
+      "name": "Plant_Leaves_Aspen",
+      "support": 15,
+      "rotation": 1
     },
     {
       "x": 0,
@@ -2153,12 +3726,6 @@
       "z": 5,
       "name": "Rock_Marble_Brick",
       "rotation": 1
-    },
-    {
-      "x": 0,
-      "y": 5,
-      "z": 5,
-      "name": "Rock_Marble_Brick_Decorative"
     },
     {
       "x": 1,
@@ -2181,12 +3748,6 @@
     {
       "x": 1,
       "y": 3,
-      "z": -5,
-      "name": "Rock_Marble_Brick"
-    },
-    {
-      "x": 1,
-      "y": 4,
       "z": -5,
       "name": "Rock_Marble_Brick"
     },
@@ -2301,18 +3862,6 @@
     },
     {
       "x": 1,
-      "y": 3,
-      "z": -3,
-      "name": "Rock_Marble_Brick"
-    },
-    {
-      "x": 1,
-      "y": 4,
-      "z": -3,
-      "name": "Rock_Marble_Brick"
-    },
-    {
-      "x": 1,
       "y": 5,
       "z": -3,
       "name": "Rock_Marble_Brick"
@@ -2346,7 +3895,14 @@
       "x": 1,
       "y": 1,
       "z": -2,
-      "name": "Rock_Marble_Brick"
+      "name": "Rock_Marble_SkyGrass"
+    },
+    {
+      "x": 1,
+      "y": 2,
+      "z": -2,
+      "name": "Plant_Bush_Sky",
+      "support": 15
     },
     {
       "x": 1,
@@ -2418,7 +3974,8 @@
       "x": 1,
       "y": 8,
       "z": -1,
-      "name": "Rock_Marble_Brick"
+      "name": "Rock_Marble_Brick_Smooth_Half",
+      "rotation": 8
     },
     {
       "x": 1,
@@ -2446,9 +4003,16 @@
     },
     {
       "x": 1,
-      "y": 4,
+      "y": 2,
       "z": 0,
-      "name": "Rock_Marble_Brick_Decorative"
+      "name": "Furniture_Temple_Light_Door"
+    },
+    {
+      "x": 1,
+      "y": 3,
+      "z": 0,
+      "name": "Furniture_Temple_Light_Door",
+      "filler": 1024
     },
     {
       "x": 1,
@@ -2488,6 +4052,14 @@
     },
     {
       "x": 1,
+      "y": 12,
+      "z": 0,
+      "name": "Plant_Leaves_Aspen",
+      "support": 15,
+      "rotation": 1
+    },
+    {
+      "x": 1,
       "y": 0,
       "z": 1,
       "name": "Rock_Marble_Brick"
@@ -2496,7 +4068,7 @@
       "x": 1,
       "y": 1,
       "z": 1,
-      "name": "Rock_Marble_Brick"
+      "name": "Rock_Marble_Brick_Smooth_Half"
     },
     {
       "x": 1,
@@ -2506,13 +4078,39 @@
     },
     {
       "x": 1,
-      "y": 0,
-      "z": 2,
-      "name": "Rock_Marble_Brick"
+      "y": 11,
+      "z": 1,
+      "name": "Wood_Birch_Branch_Corner",
+      "support": 15,
+      "rotation": 1
     },
     {
       "x": 1,
-      "y": 1,
+      "y": 12,
+      "z": 1,
+      "name": "Wood_Birch_Branch_Long",
+      "support": 15,
+      "rotation": 1
+    },
+    {
+      "x": 1,
+      "y": 13,
+      "z": 1,
+      "name": "Plant_Leaves_Aspen",
+      "support": 15,
+      "rotation": 1
+    },
+    {
+      "x": 1,
+      "y": 16,
+      "z": 1,
+      "name": "Plant_Leaves_Aspen",
+      "support": 15,
+      "rotation": 1
+    },
+    {
+      "x": 1,
+      "y": 0,
       "z": 2,
       "name": "Rock_Marble_Brick"
     },
@@ -2521,6 +4119,30 @@
       "y": 5,
       "z": 2,
       "name": "Rock_Marble_Brick_Smooth_Half"
+    },
+    {
+      "x": 1,
+      "y": 12,
+      "z": 2,
+      "name": "Plant_Leaves_Aspen",
+      "support": 15,
+      "rotation": 1
+    },
+    {
+      "x": 1,
+      "y": 16,
+      "z": 2,
+      "name": "Plant_Leaves_Aspen",
+      "support": 15,
+      "rotation": 1
+    },
+    {
+      "x": 1,
+      "y": 17,
+      "z": 2,
+      "name": "Plant_Leaves_Aspen",
+      "support": 15,
+      "rotation": 1
     },
     {
       "x": 1,
@@ -2539,6 +4161,22 @@
       "y": 5,
       "z": 3,
       "name": "Rock_Marble_Brick_Smooth_Half"
+    },
+    {
+      "x": 1,
+      "y": 16,
+      "z": 3,
+      "name": "Plant_Leaves_Aspen",
+      "support": 15,
+      "rotation": 1
+    },
+    {
+      "x": 1,
+      "y": 17,
+      "z": 3,
+      "name": "Plant_Leaves_Aspen",
+      "support": 15,
+      "rotation": 1
     },
     {
       "x": 1,
@@ -2558,6 +4196,14 @@
       "y": 5,
       "z": 4,
       "name": "Rock_Marble_Brick_Smooth_Half"
+    },
+    {
+      "x": 1,
+      "y": 16,
+      "z": 4,
+      "name": "Plant_Leaves_Aspen",
+      "support": 15,
+      "rotation": 1
     },
     {
       "x": 1,
@@ -2594,19 +4240,13 @@
       "x": 2,
       "y": 2,
       "z": -5,
-      "name": "Rock_Marble_Brick"
+      "name": "Rock_Marble_Brick_Decorative"
     },
     {
       "x": 2,
       "y": 3,
       "z": -5,
-      "name": "Rock_Marble_Brick"
-    },
-    {
-      "x": 2,
-      "y": 4,
-      "z": -5,
-      "name": "Rock_Marble_Brick"
+      "name": "Rock_Marble_Brick_Smooth_Half"
     },
     {
       "x": 2,
@@ -2664,85 +4304,87 @@
     },
     {
       "x": 2,
-      "y": 5,
-      "z": -3,
-      "name": "Rock_Marble_Brick"
-    },
-    {
-      "x": 2,
-      "y": 6,
-      "z": -3,
-      "name": "Rock_Marble_Brick"
-    },
-    {
-      "x": 2,
-      "y": 0,
-      "z": -2,
-      "name": "Rock_Marble_Brick"
-    },
-    {
-      "x": 2,
-      "y": 1,
-      "z": -2,
-      "name": "Rock_Marble_Brick"
-    },
-    {
-      "x": 2,
-      "y": 5,
-      "z": -2,
-      "name": "Rock_Marble_Brick"
-    },
-    {
-      "x": 2,
-      "y": 6,
-      "z": -2,
-      "name": "Rock_Marble_Brick"
-    },
-    {
-      "x": 2,
-      "y": 0,
-      "z": -1,
-      "name": "Rock_Marble_Brick"
-    },
-    {
-      "x": 2,
-      "y": 1,
-      "z": -1,
-      "name": "Rock_Marble_Brick"
-    },
-    {
-      "x": 2,
-      "y": 5,
-      "z": -1,
-      "name": "Rock_Marble_Brick"
-    },
-    {
-      "x": 2,
-      "y": 6,
-      "z": -1,
-      "name": "Rock_Marble_Brick"
-    },
-    {
-      "x": 2,
-      "y": 0,
-      "z": 0,
-      "name": "Rock_Marble_Brick"
-    },
-    {
-      "x": 2,
-      "y": 1,
-      "z": 0,
-      "name": "Rock_Marble_Brick"
-    },
-    {
-      "x": 2,
       "y": 2,
+      "z": -3,
+      "name": "Furniture_Ancient_Chair",
+      "rotation": 1
+    },
+    {
+      "x": 2,
+      "y": 5,
+      "z": -3,
+      "name": "Rock_Marble_Brick"
+    },
+    {
+      "x": 2,
+      "y": 6,
+      "z": -3,
+      "name": "Rock_Marble_Brick"
+    },
+    {
+      "x": 2,
+      "y": 0,
+      "z": -2,
+      "name": "Rock_Marble_Brick"
+    },
+    {
+      "x": 2,
+      "y": 1,
+      "z": -2,
+      "name": "Rock_Marble_Brick"
+    },
+    {
+      "x": 2,
+      "y": 5,
+      "z": -2,
+      "name": "Rock_Marble_Brick"
+    },
+    {
+      "x": 2,
+      "y": 6,
+      "z": -2,
+      "name": "Rock_Marble_Brick"
+    },
+    {
+      "x": 2,
+      "y": 7,
+      "z": -2,
+      "name": "Furniture_Ancient_Chair",
+      "rotation": 1
+    },
+    {
+      "x": 2,
+      "y": 0,
+      "z": -1,
+      "name": "Rock_Marble_Brick"
+    },
+    {
+      "x": 2,
+      "y": 1,
+      "z": -1,
+      "name": "Rock_Marble_Brick"
+    },
+    {
+      "x": 2,
+      "y": 5,
+      "z": -1,
+      "name": "Rock_Marble_Brick"
+    },
+    {
+      "x": 2,
+      "y": 6,
+      "z": -1,
+      "name": "Rock_Marble_Brick"
+    },
+    {
+      "x": 2,
+      "y": 0,
       "z": 0,
       "name": "Rock_Marble_Brick"
     },
     {
       "x": 2,
-      "y": 3,
+      "y": 1,
       "z": 0,
       "name": "Rock_Marble_Brick"
     },
@@ -2766,6 +4408,14 @@
     },
     {
       "x": 2,
+      "y": 12,
+      "z": 0,
+      "name": "Plant_Leaves_Aspen",
+      "support": 15,
+      "rotation": 1
+    },
+    {
+      "x": 2,
       "y": 0,
       "z": 1,
       "name": "Rock_Marble_Brick"
@@ -2784,13 +4434,15 @@
     },
     {
       "x": 2,
-      "y": 0,
-      "z": 2,
-      "name": "Rock_Marble_Brick"
+      "y": 12,
+      "z": 1,
+      "name": "Plant_Leaves_Aspen",
+      "support": 15,
+      "rotation": 1
     },
     {
       "x": 2,
-      "y": 1,
+      "y": 0,
       "z": 2,
       "name": "Rock_Marble_Brick"
     },
@@ -2802,6 +4454,14 @@
     },
     {
       "x": 2,
+      "y": 12,
+      "z": 2,
+      "name": "Plant_Leaves_Aspen",
+      "support": 15,
+      "rotation": 1
+    },
+    {
+      "x": 2,
       "y": 0,
       "z": 3,
       "name": "Rock_Marble_Brick"
@@ -2810,13 +4470,15 @@
       "x": 2,
       "y": 1,
       "z": 3,
-      "name": "Rock_Marble_Brick"
+      "name": "Rock_Marble_Brick_Smooth_Half"
     },
     {
       "x": 2,
-      "y": 5,
+      "y": 16,
       "z": 3,
-      "name": "Rock_Marble_Brick_Smooth_Half"
+      "name": "Plant_Leaves_Aspen",
+      "support": 15,
+      "rotation": 1
     },
     {
       "x": 2,
@@ -2836,6 +4498,14 @@
       "y": 5,
       "z": 4,
       "name": "Rock_Marble_Brick_Smooth_Half"
+    },
+    {
+      "x": 2,
+      "y": 16,
+      "z": 4,
+      "name": "Plant_Leaves_Aspen",
+      "support": 15,
+      "rotation": 1
     },
     {
       "x": 2,
@@ -2878,13 +4548,7 @@
       "x": 3,
       "y": 3,
       "z": -5,
-      "name": "Rock_Marble_Brick"
-    },
-    {
-      "x": 3,
-      "y": 4,
-      "z": -5,
-      "name": "Rock_Marble_Brick"
+      "name": "Rock_Marble_Brick_Decorative"
     },
     {
       "x": 3,
@@ -2918,6 +4582,18 @@
     },
     {
       "x": 3,
+      "y": 2,
+      "z": -4,
+      "name": "Furniture_Ancient_Table"
+    },
+    {
+      "x": 3,
+      "y": 3,
+      "z": -4,
+      "name": "Furniture_Temple_Light_Pot"
+    },
+    {
+      "x": 3,
       "y": 5,
       "z": -4,
       "name": "Rock_Marble_Brick"
@@ -2942,6 +4618,13 @@
     },
     {
       "x": 3,
+      "y": 2,
+      "z": -3,
+      "name": "Furniture_Ancient_Table",
+      "filler": 32
+    },
+    {
+      "x": 3,
       "y": 5,
       "z": -3,
       "name": "Rock_Marble_Brick"
@@ -2974,7 +4657,21 @@
       "x": 3,
       "y": 6,
       "z": -2,
-      "name": "Rock_Marble_Brick"
+      "name": "Rock_Marble_SkyGrass"
+    },
+    {
+      "x": 3,
+      "y": 7,
+      "z": -2,
+      "name": "Plant_Grass_Sky_Long",
+      "support": 15
+    },
+    {
+      "x": 3,
+      "y": 8,
+      "z": -2,
+      "name": "Plant_Grass_Sky_Long",
+      "filler": 1024
     },
     {
       "x": 3,
@@ -2990,6 +4687,13 @@
     },
     {
       "x": 3,
+      "y": 3,
+      "z": -1,
+      "name": "Furniture_Temple_Light_Shelf",
+      "rotation": 2
+    },
+    {
+      "x": 3,
       "y": 5,
       "z": -1,
       "name": "Rock_Marble_Brick"
@@ -2998,7 +4702,14 @@
       "x": 3,
       "y": 6,
       "z": -1,
-      "name": "Rock_Marble_Brick"
+      "name": "Rock_Marble_SkyGrass"
+    },
+    {
+      "x": 3,
+      "y": 7,
+      "z": -1,
+      "name": "Plant_Bush_Sky",
+      "support": 15
     },
     {
       "x": 3,
@@ -3016,7 +4727,7 @@
       "x": 3,
       "y": 2,
       "z": 0,
-      "name": "Rock_Marble_Brick"
+      "name": "Rock_Marble_Brick_Pillar_Middle"
     },
     {
       "x": 3,
@@ -3070,7 +4781,7 @@
       "x": 3,
       "y": 1,
       "z": 2,
-      "name": "Rock_Marble_Brick"
+      "name": "Rock_Marble_Brick_Smooth_Half"
     },
     {
       "x": 3,
@@ -3083,18 +4794,6 @@
       "y": 0,
       "z": 3,
       "name": "Rock_Marble_Brick"
-    },
-    {
-      "x": 3,
-      "y": 1,
-      "z": 3,
-      "name": "Rock_Marble_Brick"
-    },
-    {
-      "x": 3,
-      "y": 5,
-      "z": 3,
-      "name": "Rock_Marble_Brick_Smooth_Half"
     },
     {
       "x": 3,
@@ -3191,63 +4890,60 @@
     },
     {
       "x": 4,
-      "y": 6,
-      "z": -5,
+      "y": 0,
+      "z": -4,
       "name": "Rock_Marble_Brick"
+    },
+    {
+      "x": 4,
+      "y": 1,
+      "z": -4,
+      "name": "Rock_Marble_Brick"
+    },
+    {
+      "x": 4,
+      "y": 2,
+      "z": -4,
+      "name": "Furniture_Ancient_Table",
+      "filler": 1
+    },
+    {
+      "x": 4,
+      "y": 0,
+      "z": -3,
+      "name": "Rock_Marble_Brick"
+    },
+    {
+      "x": 4,
+      "y": 1,
+      "z": -3,
+      "name": "Rock_Marble_Brick"
+    },
+    {
+      "x": 4,
+      "y": 2,
+      "z": -3,
+      "name": "Furniture_Ancient_Table",
+      "filler": 33
+    },
+    {
+      "x": 4,
+      "y": 5,
+      "z": -3,
+      "name": "Rock_Marble_Brick"
+    },
+    {
+      "x": 4,
+      "y": 6,
+      "z": -3,
+      "name": "Rock_Marble_SkyGrass"
     },
     {
       "x": 4,
       "y": 7,
-      "z": -5,
-      "name": "Rock_Marble_Brick_Smooth_Half"
-    },
-    {
-      "x": 4,
-      "y": 0,
-      "z": -4,
-      "name": "Rock_Marble_Brick"
-    },
-    {
-      "x": 4,
-      "y": 1,
-      "z": -4,
-      "name": "Rock_Marble_Brick"
-    },
-    {
-      "x": 4,
-      "y": 5,
-      "z": -4,
-      "name": "Rock_Marble_Brick"
-    },
-    {
-      "x": 4,
-      "y": 6,
-      "z": -4,
-      "name": "Rock_Marble_Brick"
-    },
-    {
-      "x": 4,
-      "y": 0,
       "z": -3,
-      "name": "Rock_Marble_Brick"
-    },
-    {
-      "x": 4,
-      "y": 1,
-      "z": -3,
-      "name": "Rock_Marble_Brick"
-    },
-    {
-      "x": 4,
-      "y": 5,
-      "z": -3,
-      "name": "Rock_Marble_Brick"
-    },
-    {
-      "x": 4,
-      "y": 6,
-      "z": -3,
-      "name": "Rock_Marble_Brick"
+      "name": "Plant_Bush_Sky",
+      "support": 15
     },
     {
       "x": 4,
@@ -3263,6 +4959,12 @@
     },
     {
       "x": 4,
+      "y": 2,
+      "z": -2,
+      "name": "Furniture_Temple_Light_Pot"
+    },
+    {
+      "x": 4,
       "y": 5,
       "z": -2,
       "name": "Rock_Marble_Brick"
@@ -3271,7 +4973,21 @@
       "x": 4,
       "y": 6,
       "z": -2,
-      "name": "Rock_Marble_Brick"
+      "name": "Rock_Marble_SkyGrass"
+    },
+    {
+      "x": 4,
+      "y": 7,
+      "z": -2,
+      "name": "Plant_Grass_Sky_Wild",
+      "support": 15
+    },
+    {
+      "x": 4,
+      "y": 8,
+      "z": -2,
+      "name": "Plant_Grass_Sky_Wild",
+      "filler": 1024
     },
     {
       "x": 4,
@@ -3283,7 +4999,21 @@
       "x": 4,
       "y": 1,
       "z": -1,
-      "name": "Rock_Marble_Brick"
+      "name": "Rock_Marble_SkyGrass"
+    },
+    {
+      "x": 4,
+      "y": 2,
+      "z": -1,
+      "name": "Plant_Bush_Sky",
+      "support": 15
+    },
+    {
+      "x": 4,
+      "y": 3,
+      "z": -1,
+      "name": "Furniture_Temple_Light_Shelf",
+      "rotation": 2
     },
     {
       "x": 4,
@@ -3295,7 +5025,14 @@
       "x": 4,
       "y": 6,
       "z": -1,
-      "name": "Rock_Marble_Brick"
+      "name": "Rock_Marble_SkyGrass"
+    },
+    {
+      "x": 4,
+      "y": 7,
+      "z": -1,
+      "name": "Plant_Grass_Sky",
+      "support": 15
     },
     {
       "x": 4,
@@ -3356,6 +5093,12 @@
       "y": 1,
       "z": 1,
       "name": "Rock_Marble_Brick"
+    },
+    {
+      "x": 4,
+      "y": 2,
+      "z": 1,
+      "name": "Furniture_Temple_Light_Pot"
     },
     {
       "x": 4,
@@ -3451,42 +5194,6 @@
     },
     {
       "x": 5,
-      "y": 2,
-      "z": -5,
-      "name": "Rock_Marble_Brick"
-    },
-    {
-      "x": 5,
-      "y": 3,
-      "z": -5,
-      "name": "Rock_Marble_Brick"
-    },
-    {
-      "x": 5,
-      "y": 4,
-      "z": -5,
-      "name": "Rock_Marble_Brick"
-    },
-    {
-      "x": 5,
-      "y": 5,
-      "z": -5,
-      "name": "Rock_Marble_Brick"
-    },
-    {
-      "x": 5,
-      "y": 6,
-      "z": -5,
-      "name": "Rock_Marble_Brick"
-    },
-    {
-      "x": 5,
-      "y": 7,
-      "z": -5,
-      "name": "Rock_Marble_Brick_Smooth_Half"
-    },
-    {
-      "x": 5,
       "y": 0,
       "z": -4,
       "name": "Rock_Marble_Brick"
@@ -3511,30 +5218,6 @@
     },
     {
       "x": 5,
-      "y": 4,
-      "z": -4,
-      "name": "Rock_Marble_Brick"
-    },
-    {
-      "x": 5,
-      "y": 5,
-      "z": -4,
-      "name": "Rock_Marble_Brick"
-    },
-    {
-      "x": 5,
-      "y": 6,
-      "z": -4,
-      "name": "Rock_Marble_Brick"
-    },
-    {
-      "x": 5,
-      "y": 7,
-      "z": -4,
-      "name": "Rock_Marble_Brick_Smooth_Half"
-    },
-    {
-      "x": 5,
       "y": 0,
       "z": -3,
       "name": "Rock_Marble_Brick"
@@ -3550,19 +5233,6 @@
       "y": 2,
       "z": -3,
       "name": "Rock_Marble_Brick_Smooth_Half"
-    },
-    {
-      "x": 5,
-      "y": 4,
-      "z": -3,
-      "name": "Rock_Marble_Brick_Smooth_Half",
-      "rotation": 4
-    },
-    {
-      "x": 5,
-      "y": 5,
-      "z": -3,
-      "name": "Rock_Marble_Brick"
     },
     {
       "x": 5,

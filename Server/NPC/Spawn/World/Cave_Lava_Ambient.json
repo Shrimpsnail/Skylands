@@ -1,0 +1,32 @@
+{
+  "Environments": [
+    "Env_CaveLava"
+  ],
+  "NPCs": [
+    {
+      "Weight": 1,
+      "Id": "Shellfish_Lava",
+      "Flock": "Group_Tiny"
+    },
+    {
+      "Id": "Snail_Magma",
+      "Flock": "Group_Tiny",
+      "Weight": 1
+    },
+    {
+      "Id": "Spark_Living",
+      "Flock": "Group_Tiny",
+      "Weight": 1
+    },
+    {
+      "Id": "Trilobite_Black",
+      "Flock": "Group_Tiny",
+      "Weight": 1
+    },
+    {
+      "Id": "Trilobite",
+      "Flock": "Group_Tiny",
+      "Weight": 1
+    }
+  ]
+}

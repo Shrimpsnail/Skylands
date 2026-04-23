@@ -1,0 +1,27 @@
+{
+  "Environments": [
+    "Env_CaveLava"
+  ],
+  "NPCs": [
+    {
+      "Weight": 1,
+      "Id": "Golem_Firesteel",
+      "Flock": "One_Or_Two"
+    },
+    {
+      "Id": "Emberwulf",
+      "Weight": 1,
+      "Flock": "Pack_Small"
+    },
+    {
+      "Weight": 1,
+      "Id": "Spirit_Ember",
+      "Flock": "One_Or_Two"
+    },
+    {
+      "Id": "Toad_Rhino_Magma",
+      "Weight": 1,
+      "Flock": "Group_Tiny"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "NPCs": [
+    {
+      "Id": "Crab",
+      "SpawnFluidTag": "",
+      "Flock": "Group_Small",
+      "Weight": 2
+    },
+    {
+      "Id": "Lobster",
+      "Weight": 2,
+      "Flock": "Group_Small",
+      "SpawnFluidTag": ""
+    }
+  ],
+  "Environments": [
+    "Env_CavePools"
+  ]
+}

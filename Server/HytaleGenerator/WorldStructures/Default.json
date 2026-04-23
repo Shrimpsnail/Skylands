@@ -1,8 +1,8 @@
 {
   "Type": "NoiseRange",
-  "Biomes": [
+  "Biomess": [
     {
-      "Biome": "skylands_mountain",
+      "Biome": "Biome_2",
       "Min": 2,
       "Max": 3
     },
@@ -17,19 +17,19 @@
       "Max": 1
     },    
     {
-      "Biome": "skylands_forest",
+      "Biome": "Biome_3",
       "Min": -1,
       "Max": 0
     },    
     {
-      "Biome": "skylands_bramble",
+      "Biome": "Biome_4",
       "Min": -2,
       "Max": -1
     }
   ],
-  "DefaultBiome": "Empty",
-  "DefaultTransitionDistance": 32,
-  "MaxBiomeEdgeDistance" : 32,
+  "DefaultBiome": "Biome_4",
+  "DefaultTransitionDistance": 16,
+  "MaxBiomeEdgeDistance" : 16,
   "Density": {
     "Type" : "Imported",
     "Name" : "World_Skylands"

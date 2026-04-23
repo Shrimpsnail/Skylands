@@ -1,0 +1,2468 @@
+{
+  "version": 8,
+  "blockIdVersion": 11,
+  "anchorX": 0,
+  "anchorY": 0,
+  "anchorZ": 0,
+  "blocks": [
+    {
+      "x": -9,
+      "y": 2,
+      "z": -2,
+      "name": "Plant_Large_Lilypad"
+    },
+    {
+      "x": -9,
+      "y": 3,
+      "z": -2,
+      "name": "Plant_Large_Lilypad_Half"
+    },
+    {
+      "x": -9,
+      "y": 2,
+      "z": -1,
+      "name": "Plant_Large_Lilypad"
+    },
+    {
+      "x": -9,
+      "y": 3,
+      "z": -1,
+      "name": "Plant_Large_Lilypad_Half"
+    },
+    {
+      "x": -9,
+      "y": 2,
+      "z": 0,
+      "name": "Plant_Large_Lilypad"
+    },
+    {
+      "x": -9,
+      "y": 3,
+      "z": 0,
+      "name": "Plant_Large_Lilypad_Half"
+    },
+    {
+      "x": -9,
+      "y": 2,
+      "z": 1,
+      "name": "Plant_Large_Lilypad"
+    },
+    {
+      "x": -9,
+      "y": 3,
+      "z": 1,
+      "name": "Plant_Large_Lilypad_Half"
+    },
+    {
+      "x": -9,
+      "y": 2,
+      "z": 2,
+      "name": "Plant_Large_Lilypad"
+    },
+    {
+      "x": -9,
+      "y": 3,
+      "z": 2,
+      "name": "Plant_Large_Lilypad_Half"
+    },
+    {
+      "x": -8,
+      "y": 2,
+      "z": -4,
+      "name": "Plant_Large_Lilypad"
+    },
+    {
+      "x": -8,
+      "y": 3,
+      "z": -4,
+      "name": "Plant_Large_Lilypad_Half"
+    },
+    {
+      "x": -8,
+      "y": 2,
+      "z": -3,
+      "name": "Plant_Large_Lilypad"
+    },
+    {
+      "x": -8,
+      "y": 3,
+      "z": -3,
+      "name": "Plant_Large_Lilypad_Half"
+    },
+    {
+      "x": -8,
+      "y": 2,
+      "z": -2,
+      "name": "Plant_Large_Lilypad"
+    },
+    {
+      "x": -8,
+      "y": 2,
+      "z": -1,
+      "name": "Plant_Large_Lilypad"
+    },
+    {
+      "x": -8,
+      "y": 2,
+      "z": 0,
+      "name": "Plant_Large_Lilypad"
+    },
+    {
+      "x": -8,
+      "y": 2,
+      "z": 1,
+      "name": "Plant_Large_Lilypad"
+    },
+    {
+      "x": -8,
+      "y": 2,
+      "z": 2,
+      "name": "Plant_Large_Lilypad"
+    },
+    {
+      "x": -8,
+      "y": 2,
+      "z": 3,
+      "name": "Plant_Large_Lilypad"
+    },
+    {
+      "x": -8,
+      "y": 3,
+      "z": 3,
+      "name": "Plant_Large_Lilypad_Half"
+    },
+    {
+      "x": -8,
+      "y": 2,
+      "z": 4,
+      "name": "Plant_Large_Lilypad"
+    },
+    {
+      "x": -8,
+      "y": 3,
+      "z": 4,
+      "name": "Plant_Large_Lilypad_Half"
+    },
+    {
+      "x": -7,
+      "y": 2,
+      "z": -6,
+      "name": "Plant_Large_Lilypad"
+    },
+    {
+      "x": -7,
+      "y": 3,
+      "z": -6,
+      "name": "Plant_Large_Lilypad_Half"
+    },
+    {
+      "x": -7,
+      "y": 2,
+      "z": -5,
+      "name": "Plant_Large_Lilypad"
+    },
+    {
+      "x": -7,
+      "y": 3,
+      "z": -5,
+      "name": "Plant_Large_Lilypad_Half"
+    },
+    {
+      "x": -7,
+      "y": 2,
+      "z": -4,
+      "name": "Plant_Large_Lilypad"
+    },
+    {
+      "x": -7,
+      "y": 2,
+      "z": -3,
+      "name": "Plant_Large_Lilypad"
+    },
+    {
+      "x": -7,
+      "y": 2,
+      "z": -2,
+      "name": "Plant_Large_Lilypad"
+    },
+    {
+      "x": -7,
+      "y": 1,
+      "z": -1,
+      "name": "Wood_Banyan_Trunk_Half",
+      "rotation": 8
+    },
+    {
+      "x": -7,
+      "y": 2,
+      "z": -1,
+      "name": "Plant_Large_Lilypad"
+    },
+    {
+      "x": -7,
+      "y": 2,
+      "z": 0,
+      "name": "Plant_Large_Lilypad"
+    },
+    {
+      "x": -7,
+      "y": 2,
+      "z": 1,
+      "name": "Plant_Large_Lilypad"
+    },
+    {
+      "x": -7,
+      "y": 2,
+      "z": 2,
+      "name": "Plant_Large_Lilypad"
+    },
+    {
+      "x": -7,
+      "y": 2,
+      "z": 3,
+      "name": "Plant_Large_Lilypad"
+    },
+    {
+      "x": -7,
+      "y": 2,
+      "z": 4,
+      "name": "Plant_Large_Lilypad"
+    },
+    {
+      "x": -7,
+      "y": 2,
+      "z": 5,
+      "name": "Plant_Large_Lilypad"
+    },
+    {
+      "x": -7,
+      "y": 3,
+      "z": 5,
+      "name": "Plant_Large_Lilypad_Half"
+    },
+    {
+      "x": -7,
+      "y": 2,
+      "z": 6,
+      "name": "Plant_Large_Lilypad"
+    },
+    {
+      "x": -7,
+      "y": 3,
+      "z": 6,
+      "name": "Plant_Large_Lilypad_Half"
+    },
+    {
+      "x": -6,
+      "y": 2,
+      "z": -7,
+      "name": "Plant_Large_Lilypad"
+    },
+    {
+      "x": -6,
+      "y": 3,
+      "z": -7,
+      "name": "Plant_Large_Lilypad_Half"
+    },
+    {
+      "x": -6,
+      "y": 2,
+      "z": -6,
+      "name": "Plant_Large_Lilypad"
+    },
+    {
+      "x": -6,
+      "y": 3,
+      "z": -6,
+      "name": "Plant_Large_Lilypad_Half"
+    },
+    {
+      "x": -6,
+      "y": 2,
+      "z": -5,
+      "name": "Plant_Large_Lilypad"
+    },
+    {
+      "x": -6,
+      "y": 2,
+      "z": -4,
+      "name": "Plant_Large_Lilypad"
+    },
+    {
+      "x": -6,
+      "y": 2,
+      "z": -3,
+      "name": "Plant_Large_Lilypad"
+    },
+    {
+      "x": -6,
+      "y": 2,
+      "z": -2,
+      "name": "Plant_Large_Lilypad"
+    },
+    {
+      "x": -6,
+      "y": 1,
+      "z": -1,
+      "name": "Wood_Banyan_Trunk_Half",
+      "rotation": 8
+    },
+    {
+      "x": -6,
+      "y": 2,
+      "z": -1,
+      "name": "Plant_Large_Lilypad"
+    },
+    {
+      "x": -6,
+      "y": 2,
+      "z": 0,
+      "name": "Plant_Large_Lilypad"
+    },
+    {
+      "x": -6,
+      "y": 2,
+      "z": 1,
+      "name": "Plant_Large_Lilypad"
+    },
+    {
+      "x": -6,
+      "y": 2,
+      "z": 2,
+      "name": "Plant_Large_Lilypad"
+    },
+    {
+      "x": -6,
+      "y": 1,
+      "z": 3,
+      "name": "Wood_Banyan_Trunk_Half",
+      "rotation": 8
+    },
+    {
+      "x": -6,
+      "y": 2,
+      "z": 3,
+      "name": "Plant_Large_Lilypad"
+    },
+    {
+      "x": -6,
+      "y": 2,
+      "z": 4,
+      "name": "Plant_Large_Lilypad"
+    },
+    {
+      "x": -6,
+      "y": 2,
+      "z": 5,
+      "name": "Plant_Large_Lilypad"
+    },
+    {
+      "x": -6,
+      "y": 2,
+      "z": 6,
+      "name": "Plant_Large_Lilypad"
+    },
+    {
+      "x": -6,
+      "y": 3,
+      "z": 6,
+      "name": "Plant_Large_Lilypad_Half"
+    },
+    {
+      "x": -6,
+      "y": 2,
+      "z": 7,
+      "name": "Plant_Large_Lilypad"
+    },
+    {
+      "x": -6,
+      "y": 3,
+      "z": 7,
+      "name": "Plant_Large_Lilypad_Half"
+    },
+    {
+      "x": -5,
+      "y": 2,
+      "z": -7,
+      "name": "Plant_Large_Lilypad"
+    },
+    {
+      "x": -5,
+      "y": 3,
+      "z": -7,
+      "name": "Plant_Large_Lilypad_Half"
+    },
+    {
+      "x": -5,
+      "y": 2,
+      "z": -6,
+      "name": "Plant_Large_Lilypad"
+    },
+    {
+      "x": -5,
+      "y": 1,
+      "z": -5,
+      "name": "Wood_Banyan_Trunk_Half",
+      "rotation": 8
+    },
+    {
+      "x": -5,
+      "y": 2,
+      "z": -5,
+      "name": "Plant_Large_Lilypad"
+    },
+    {
+      "x": -5,
+      "y": 2,
+      "z": -4,
+      "name": "Plant_Large_Lilypad"
+    },
+    {
+      "x": -5,
+      "y": 2,
+      "z": -3,
+      "name": "Plant_Large_Lilypad"
+    },
+    {
+      "x": -5,
+      "y": 2,
+      "z": -2,
+      "name": "Plant_Large_Lilypad"
+    },
+    {
+      "x": -5,
+      "y": 2,
+      "z": -1,
+      "name": "Plant_Large_Lilypad"
+    },
+    {
+      "x": -5,
+      "y": 1,
+      "z": 0,
+      "name": "Wood_Banyan_Trunk_Half",
+      "rotation": 8
+    },
+    {
+      "x": -5,
+      "y": 2,
+      "z": 0,
+      "name": "Plant_Large_Lilypad"
+    },
+    {
+      "x": -5,
+      "y": 2,
+      "z": 1,
+      "name": "Plant_Large_Lilypad"
+    },
+    {
+      "x": -5,
+      "y": 1,
+      "z": 2,
+      "name": "Wood_Banyan_Trunk_Half",
+      "rotation": 8
+    },
+    {
+      "x": -5,
+      "y": 2,
+      "z": 2,
+      "name": "Plant_Large_Lilypad"
+    },
+    {
+      "x": -5,
+      "y": 2,
+      "z": 3,
+      "name": "Plant_Large_Lilypad"
+    },
+    {
+      "x": -5,
+      "y": 2,
+      "z": 4,
+      "name": "Plant_Large_Lilypad"
+    },
+    {
+      "x": -5,
+      "y": 2,
+      "z": 5,
+      "name": "Plant_Large_Lilypad"
+    },
+    {
+      "x": -5,
+      "y": 2,
+      "z": 6,
+      "name": "Plant_Large_Lilypad"
+    },
+    {
+      "x": -5,
+      "y": 2,
+      "z": 7,
+      "name": "Plant_Large_Lilypad"
+    },
+    {
+      "x": -5,
+      "y": 3,
+      "z": 7,
+      "name": "Plant_Large_Lilypad_Half"
+    },
+    {
+      "x": -4,
+      "y": 2,
+      "z": -8,
+      "name": "Plant_Large_Lilypad"
+    },
+    {
+      "x": -4,
+      "y": 3,
+      "z": -8,
+      "name": "Plant_Large_Lilypad_Half"
+    },
+    {
+      "x": -4,
+      "y": 2,
+      "z": -7,
+      "name": "Plant_Large_Lilypad"
+    },
+    {
+      "x": -4,
+      "y": 2,
+      "z": -6,
+      "name": "Plant_Large_Lilypad"
+    },
+    {
+      "x": -4,
+      "y": 2,
+      "z": -5,
+      "name": "Plant_Large_Lilypad"
+    },
+    {
+      "x": -4,
+      "y": 1,
+      "z": -4,
+      "name": "Wood_Banyan_Trunk_Half",
+      "rotation": 8
+    },
+    {
+      "x": -4,
+      "y": 2,
+      "z": -4,
+      "name": "Plant_Large_Lilypad"
+    },
+    {
+      "x": -4,
+      "y": 2,
+      "z": -3,
+      "name": "Plant_Large_Lilypad"
+    },
+    {
+      "x": -4,
+      "y": 2,
+      "z": -2,
+      "name": "Plant_Large_Lilypad"
+    },
+    {
+      "x": -4,
+      "y": 2,
+      "z": -1,
+      "name": "Plant_Large_Lilypad"
+    },
+    {
+      "x": -4,
+      "y": 1,
+      "z": 0,
+      "name": "Wood_Banyan_Roots"
+    },
+    {
+      "x": -4,
+      "y": 2,
+      "z": 0,
+      "name": "Plant_Large_Lilypad"
+    },
+    {
+      "x": -4,
+      "y": 1,
+      "z": 1,
+      "name": "Wood_Banyan_Trunk_Half",
+      "rotation": 8
+    },
+    {
+      "x": -4,
+      "y": 2,
+      "z": 1,
+      "name": "Plant_Large_Lilypad"
+    },
+    {
+      "x": -4,
+      "y": 2,
+      "z": 2,
+      "name": "Plant_Large_Lilypad"
+    },
+    {
+      "x": -4,
+      "y": 2,
+      "z": 3,
+      "name": "Plant_Large_Lilypad"
+    },
+    {
+      "x": -4,
+      "y": 2,
+      "z": 4,
+      "name": "Plant_Large_Lilypad"
+    },
+    {
+      "x": -4,
+      "y": 2,
+      "z": 5,
+      "name": "Plant_Large_Lilypad"
+    },
+    {
+      "x": -4,
+      "y": 2,
+      "z": 6,
+      "name": "Plant_Large_Lilypad"
+    },
+    {
+      "x": -4,
+      "y": 2,
+      "z": 7,
+      "name": "Plant_Large_Lilypad"
+    },
+    {
+      "x": -4,
+      "y": 2,
+      "z": 8,
+      "name": "Plant_Large_Lilypad"
+    },
+    {
+      "x": -4,
+      "y": 3,
+      "z": 8,
+      "name": "Plant_Large_Lilypad_Half"
+    },
+    {
+      "x": -3,
+      "y": 2,
+      "z": -8,
+      "name": "Plant_Large_Lilypad"
+    },
+    {
+      "x": -3,
+      "y": 3,
+      "z": -8,
+      "name": "Plant_Large_Lilypad_Half"
+    },
+    {
+      "x": -3,
+      "y": 2,
+      "z": -7,
+      "name": "Plant_Large_Lilypad"
+    },
+    {
+      "x": -3,
+      "y": 2,
+      "z": -6,
+      "name": "Plant_Large_Lilypad"
+    },
+    {
+      "x": -3,
+      "y": 2,
+      "z": -5,
+      "name": "Plant_Large_Lilypad"
+    },
+    {
+      "x": -3,
+      "y": 2,
+      "z": -4,
+      "name": "Plant_Large_Lilypad"
+    },
+    {
+      "x": -3,
+      "y": 1,
+      "z": -3,
+      "name": "Wood_Banyan_Trunk_Half",
+      "rotation": 8
+    },
+    {
+      "x": -3,
+      "y": 2,
+      "z": -3,
+      "name": "Plant_Large_Lilypad"
+    },
+    {
+      "x": -3,
+      "y": 2,
+      "z": -2,
+      "name": "Plant_Large_Lilypad"
+    },
+    {
+      "x": -3,
+      "y": 1,
+      "z": -1,
+      "name": "Wood_Banyan_Roots"
+    },
+    {
+      "x": -3,
+      "y": 2,
+      "z": -1,
+      "name": "Plant_Large_Lilypad"
+    },
+    {
+      "x": -3,
+      "y": 2,
+      "z": 0,
+      "name": "Plant_Large_Lilypad"
+    },
+    {
+      "x": -3,
+      "y": 1,
+      "z": 1,
+      "name": "Wood_Banyan_Trunk_Half",
+      "rotation": 8
+    },
+    {
+      "x": -3,
+      "y": 2,
+      "z": 1,
+      "name": "Plant_Large_Lilypad"
+    },
+    {
+      "x": -3,
+      "y": 2,
+      "z": 2,
+      "name": "Plant_Large_Lilypad"
+    },
+    {
+      "x": -3,
+      "y": 2,
+      "z": 3,
+      "name": "Plant_Large_Lilypad"
+    },
+    {
+      "x": -3,
+      "y": 2,
+      "z": 4,
+      "name": "Plant_Large_Lilypad"
+    },
+    {
+      "x": -3,
+      "y": 2,
+      "z": 5,
+      "name": "Plant_Large_Lilypad"
+    },
+    {
+      "x": -3,
+      "y": 2,
+      "z": 6,
+      "name": "Plant_Large_Lilypad"
+    },
+    {
+      "x": -3,
+      "y": 2,
+      "z": 7,
+      "name": "Plant_Large_Lilypad"
+    },
+    {
+      "x": -3,
+      "y": 2,
+      "z": 8,
+      "name": "Plant_Large_Lilypad"
+    },
+    {
+      "x": -3,
+      "y": 3,
+      "z": 8,
+      "name": "Plant_Large_Lilypad_Half"
+    },
+    {
+      "x": -2,
+      "y": 2,
+      "z": -9,
+      "name": "Plant_Large_Lilypad"
+    },
+    {
+      "x": -2,
+      "y": 3,
+      "z": -9,
+      "name": "Plant_Large_Lilypad_Half"
+    },
+    {
+      "x": -2,
+      "y": 2,
+      "z": -8,
+      "name": "Plant_Large_Lilypad"
+    },
+    {
+      "x": -2,
+      "y": 2,
+      "z": -7,
+      "name": "Plant_Large_Lilypad"
+    },
+    {
+      "x": -2,
+      "y": 2,
+      "z": -6,
+      "name": "Plant_Large_Lilypad"
+    },
+    {
+      "x": -2,
+      "y": 2,
+      "z": -5,
+      "name": "Plant_Large_Lilypad"
+    },
+    {
+      "x": -2,
+      "y": 2,
+      "z": -4,
+      "name": "Plant_Large_Lilypad"
+    },
+    {
+      "x": -2,
+      "y": 1,
+      "z": -3,
+      "name": "Wood_Banyan_Trunk_Half",
+      "rotation": 8
+    },
+    {
+      "x": -2,
+      "y": 2,
+      "z": -3,
+      "name": "Plant_Large_Lilypad"
+    },
+    {
+      "x": -2,
+      "y": 2,
+      "z": -2,
+      "name": "Plant_Large_Lilypad"
+    },
+    {
+      "x": -2,
+      "y": 2,
+      "z": -1,
+      "name": "Plant_Large_Lilypad"
+    },
+    {
+      "x": -2,
+      "y": 1,
+      "z": 0,
+      "name": "Wood_Banyan_Trunk_Half",
+      "rotation": 8
+    },
+    {
+      "x": -2,
+      "y": 2,
+      "z": 0,
+      "name": "Plant_Large_Lilypad"
+    },
+    {
+      "x": -2,
+      "y": 2,
+      "z": 1,
+      "name": "Plant_Large_Lilypad"
+    },
+    {
+      "x": -2,
+      "y": 1,
+      "z": 2,
+      "name": "Wood_Banyan_Roots"
+    },
+    {
+      "x": -2,
+      "y": 2,
+      "z": 2,
+      "name": "Plant_Large_Lilypad"
+    },
+    {
+      "x": -2,
+      "y": 2,
+      "z": 3,
+      "name": "Plant_Large_Lilypad"
+    },
+    {
+      "x": -2,
+      "y": 2,
+      "z": 4,
+      "name": "Plant_Large_Lilypad"
+    },
+    {
+      "x": -2,
+      "y": 1,
+      "z": 5,
+      "name": "Wood_Banyan_Roots"
+    },
+    {
+      "x": -2,
+      "y": 2,
+      "z": 5,
+      "name": "Plant_Large_Lilypad"
+    },
+    {
+      "x": -2,
+      "y": 2,
+      "z": 6,
+      "name": "Plant_Large_Lilypad"
+    },
+    {
+      "x": -2,
+      "y": 1,
+      "z": 7,
+      "name": "Wood_Banyan_Trunk_Half",
+      "rotation": 8
+    },
+    {
+      "x": -2,
+      "y": 2,
+      "z": 7,
+      "name": "Plant_Large_Lilypad"
+    },
+    {
+      "x": -2,
+      "y": 2,
+      "z": 8,
+      "name": "Plant_Large_Lilypad"
+    },
+    {
+      "x": -2,
+      "y": 2,
+      "z": 9,
+      "name": "Plant_Large_Lilypad"
+    },
+    {
+      "x": -2,
+      "y": 3,
+      "z": 9,
+      "name": "Plant_Large_Lilypad_Half"
+    },
+    {
+      "x": -1,
+      "y": 2,
+      "z": -9,
+      "name": "Plant_Large_Lilypad"
+    },
+    {
+      "x": -1,
+      "y": 3,
+      "z": -9,
+      "name": "Plant_Large_Lilypad_Half"
+    },
+    {
+      "x": -1,
+      "y": 2,
+      "z": -8,
+      "name": "Plant_Large_Lilypad"
+    },
+    {
+      "x": -1,
+      "y": 1,
+      "z": -7,
+      "name": "Wood_Banyan_Trunk_Half",
+      "rotation": 8
+    },
+    {
+      "x": -1,
+      "y": 2,
+      "z": -7,
+      "name": "Plant_Large_Lilypad"
+    },
+    {
+      "x": -1,
+      "y": 1,
+      "z": -6,
+      "name": "Wood_Banyan_Trunk_Half",
+      "rotation": 8
+    },
+    {
+      "x": -1,
+      "y": 2,
+      "z": -6,
+      "name": "Plant_Large_Lilypad"
+    },
+    {
+      "x": -1,
+      "y": 2,
+      "z": -5,
+      "name": "Plant_Large_Lilypad"
+    },
+    {
+      "x": -1,
+      "y": 1,
+      "z": -4,
+      "name": "Wood_Banyan_Roots"
+    },
+    {
+      "x": -1,
+      "y": 2,
+      "z": -4,
+      "name": "Plant_Large_Lilypad"
+    },
+    {
+      "x": -1,
+      "y": 2,
+      "z": -3,
+      "name": "Plant_Large_Lilypad"
+    },
+    {
+      "x": -1,
+      "y": 1,
+      "z": -2,
+      "name": "Wood_Banyan_Trunk_Half",
+      "rotation": 8
+    },
+    {
+      "x": -1,
+      "y": 2,
+      "z": -2,
+      "name": "Plant_Large_Lilypad"
+    },
+    {
+      "x": -1,
+      "y": 0,
+      "z": -1,
+      "name": "Wood_Banyan_Roots"
+    },
+    {
+      "x": -1,
+      "y": 1,
+      "z": -1,
+      "name": "Wood_Banyan_Trunk",
+      "support": 15
+    },
+    {
+      "x": -1,
+      "y": 2,
+      "z": -1,
+      "name": "Plant_Large_Lilypad"
+    },
+    {
+      "x": -1,
+      "y": 1,
+      "z": 0,
+      "name": "Wood_Banyan_Trunk",
+      "support": 15
+    },
+    {
+      "x": -1,
+      "y": 2,
+      "z": 0,
+      "name": "Plant_Large_Lilypad"
+    },
+    {
+      "x": -1,
+      "y": 0,
+      "z": 1,
+      "name": "Wood_Banyan_Roots"
+    },
+    {
+      "x": -1,
+      "y": 1,
+      "z": 1,
+      "name": "Wood_Banyan_Trunk",
+      "support": 15
+    },
+    {
+      "x": -1,
+      "y": 2,
+      "z": 1,
+      "name": "Plant_Large_Lilypad"
+    },
+    {
+      "x": -1,
+      "y": 1,
+      "z": 2,
+      "name": "Wood_Banyan_Roots"
+    },
+    {
+      "x": -1,
+      "y": 2,
+      "z": 2,
+      "name": "Plant_Large_Lilypad"
+    },
+    {
+      "x": -1,
+      "y": 2,
+      "z": 3,
+      "name": "Plant_Large_Lilypad"
+    },
+    {
+      "x": -1,
+      "y": 2,
+      "z": 4,
+      "name": "Plant_Large_Lilypad"
+    },
+    {
+      "x": -1,
+      "y": 2,
+      "z": 5,
+      "name": "Plant_Large_Lilypad"
+    },
+    {
+      "x": -1,
+      "y": 1,
+      "z": 6,
+      "name": "Wood_Banyan_Trunk_Half",
+      "rotation": 8
+    },
+    {
+      "x": -1,
+      "y": 2,
+      "z": 6,
+      "name": "Plant_Large_Lilypad"
+    },
+    {
+      "x": -1,
+      "y": 2,
+      "z": 7,
+      "name": "Plant_Large_Lilypad"
+    },
+    {
+      "x": -1,
+      "y": 2,
+      "z": 8,
+      "name": "Plant_Large_Lilypad"
+    },
+    {
+      "x": -1,
+      "y": 2,
+      "z": 9,
+      "name": "Plant_Large_Lilypad"
+    },
+    {
+      "x": -1,
+      "y": 3,
+      "z": 9,
+      "name": "Plant_Large_Lilypad_Half"
+    },
+    {
+      "x": 0,
+      "y": 2,
+      "z": -9,
+      "name": "Plant_Large_Lilypad"
+    },
+    {
+      "x": 0,
+      "y": 3,
+      "z": -9,
+      "name": "Plant_Large_Lilypad_Half"
+    },
+    {
+      "x": 0,
+      "y": 2,
+      "z": -8,
+      "name": "Plant_Large_Lilypad"
+    },
+    {
+      "x": 0,
+      "y": 2,
+      "z": -7,
+      "name": "Plant_Large_Lilypad"
+    },
+    {
+      "x": 0,
+      "y": 2,
+      "z": -6,
+      "name": "Plant_Large_Lilypad"
+    },
+    {
+      "x": 0,
+      "y": 1,
+      "z": -5,
+      "name": "Wood_Banyan_Trunk_Half",
+      "rotation": 8
+    },
+    {
+      "x": 0,
+      "y": 2,
+      "z": -5,
+      "name": "Plant_Large_Lilypad"
+    },
+    {
+      "x": 0,
+      "y": 1,
+      "z": -4,
+      "name": "Wood_Banyan_Trunk_Half",
+      "rotation": 8
+    },
+    {
+      "x": 0,
+      "y": 2,
+      "z": -4,
+      "name": "Plant_Large_Lilypad"
+    },
+    {
+      "x": 0,
+      "y": 1,
+      "z": -3,
+      "name": "Wood_Banyan_Trunk_Half",
+      "rotation": 8
+    },
+    {
+      "x": 0,
+      "y": 2,
+      "z": -3,
+      "name": "Plant_Large_Lilypad"
+    },
+    {
+      "x": 0,
+      "y": 1,
+      "z": -2,
+      "name": "Wood_Banyan_Trunk_Half",
+      "rotation": 8
+    },
+    {
+      "x": 0,
+      "y": 2,
+      "z": -2,
+      "name": "Plant_Large_Lilypad"
+    },
+    {
+      "x": 0,
+      "y": 1,
+      "z": -1,
+      "name": "Wood_Banyan_Trunk",
+      "support": 15
+    },
+    {
+      "x": 0,
+      "y": 2,
+      "z": -1,
+      "name": "Plant_Large_Lilypad"
+    },
+    {
+      "x": 0,
+      "y": 1,
+      "z": 0,
+      "name": "Wood_Banyan_Trunk",
+      "support": 15
+    },
+    {
+      "x": 0,
+      "y": 2,
+      "z": 0,
+      "name": "Plant_Large_Lilypad",
+      "support": 15
+    },
+    {
+      "x": 0,
+      "y": 1,
+      "z": 1,
+      "name": "Wood_Banyan_Trunk",
+      "support": 15
+    },
+    {
+      "x": 0,
+      "y": 2,
+      "z": 1,
+      "name": "Plant_Large_Lilypad"
+    },
+    {
+      "x": 0,
+      "y": 1,
+      "z": 2,
+      "name": "Wood_Banyan_Trunk_Half",
+      "rotation": 8
+    },
+    {
+      "x": 0,
+      "y": 2,
+      "z": 2,
+      "name": "Plant_Large_Lilypad"
+    },
+    {
+      "x": 0,
+      "y": 1,
+      "z": 3,
+      "name": "Wood_Banyan_Trunk_Half",
+      "rotation": 8
+    },
+    {
+      "x": 0,
+      "y": 2,
+      "z": 3,
+      "name": "Plant_Large_Lilypad"
+    },
+    {
+      "x": 0,
+      "y": 2,
+      "z": 4,
+      "name": "Plant_Large_Lilypad"
+    },
+    {
+      "x": 0,
+      "y": 2,
+      "z": 5,
+      "name": "Plant_Large_Lilypad"
+    },
+    {
+      "x": 0,
+      "y": 1,
+      "z": 6,
+      "name": "Wood_Banyan_Trunk_Half",
+      "rotation": 8
+    },
+    {
+      "x": 0,
+      "y": 2,
+      "z": 6,
+      "name": "Plant_Large_Lilypad"
+    },
+    {
+      "x": 0,
+      "y": 2,
+      "z": 7,
+      "name": "Plant_Large_Lilypad"
+    },
+    {
+      "x": 0,
+      "y": 2,
+      "z": 8,
+      "name": "Plant_Large_Lilypad"
+    },
+    {
+      "x": 0,
+      "y": 2,
+      "z": 9,
+      "name": "Plant_Large_Lilypad"
+    },
+    {
+      "x": 0,
+      "y": 3,
+      "z": 9,
+      "name": "Plant_Large_Lilypad_Half"
+    },
+    {
+      "x": 1,
+      "y": 2,
+      "z": -9,
+      "name": "Plant_Large_Lilypad"
+    },
+    {
+      "x": 1,
+      "y": 3,
+      "z": -9,
+      "name": "Plant_Large_Lilypad_Half"
+    },
+    {
+      "x": 1,
+      "y": 2,
+      "z": -8,
+      "name": "Plant_Large_Lilypad"
+    },
+    {
+      "x": 1,
+      "y": 2,
+      "z": -7,
+      "name": "Plant_Large_Lilypad"
+    },
+    {
+      "x": 1,
+      "y": 2,
+      "z": -6,
+      "name": "Plant_Large_Lilypad"
+    },
+    {
+      "x": 1,
+      "y": 2,
+      "z": -5,
+      "name": "Plant_Large_Lilypad"
+    },
+    {
+      "x": 1,
+      "y": 2,
+      "z": -4,
+      "name": "Plant_Large_Lilypad"
+    },
+    {
+      "x": 1,
+      "y": 1,
+      "z": -3,
+      "name": "Wood_Banyan_Roots"
+    },
+    {
+      "x": 1,
+      "y": 2,
+      "z": -3,
+      "name": "Plant_Large_Lilypad"
+    },
+    {
+      "x": 1,
+      "y": 2,
+      "z": -2,
+      "name": "Plant_Large_Lilypad"
+    },
+    {
+      "x": 1,
+      "y": 1,
+      "z": -1,
+      "name": "Wood_Banyan_Trunk",
+      "support": 15
+    },
+    {
+      "x": 1,
+      "y": 2,
+      "z": -1,
+      "name": "Plant_Large_Lilypad"
+    },
+    {
+      "x": 1,
+      "y": 1,
+      "z": 0,
+      "name": "Wood_Banyan_Trunk",
+      "support": 15
+    },
+    {
+      "x": 1,
+      "y": 2,
+      "z": 0,
+      "name": "Plant_Large_Lilypad"
+    },
+    {
+      "x": 1,
+      "y": 1,
+      "z": 1,
+      "name": "Wood_Banyan_Trunk",
+      "support": 15
+    },
+    {
+      "x": 1,
+      "y": 2,
+      "z": 1,
+      "name": "Plant_Large_Lilypad"
+    },
+    {
+      "x": 1,
+      "y": 1,
+      "z": 2,
+      "name": "Wood_Banyan_Roots"
+    },
+    {
+      "x": 1,
+      "y": 2,
+      "z": 2,
+      "name": "Plant_Large_Lilypad"
+    },
+    {
+      "x": 1,
+      "y": 2,
+      "z": 3,
+      "name": "Plant_Large_Lilypad"
+    },
+    {
+      "x": 1,
+      "y": 1,
+      "z": 4,
+      "name": "Wood_Banyan_Trunk_Half",
+      "rotation": 8
+    },
+    {
+      "x": 1,
+      "y": 2,
+      "z": 4,
+      "name": "Plant_Large_Lilypad"
+    },
+    {
+      "x": 1,
+      "y": 1,
+      "z": 5,
+      "name": "Wood_Banyan_Trunk_Half",
+      "rotation": 8
+    },
+    {
+      "x": 1,
+      "y": 2,
+      "z": 5,
+      "name": "Plant_Large_Lilypad"
+    },
+    {
+      "x": 1,
+      "y": 2,
+      "z": 6,
+      "name": "Plant_Large_Lilypad"
+    },
+    {
+      "x": 1,
+      "y": 2,
+      "z": 7,
+      "name": "Plant_Large_Lilypad"
+    },
+    {
+      "x": 1,
+      "y": 2,
+      "z": 8,
+      "name": "Plant_Large_Lilypad"
+    },
+    {
+      "x": 1,
+      "y": 2,
+      "z": 9,
+      "name": "Plant_Large_Lilypad"
+    },
+    {
+      "x": 1,
+      "y": 3,
+      "z": 9,
+      "name": "Plant_Large_Lilypad_Half"
+    },
+    {
+      "x": 2,
+      "y": 2,
+      "z": -9,
+      "name": "Plant_Large_Lilypad"
+    },
+    {
+      "x": 2,
+      "y": 3,
+      "z": -9,
+      "name": "Plant_Large_Lilypad_Half"
+    },
+    {
+      "x": 2,
+      "y": 2,
+      "z": -8,
+      "name": "Plant_Large_Lilypad"
+    },
+    {
+      "x": 2,
+      "y": 2,
+      "z": -7,
+      "name": "Plant_Large_Lilypad"
+    },
+    {
+      "x": 2,
+      "y": 2,
+      "z": -6,
+      "name": "Plant_Large_Lilypad"
+    },
+    {
+      "x": 2,
+      "y": 2,
+      "z": -5,
+      "name": "Plant_Large_Lilypad"
+    },
+    {
+      "x": 2,
+      "y": 2,
+      "z": -4,
+      "name": "Plant_Large_Lilypad"
+    },
+    {
+      "x": 2,
+      "y": 2,
+      "z": -3,
+      "name": "Plant_Large_Lilypad"
+    },
+    {
+      "x": 2,
+      "y": 1,
+      "z": -2,
+      "name": "Wood_Banyan_Trunk_Half",
+      "rotation": 8
+    },
+    {
+      "x": 2,
+      "y": 2,
+      "z": -2,
+      "name": "Plant_Large_Lilypad"
+    },
+    {
+      "x": 2,
+      "y": 1,
+      "z": -1,
+      "name": "Wood_Banyan_Roots"
+    },
+    {
+      "x": 2,
+      "y": 2,
+      "z": -1,
+      "name": "Plant_Large_Lilypad"
+    },
+    {
+      "x": 2,
+      "y": 1,
+      "z": 0,
+      "name": "Wood_Banyan_Trunk_Half",
+      "rotation": 8
+    },
+    {
+      "x": 2,
+      "y": 2,
+      "z": 0,
+      "name": "Plant_Large_Lilypad"
+    },
+    {
+      "x": 2,
+      "y": 2,
+      "z": 1,
+      "name": "Plant_Large_Lilypad"
+    },
+    {
+      "x": 2,
+      "y": 1,
+      "z": 2,
+      "name": "Wood_Banyan_Trunk_Half",
+      "rotation": 8
+    },
+    {
+      "x": 2,
+      "y": 2,
+      "z": 2,
+      "name": "Plant_Large_Lilypad"
+    },
+    {
+      "x": 2,
+      "y": 2,
+      "z": 3,
+      "name": "Plant_Large_Lilypad"
+    },
+    {
+      "x": 2,
+      "y": 2,
+      "z": 4,
+      "name": "Plant_Large_Lilypad"
+    },
+    {
+      "x": 2,
+      "y": 2,
+      "z": 5,
+      "name": "Plant_Large_Lilypad"
+    },
+    {
+      "x": 2,
+      "y": 2,
+      "z": 6,
+      "name": "Plant_Large_Lilypad"
+    },
+    {
+      "x": 2,
+      "y": 2,
+      "z": 7,
+      "name": "Plant_Large_Lilypad"
+    },
+    {
+      "x": 2,
+      "y": 2,
+      "z": 8,
+      "name": "Plant_Large_Lilypad"
+    },
+    {
+      "x": 2,
+      "y": 2,
+      "z": 9,
+      "name": "Plant_Large_Lilypad"
+    },
+    {
+      "x": 2,
+      "y": 3,
+      "z": 9,
+      "name": "Plant_Large_Lilypad_Half"
+    },
+    {
+      "x": 3,
+      "y": 2,
+      "z": -8,
+      "name": "Plant_Large_Lilypad"
+    },
+    {
+      "x": 3,
+      "y": 3,
+      "z": -8,
+      "name": "Plant_Large_Lilypad_Half"
+    },
+    {
+      "x": 3,
+      "y": 2,
+      "z": -7,
+      "name": "Plant_Large_Lilypad"
+    },
+    {
+      "x": 3,
+      "y": 2,
+      "z": -6,
+      "name": "Plant_Large_Lilypad"
+    },
+    {
+      "x": 3,
+      "y": 2,
+      "z": -5,
+      "name": "Plant_Large_Lilypad"
+    },
+    {
+      "x": 3,
+      "y": 1,
+      "z": -4,
+      "name": "Wood_Banyan_Roots"
+    },
+    {
+      "x": 3,
+      "y": 2,
+      "z": -4,
+      "name": "Plant_Large_Lilypad"
+    },
+    {
+      "x": 3,
+      "y": 1,
+      "z": -3,
+      "name": "Wood_Banyan_Trunk_Half",
+      "rotation": 8
+    },
+    {
+      "x": 3,
+      "y": 2,
+      "z": -3,
+      "name": "Plant_Large_Lilypad"
+    },
+    {
+      "x": 3,
+      "y": 2,
+      "z": -2,
+      "name": "Plant_Large_Lilypad"
+    },
+    {
+      "x": 3,
+      "y": 2,
+      "z": -1,
+      "name": "Plant_Large_Lilypad"
+    },
+    {
+      "x": 3,
+      "y": 1,
+      "z": 0,
+      "name": "Wood_Banyan_Trunk_Half",
+      "rotation": 8
+    },
+    {
+      "x": 3,
+      "y": 2,
+      "z": 0,
+      "name": "Plant_Large_Lilypad"
+    },
+    {
+      "x": 3,
+      "y": 1,
+      "z": 1,
+      "name": "Wood_Banyan_Roots"
+    },
+    {
+      "x": 3,
+      "y": 2,
+      "z": 1,
+      "name": "Plant_Large_Lilypad"
+    },
+    {
+      "x": 3,
+      "y": 2,
+      "z": 2,
+      "name": "Plant_Large_Lilypad"
+    },
+    {
+      "x": 3,
+      "y": 1,
+      "z": 3,
+      "name": "Wood_Banyan_Trunk_Half",
+      "rotation": 8
+    },
+    {
+      "x": 3,
+      "y": 2,
+      "z": 3,
+      "name": "Plant_Large_Lilypad"
+    },
+    {
+      "x": 3,
+      "y": 1,
+      "z": 4,
+      "name": "Wood_Banyan_Trunk_Half",
+      "rotation": 8
+    },
+    {
+      "x": 3,
+      "y": 2,
+      "z": 4,
+      "name": "Plant_Large_Lilypad"
+    },
+    {
+      "x": 3,
+      "y": 2,
+      "z": 5,
+      "name": "Plant_Large_Lilypad"
+    },
+    {
+      "x": 3,
+      "y": 2,
+      "z": 6,
+      "name": "Plant_Large_Lilypad"
+    },
+    {
+      "x": 3,
+      "y": 2,
+      "z": 7,
+      "name": "Plant_Large_Lilypad"
+    },
+    {
+      "x": 3,
+      "y": 2,
+      "z": 8,
+      "name": "Plant_Large_Lilypad"
+    },
+    {
+      "x": 3,
+      "y": 3,
+      "z": 8,
+      "name": "Plant_Large_Lilypad_Half"
+    },
+    {
+      "x": 4,
+      "y": 2,
+      "z": -8,
+      "name": "Plant_Large_Lilypad"
+    },
+    {
+      "x": 4,
+      "y": 3,
+      "z": -8,
+      "name": "Plant_Large_Lilypad_Half"
+    },
+    {
+      "x": 4,
+      "y": 2,
+      "z": -7,
+      "name": "Plant_Large_Lilypad"
+    },
+    {
+      "x": 4,
+      "y": 2,
+      "z": -6,
+      "name": "Plant_Large_Lilypad"
+    },
+    {
+      "x": 4,
+      "y": 2,
+      "z": -5,
+      "name": "Plant_Large_Lilypad"
+    },
+    {
+      "x": 4,
+      "y": 1,
+      "z": -4,
+      "name": "Wood_Banyan_Trunk_Half",
+      "rotation": 8
+    },
+    {
+      "x": 4,
+      "y": 2,
+      "z": -4,
+      "name": "Plant_Large_Lilypad"
+    },
+    {
+      "x": 4,
+      "y": 1,
+      "z": -3,
+      "name": "Wood_Banyan_Trunk_Half",
+      "rotation": 8
+    },
+    {
+      "x": 4,
+      "y": 2,
+      "z": -3,
+      "name": "Plant_Large_Lilypad"
+    },
+    {
+      "x": 4,
+      "y": 2,
+      "z": -2,
+      "name": "Plant_Large_Lilypad"
+    },
+    {
+      "x": 4,
+      "y": 2,
+      "z": -1,
+      "name": "Plant_Large_Lilypad"
+    },
+    {
+      "x": 4,
+      "y": 2,
+      "z": 0,
+      "name": "Plant_Large_Lilypad"
+    },
+    {
+      "x": 4,
+      "y": 1,
+      "z": 1,
+      "name": "Wood_Banyan_Trunk_Half",
+      "rotation": 8
+    },
+    {
+      "x": 4,
+      "y": 2,
+      "z": 1,
+      "name": "Plant_Large_Lilypad"
+    },
+    {
+      "x": 4,
+      "y": 2,
+      "z": 2,
+      "name": "Plant_Large_Lilypad"
+    },
+    {
+      "x": 4,
+      "y": 2,
+      "z": 3,
+      "name": "Plant_Large_Lilypad"
+    },
+    {
+      "x": 4,
+      "y": 1,
+      "z": 4,
+      "name": "Wood_Banyan_Roots"
+    },
+    {
+      "x": 4,
+      "y": 2,
+      "z": 4,
+      "name": "Plant_Large_Lilypad"
+    },
+    {
+      "x": 4,
+      "y": 1,
+      "z": 5,
+      "name": "Wood_Banyan_Trunk_Half",
+      "rotation": 8
+    },
+    {
+      "x": 4,
+      "y": 2,
+      "z": 5,
+      "name": "Plant_Large_Lilypad"
+    },
+    {
+      "x": 4,
+      "y": 2,
+      "z": 6,
+      "name": "Plant_Large_Lilypad"
+    },
+    {
+      "x": 4,
+      "y": 2,
+      "z": 7,
+      "name": "Plant_Large_Lilypad"
+    },
+    {
+      "x": 4,
+      "y": 2,
+      "z": 8,
+      "name": "Plant_Large_Lilypad"
+    },
+    {
+      "x": 4,
+      "y": 3,
+      "z": 8,
+      "name": "Plant_Large_Lilypad_Half"
+    },
+    {
+      "x": 5,
+      "y": 2,
+      "z": -7,
+      "name": "Plant_Large_Lilypad"
+    },
+    {
+      "x": 5,
+      "y": 3,
+      "z": -7,
+      "name": "Plant_Large_Lilypad_Half"
+    },
+    {
+      "x": 5,
+      "y": 2,
+      "z": -6,
+      "name": "Plant_Large_Lilypad"
+    },
+    {
+      "x": 5,
+      "y": 1,
+      "z": -5,
+      "name": "Wood_Banyan_Trunk_Half",
+      "rotation": 8
+    },
+    {
+      "x": 5,
+      "y": 2,
+      "z": -5,
+      "name": "Plant_Large_Lilypad"
+    },
+    {
+      "x": 5,
+      "y": 2,
+      "z": -4,
+      "name": "Plant_Large_Lilypad"
+    },
+    {
+      "x": 5,
+      "y": 1,
+      "z": -3,
+      "name": "Wood_Banyan_Roots"
+    },
+    {
+      "x": 5,
+      "y": 2,
+      "z": -3,
+      "name": "Plant_Large_Lilypad"
+    },
+    {
+      "x": 5,
+      "y": 1,
+      "z": -2,
+      "name": "Wood_Banyan_Roots"
+    },
+    {
+      "x": 5,
+      "y": 2,
+      "z": -2,
+      "name": "Plant_Large_Lilypad"
+    },
+    {
+      "x": 5,
+      "y": 2,
+      "z": -1,
+      "name": "Plant_Large_Lilypad"
+    },
+    {
+      "x": 5,
+      "y": 2,
+      "z": 0,
+      "name": "Plant_Large_Lilypad"
+    },
+    {
+      "x": 5,
+      "y": 1,
+      "z": 1,
+      "name": "Wood_Banyan_Trunk_Half",
+      "rotation": 8
+    },
+    {
+      "x": 5,
+      "y": 2,
+      "z": 1,
+      "name": "Plant_Large_Lilypad"
+    },
+    {
+      "x": 5,
+      "y": 2,
+      "z": 2,
+      "name": "Plant_Large_Lilypad"
+    },
+    {
+      "x": 5,
+      "y": 2,
+      "z": 3,
+      "name": "Plant_Large_Lilypad"
+    },
+    {
+      "x": 5,
+      "y": 2,
+      "z": 4,
+      "name": "Plant_Large_Lilypad"
+    },
+    {
+      "x": 5,
+      "y": 1,
+      "z": 5,
+      "name": "Wood_Banyan_Trunk_Half",
+      "rotation": 8
+    },
+    {
+      "x": 5,
+      "y": 2,
+      "z": 5,
+      "name": "Plant_Large_Lilypad"
+    },
+    {
+      "x": 5,
+      "y": 2,
+      "z": 6,
+      "name": "Plant_Large_Lilypad"
+    },
+    {
+      "x": 5,
+      "y": 2,
+      "z": 7,
+      "name": "Plant_Large_Lilypad"
+    },
+    {
+      "x": 5,
+      "y": 3,
+      "z": 7,
+      "name": "Plant_Large_Lilypad_Half"
+    },
+    {
+      "x": 6,
+      "y": 2,
+      "z": -7,
+      "name": "Plant_Large_Lilypad"
+    },
+    {
+      "x": 6,
+      "y": 3,
+      "z": -7,
+      "name": "Plant_Large_Lilypad_Half"
+    },
+    {
+      "x": 6,
+      "y": 2,
+      "z": -6,
+      "name": "Plant_Large_Lilypad"
+    },
+    {
+      "x": 6,
+      "y": 3,
+      "z": -6,
+      "name": "Plant_Large_Lilypad_Half"
+    },
+    {
+      "x": 6,
+      "y": 2,
+      "z": -5,
+      "name": "Plant_Large_Lilypad"
+    },
+    {
+      "x": 6,
+      "y": 2,
+      "z": -4,
+      "name": "Plant_Large_Lilypad"
+    },
+    {
+      "x": 6,
+      "y": 2,
+      "z": -3,
+      "name": "Plant_Large_Lilypad"
+    },
+    {
+      "x": 6,
+      "y": 2,
+      "z": -2,
+      "name": "Plant_Large_Lilypad"
+    },
+    {
+      "x": 6,
+      "y": 2,
+      "z": -1,
+      "name": "Plant_Large_Lilypad"
+    },
+    {
+      "x": 6,
+      "y": 1,
+      "z": 0,
+      "name": "Wood_Banyan_Trunk_Half",
+      "rotation": 8
+    },
+    {
+      "x": 6,
+      "y": 2,
+      "z": 0,
+      "name": "Plant_Large_Lilypad"
+    },
+    {
+      "x": 6,
+      "y": 2,
+      "z": 1,
+      "name": "Plant_Large_Lilypad"
+    },
+    {
+      "x": 6,
+      "y": 2,
+      "z": 2,
+      "name": "Plant_Large_Lilypad"
+    },
+    {
+      "x": 6,
+      "y": 2,
+      "z": 3,
+      "name": "Plant_Large_Lilypad"
+    },
+    {
+      "x": 6,
+      "y": 2,
+      "z": 4,
+      "name": "Plant_Large_Lilypad"
+    },
+    {
+      "x": 6,
+      "y": 2,
+      "z": 5,
+      "name": "Plant_Large_Lilypad"
+    },
+    {
+      "x": 6,
+      "y": 2,
+      "z": 6,
+      "name": "Plant_Large_Lilypad"
+    },
+    {
+      "x": 6,
+      "y": 3,
+      "z": 6,
+      "name": "Plant_Large_Lilypad_Half"
+    },
+    {
+      "x": 6,
+      "y": 2,
+      "z": 7,
+      "name": "Plant_Large_Lilypad"
+    },
+    {
+      "x": 6,
+      "y": 3,
+      "z": 7,
+      "name": "Plant_Large_Lilypad_Half"
+    },
+    {
+      "x": 7,
+      "y": 2,
+      "z": -6,
+      "name": "Plant_Large_Lilypad"
+    },
+    {
+      "x": 7,
+      "y": 3,
+      "z": -6,
+      "name": "Plant_Large_Lilypad_Half"
+    },
+    {
+      "x": 7,
+      "y": 2,
+      "z": -5,
+      "name": "Plant_Large_Lilypad"
+    },
+    {
+      "x": 7,
+      "y": 3,
+      "z": -5,
+      "name": "Plant_Large_Lilypad_Half"
+    },
+    {
+      "x": 7,
+      "y": 2,
+      "z": -4,
+      "name": "Plant_Large_Lilypad"
+    },
+    {
+      "x": 7,
+      "y": 2,
+      "z": -3,
+      "name": "Plant_Large_Lilypad"
+    },
+    {
+      "x": 7,
+      "y": 2,
+      "z": -2,
+      "name": "Plant_Large_Lilypad"
+    },
+    {
+      "x": 7,
+      "y": 1,
+      "z": -1,
+      "name": "Wood_Banyan_Trunk_Half",
+      "rotation": 8
+    },
+    {
+      "x": 7,
+      "y": 2,
+      "z": -1,
+      "name": "Plant_Large_Lilypad"
+    },
+    {
+      "x": 7,
+      "y": 2,
+      "z": 0,
+      "name": "Plant_Large_Lilypad"
+    },
+    {
+      "x": 7,
+      "y": 2,
+      "z": 1,
+      "name": "Plant_Large_Lilypad"
+    },
+    {
+      "x": 7,
+      "y": 2,
+      "z": 2,
+      "name": "Plant_Large_Lilypad"
+    },
+    {
+      "x": 7,
+      "y": 2,
+      "z": 3,
+      "name": "Plant_Large_Lilypad"
+    },
+    {
+      "x": 7,
+      "y": 2,
+      "z": 4,
+      "name": "Plant_Large_Lilypad"
+    },
+    {
+      "x": 7,
+      "y": 2,
+      "z": 5,
+      "name": "Plant_Large_Lilypad"
+    },
+    {
+      "x": 7,
+      "y": 3,
+      "z": 5,
+      "name": "Plant_Large_Lilypad_Half"
+    },
+    {
+      "x": 7,
+      "y": 2,
+      "z": 6,
+      "name": "Plant_Large_Lilypad"
+    },
+    {
+      "x": 7,
+      "y": 3,
+      "z": 6,
+      "name": "Plant_Large_Lilypad_Half"
+    },
+    {
+      "x": 8,
+      "y": 2,
+      "z": -4,
+      "name": "Plant_Large_Lilypad"
+    },
+    {
+      "x": 8,
+      "y": 3,
+      "z": -4,
+      "name": "Plant_Large_Lilypad_Half"
+    },
+    {
+      "x": 8,
+      "y": 2,
+      "z": -3,
+      "name": "Plant_Large_Lilypad"
+    },
+    {
+      "x": 8,
+      "y": 3,
+      "z": -3,
+      "name": "Plant_Large_Lilypad_Half"
+    },
+    {
+      "x": 8,
+      "y": 2,
+      "z": -2,
+      "name": "Plant_Large_Lilypad"
+    },
+    {
+      "x": 8,
+      "y": 1,
+      "z": -1,
+      "name": "Wood_Banyan_Trunk_Half",
+      "rotation": 8
+    },
+    {
+      "x": 8,
+      "y": 2,
+      "z": -1,
+      "name": "Plant_Large_Lilypad"
+    },
+    {
+      "x": 8,
+      "y": 2,
+      "z": 0,
+      "name": "Plant_Large_Lilypad"
+    },
+    {
+      "x": 8,
+      "y": 2,
+      "z": 1,
+      "name": "Plant_Large_Lilypad"
+    },
+    {
+      "x": 8,
+      "y": 2,
+      "z": 2,
+      "name": "Plant_Large_Lilypad"
+    },
+    {
+      "x": 8,
+      "y": 2,
+      "z": 3,
+      "name": "Plant_Large_Lilypad"
+    },
+    {
+      "x": 8,
+      "y": 3,
+      "z": 3,
+      "name": "Plant_Large_Lilypad_Half"
+    },
+    {
+      "x": 8,
+      "y": 2,
+      "z": 4,
+      "name": "Plant_Large_Lilypad"
+    },
+    {
+      "x": 8,
+      "y": 3,
+      "z": 4,
+      "name": "Plant_Large_Lilypad_Half"
+    },
+    {
+      "x": 9,
+      "y": 2,
+      "z": -2,
+      "name": "Plant_Large_Lilypad"
+    },
+    {
+      "x": 9,
+      "y": 3,
+      "z": -2,
+      "name": "Plant_Large_Lilypad_Half"
+    },
+    {
+      "x": 9,
+      "y": 2,
+      "z": -1,
+      "name": "Plant_Large_Lilypad"
+    },
+    {
+      "x": 9,
+      "y": 3,
+      "z": -1,
+      "name": "Plant_Large_Lilypad_Half"
+    },
+    {
+      "x": 9,
+      "y": 2,
+      "z": 0,
+      "name": "Plant_Large_Lilypad"
+    },
+    {
+      "x": 9,
+      "y": 3,
+      "z": 0,
+      "name": "Plant_Large_Lilypad_Half"
+    },
+    {
+      "x": 9,
+      "y": 2,
+      "z": 1,
+      "name": "Plant_Large_Lilypad"
+    },
+    {
+      "x": 9,
+      "y": 3,
+      "z": 1,
+      "name": "Plant_Large_Lilypad_Half"
+    },
+    {
+      "x": 9,
+      "y": 2,
+      "z": 2,
+      "name": "Plant_Large_Lilypad"
+    },
+    {
+      "x": 9,
+      "y": 3,
+      "z": 2,
+      "name": "Plant_Large_Lilypad_Half"
+    }
+  ]
+}

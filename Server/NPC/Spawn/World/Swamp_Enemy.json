@@ -1,0 +1,33 @@
+{
+  "NPCs": [
+    {
+      "Id": "Toad_Rhino",
+      "Weight": 3,
+      "Flock": "One_Or_Two"
+    },
+    {
+      "Id": "Crocodile",
+      "Weight": 3,
+      "Flock": "One_Or_Two",
+      "SpawnFluidTag": "Water"
+    },
+    {
+      "Id": "Skeleton_Archer",
+      "Weight": 1,
+      "Flock": "Group_Tiny"
+    },
+    {
+      "Id": "Skeleton_Fighter",
+      "Weight": 1,
+      "Flock": "Group_Tiny"
+    },
+    {
+      "Id": "Skeleton_Scout",
+      "Weight": 1,
+      "Flock": "Group_Tiny"
+    }
+  ],
+  "Environments": [
+    "Env_Sky_Swamp"
+  ]
+}

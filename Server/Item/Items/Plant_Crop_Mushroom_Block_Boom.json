@@ -27,8 +27,8 @@
     "ParticleColor": "#ffba34",
     "BlockSoundSetId": "Mushroom",
     "Light": {
-      "Radius": 10,
-      "Color": "#eb4"
+      "Radius": 2,
+      "Color": "#fb0"
     },
     "Opacity": "Transparent",
     "MovementSettings": {

@@ -1,0 +1,60 @@
+{
+  "NPCs": [
+    {
+      "Id": "Bluebird",
+      "Weight": 3,
+      "Flock": "Group_Tiny"
+    },
+    {
+      "Id": "Woodpecker",
+      "Weight": 3,
+      "Flock": "Group_Tiny"
+    },
+    {
+      "Id": "Finch_Green",
+      "Weight": 3,
+      "Flock": "Group_Tiny"
+    },
+    {
+      "Id": "Sparrow",
+      "Weight": 3,
+      "Flock": "Group_Tiny"
+    },
+    {
+      "Id": "Hawk",
+      "Weight": 3,
+      "Flock": "Group_Tiny"
+    },
+    {
+      "Id": "Skrill",
+      "Weight": 3,
+      "Flock": "Group_Tiny"
+    },
+    {
+      "Id": "Owl_Brown",
+      "Weight": 3,
+      "Flock": "Group_Tiny"
+    },
+    {
+      "Id": "Pike",
+      "Weight": 3,
+      "Flock": "Group_Tiny",
+      "SpawnFluidTag": "Water"
+    },
+    {
+      "Id": "Salmon",
+      "Weight": 3,
+      "Flock": "Group_Tiny",
+      "SpawnFluidTag": "Water"
+    },
+    {
+      "Id": "Trout_Rainbow",
+      "Weight": 3,
+      "Flock": "Group_Tiny",
+      "SpawnFluidTag": "Water"
+    }
+  ],
+  "Environments": [
+    "Env_Sky"
+  ]
+}
