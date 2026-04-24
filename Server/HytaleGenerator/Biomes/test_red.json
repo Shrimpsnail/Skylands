@@ -1,0 +1,221 @@
+{
+	"$NodeId":	"Biome-27480920-ec78-4ed2-b502-2431490b0cd2",
+	"Name":	"Skylands_Mountain",
+	"Terrain":	{
+		"$NodeId":	"Terrain-60ca9d1e-7f5c-4f86-8fe9-700e14ad7169",
+		"Type":	"DAOTerrain",
+		"Density":	{
+			"$NodeId":	"ConstantDensityNode-2edb28bc-cafe-4844-912a-84dc9a556a67",
+			"Type":	"Constant",
+			"Skip":	false,
+			"Value":	0
+		}
+	},
+	"MaterialProvider":	{
+		"$NodeId":	"QueueMaterialProvider-58e8f33c-c08f-4192-b492-af924a2b1816",
+		"Type":	"Queue",
+		"Queue":	[{
+				"$NodeId":	"SimpleHorizontalMaterialProvider-58ca8f3c-c62c-4b7b-877f-797b7682b675",
+				"Type":	"SimpleHorizontal",
+				"TopY":	0,
+				"TopBaseHeight":	"Base",
+				"BottomY":	0,
+				"BottomBaseHeight":	"Bedrock",
+				"Material":	{
+					"$NodeId":	"ConstantMaterialProvider-3911181b-254a-4294-86a1-c313b772eaa5",
+					"Type":	"Constant",
+					"Material":	{
+						"$NodeId":	"Material-24177a70-2e37-4fc7-b0d6-558fd9e8a8dc",
+						"Solid":	"Cloth_Block_Wool_Red",
+						"SolidBottomUp":	false
+					}
+				}
+			}, {
+				"$NodeId":	"ConstantMaterialProvider-ed156237-c2ee-4179-b41b-0ed886caad4c",
+				"Type":	"Constant",
+				"Material":	{
+					"$NodeId":	"Material-ea26cabd-08dc-4f49-b9a6-a6f0392cf25e",
+					"Solid":	"Empty",
+					"SolidBottomUp":	false
+				}
+			}]
+	},
+	"Props":	[],
+	"$NodeEditorMetadata":	{
+		"$Nodes":	{
+			"Biome-27480920-ec78-4ed2-b502-2431490b0cd2":	{
+				"$Position":	{
+					"$x":	-4336,
+					"$y":	-629
+				},
+				"$Title":	"[ROOT] Biome"
+			},
+			"Terrain-60ca9d1e-7f5c-4f86-8fe9-700e14ad7169":	{
+				"$Position":	{
+					"$x":	-3696,
+					"$y":	-870
+				}
+			},
+			"ConstantDensityNode-2edb28bc-cafe-4844-912a-84dc9a556a67":	{
+				"$Position":	{
+					"$x":	-3534,
+					"$y":	-901
+				}
+			},
+			"QueueMaterialProvider-58e8f33c-c08f-4192-b492-af924a2b1816":	{
+				"$Position":	{
+					"$x":	-3543,
+					"$y":	-619
+				}
+			},
+			"SimpleHorizontalMaterialProvider-58ca8f3c-c62c-4b7b-877f-797b7682b675":	{
+				"$Position":	{
+					"$x":	-2947,
+					"$y":	-613
+				}
+			},
+			"ConstantMaterialProvider-3911181b-254a-4294-86a1-c313b772eaa5":	{
+				"$Position":	{
+					"$x":	-2342,
+					"$y":	-614
+				}
+			},
+			"Material-24177a70-2e37-4fc7-b0d6-558fd9e8a8dc":	{
+				"$Position":	{
+					"$x":	-1728,
+					"$y":	-616
+				}
+			},
+			"ConstantMaterialProvider-ed156237-c2ee-4179-b41b-0ed886caad4c":	{
+				"$Position":	{
+					"$x":	-2946,
+					"$y":	-351
+				}
+			},
+			"Material-ea26cabd-08dc-4f49-b9a6-a6f0392cf25e":	{
+				"$Position":	{
+					"$x":	-2335,
+					"$y":	-352
+				}
+			}
+		},
+		"$FloatingNodes":	[],
+		"$Links":	{
+		},
+		"$Groups":	[{
+				"$Position":	{
+					"$x":	-4550.4375,
+					"$y":	-11294.8125
+				},
+				"$width":	715.8125,
+				"$height":	1225.5625,
+				"$name":	"Sky - Range"
+			}, {
+				"$Position":	{
+					"$x":	1201.6875,
+					"$y":	-10271.1875
+				},
+				"$width":	2645.5,
+				"$height":	1169.9375,
+				"$name":	"Hills High"
+			}, {
+				"$Position":	{
+					"$x":	1165.0625,
+					"$y":	-9071.875
+				},
+				"$width":	2548.125,
+				"$height":	1246.9375,
+				"$name":	"Hills Low"
+			}, {
+				"$Position":	{
+					"$x":	-1183.5625,
+					"$y":	-6623.9375
+				},
+				"$width":	731.0625,
+				"$height":	1114.5,
+				"$name":	"Hills / Mountains"
+			}, {
+				"$Position":	{
+					"$x":	-8733.3125,
+					"$y":	-11190
+				},
+				"$width":	3648.5625,
+				"$height":	1293.5625,
+				"$name":	"Carver - Terrain 2d"
+			}, {
+				"$Position":	{
+					"$x":	40.4375,
+					"$y":	-11791.6875
+				},
+				"$width":	4376.1875,
+				"$height":	980.9375,
+				"$name":	"Carver - Terrain 3D"
+			}, {
+				"$Position":	{
+					"$x":	-1280.875,
+					"$y":	-11720.375
+				},
+				"$width":	723.875,
+				"$height":	1460.5,
+				"$name":	"Carver - Range"
+			}, {
+				"$Position":	{
+					"$x":	5269.6875,
+					"$y":	-12014.4375
+				},
+				"$width":	100,
+				"$height":	1640.5,
+				"$name":	"Surface - Terrain"
+			}, {
+				"$Position":	{
+					"$x":	13951.25,
+					"$y":	-11770.875
+				},
+				"$width":	3863.9375,
+				"$height":	4787.1875,
+				"$name":	"Group Title"
+			}, {
+				"$Position":	{
+					"$x":	15603.5625,
+					"$y":	-11556.8125
+				},
+				"$width":	4266.9375,
+				"$height":	1180.1875,
+				"$name":	"Terrain - Walls"
+			}, {
+				"$Position":	{
+					"$x":	14882.625,
+					"$y":	-11488.8125
+				},
+				"$width":	685.75,
+				"$height":	1108.125,
+				"$name":	"Range - Walls"
+			}, {
+				"$Position":	{
+					"$x":	14866.5625,
+					"$y":	-10292.9375
+				},
+				"$width":	685.75,
+				"$height":	1091.25,
+				"$name":	"Range - Trap"
+			}, {
+				"$Position":	{
+					"$x":	14926.8125,
+					"$y":	-8495.9375
+				},
+				"$width":	685.75,
+				"$height":	1091.25,
+				"$name":	"Range - Pillars"
+			}, {
+				"$Position":	{
+					"$x":	15565.4375,
+					"$y":	-10278.8125
+				},
+				"$width":	4281.375,
+				"$height":	1023.4375,
+				"$name":	"Terrain - Trap"
+			}],
+		"$Comments":	[],
+		"$WorkspaceID":	"HytaleGenerator - Biome"
+	}
+}

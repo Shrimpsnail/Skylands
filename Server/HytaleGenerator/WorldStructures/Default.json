@@ -2,32 +2,17 @@
   "Type": "NoiseRange",
   "Biomess": [
     {
-      "Biome": "Biome_2",
-      "Min": 2,
-      "Max": 3
+      "Biome": "Sky_Hills",
+      "Min": -2,
+      "Max": 0.2
     },
     {
-      "Biome": "skylands_hills",
-      "Min": 1,
-      "Max": 2
-    },    
-    {
-      "Biome": "Biome_1",
-      "Min": 0,
-      "Max": 1
-    },    
-    {
-      "Biome": "Biome_3",
-      "Min": -1,
-      "Max": 0
-    },    
-    {
-      "Biome": "Biome_4",
-      "Min": -2,
-      "Max": -1
+      "Biome": "Sky_Default",
+      "Min": 0.2,
+      "Max": 3
     }
   ],
-  "DefaultBiome": "Sky_Forest",
+  "DefaultBiome": "Sky_Default",
   "DefaultTransitionDistance": 16,
   "MaxBiomeEdgeDistance" : 16,
   "Density": {

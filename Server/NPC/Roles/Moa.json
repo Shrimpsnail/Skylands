@@ -24,9 +24,10 @@
     "Attack": "Root_NPC_Attack_Melee",
     "ProduceItem": "Ingredient_Poop",
     "IsTameable": true,
+    "IsMountable": true,
     "TameRoleChange": "Tamed_Moa",
     "IsMemory": true,
-    "MemoriesNameOverride": "Moa",
+    "MemoriesNameOverride": "Horse",
     "NameTranslationKey": {
       "Compute": "NameTranslationKey"
     },
