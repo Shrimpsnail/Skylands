@@ -12,7 +12,7 @@
       "Max": 3
     }
   ],
-  "DefaultBiome": "Sky_Default",
+  "DefaultBiome": "Sky_Mountains_test",
   "DefaultTransitionDistance": 16,
   "MaxBiomeEdgeDistance" : 16,
   "Density": {

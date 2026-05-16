@@ -3,27 +3,32 @@
   "Biomes": [
     {
       "Biome": "Sky_Mountains",
-      "Min": 1.7,
-      "Max": 3
+      "Min": 3,
+      "Max": 6
     },
     {
       "Biome": "Sky_Hills",
+      "Min": 2,
+      "Max": 3
+    },    
+    {
+      "Biome": "Sky_Forest",
       "Min": 1,
-      "Max": 1.7
+      "Max": 2
     },    
     {
       "Biome": "Sky_Default",
       "Min": 0,
       "Max": 1
-    },    
+    },
     {
-      "Biome": "Sky_Forest",
+      "Biome": "Sky_Sparse",
       "Min": -1,
       "Max": 0
     },    
     {
       "Biome": "Sky_Bramble",
-      "Min": -2,
+      "Min": -4,
       "Max": -1
     }
   ],

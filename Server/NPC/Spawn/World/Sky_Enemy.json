@@ -43,6 +43,7 @@
     }
   ],
   "Environments": [
-    "Env_Sky"
+    "Env_Sky",
+    "Env_Sky_Bramble"
   ]
 }

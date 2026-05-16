@@ -1,6 +1,6 @@
 {
   "TranslationProperties": {
-    "Name": " Skylands Portal"
+    "Name": "Empyrean Isles Portal"
   },
   "Icon": "Icons/ItemsGenerated/Portal_Device.png",
   "Categories": [
@@ -48,8 +48,8 @@
         "Interactions": [
           {
             "Type": "HubPortal",
-            "WorldName": "Skylands_World",
-            "InstanceTemplate": "Skylands",
+            "WorldName": "Empyrean Isles",
+            "InstanceTemplate": "Empyrean-Isles",
             "Next": {
               "Type": "Simple",
               "Effects": {
@@ -86,12 +86,25 @@
   "Recipe": {
     "Input": [
       {
-        "ItemId": "Rock_Stone"
+        "ItemId": "Rock_Stone_Cobble",
+        "Quantity": 20
       }
     ],
-    "Output": [
+    "OutputQuantity": 1,
+    "BenchRequirement": [
       {
-        "ItemId": "Hub_Portal_Skylands"
+        "Type": "Crafting",
+        "Categories": [
+          "Tools"
+        ],
+        "Id": "Fieldcraft"
+      },
+      {
+        "Id": "Workbench",
+        "Type": "Crafting",
+        "Categories": [
+          "Workbench_Survival"
+        ]
       }
     ]
   }

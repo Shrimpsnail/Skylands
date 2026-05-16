@@ -5,79 +5,98 @@
 	"SingleInstance":	false,
 	"Skip":	false,
 	"Inputs":	[{
-			"$NodeId":	"Mix.Density-cfc5145a-349b-461e-acb1-1930c812de6a",
-			"Type":	"Mix",
+			"$NodeId":	"SumDensityNode-f84047df-f0bb-4187-ab39-31b64470c9ca",
+			"Type":	"Sum",
 			"Skip":	false,
 			"Inputs":	[{
-					"$NodeId":	"Mix.Density-f5d1ba9e-4de5-46cc-8067-78cefda560a4",
-					"Type":	"Mix",
-					"Skip":	false,
-					"Inputs":	[{
-							"$NodeId":	"ConstantDensityNode-7b3e3a73-73dd-4035-8341-dd2bfb918316",
-							"Type":	"Constant",
-							"Skip":	false,
-							"Value":	-3
-						}, {
-							"$NodeId":	"SimplexNoise2DDensityNode-2b82777a-3184-4461-b885-065724519c20",
-							"Type":	"SimplexNoise2D",
-							"Skip":	false,
-							"Lacunarity":	2,
-							"Persistence":	0.5,
-							"Octaves":	6,
-							"Scale":	1000,
-							"Seed":	"World"
-						}, {
-							"$NodeId":	"NormalizerDensityNode-9dde7f79-eb11-4682-825f-2909aa19eddf",
-							"Type":	"Normalizer",
-							"Skip":	false,
-							"FromMin":	-0.7,
-							"FromMax":	-0.7,
-							"ToMin":	-1,
-							"ToMax":	1,
-							"Inputs":	[{
-									"$NodeId":	"ImportedDensityNode-e1cba3f8-e325-4000-82fb-3368a068af5d",
-									"Type":	"Imported",
-									"Skip":	false,
-									"Name":	"Skylands_Main"
-								}]
-						}]
-				}, {
-					"$NodeId":	"NormalizerDensityNode-24d8ba7e-6fec-4ac9-ab42-9d24bb7a27ee",
+					"$NodeId":	"NormalizerDensityNode-5715ea6d-3c84-4572-aecf-5f08d3747863",
 					"Type":	"Normalizer",
 					"Skip":	false,
 					"FromMin":	-1,
 					"FromMax":	1,
-					"ToMin":	-1,
-					"ToMax":	3,
+					"ToMin":	-0.2,
+					"ToMax":	0.2,
 					"Inputs":	[{
-							"$NodeId":	"ImportedDensityNode-05b317c8-b1cd-41eb-9fa3-1ce904047c47",
-							"Type":	"Imported",
+							"$NodeId":	"SimplexNoise2DDensityNode-46b2d585-0fb7-45e8-a355-740a6c9b46f4",
+							"Type":	"SimplexNoise2D",
 							"Skip":	false,
-							"Name":	"Skylands_Main"
+							"Lacunarity":	2,
+							"Persistence":	0.5,
+							"Octaves":	2,
+							"Scale":	100,
+							"Seed":	"A"
 						}]
 				}, {
-					"$NodeId":	"NormalizerDensityNode-edce8c5f-08a4-489e-b6dd-185bd24a2cfe",
-					"Type":	"Normalizer",
+					"$NodeId":	"ClampDensityNode-49978224-f5fc-49b7-9858-64240fb5a53f",
+					"Type":	"Clamp",
 					"Skip":	false,
-					"FromMin":	0.33,
-					"FromMax":	0.33,
-					"ToMin":	-1,
-					"ToMax":	1,
+					"WallA":	-0.5,
+					"WallB":	0.5,
 					"Inputs":	[{
-							"$NodeId":	"Exported.Density-6ecff586-4fdf-434e-916d-7f08e191a05e",
-							"Type":	"Exported",
-							"ExportAs":	"Skylands_Main",
-							"SingleInstance":	false,
+							"$NodeId":	"NormalizerDensityNode-18c4c43e-90f3-43fa-a51d-288e0bab4e36",
+							"Type":	"Normalizer",
 							"Skip":	false,
+							"FromMin":	0,
+							"FromMax":	0,
+							"ToMin":	-1,
+							"ToMax":	1,
 							"Inputs":	[{
-									"$NodeId":	"SimplexNoise2DDensityNode-055846f6-42db-4529-a4ab-1c0f7cfd7cf0",
+									"$NodeId":	"SimplexNoise2DDensityNode-6d8a9260-36ab-4ca1-9e58-f31baa1c42df",
 									"Type":	"SimplexNoise2D",
 									"Skip":	false,
 									"Lacunarity":	2,
 									"Persistence":	0.5,
-									"Octaves":	7,
-									"Scale":	2000,
-									"Seed":	"World"
+									"Octaves":	6,
+									"Scale":	2500,
+									"Seed":	"World_Random"
+								}]
+						}]
+				}, {
+					"$NodeId":	"NormalizerDensityNode-186cc433-ea9a-42a9-b745-8650c006e979",
+					"Type":	"Normalizer",
+					"Skip":	false,
+					"FromMin":	-1,
+					"FromMax":	1,
+					"ToMin":	-0.5,
+					"ToMax":	2,
+					"Inputs":	[{
+							"$NodeId":	"SimplexNoise2DDensityNode-df064c4f-9493-47c4-b9ee-a2ee2433d8f2",
+							"Type":	"SimplexNoise2D",
+							"Skip":	false,
+							"Lacunarity":	2,
+							"Persistence":	0.5,
+							"Octaves":	4,
+							"Scale":	2500,
+							"Seed":	"World_Random2"
+						}]
+				}, {
+					"$NodeId":	"NormalizerDensityNode-bcc4da9a-8346-43e9-869e-43a1baa38d02",
+					"Type":	"Normalizer",
+					"Skip":	false,
+					"FromMin":	0,
+					"FromMax":	1,
+					"ToMin":	-1,
+					"ToMax":	4,
+					"Inputs":	[{
+							"$NodeId":	"Exported.Density-6ecff586-4fdf-434e-916d-7f08e191a05e",
+							"Type":	"Exported",
+							"ExportAs":	"Skylands_Erosion",
+							"SingleInstance":	true,
+							"Skip":	false,
+							"Inputs":	[{
+									"$NodeId":	"AbsDensityNode-ebd002d1-262e-47ca-aeaa-f14ac5ebc3a5",
+									"Type":	"Abs",
+									"Skip":	false,
+									"Inputs":	[{
+											"$NodeId":	"SimplexNoise2DDensityNode-055846f6-42db-4529-a4ab-1c0f7cfd7cf0",
+											"Type":	"SimplexNoise2D",
+											"Skip":	false,
+											"Lacunarity":	2,
+											"Persistence":	0.5,
+											"Octaves":	1,
+											"Scale":	7500,
+											"Seed":	"World"
+										}]
 								}]
 						}]
 				}]
@@ -86,79 +105,278 @@
 		"$Nodes":	{
 			"Exported.Density-433fa72a-27d5-400c-8bcd-467873a8bc0d":	{
 				"$Position":	{
-					"$x":	-1689,
-					"$y":	1742
+					"$x":	-1732,
+					"$y":	1268
 				},
 				"$Title":	"[ROOT] [EXPERIMENTAL] Exported Density"
 			},
-			"Mix.Density-cfc5145a-349b-461e-acb1-1930c812de6a":	{
+			"SumDensityNode-f84047df-f0bb-4187-ab39-31b64470c9ca":	{
 				"$Position":	{
-					"$x":	-1018,
-					"$y":	1737
+					"$x":	-1028,
+					"$y":	1266
 				}
 			},
-			"Mix.Density-f5d1ba9e-4de5-46cc-8067-78cefda560a4":	{
+			"NormalizerDensityNode-5715ea6d-3c84-4572-aecf-5f08d3747863":	{
 				"$Position":	{
-					"$x":	888,
-					"$y":	1741
+					"$x":	-334,
+					"$y":	612
 				}
 			},
-			"ConstantDensityNode-7b3e3a73-73dd-4035-8341-dd2bfb918316":	{
+			"SimplexNoise2DDensityNode-46b2d585-0fb7-45e8-a355-740a6c9b46f4":	{
 				"$Position":	{
-					"$x":	1503,
-					"$y":	1555
+					"$x":	262,
+					"$y":	621
 				}
 			},
-			"SimplexNoise2DDensityNode-2b82777a-3184-4461-b885-065724519c20":	{
+			"ClampDensityNode-49978224-f5fc-49b7-9858-64240fb5a53f":	{
 				"$Position":	{
-					"$x":	1507,
-					"$y":	1748
+					"$x":	-337,
+					"$y":	941
 				}
 			},
-			"NormalizerDensityNode-9dde7f79-eb11-4682-825f-2909aa19eddf":	{
+			"NormalizerDensityNode-18c4c43e-90f3-43fa-a51d-288e0bab4e36":	{
 				"$Position":	{
-					"$x":	1495,
-					"$y":	2080
+					"$x":	265,
+					"$y":	946
 				}
 			},
-			"ImportedDensityNode-e1cba3f8-e325-4000-82fb-3368a068af5d":	{
+			"SimplexNoise2DDensityNode-6d8a9260-36ab-4ca1-9e58-f31baa1c42df":	{
 				"$Position":	{
-					"$x":	2094,
-					"$y":	2079
+					"$x":	871,
+					"$y":	946
 				}
 			},
-			"NormalizerDensityNode-24d8ba7e-6fec-4ac9-ab42-9d24bb7a27ee":	{
+			"NormalizerDensityNode-186cc433-ea9a-42a9-b745-8650c006e979":	{
 				"$Position":	{
-					"$x":	-344,
-					"$y":	1881
+					"$x":	-356,
+					"$y":	1270
 				}
 			},
-			"ImportedDensityNode-05b317c8-b1cd-41eb-9fa3-1ce904047c47":	{
+			"SimplexNoise2DDensityNode-df064c4f-9493-47c4-b9ee-a2ee2433d8f2":	{
 				"$Position":	{
-					"$x":	259,
-					"$y":	1892
+					"$x":	243,
+					"$y":	1272
 				}
 			},
-			"NormalizerDensityNode-edce8c5f-08a4-489e-b6dd-185bd24a2cfe":	{
+			"NormalizerDensityNode-bcc4da9a-8346-43e9-869e-43a1baa38d02":	{
 				"$Position":	{
-					"$x":	-348,
-					"$y":	2194
+					"$x":	-347,
+					"$y":	1600
 				}
 			},
 			"Exported.Density-6ecff586-4fdf-434e-916d-7f08e191a05e":	{
 				"$Position":	{
-					"$x":	266,
-					"$y":	2183
+					"$x":	268,
+					"$y":	1607
+				}
+			},
+			"AbsDensityNode-ebd002d1-262e-47ca-aeaa-f14ac5ebc3a5":	{
+				"$Position":	{
+					"$x":	327,
+					"$y":	1778
 				}
 			},
 			"SimplexNoise2DDensityNode-055846f6-42db-4529-a4ab-1c0f7cfd7cf0":	{
 				"$Position":	{
-					"$x":	917,
-					"$y":	2181
+					"$x":	945,
+					"$y":	1616
+				}
+			},
+			"Mix.Density-cfc5145a-349b-461e-acb1-1930c812de6a":	{
+				"$Position":	{
+					"$x":	825,
+					"$y":	3584
+				}
+			},
+			"Mix.Density-f5d1ba9e-4de5-46cc-8067-78cefda560a4":	{
+				"$Position":	{
+					"$x":	1084,
+					"$y":	3287
+				}
+			},
+			"ConstantDensityNode-7b3e3a73-73dd-4035-8341-dd2bfb918316":	{
+				"$Position":	{
+					"$x":	1677,
+					"$y":	3129
+				}
+			},
+			"NormalizerDensityNode-795ae4e7-f496-4dd6-b795-7ecccac9fa7c":	{
+				"$Position":	{
+					"$x":	1787,
+					"$y":	3303
+				}
+			},
+			"SimplexNoise2DDensityNode-2b82777a-3184-4461-b885-065724519c20":	{
+				"$Position":	{
+					"$x":	2382,
+					"$y":	3300
+				}
+			},
+			"NormalizerDensityNode-9dde7f79-eb11-4682-825f-2909aa19eddf":	{
+				"$Position":	{
+					"$x":	1784,
+					"$y":	3620
+				}
+			},
+			"ImportedDensityNode-e1cba3f8-e325-4000-82fb-3368a068af5d":	{
+				"$Position":	{
+					"$x":	2383,
+					"$y":	3619
+				}
+			},
+			"MultiMix.Density-de1c259e-8d41-4672-b010-835e4e2ad62c":	{
+				"$Position":	{
+					"$x":	-1141,
+					"$y":	3698
+				}
+			},
+			"ConstantDensityNode-0bca32eb-5993-4f2b-89c4-1e8403dc62c3":	{
+				"$Position":	{
+					"$x":	-317,
+					"$y":	3187
+				}
+			},
+			"ConstantDensityNode-03d34ee5-36ba-45ed-8089-45a123131470":	{
+				"$Position":	{
+					"$x":	-317,
+					"$y":	3388
+				}
+			},
+			"NormalizerDensityNode-24d8ba7e-6fec-4ac9-ab42-9d24bb7a27ee":	{
+				"$Position":	{
+					"$x":	-311,
+					"$y":	3779
+				}
+			},
+			"ImportedDensityNode-05b317c8-b1cd-41eb-9fa3-1ce904047c47":	{
+				"$Position":	{
+					"$x":	291,
+					"$y":	3790
+				}
+			},
+			"NormalizerDensityNode-edce8c5f-08a4-489e-b6dd-185bd24a2cfe":	{
+				"$Position":	{
+					"$x":	-539,
+					"$y":	4330
+				}
+			},
+			"Key.MultiMix.Density-7251d8d4-3484-447d-9639-517991135698":	{
+				"$Position":	{
+					"$x":	-1137,
+					"$y":	3835
+				}
+			},
+			"Key.MultiMix.Density-f8049df5-537d-402b-8a6a-c43eb120089b":	{
+				"$Position":	{
+					"$x":	-1138,
+					"$y":	3977
+				}
+			},
+			"Key.MultiMix.Density-1610e64f-496b-4e74-9d51-e4cb1631a8b7":	{
+				"$Position":	{
+					"$x":	-1138,
+					"$y":	4119
 				}
 			}
 		},
-		"$FloatingNodes":	[],
+		"$FloatingNodes":	[{
+				"$NodeId":	"Mix.Density-cfc5145a-349b-461e-acb1-1930c812de6a",
+				"Type":	"Mix",
+				"Skip":	false,
+				"Inputs":	[]
+			}, {
+				"$NodeId":	"Mix.Density-f5d1ba9e-4de5-46cc-8067-78cefda560a4",
+				"Type":	"Mix",
+				"Skip":	false,
+				"Inputs":	[{
+						"$NodeId":	"ConstantDensityNode-7b3e3a73-73dd-4035-8341-dd2bfb918316",
+						"Type":	"Constant",
+						"Skip":	false,
+						"Value":	-2
+					}, {
+						"$NodeId":	"NormalizerDensityNode-795ae4e7-f496-4dd6-b795-7ecccac9fa7c",
+						"Type":	"Normalizer",
+						"Skip":	false,
+						"FromMin":	-1,
+						"FromMax":	1,
+						"ToMin":	-0.5,
+						"ToMax":	1,
+						"Inputs":	[{
+								"$NodeId":	"SimplexNoise2DDensityNode-2b82777a-3184-4461-b885-065724519c20",
+								"Type":	"SimplexNoise2D",
+								"Skip":	false,
+								"Lacunarity":	2,
+								"Persistence":	0.5,
+								"Octaves":	4,
+								"Scale":	100,
+								"Seed":	"World"
+							}]
+					}, {
+						"$NodeId":	"NormalizerDensityNode-9dde7f79-eb11-4682-825f-2909aa19eddf",
+						"Type":	"Normalizer",
+						"Skip":	false,
+						"FromMin":	-0.5,
+						"FromMax":	-0.5,
+						"ToMin":	-1,
+						"ToMax":	1,
+						"Inputs":	[{
+								"$NodeId":	"ImportedDensityNode-e1cba3f8-e325-4000-82fb-3368a068af5d",
+								"Type":	"Imported",
+								"Skip":	false,
+								"Name":	"Skylands_Erosion"
+							}]
+					}]
+			}, {
+				"$NodeId":	"MultiMix.Density-de1c259e-8d41-4672-b010-835e4e2ad62c",
+				"Type":	"MultiMix",
+				"Inputs":	[{
+						"$NodeId":	"ConstantDensityNode-0bca32eb-5993-4f2b-89c4-1e8403dc62c3",
+						"Type":	"Constant",
+						"Skip":	false,
+						"Value":	1
+					}, {
+						"$NodeId":	"ConstantDensityNode-03d34ee5-36ba-45ed-8089-45a123131470",
+						"Type":	"Constant",
+						"Skip":	false,
+						"Value":	0
+					}, {
+						"$NodeId":	"NormalizerDensityNode-24d8ba7e-6fec-4ac9-ab42-9d24bb7a27ee",
+						"Type":	"Normalizer",
+						"Skip":	false,
+						"FromMin":	-1,
+						"FromMax":	1,
+						"ToMin":	-1.5,
+						"ToMax":	3,
+						"Inputs":	[{
+								"$NodeId":	"ImportedDensityNode-05b317c8-b1cd-41eb-9fa3-1ce904047c47",
+								"Type":	"Imported",
+								"Skip":	false,
+								"Name":	"Skylands_Erosion"
+							}]
+					}, {
+						"$NodeId":	"NormalizerDensityNode-edce8c5f-08a4-489e-b6dd-185bd24a2cfe",
+						"Type":	"Normalizer",
+						"Skip":	false,
+						"FromMin":	0.2,
+						"FromMax":	0.8,
+						"ToMin":	0,
+						"ToMax":	2,
+						"Inputs":	[]
+					}],
+				"Keys":	[{
+						"$NodeId":	"Key.MultiMix.Density-7251d8d4-3484-447d-9639-517991135698",
+						"Value":	0,
+						"DensityIndex":	0
+					}, {
+						"$NodeId":	"Key.MultiMix.Density-f8049df5-537d-402b-8a6a-c43eb120089b",
+						"Value":	1,
+						"DensityIndex":	1
+					}, {
+						"$NodeId":	"Key.MultiMix.Density-1610e64f-496b-4e74-9d51-e4cb1631a8b7",
+						"Value":	2,
+						"DensityIndex":	2
+					}]
+			}],
 		"$Links":	{
 		},
 		"$Groups":	[],

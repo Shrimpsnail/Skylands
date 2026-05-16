@@ -1,6 +1,6 @@
 {
   "TranslationProperties": {
-    "Name": "server.items.Ore_Adamantite_Magma.name"
+    "Name": "server.items.Ore_Adamantite_Bramble.name"
   },
   "Categories": [
     "Blocks.Ores"
@@ -57,7 +57,7 @@
     "ParticleColor": "#b32716"
   },
   "PlayerAnimationsId": "Block",
-  "Icon": "Icons/ItemsGenerated/Ore_Adamantite_Magma.png",
+  "Icon": "Icons/ItemsGenerated/Ore_Adamantite_Slate.png",
   "Tags": {
     "Type": [
       "Ore"

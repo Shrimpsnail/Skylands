@@ -64,14 +64,6 @@
       "rotation": 4
     },
     {
-      "x": -4,
-      "y": 7,
-      "z": 5,
-      "name": "Wood_Birch_Branch_Long",
-      "support": 15,
-      "rotation": 4
-    },
-    {
       "x": -3,
       "y": 9,
       "z": -10,
@@ -655,29 +647,6 @@
       "y": 8,
       "z": 4,
       "name": "Wood_Birch_Trunk_Full",
-      "support": 15,
-      "rotation": 4
-    },
-    {
-      "x": 0,
-      "y": 8,
-      "z": 5,
-      "name": "Wood_Birch_Branch_Corner",
-      "support": 15
-    },
-    {
-      "x": 0,
-      "y": 9,
-      "z": 5,
-      "name": "Wood_Birch_Branch_Corner",
-      "support": 15,
-      "rotation": 8
-    },
-    {
-      "x": 0,
-      "y": 9,
-      "z": 6,
-      "name": "Wood_Birch_Branch_Long",
       "support": 15,
       "rotation": 4
     },

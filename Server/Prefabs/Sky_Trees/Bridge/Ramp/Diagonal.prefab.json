@@ -779,6 +779,13 @@
       "support": 15
     },
     {
+      "x": -1,
+      "y": 15,
+      "z": 8,
+      "name": "Plant_Leaves_Aspen",
+      "support": 15
+    },
+    {
       "x": 0,
       "y": 13,
       "z": -6,
@@ -1150,20 +1157,6 @@
       "support": 15
     },
     {
-      "x": 1,
-      "y": 15,
-      "z": 9,
-      "name": "Plant_Leaves_Aspen",
-      "support": 15
-    },
-    {
-      "x": 1,
-      "y": 15,
-      "z": 10,
-      "name": "Plant_Leaves_Aspen",
-      "support": 15
-    },
-    {
       "x": 2,
       "y": 13,
       "z": -7,
@@ -1355,20 +1348,6 @@
       "support": 15
     },
     {
-      "x": 2,
-      "y": 15,
-      "z": 8,
-      "name": "Plant_Leaves_Aspen",
-      "support": 15
-    },
-    {
-      "x": 2,
-      "y": 15,
-      "z": 9,
-      "name": "Plant_Leaves_Aspen",
-      "support": 15
-    },
-    {
       "x": 3,
       "y": 13,
       "z": -7,
@@ -1476,13 +1455,6 @@
       "z": 2,
       "name": "Wood_Birch_Trunk_Stairs",
       "rotation": 3
-    },
-    {
-      "x": 3,
-      "y": 15,
-      "z": 8,
-      "name": "Plant_Leaves_Aspen",
-      "support": 15
     },
     {
       "x": 4,
@@ -1915,45 +1887,6 @@
       "z": 8,
       "name": "Wood_Birch_Trunk_Full",
       "support": 15
-    },
-    {
-      "x": 9,
-      "y": 16,
-      "z": 2,
-      "name": "Wood_Birch_Branch_Corner",
-      "support": 15,
-      "rotation": 1
-    },
-    {
-      "x": 9,
-      "y": 17,
-      "z": 2,
-      "name": "Wood_Birch_Branch_Corner",
-      "support": 15,
-      "rotation": 8
-    },
-    {
-      "x": 9,
-      "y": 17,
-      "z": 3,
-      "name": "Wood_Birch_Branch_Corner",
-      "support": 15
-    },
-    {
-      "x": 9,
-      "y": 18,
-      "z": 3,
-      "name": "Wood_Birch_Branch_Corner",
-      "support": 15,
-      "rotation": 9
-    },
-    {
-      "x": 10,
-      "y": 18,
-      "z": 3,
-      "name": "Wood_Birch_Branch_Corner",
-      "support": 15,
-      "rotation": 11
     }
   ]
 }

@@ -2,7 +2,7 @@
   "TranslationProperties": {
     "Name": "server.items.Ore_Gold_Clay_Pink.name"
   },
-  "Icon": "Icons/ItemsGenerated/Ore_Gold_Clay_Red.png",
+  "Icon": "Icons/ItemsGenerated/Ore_Gold_Clay_Pink.png",
   "Categories": [
     "Blocks.Ores"
   ],

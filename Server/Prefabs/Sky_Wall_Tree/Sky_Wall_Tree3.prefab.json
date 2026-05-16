@@ -196,20 +196,6 @@
     },
     {
       "x": -3,
-      "y": 6,
-      "z": -11,
-      "name": "Plant_Leaves_Aspen",
-      "rotation": 1
-    },
-    {
-      "x": -3,
-      "y": 6,
-      "z": -10,
-      "name": "Plant_Leaves_Aspen",
-      "rotation": 1
-    },
-    {
-      "x": -3,
       "y": 10,
       "z": -9,
       "name": "Plant_Leaves_Aspen",
@@ -417,55 +403,6 @@
       "z": 9,
       "name": "Wood_Birch_Branch_Long",
       "rotation": 6
-    },
-    {
-      "x": -3,
-      "y": 4,
-      "z": 10,
-      "name": "Wood_Birch_Branch_Long",
-      "rotation": 6
-    },
-    {
-      "x": -3,
-      "y": 4,
-      "z": 11,
-      "name": "Wood_Birch_Branch_Long",
-      "rotation": 6
-    },
-    {
-      "x": -2,
-      "y": 6,
-      "z": -12,
-      "name": "Plant_Leaves_Aspen",
-      "rotation": 1
-    },
-    {
-      "x": -2,
-      "y": 5,
-      "z": -11,
-      "name": "Wood_Birch_Branch_Corner",
-      "rotation": 2
-    },
-    {
-      "x": -2,
-      "y": 6,
-      "z": -11,
-      "name": "Plant_Leaves_Aspen",
-      "rotation": 1
-    },
-    {
-      "x": -2,
-      "y": 5,
-      "z": -10,
-      "name": "Wood_Birch_Branch_Long",
-      "rotation": 6
-    },
-    {
-      "x": -2,
-      "y": 6,
-      "z": -10,
-      "name": "Plant_Leaves_Aspen",
-      "rotation": 1
     },
     {
       "x": -2,
@@ -882,82 +819,6 @@
       "rotation": 1
     },
     {
-      "x": -2,
-      "y": 7,
-      "z": 10,
-      "name": "Wood_Birch_Trunk_Full",
-      "rotation": 6
-    },
-    {
-      "x": -2,
-      "y": 7,
-      "z": 11,
-      "name": "Wood_Birch_Trunk_Full",
-      "rotation": 6
-    },
-    {
-      "x": -2,
-      "y": 5,
-      "z": 12,
-      "name": "Wood_Birch_Branch_Corner",
-      "rotation": 2
-    },
-    {
-      "x": -2,
-      "y": 6,
-      "z": 12,
-      "name": "Wood_Birch_Trunk_Full",
-      "rotation": 1
-    },
-    {
-      "x": -2,
-      "y": 7,
-      "z": 12,
-      "name": "Wood_Birch_Trunk_Full",
-      "rotation": 1
-    },
-    {
-      "x": -2,
-      "y": 5,
-      "z": 13,
-      "name": "Wood_Birch_Branch_Long",
-      "rotation": 6
-    },
-    {
-      "x": -2,
-      "y": 5,
-      "z": 14,
-      "name": "Wood_Birch_Branch_Long",
-      "rotation": 6
-    },
-    {
-      "x": -2,
-      "y": 5,
-      "z": 15,
-      "name": "Wood_Birch_Branch_Corner"
-    },
-    {
-      "x": -2,
-      "y": 6,
-      "z": 15,
-      "name": "Wood_Birch_Branch_Corner",
-      "rotation": 8
-    },
-    {
-      "x": -1,
-      "y": 6,
-      "z": -11,
-      "name": "Plant_Leaves_Aspen",
-      "rotation": 1
-    },
-    {
-      "x": -1,
-      "y": 6,
-      "z": -10,
-      "name": "Plant_Leaves_Aspen",
-      "rotation": 1
-    },
-    {
       "x": -1,
       "y": 10,
       "z": -9,
@@ -1235,27 +1096,6 @@
       "y": 4,
       "z": 9,
       "name": "Wood_Birch_Trunk_Full",
-      "rotation": 6
-    },
-    {
-      "x": 2,
-      "y": 4,
-      "z": 10,
-      "name": "Wood_Birch_Branch_Long",
-      "rotation": 6
-    },
-    {
-      "x": 2,
-      "y": 4,
-      "z": 11,
-      "name": "Wood_Birch_Branch_Long",
-      "rotation": 6
-    },
-    {
-      "x": 2,
-      "y": 4,
-      "z": 12,
-      "name": "Wood_Birch_Branch_Long",
       "rotation": 6
     }
   ]

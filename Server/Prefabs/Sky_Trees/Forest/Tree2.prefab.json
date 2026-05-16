@@ -6,158 +6,8 @@
   "anchorZ": 0,
   "blocks": [
     {
-      "x": -11,
-      "y": 18,
-      "z": -1,
-      "name": "Plant_Leaves_Aspen"
-    },
-    {
-      "x": -11,
-      "y": 18,
-      "z": 0,
-      "name": "Plant_Leaves_Aspen"
-    },
-    {
-      "x": -11,
-      "y": 18,
-      "z": 1,
-      "name": "Plant_Leaves_Aspen"
-    },
-    {
-      "x": -11,
-      "y": 18,
-      "z": 2,
-      "name": "Plant_Leaves_Aspen"
-    },
-    {
-      "x": -11,
-      "y": 18,
-      "z": 3,
-      "name": "Plant_Leaves_Aspen"
-    },
-    {
-      "x": -10,
-      "y": 18,
-      "z": -2,
-      "name": "Plant_Leaves_Aspen"
-    },
-    {
-      "x": -10,
-      "y": 18,
-      "z": -1,
-      "name": "Plant_Leaves_Aspen"
-    },
-    {
-      "x": -10,
-      "y": 18,
-      "z": 0,
-      "name": "Plant_Leaves_Aspen"
-    },
-    {
-      "x": -10,
-      "y": 18,
-      "z": 1,
-      "name": "Plant_Leaves_Aspen"
-    },
-    {
-      "x": -10,
-      "y": 18,
-      "z": 2,
-      "name": "Plant_Leaves_Aspen"
-    },
-    {
-      "x": -10,
-      "y": 18,
-      "z": 3,
-      "name": "Plant_Leaves_Aspen"
-    },
-    {
-      "x": -10,
-      "y": 18,
-      "z": 4,
-      "name": "Plant_Leaves_Aspen"
-    },
-    {
-      "x": -9,
-      "y": 18,
-      "z": -2,
-      "name": "Plant_Leaves_Aspen"
-    },
-    {
-      "x": -9,
-      "y": 19,
-      "z": -2,
-      "name": "Plant_Leaves_Aspen"
-    },
-    {
-      "x": -9,
-      "y": 18,
-      "z": -1,
-      "name": "Plant_Leaves_Aspen"
-    },
-    {
-      "x": -9,
-      "y": 18,
-      "z": 0,
-      "name": "Plant_Leaves_Aspen"
-    },
-    {
-      "x": -9,
-      "y": 18,
-      "z": 1,
-      "name": "Plant_Leaves_Aspen"
-    },
-    {
-      "x": -9,
-      "y": 19,
-      "z": 1,
-      "name": "Plant_Leaves_Aspen"
-    },
-    {
-      "x": -9,
-      "y": 18,
-      "z": 2,
-      "name": "Plant_Leaves_Aspen"
-    },
-    {
-      "x": -9,
-      "y": 18,
-      "z": 3,
-      "name": "Plant_Leaves_Aspen"
-    },
-    {
-      "x": -9,
-      "y": 18,
-      "z": 4,
-      "name": "Plant_Leaves_Aspen"
-    },
-    {
-      "x": -8,
-      "y": 19,
-      "z": -4,
-      "name": "Plant_Leaves_Aspen"
-    },
-    {
       "x": -8,
       "y": 18,
-      "z": -3,
-      "name": "Plant_Leaves_Aspen"
-    },
-    {
-      "x": -8,
-      "y": 19,
-      "z": -3,
-      "name": "Plant_Leaves_Aspen"
-    },
-    {
-      "x": -8,
-      "y": 18,
-      "z": -2,
-      "name": "Plant_Leaves_Aspen"
-    },
-    {
-      "x": -8,
-      "y": 19,
       "z": -2,
       "name": "Plant_Leaves_Aspen"
     },
@@ -169,94 +19,36 @@
     },
     {
       "x": -8,
-      "y": 19,
-      "z": -1,
-      "name": "Plant_Leaves_Aspen"
-    },
-    {
-      "x": -8,
       "y": 18,
       "z": 0,
       "name": "Plant_Leaves_Aspen"
     },
     {
       "x": -8,
-      "y": 19,
-      "z": 0,
-      "name": "Plant_Leaves_Aspen"
-    },
-    {
-      "x": -8,
-      "y": 16,
-      "z": 1,
-      "name": "Wood_Birch_Branch_Corner",
-      "rotation": 3
-    },
-    {
-      "x": -8,
-      "y": 17,
-      "z": 1,
-      "name": "Wood_Birch_Branch_Long"
-    },
-    {
-      "x": -8,
       "y": 18,
       "z": 1,
-      "name": "Wood_Birch_Branch_Long"
-    },
-    {
-      "x": -8,
-      "y": 19,
-      "z": 1,
-      "name": "Plant_Leaves_Aspen"
+      "name": "Plant_Leaves_Aspen",
+      "support": 15
     },
     {
       "x": -8,
       "y": 18,
       "z": 2,
-      "name": "Plant_Leaves_Aspen"
-    },
-    {
-      "x": -8,
-      "y": 19,
-      "z": 2,
-      "name": "Plant_Leaves_Aspen"
-    },
-    {
-      "x": -8,
-      "y": 18,
-      "z": 3,
-      "name": "Plant_Leaves_Aspen"
-    },
-    {
-      "x": -8,
-      "y": 18,
-      "z": 4,
-      "name": "Plant_Leaves_Aspen"
-    },
-    {
-      "x": -8,
-      "y": 18,
-      "z": 5,
       "name": "Plant_Leaves_Aspen"
     },
     {
       "x": -7,
-      "y": 19,
-      "z": -5,
-      "name": "Plant_Leaves_Aspen"
-    },
-    {
-      "x": -7,
-      "y": 19,
-      "z": -4,
-      "name": "Plant_Leaves_Aspen"
+      "y": 18,
+      "z": -3,
+      "name": "Plant_Leaves_Aspen",
+      "support": 15
     },
     {
       "x": -7,
       "y": 19,
       "z": -3,
-      "name": "Plant_Leaves_Aspen"
+      "name": "Plant_Leaves_Aspen",
+      "support": 15
     },
     {
       "x": -7,
@@ -268,7 +60,8 @@
       "x": -7,
       "y": 19,
       "z": -2,
-      "name": "Plant_Leaves_Aspen"
+      "name": "Plant_Leaves_Aspen",
+      "support": 15
     },
     {
       "x": -7,
@@ -302,6 +95,13 @@
     },
     {
       "x": -7,
+      "y": 16,
+      "z": 0,
+      "name": "Plant_Leaves_Aspen",
+      "support": 15
+    },
+    {
+      "x": -7,
       "y": 18,
       "z": 0,
       "name": "Plant_Leaves_Aspen"
@@ -322,15 +122,16 @@
       "x": -7,
       "y": 16,
       "z": 1,
-      "name": "Wood_Birch_Branch_Corner",
-      "rotation": 1
+      "name": "Plant_Leaves_Aspen",
+      "support": 15
     },
     {
       "x": -7,
       "y": 17,
       "z": 1,
       "name": "Wood_Birch_Branch_Corner",
-      "rotation": 9
+      "support": 15,
+      "rotation": 3
     },
     {
       "x": -7,
@@ -340,15 +141,16 @@
     },
     {
       "x": -7,
-      "y": 19,
+      "y": 24,
       "z": 1,
       "name": "Plant_Leaves_Aspen"
     },
     {
       "x": -7,
-      "y": 24,
-      "z": 1,
-      "name": "Plant_Leaves_Aspen"
+      "y": 16,
+      "z": 2,
+      "name": "Plant_Leaves_Aspen",
+      "support": 15
     },
     {
       "x": -7,
@@ -369,18 +171,6 @@
       "name": "Plant_Leaves_Aspen"
     },
     {
-      "x": -7,
-      "y": 18,
-      "z": 4,
-      "name": "Plant_Leaves_Aspen"
-    },
-    {
-      "x": -6,
-      "y": 19,
-      "z": -5,
-      "name": "Plant_Leaves_Aspen"
-    },
-    {
       "x": -6,
       "y": 19,
       "z": -4,
@@ -391,6 +181,13 @@
       "y": 24,
       "z": -4,
       "name": "Plant_Leaves_Aspen"
+    },
+    {
+      "x": -6,
+      "y": 18,
+      "z": -3,
+      "name": "Plant_Leaves_Aspen",
+      "support": 15
     },
     {
       "x": -6,
@@ -569,6 +366,13 @@
     },
     {
       "x": -6,
+      "y": 16,
+      "z": 2,
+      "name": "Plant_Leaves_Aspen",
+      "support": 15
+    },
+    {
+      "x": -6,
       "y": 18,
       "z": 2,
       "name": "Plant_Leaves_Aspen"
@@ -589,12 +393,6 @@
       "x": -6,
       "y": 24,
       "z": 3,
-      "name": "Plant_Leaves_Aspen"
-    },
-    {
-      "x": -6,
-      "y": 18,
-      "z": 4,
       "name": "Plant_Leaves_Aspen"
     },
     {
@@ -1387,6 +1185,13 @@
       "y": 25,
       "z": -1,
       "name": "Plant_Leaves_Aspen"
+    },
+    {
+      "x": -3,
+      "y": 15,
+      "z": 0,
+      "name": "Plant_Leaves_Aspen",
+      "support": 15
     },
     {
       "x": -3,
@@ -2843,12 +2648,6 @@
       "x": -1,
       "y": 24,
       "z": 6,
-      "name": "Plant_Leaves_Aspen"
-    },
-    {
-      "x": 0,
-      "y": 14,
-      "z": -7,
       "name": "Plant_Leaves_Aspen"
     },
     {
@@ -3468,12 +3267,6 @@
     {
       "x": 1,
       "y": 14,
-      "z": -8,
-      "name": "Plant_Leaves_Aspen"
-    },
-    {
-      "x": 1,
-      "y": 14,
       "z": -7,
       "name": "Plant_Leaves_Aspen"
     },
@@ -4052,12 +3845,6 @@
     },
     {
       "x": 1,
-      "y": 13,
-      "z": 3,
-      "name": "Plant_Leaves_Aspen"
-    },
-    {
-      "x": 1,
       "y": 20,
       "z": 3,
       "name": "Wood_Birch_Branch_Corner"
@@ -4126,12 +3913,6 @@
     {
       "x": 2,
       "y": 14,
-      "z": -9,
-      "name": "Plant_Leaves_Aspen"
-    },
-    {
-      "x": 2,
-      "y": 14,
       "z": -8,
       "name": "Plant_Leaves_Aspen"
     },
@@ -4152,6 +3933,13 @@
       "y": 14,
       "z": -5,
       "name": "Plant_Leaves_Aspen"
+    },
+    {
+      "x": 2,
+      "y": 15,
+      "z": -5,
+      "name": "Plant_Leaves_Aspen",
+      "support": 15
     },
     {
       "x": 2,
@@ -4177,6 +3965,13 @@
       "y": 14,
       "z": -4,
       "name": "Plant_Leaves_Aspen"
+    },
+    {
+      "x": 2,
+      "y": 15,
+      "z": -4,
+      "name": "Plant_Leaves_Aspen",
+      "support": 15
     },
     {
       "x": 2,
@@ -4428,12 +4223,6 @@
     },
     {
       "x": 2,
-      "y": 13,
-      "z": 2,
-      "name": "Plant_Leaves_Aspen"
-    },
-    {
-      "x": 2,
       "y": 22,
       "z": 2,
       "name": "Plant_Leaves_Aspen"
@@ -4515,12 +4304,6 @@
       "x": 2,
       "y": 24,
       "z": 5,
-      "name": "Plant_Leaves_Aspen"
-    },
-    {
-      "x": 3,
-      "y": 14,
-      "z": -9,
       "name": "Plant_Leaves_Aspen"
     },
     {
@@ -4622,6 +4405,13 @@
     },
     {
       "x": 3,
+      "y": 15,
+      "z": -3,
+      "name": "Plant_Leaves_Aspen",
+      "support": 15
+    },
+    {
+      "x": 3,
       "y": 22,
       "z": -3,
       "name": "Plant_Leaves_Aspen"
@@ -4654,12 +4444,6 @@
       "x": 3,
       "y": 24,
       "z": -2,
-      "name": "Plant_Leaves_Aspen"
-    },
-    {
-      "x": 3,
-      "y": 13,
-      "z": -1,
       "name": "Plant_Leaves_Aspen"
     },
     {
@@ -4689,12 +4473,6 @@
     {
       "x": 3,
       "y": 9,
-      "z": 0,
-      "name": "Plant_Leaves_Aspen"
-    },
-    {
-      "x": 3,
-      "y": 13,
       "z": 0,
       "name": "Plant_Leaves_Aspen"
     },
@@ -4731,12 +4509,6 @@
     },
     {
       "x": 3,
-      "y": 13,
-      "z": 1,
-      "name": "Plant_Leaves_Aspen"
-    },
-    {
-      "x": 3,
       "y": 22,
       "z": 1,
       "name": "Plant_Leaves_Aspen"
@@ -4756,12 +4528,6 @@
     {
       "x": 3,
       "y": 9,
-      "z": 2,
-      "name": "Plant_Leaves_Aspen"
-    },
-    {
-      "x": 3,
-      "y": 13,
       "z": 2,
       "name": "Plant_Leaves_Aspen"
     },
@@ -4843,18 +4609,6 @@
       "x": 3,
       "y": 22,
       "z": 6,
-      "name": "Plant_Leaves_Aspen"
-    },
-    {
-      "x": 4,
-      "y": 14,
-      "z": -9,
-      "name": "Plant_Leaves_Aspen"
-    },
-    {
-      "x": 4,
-      "y": 14,
-      "z": -8,
       "name": "Plant_Leaves_Aspen"
     },
     {
@@ -4964,6 +4718,13 @@
     },
     {
       "x": 4,
+      "y": 15,
+      "z": -3,
+      "name": "Plant_Leaves_Aspen",
+      "support": 15
+    },
+    {
+      "x": 4,
       "y": 24,
       "z": -3,
       "name": "Plant_Leaves_Aspen"
@@ -5018,12 +4779,6 @@
     },
     {
       "x": 4,
-      "y": 13,
-      "z": 0,
-      "name": "Plant_Leaves_Aspen"
-    },
-    {
-      "x": 4,
       "y": 22,
       "z": 0,
       "name": "Plant_Leaves_Aspen"
@@ -5037,12 +4792,6 @@
     {
       "x": 4,
       "y": 9,
-      "z": 1,
-      "name": "Plant_Leaves_Aspen"
-    },
-    {
-      "x": 4,
-      "y": 13,
       "z": 1,
       "name": "Plant_Leaves_Aspen"
     },
@@ -5133,30 +4882,6 @@
       "name": "Plant_Leaves_Aspen"
     },
     {
-      "x": 4,
-      "y": 22,
-      "z": 6,
-      "name": "Plant_Leaves_Aspen"
-    },
-    {
-      "x": 5,
-      "y": 14,
-      "z": -9,
-      "name": "Plant_Leaves_Aspen"
-    },
-    {
-      "x": 5,
-      "y": 14,
-      "z": -8,
-      "name": "Plant_Leaves_Aspen"
-    },
-    {
-      "x": 5,
-      "y": 13,
-      "z": -7,
-      "name": "Plant_Leaves_Aspen"
-    },
-    {
       "x": 5,
       "y": 14,
       "z": -7,
@@ -5171,12 +4896,6 @@
     {
       "x": 5,
       "y": 14,
-      "z": -6,
-      "name": "Plant_Leaves_Aspen"
-    },
-    {
-      "x": 5,
-      "y": 15,
       "z": -6,
       "name": "Plant_Leaves_Aspen"
     },
@@ -5197,13 +4916,6 @@
       "y": 15,
       "z": -5,
       "name": "Plant_Leaves_Aspen"
-    },
-    {
-      "x": 5,
-      "y": 12,
-      "z": -4,
-      "name": "Wood_Birch_Branch_Long",
-      "rotation": 5
     },
     {
       "x": 5,
@@ -5251,24 +4963,6 @@
       "x": 5,
       "y": 24,
       "z": -2,
-      "name": "Plant_Leaves_Aspen"
-    },
-    {
-      "x": 5,
-      "y": 13,
-      "z": -1,
-      "name": "Plant_Leaves_Aspen"
-    },
-    {
-      "x": 5,
-      "y": 14,
-      "z": -1,
-      "name": "Plant_Leaves_Aspen"
-    },
-    {
-      "x": 5,
-      "y": 22,
-      "z": -1,
       "name": "Plant_Leaves_Aspen"
     },
     {
@@ -5336,7 +5030,8 @@
       "x": 5,
       "y": 23,
       "z": 3,
-      "name": "Wood_Birch_Branch_Long"
+      "name": "Plant_Leaves_Aspen",
+      "support": 15
     },
     {
       "x": 5,
@@ -5357,48 +5052,6 @@
       "name": "Plant_Leaves_Aspen"
     },
     {
-      "x": 5,
-      "y": 22,
-      "z": 6,
-      "name": "Plant_Leaves_Aspen"
-    },
-    {
-      "x": 6,
-      "y": 14,
-      "z": -9,
-      "name": "Plant_Leaves_Aspen"
-    },
-    {
-      "x": 6,
-      "y": 13,
-      "z": -8,
-      "name": "Plant_Leaves_Aspen"
-    },
-    {
-      "x": 6,
-      "y": 14,
-      "z": -8,
-      "name": "Plant_Leaves_Aspen"
-    },
-    {
-      "x": 6,
-      "y": 13,
-      "z": -7,
-      "name": "Plant_Leaves_Aspen"
-    },
-    {
-      "x": 6,
-      "y": 14,
-      "z": -7,
-      "name": "Plant_Leaves_Aspen"
-    },
-    {
-      "x": 6,
-      "y": 13,
-      "z": -6,
-      "name": "Plant_Leaves_Aspen"
-    },
-    {
       "x": 6,
       "y": 14,
       "z": -6,
@@ -5406,28 +5059,9 @@
     },
     {
       "x": 6,
-      "y": 13,
-      "z": -5,
-      "name": "Plant_Leaves_Aspen"
-    },
-    {
-      "x": 6,
       "y": 14,
       "z": -5,
       "name": "Plant_Leaves_Aspen"
-    },
-    {
-      "x": 6,
-      "y": 12,
-      "z": -4,
-      "name": "Wood_Birch_Branch_Corner",
-      "rotation": 1
-    },
-    {
-      "x": 6,
-      "y": 13,
-      "z": -4,
-      "name": "Wood_Birch_Branch_Long"
     },
     {
       "x": 6,
@@ -5445,48 +5079,6 @@
       "x": 6,
       "y": 14,
       "z": -3,
-      "name": "Plant_Leaves_Aspen"
-    },
-    {
-      "x": 6,
-      "y": 13,
-      "z": -2,
-      "name": "Plant_Leaves_Aspen"
-    },
-    {
-      "x": 6,
-      "y": 14,
-      "z": -2,
-      "name": "Plant_Leaves_Aspen"
-    },
-    {
-      "x": 6,
-      "y": 13,
-      "z": -1,
-      "name": "Plant_Leaves_Aspen"
-    },
-    {
-      "x": 6,
-      "y": 14,
-      "z": -1,
-      "name": "Plant_Leaves_Aspen"
-    },
-    {
-      "x": 6,
-      "y": 13,
-      "z": 0,
-      "name": "Plant_Leaves_Aspen"
-    },
-    {
-      "x": 6,
-      "y": 22,
-      "z": 0,
-      "name": "Plant_Leaves_Aspen"
-    },
-    {
-      "x": 6,
-      "y": 22,
-      "z": 1,
       "name": "Plant_Leaves_Aspen"
     },
     {
@@ -5511,282 +5103,6 @@
       "x": 6,
       "y": 22,
       "z": 4,
-      "name": "Plant_Leaves_Aspen"
-    },
-    {
-      "x": 6,
-      "y": 22,
-      "z": 5,
-      "name": "Plant_Leaves_Aspen"
-    },
-    {
-      "x": 6,
-      "y": 22,
-      "z": 6,
-      "name": "Plant_Leaves_Aspen"
-    },
-    {
-      "x": 7,
-      "y": 14,
-      "z": -8,
-      "name": "Plant_Leaves_Aspen"
-    },
-    {
-      "x": 7,
-      "y": 13,
-      "z": -7,
-      "name": "Plant_Leaves_Aspen"
-    },
-    {
-      "x": 7,
-      "y": 14,
-      "z": -7,
-      "name": "Plant_Leaves_Aspen"
-    },
-    {
-      "x": 7,
-      "y": 13,
-      "z": -6,
-      "name": "Plant_Leaves_Aspen"
-    },
-    {
-      "x": 7,
-      "y": 14,
-      "z": -6,
-      "name": "Plant_Leaves_Aspen"
-    },
-    {
-      "x": 7,
-      "y": 13,
-      "z": -5,
-      "name": "Plant_Leaves_Aspen"
-    },
-    {
-      "x": 7,
-      "y": 14,
-      "z": -5,
-      "name": "Plant_Leaves_Aspen"
-    },
-    {
-      "x": 7,
-      "y": 13,
-      "z": -4,
-      "name": "Plant_Leaves_Aspen"
-    },
-    {
-      "x": 7,
-      "y": 14,
-      "z": -4,
-      "name": "Plant_Leaves_Aspen"
-    },
-    {
-      "x": 7,
-      "y": 13,
-      "z": -3,
-      "name": "Plant_Leaves_Aspen"
-    },
-    {
-      "x": 7,
-      "y": 14,
-      "z": -3,
-      "name": "Plant_Leaves_Aspen"
-    },
-    {
-      "x": 7,
-      "y": 13,
-      "z": -2,
-      "name": "Plant_Leaves_Aspen"
-    },
-    {
-      "x": 7,
-      "y": 14,
-      "z": -2,
-      "name": "Plant_Leaves_Aspen"
-    },
-    {
-      "x": 7,
-      "y": 13,
-      "z": -1,
-      "name": "Plant_Leaves_Aspen"
-    },
-    {
-      "x": 7,
-      "y": 22,
-      "z": 0,
-      "name": "Plant_Leaves_Aspen"
-    },
-    {
-      "x": 7,
-      "y": 22,
-      "z": 1,
-      "name": "Plant_Leaves_Aspen"
-    },
-    {
-      "x": 7,
-      "y": 22,
-      "z": 2,
-      "name": "Plant_Leaves_Aspen"
-    },
-    {
-      "x": 7,
-      "y": 22,
-      "z": 3,
-      "name": "Plant_Leaves_Aspen"
-    },
-    {
-      "x": 7,
-      "y": 22,
-      "z": 4,
-      "name": "Plant_Leaves_Aspen"
-    },
-    {
-      "x": 7,
-      "y": 22,
-      "z": 5,
-      "name": "Plant_Leaves_Aspen"
-    },
-    {
-      "x": 7,
-      "y": 22,
-      "z": 6,
-      "name": "Plant_Leaves_Aspen"
-    },
-    {
-      "x": 8,
-      "y": 13,
-      "z": -7,
-      "name": "Plant_Leaves_Aspen"
-    },
-    {
-      "x": 8,
-      "y": 14,
-      "z": -7,
-      "name": "Plant_Leaves_Aspen"
-    },
-    {
-      "x": 8,
-      "y": 13,
-      "z": -6,
-      "name": "Plant_Leaves_Aspen"
-    },
-    {
-      "x": 8,
-      "y": 14,
-      "z": -6,
-      "name": "Plant_Leaves_Aspen"
-    },
-    {
-      "x": 8,
-      "y": 13,
-      "z": -5,
-      "name": "Plant_Leaves_Aspen"
-    },
-    {
-      "x": 8,
-      "y": 14,
-      "z": -5,
-      "name": "Plant_Leaves_Aspen"
-    },
-    {
-      "x": 8,
-      "y": 13,
-      "z": -4,
-      "name": "Plant_Leaves_Aspen"
-    },
-    {
-      "x": 8,
-      "y": 14,
-      "z": -4,
-      "name": "Plant_Leaves_Aspen"
-    },
-    {
-      "x": 8,
-      "y": 13,
-      "z": -3,
-      "name": "Plant_Leaves_Aspen"
-    },
-    {
-      "x": 8,
-      "y": 14,
-      "z": -3,
-      "name": "Plant_Leaves_Aspen"
-    },
-    {
-      "x": 8,
-      "y": 13,
-      "z": -2,
-      "name": "Plant_Leaves_Aspen"
-    },
-    {
-      "x": 8,
-      "y": 13,
-      "z": -1,
-      "name": "Plant_Leaves_Aspen"
-    },
-    {
-      "x": 8,
-      "y": 22,
-      "z": 1,
-      "name": "Plant_Leaves_Aspen"
-    },
-    {
-      "x": 8,
-      "y": 22,
-      "z": 2,
-      "name": "Plant_Leaves_Aspen"
-    },
-    {
-      "x": 8,
-      "y": 22,
-      "z": 3,
-      "name": "Plant_Leaves_Aspen"
-    },
-    {
-      "x": 8,
-      "y": 22,
-      "z": 4,
-      "name": "Plant_Leaves_Aspen"
-    },
-    {
-      "x": 8,
-      "y": 22,
-      "z": 5,
-      "name": "Plant_Leaves_Aspen"
-    },
-    {
-      "x": 9,
-      "y": 13,
-      "z": -6,
-      "name": "Plant_Leaves_Aspen"
-    },
-    {
-      "x": 9,
-      "y": 13,
-      "z": -5,
-      "name": "Plant_Leaves_Aspen"
-    },
-    {
-      "x": 9,
-      "y": 13,
-      "z": -4,
-      "name": "Plant_Leaves_Aspen"
-    },
-    {
-      "x": 9,
-      "y": 13,
-      "z": -3,
-      "name": "Plant_Leaves_Aspen"
-    },
-    {
-      "x": 9,
-      "y": 13,
-      "z": -2,
-      "name": "Plant_Leaves_Aspen"
-    },
-    {
-      "x": 9,
-      "y": 22,
-      "z": 3,
       "name": "Plant_Leaves_Aspen"
     }
   ]

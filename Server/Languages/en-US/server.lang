@@ -1,6 +1,24 @@
 
 items.Portal_Sky = Skylands Portal
+
+server.items.Cloud.name = Cloud
+
+server.items.Ore_Adamantite_Basalt.name = Adamantite Ore - Basalt
+server.items.Ore_Adamantite_Bramble.name = Adamantite Ore - Bramble
+server.items.Ore_Adamantite_Slate.name = Adamantite Ore - Slate
+server.items.Ore_Adamantite_volcanic.name = Adamantite Ore - Volcanic
 items.Ore_Cobalt_Aqua.name = Cobalt Ore - Aqua  
+items.Ore_Cobalt_Basalt.name = Cobalt Ore - Basalt  
+server.items.Ore_Gold_Clay_Pink.name = Gold Ore - Pink Clay
+server.items.Ore_Gold_Clay_Red.name = Gold Ore - Red Clay
+server.items.Ore_Gold_Magma.name = Gold Ore - Magma
+server.items.Ore_Gold_Sandstone_Red.name = Gold Ore - Red Sandstone
+server.items.Ore_Gold_Slate.name = Gold Ore - Slate
+server.items.Ore_Iron_Magma.name = Iron Ore - Magma
+server.items.Ore_Silver_Chalk.name = Silver Ore - Chalk
+server.items.Ore_Silver_Lime.name = Silver Ore - Lime
+server.items.Ore_Silver_Marble.name = Silver Ore - Marble
+server.items.Ore_Silver_Sandstone_Red.name = Silver Ore - Red Sandstone
 
 items.Plant_Sky_Bush.name= Sky Bush
 items.Plant_Lotus_Pink.name= Pink Lotus Flower
@@ -12,10 +30,20 @@ items.Plant_Grass_Sky_Tall.name= Tall Sky Grass
 items.Plant_Grass_Sky_Short.name= Short Sky Grass
 items.Plant_Grass_Sky_Wild.name= Wild Sky Grass
 items.Plant_Grass_Sky.name= Sky Grass
+
+server.items.Plant_Crop_Mushroom_Boom_Bottom.name = Boomshroom Cap - Lower
+server.items.Plant_Crop_Mushroom_Boom.name = Boomshroom Cap
+server.items.Wood_Sticks_Birch.name = Birch Sticks
+
+
 items.Rock_Skygrass.name= Marble Skygrass Block
+items.Rock_Skygrass_Lime.name= Lime Skygrass Block
+items.Rock_Skygrass_Sandstone.name= Sandstone Skygrass Block
+items.Rock_Skygrass_Red_Sandstone.name = Red Sandstone Skygrass Block
 
 items.Plant_Lilypad_Block.name = Giant Lilypad Block
 items.Plant_Lilypad_Slab.name = Giant Lilypad Slab
 items.Plant_Lilypad_Gold_Slab.name = Golden Lilypad
 
 items.Fluid_Glow_Water.name = Glowing Water
+items.Fluid_Foam_Water.name = Foaming Water

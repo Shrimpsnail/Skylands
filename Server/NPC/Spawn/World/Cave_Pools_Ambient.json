@@ -62,6 +62,7 @@
     }
   ],
   "Environments": [
-    "Env_CavePools"
+    "Env_CavePools",
+    "Env_Sky_Reef"
   ]
 }

@@ -69,7 +69,8 @@
     ],
     "ParticleColor": "#eae8e8",
     "TransitionToTag": "Fluid=Water",
-    "BiomeTint": 100
+    "BiomeTint": 100,
+    "BiomeTintDown": 0
   },
   "Tags": {
     "Type": [

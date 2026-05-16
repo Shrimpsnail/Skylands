@@ -73,24 +73,6 @@
       "name": "Plant_Leaves_Aspen"
     },
     {
-      "x": -4,
-      "y": 22,
-      "z": 3,
-      "name": "Plant_Leaves_Aspen"
-    },
-    {
-      "x": -4,
-      "y": 22,
-      "z": 4,
-      "name": "Plant_Leaves_Aspen"
-    },
-    {
-      "x": -4,
-      "y": 22,
-      "z": 5,
-      "name": "Plant_Leaves_Aspen"
-    },
-    {
       "x": -3,
       "y": -8,
       "z": -3,
@@ -244,12 +226,6 @@
       "x": -3,
       "y": 22,
       "z": 5,
-      "name": "Plant_Leaves_Aspen"
-    },
-    {
-      "x": -3,
-      "y": 22,
-      "z": 6,
       "name": "Plant_Leaves_Aspen"
     },
     {
@@ -1340,7 +1316,8 @@
       "x": -1,
       "y": 22,
       "z": 6,
-      "name": "Plant_Leaves_Aspen"
+      "name": "Plant_Leaves_Aspen",
+      "support": 15
     },
     {
       "x": 0,
@@ -2363,13 +2340,8 @@
       "x": 1,
       "y": 22,
       "z": 5,
-      "name": "Plant_Leaves_Aspen"
-    },
-    {
-      "x": 1,
-      "y": 22,
-      "z": 6,
-      "name": "Plant_Leaves_Aspen"
+      "name": "Plant_Leaves_Aspen",
+      "support": 15
     },
     {
       "x": 2,
@@ -2777,32 +2749,14 @@
     },
     {
       "x": 2,
-      "y": 22,
-      "z": 3,
-      "name": "Plant_Leaves_Aspen"
-    },
-    {
-      "x": 2,
       "y": 24,
       "z": 3,
       "name": "Plant_Leaves_Aspen"
     },
     {
       "x": 2,
-      "y": 22,
-      "z": 4,
-      "name": "Plant_Leaves_Aspen"
-    },
-    {
-      "x": 2,
       "y": 24,
       "z": 4,
-      "name": "Plant_Leaves_Aspen"
-    },
-    {
-      "x": 2,
-      "y": 22,
-      "z": 5,
       "name": "Plant_Leaves_Aspen"
     },
     {
@@ -4089,12 +4043,6 @@
       "name": "Plant_Leaves_Aspen"
     },
     {
-      "x": 7,
-      "y": 19,
-      "z": 6,
-      "name": "Plant_Leaves_Aspen"
-    },
-    {
       "x": 8,
       "y": 10,
       "z": -2,
@@ -4197,12 +4145,6 @@
       "name": "Plant_Leaves_Aspen"
     },
     {
-      "x": 9,
-      "y": 19,
-      "z": 5,
-      "name": "Plant_Leaves_Aspen"
-    },
-    {
       "x": 10,
       "y": 19,
       "z": 0,
@@ -4224,12 +4166,6 @@
       "x": 10,
       "y": 19,
       "z": 3,
-      "name": "Plant_Leaves_Aspen"
-    },
-    {
-      "x": 10,
-      "y": 19,
-      "z": 4,
       "name": "Plant_Leaves_Aspen"
     }
   ]

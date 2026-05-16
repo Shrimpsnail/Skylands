@@ -1,6 +1,6 @@
 {
   "TranslationProperties": {
-    "Name": "server.Plant_Lilypad_Block"
+    "Name": "items.Rock_Skygrass_Lime.name"
   },
   "ItemLevel": 3,
   "Icon": "Icons/ItemsGenerated/Rock_Lime_SkyGrass.png",

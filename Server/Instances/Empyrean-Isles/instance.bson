@@ -1,7 +1,7 @@
 {
   "Version": 4,
   "UUID": {
-    "$binary": "QuffAJfHTESLCf7xQ4l1AA==",
+    "$binary": "1I47JETgQ8CJN/dKKSLbvA==",
     "$type": "04"
   },
   "RequiredPlugins": {},
@@ -10,7 +10,7 @@
   },
   "GameMode": "Adventure",
   "IsPvpEnabled": false,
-  "GameTime": "0001-01-30T19:05:24Z",
+  "GameTime": "0001-01-30T06:05:24Z",
   "IsGameTimePaused": false,
   "GameplayConfig": "Default",
   "IsCompassUpdating": true,

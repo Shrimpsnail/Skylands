@@ -1,0 +1,8292 @@
+{
+  "version": 8,
+  "blockIdVersion": 11,
+  "anchorX": 0,
+  "anchorY": 7,
+  "anchorZ": 0,
+  "blocks": [
+    {
+      "x": -9,
+      "y": 11,
+      "z": 4,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": -9,
+      "y": 12,
+      "z": 4,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": -9,
+      "y": 11,
+      "z": 5,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": -9,
+      "y": 12,
+      "z": 5,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": -8,
+      "y": 7,
+      "z": 1,
+      "name": "Cloud",
+      "support": 15
+    },
+    {
+      "x": -8,
+      "y": 13,
+      "z": 1,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": -8,
+      "y": 7,
+      "z": 2,
+      "name": "Cloud",
+      "support": 15
+    },
+    {
+      "x": -8,
+      "y": 6,
+      "z": 3,
+      "name": "Cloud",
+      "support": 15
+    },
+    {
+      "x": -8,
+      "y": 11,
+      "z": 4,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": -8,
+      "y": 12,
+      "z": 4,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": -8,
+      "y": 11,
+      "z": 5,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": -8,
+      "y": 12,
+      "z": 5,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": -7,
+      "y": 10,
+      "z": -5,
+      "name": "Cloud",
+      "support": 15
+    },
+    {
+      "x": -7,
+      "y": 10,
+      "z": -4,
+      "name": "Cloud",
+      "support": 15
+    },
+    {
+      "x": -7,
+      "y": 10,
+      "z": -3,
+      "name": "Cloud",
+      "support": 15
+    },
+    {
+      "x": -7,
+      "y": 8,
+      "z": 0,
+      "name": "Cloud",
+      "support": 15
+    },
+    {
+      "x": -7,
+      "y": 5,
+      "z": 3,
+      "name": "Cloud",
+      "support": 15
+    },
+    {
+      "x": -7,
+      "y": 6,
+      "z": 3,
+      "name": "Cloud",
+      "support": 15
+    },
+    {
+      "x": -7,
+      "y": 5,
+      "z": 4,
+      "name": "Cloud",
+      "support": 15
+    },
+    {
+      "x": -6,
+      "y": 10,
+      "z": -6,
+      "name": "Cloud",
+      "support": 15
+    },
+    {
+      "x": -6,
+      "y": 10,
+      "z": -5,
+      "name": "Cloud",
+      "support": 15
+    },
+    {
+      "x": -6,
+      "y": 6,
+      "z": -2,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": -6,
+      "y": 7,
+      "z": -2,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": -6,
+      "y": 8,
+      "z": -2,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": -6,
+      "y": 5,
+      "z": -1,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": -6,
+      "y": 6,
+      "z": -1,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": -6,
+      "y": 7,
+      "z": -1,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": -6,
+      "y": 8,
+      "z": -1,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": -6,
+      "y": 9,
+      "z": -1,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": -6,
+      "y": 5,
+      "z": 0,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": -6,
+      "y": 6,
+      "z": 0,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": -6,
+      "y": 7,
+      "z": 0,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": -6,
+      "y": 8,
+      "z": 0,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": -6,
+      "y": 9,
+      "z": 0,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": -6,
+      "y": 5,
+      "z": 1,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": -6,
+      "y": 6,
+      "z": 1,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": -6,
+      "y": 7,
+      "z": 1,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": -6,
+      "y": 8,
+      "z": 1,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": -6,
+      "y": 9,
+      "z": 1,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": -6,
+      "y": 5,
+      "z": 2,
+      "name": "Cloud",
+      "support": 15
+    },
+    {
+      "x": -6,
+      "y": 6,
+      "z": 2,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": -6,
+      "y": 7,
+      "z": 2,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": -6,
+      "y": 8,
+      "z": 2,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": -6,
+      "y": 9,
+      "z": 2,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": -6,
+      "y": 10,
+      "z": 2,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": -6,
+      "y": 4,
+      "z": 3,
+      "name": "Cloud"
+    },
+    {
+      "x": -6,
+      "y": 5,
+      "z": 3,
+      "name": "Cloud",
+      "support": 15
+    },
+    {
+      "x": -6,
+      "y": 6,
+      "z": 3,
+      "name": "Cloud",
+      "support": 15
+    },
+    {
+      "x": -6,
+      "y": 9,
+      "z": 3,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": -6,
+      "y": 10,
+      "z": 3,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": -6,
+      "y": 4,
+      "z": 4,
+      "name": "Cloud"
+    },
+    {
+      "x": -6,
+      "y": 5,
+      "z": 4,
+      "name": "Cloud"
+    },
+    {
+      "x": -6,
+      "y": 6,
+      "z": 4,
+      "name": "Cloud",
+      "support": 15
+    },
+    {
+      "x": -6,
+      "y": 4,
+      "z": 5,
+      "name": "Cloud"
+    },
+    {
+      "x": -6,
+      "y": 5,
+      "z": 5,
+      "name": "Cloud"
+    },
+    {
+      "x": -6,
+      "y": 5,
+      "z": 6,
+      "name": "Cloud"
+    },
+    {
+      "x": -6,
+      "y": 11,
+      "z": 8,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": -5,
+      "y": 10,
+      "z": -7,
+      "name": "Cloud",
+      "support": 15
+    },
+    {
+      "x": -5,
+      "y": 4,
+      "z": -6,
+      "name": "Cloud",
+      "support": 15
+    },
+    {
+      "x": -5,
+      "y": 10,
+      "z": -6,
+      "name": "Cloud",
+      "support": 15
+    },
+    {
+      "x": -5,
+      "y": 4,
+      "z": -5,
+      "name": "Cloud",
+      "support": 15
+    },
+    {
+      "x": -5,
+      "y": 7,
+      "z": -4,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": -5,
+      "y": 5,
+      "z": -3,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": -5,
+      "y": 6,
+      "z": -3,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": -5,
+      "y": 7,
+      "z": -3,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": -5,
+      "y": 8,
+      "z": -3,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": -5,
+      "y": 4,
+      "z": -2,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": -5,
+      "y": 5,
+      "z": -2,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": -5,
+      "y": 6,
+      "z": -2,
+      "name": "Rock_Chalk"
+    },
+    {
+      "x": -5,
+      "y": 7,
+      "z": -2,
+      "name": "Rock_Chalk"
+    },
+    {
+      "x": -5,
+      "y": 8,
+      "z": -2,
+      "name": "Rock_Chalk"
+    },
+    {
+      "x": -5,
+      "y": 9,
+      "z": -2,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": -5,
+      "y": 10,
+      "z": -2,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": -5,
+      "y": 4,
+      "z": -1,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": -5,
+      "y": 5,
+      "z": -1,
+      "name": "Rock_Chalk"
+    },
+    {
+      "x": -5,
+      "y": 6,
+      "z": -1,
+      "name": "Rock_Chalk"
+    },
+    {
+      "x": -5,
+      "y": 7,
+      "z": -1,
+      "name": "Rock_Chalk"
+    },
+    {
+      "x": -5,
+      "y": 8,
+      "z": -1,
+      "name": "Rock_Chalk"
+    },
+    {
+      "x": -5,
+      "y": 9,
+      "z": -1,
+      "name": "Rock_Chalk"
+    },
+    {
+      "x": -5,
+      "y": 10,
+      "z": -1,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": -5,
+      "y": 3,
+      "z": 0,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": -5,
+      "y": 4,
+      "z": 0,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": -5,
+      "y": 5,
+      "z": 0,
+      "name": "Rock_Chalk"
+    },
+    {
+      "x": -5,
+      "y": 6,
+      "z": 0,
+      "name": "Rock_Chalk"
+    },
+    {
+      "x": -5,
+      "y": 7,
+      "z": 0,
+      "name": "Rock_Chalk"
+    },
+    {
+      "x": -5,
+      "y": 8,
+      "z": 0,
+      "name": "Rock_Chalk"
+    },
+    {
+      "x": -5,
+      "y": 9,
+      "z": 0,
+      "name": "Rock_Chalk"
+    },
+    {
+      "x": -5,
+      "y": 10,
+      "z": 0,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": -5,
+      "y": 11,
+      "z": 0,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": -5,
+      "y": 4,
+      "z": 1,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": -5,
+      "y": 5,
+      "z": 1,
+      "name": "Rock_Chalk"
+    },
+    {
+      "x": -5,
+      "y": 6,
+      "z": 1,
+      "name": "Rock_Chalk"
+    },
+    {
+      "x": -5,
+      "y": 7,
+      "z": 1,
+      "name": "Rock_Chalk"
+    },
+    {
+      "x": -5,
+      "y": 8,
+      "z": 1,
+      "name": "Rock_Chalk"
+    },
+    {
+      "x": -5,
+      "y": 9,
+      "z": 1,
+      "name": "Rock_Chalk"
+    },
+    {
+      "x": -5,
+      "y": 10,
+      "z": 1,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": -5,
+      "y": 11,
+      "z": 1,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": -5,
+      "y": 12,
+      "z": 1,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": -5,
+      "y": 4,
+      "z": 2,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": -5,
+      "y": 5,
+      "z": 2,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": -5,
+      "y": 6,
+      "z": 2,
+      "name": "Rock_Chalk"
+    },
+    {
+      "x": -5,
+      "y": 7,
+      "z": 2,
+      "name": "Rock_Chalk"
+    },
+    {
+      "x": -5,
+      "y": 8,
+      "z": 2,
+      "name": "Rock_Chalk"
+    },
+    {
+      "x": -5,
+      "y": 9,
+      "z": 2,
+      "name": "Rock_Chalk"
+    },
+    {
+      "x": -5,
+      "y": 10,
+      "z": 2,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": -5,
+      "y": 11,
+      "z": 2,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": -5,
+      "y": 12,
+      "z": 2,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": -5,
+      "y": 3,
+      "z": 3,
+      "name": "Cloud"
+    },
+    {
+      "x": -5,
+      "y": 4,
+      "z": 3,
+      "name": "Cloud"
+    },
+    {
+      "x": -5,
+      "y": 5,
+      "z": 3,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": -5,
+      "y": 6,
+      "z": 3,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": -5,
+      "y": 7,
+      "z": 3,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": -5,
+      "y": 8,
+      "z": 3,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": -5,
+      "y": 9,
+      "z": 3,
+      "name": "Rock_Chalk"
+    },
+    {
+      "x": -5,
+      "y": 10,
+      "z": 3,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": -5,
+      "y": 11,
+      "z": 3,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": -5,
+      "y": 12,
+      "z": 3,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": -5,
+      "y": 3,
+      "z": 4,
+      "name": "Cloud"
+    },
+    {
+      "x": -5,
+      "y": 4,
+      "z": 4,
+      "name": "Cloud"
+    },
+    {
+      "x": -5,
+      "y": 5,
+      "z": 4,
+      "name": "Cloud"
+    },
+    {
+      "x": -5,
+      "y": 6,
+      "z": 4,
+      "name": "Cloud"
+    },
+    {
+      "x": -5,
+      "y": 7,
+      "z": 4,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": -5,
+      "y": 8,
+      "z": 4,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": -5,
+      "y": 9,
+      "z": 4,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": -5,
+      "y": 10,
+      "z": 4,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": -5,
+      "y": 11,
+      "z": 4,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": -5,
+      "y": 3,
+      "z": 5,
+      "name": "Cloud"
+    },
+    {
+      "x": -5,
+      "y": 4,
+      "z": 5,
+      "name": "Cloud"
+    },
+    {
+      "x": -5,
+      "y": 5,
+      "z": 5,
+      "name": "Cloud"
+    },
+    {
+      "x": -5,
+      "y": 6,
+      "z": 5,
+      "name": "Cloud"
+    },
+    {
+      "x": -5,
+      "y": 4,
+      "z": 6,
+      "name": "Cloud"
+    },
+    {
+      "x": -5,
+      "y": 5,
+      "z": 6,
+      "name": "Cloud"
+    },
+    {
+      "x": -5,
+      "y": 6,
+      "z": 6,
+      "name": "Cloud"
+    },
+    {
+      "x": -5,
+      "y": 5,
+      "z": 7,
+      "name": "Cloud"
+    },
+    {
+      "x": -4,
+      "y": 4,
+      "z": -7,
+      "name": "Cloud",
+      "support": 15
+    },
+    {
+      "x": -4,
+      "y": 10,
+      "z": -7,
+      "name": "Cloud",
+      "support": 15
+    },
+    {
+      "x": -4,
+      "y": 4,
+      "z": -6,
+      "name": "Cloud",
+      "support": 15
+    },
+    {
+      "x": -4,
+      "y": 10,
+      "z": -6,
+      "name": "Cloud",
+      "support": 15
+    },
+    {
+      "x": -4,
+      "y": 7,
+      "z": -5,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": -4,
+      "y": 4,
+      "z": -4,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": -4,
+      "y": 5,
+      "z": -4,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": -4,
+      "y": 6,
+      "z": -4,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": -4,
+      "y": 7,
+      "z": -4,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": -4,
+      "y": 8,
+      "z": -4,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": -4,
+      "y": 9,
+      "z": -4,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": -4,
+      "y": 10,
+      "z": -4,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": -4,
+      "y": 3,
+      "z": -3,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": -4,
+      "y": 4,
+      "z": -3,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": -4,
+      "y": 5,
+      "z": -3,
+      "name": "Rock_Chalk"
+    },
+    {
+      "x": -4,
+      "y": 6,
+      "z": -3,
+      "name": "Rock_Chalk"
+    },
+    {
+      "x": -4,
+      "y": 7,
+      "z": -3,
+      "name": "Rock_Chalk"
+    },
+    {
+      "x": -4,
+      "y": 8,
+      "z": -3,
+      "name": "Rock_Chalk"
+    },
+    {
+      "x": -4,
+      "y": 9,
+      "z": -3,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": -4,
+      "y": 10,
+      "z": -3,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": -4,
+      "y": 11,
+      "z": -3,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": -4,
+      "y": 3,
+      "z": -2,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": -4,
+      "y": 4,
+      "z": -2,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": -4,
+      "y": 5,
+      "z": -2,
+      "name": "Rock_Chalk"
+    },
+    {
+      "x": -4,
+      "y": 6,
+      "z": -2,
+      "name": "Rock_Crystal_Blue_Block",
+      "rotation": 5
+    },
+    {
+      "x": -4,
+      "y": 7,
+      "z": -2,
+      "name": "Rock_Crystal_Blue_Block",
+      "rotation": 5
+    },
+    {
+      "x": -4,
+      "y": 8,
+      "z": -2,
+      "name": "Rock_Crystal_Blue_Block",
+      "rotation": 4
+    },
+    {
+      "x": -4,
+      "y": 9,
+      "z": -2,
+      "name": "Rock_Chalk"
+    },
+    {
+      "x": -4,
+      "y": 10,
+      "z": -2,
+      "name": "Rock_Chalk"
+    },
+    {
+      "x": -4,
+      "y": 11,
+      "z": -2,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": -4,
+      "y": 3,
+      "z": -1,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": -4,
+      "y": 4,
+      "z": -1,
+      "name": "Rock_Chalk"
+    },
+    {
+      "x": -4,
+      "y": 5,
+      "z": -1,
+      "name": "Rock_Crystal_Blue_Block"
+    },
+    {
+      "x": -4,
+      "y": 6,
+      "z": -1,
+      "name": "Rock_Crystal_Cyan_Block"
+    },
+    {
+      "x": -4,
+      "y": 7,
+      "z": -1,
+      "name": "Rock_Crystal_Blue_Block",
+      "rotation": 5
+    },
+    {
+      "x": -4,
+      "y": 8,
+      "z": -1,
+      "name": "Rock_Crystal_Blue_Block",
+      "rotation": 5
+    },
+    {
+      "x": -4,
+      "y": 9,
+      "z": -1,
+      "name": "Rock_Crystal_Blue_Block",
+      "rotation": 5
+    },
+    {
+      "x": -4,
+      "y": 10,
+      "z": -1,
+      "name": "Rock_Chalk"
+    },
+    {
+      "x": -4,
+      "y": 11,
+      "z": -1,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": -4,
+      "y": 12,
+      "z": -1,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": -4,
+      "y": 2,
+      "z": 0,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": -4,
+      "y": 3,
+      "z": 0,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": -4,
+      "y": 4,
+      "z": 0,
+      "name": "Rock_Chalk"
+    },
+    {
+      "x": -4,
+      "y": 5,
+      "z": 0,
+      "name": "Rock_Crystal_Blue_Block"
+    },
+    {
+      "x": -4,
+      "y": 6,
+      "z": 0,
+      "name": "Rock_Crystal_Cyan_Block"
+    },
+    {
+      "x": -4,
+      "y": 7,
+      "z": 0,
+      "name": "Rock_Crystal_Blue_Block",
+      "rotation": 5
+    },
+    {
+      "x": -4,
+      "y": 8,
+      "z": 0,
+      "name": "Rock_Crystal_Blue_Block",
+      "rotation": 5
+    },
+    {
+      "x": -4,
+      "y": 9,
+      "z": 0,
+      "name": "Rock_Crystal_Blue_Block",
+      "rotation": 5
+    },
+    {
+      "x": -4,
+      "y": 10,
+      "z": 0,
+      "name": "Rock_Chalk"
+    },
+    {
+      "x": -4,
+      "y": 11,
+      "z": 0,
+      "name": "Rock_Chalk"
+    },
+    {
+      "x": -4,
+      "y": 12,
+      "z": 0,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": -4,
+      "y": 3,
+      "z": 1,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": -4,
+      "y": 4,
+      "z": 1,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": -4,
+      "y": 5,
+      "z": 1,
+      "name": "Rock_Chalk"
+    },
+    {
+      "x": -4,
+      "y": 6,
+      "z": 1,
+      "name": "Rock_Crystal_Cyan_Block"
+    },
+    {
+      "x": -4,
+      "y": 7,
+      "z": 1,
+      "name": "Rock_Crystal_Cyan_Block"
+    },
+    {
+      "x": -4,
+      "y": 8,
+      "z": 1,
+      "name": "Rock_Crystal_Blue_Block",
+      "rotation": 5
+    },
+    {
+      "x": -4,
+      "y": 9,
+      "z": 1,
+      "name": "Rock_Crystal_Blue_Block",
+      "rotation": 5
+    },
+    {
+      "x": -4,
+      "y": 10,
+      "z": 1,
+      "name": "Rock_Chalk"
+    },
+    {
+      "x": -4,
+      "y": 11,
+      "z": 1,
+      "name": "Rock_Chalk"
+    },
+    {
+      "x": -4,
+      "y": 12,
+      "z": 1,
+      "name": "Rock_Chalk"
+    },
+    {
+      "x": -4,
+      "y": 13,
+      "z": 1,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": -4,
+      "y": 3,
+      "z": 2,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": -4,
+      "y": 4,
+      "z": 2,
+      "name": "Rock_Chalk"
+    },
+    {
+      "x": -4,
+      "y": 5,
+      "z": 2,
+      "name": "Rock_Chalk"
+    },
+    {
+      "x": -4,
+      "y": 6,
+      "z": 2,
+      "name": "Rock_Crystal_Cyan_Block"
+    },
+    {
+      "x": -4,
+      "y": 7,
+      "z": 2,
+      "name": "Rock_Crystal_Cyan_Block"
+    },
+    {
+      "x": -4,
+      "y": 8,
+      "z": 2,
+      "name": "Rock_Crystal_Blue_Block",
+      "rotation": 5
+    },
+    {
+      "x": -4,
+      "y": 9,
+      "z": 2,
+      "name": "Rock_Crystal_Blue_Block",
+      "rotation": 5
+    },
+    {
+      "x": -4,
+      "y": 10,
+      "z": 2,
+      "name": "Rock_Chalk"
+    },
+    {
+      "x": -4,
+      "y": 11,
+      "z": 2,
+      "name": "Rock_Chalk"
+    },
+    {
+      "x": -4,
+      "y": 12,
+      "z": 2,
+      "name": "Rock_Chalk"
+    },
+    {
+      "x": -4,
+      "y": 13,
+      "z": 2,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": -4,
+      "y": 3,
+      "z": 3,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": -4,
+      "y": 4,
+      "z": 3,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": -4,
+      "y": 5,
+      "z": 3,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": -4,
+      "y": 6,
+      "z": 3,
+      "name": "Rock_Chalk"
+    },
+    {
+      "x": -4,
+      "y": 7,
+      "z": 3,
+      "name": "Rock_Chalk"
+    },
+    {
+      "x": -4,
+      "y": 8,
+      "z": 3,
+      "name": "Rock_Chalk"
+    },
+    {
+      "x": -4,
+      "y": 9,
+      "z": 3,
+      "name": "Rock_Crystal_Blue_Block",
+      "rotation": 5
+    },
+    {
+      "x": -4,
+      "y": 10,
+      "z": 3,
+      "name": "Rock_Chalk"
+    },
+    {
+      "x": -4,
+      "y": 11,
+      "z": 3,
+      "name": "Rock_Chalk"
+    },
+    {
+      "x": -4,
+      "y": 12,
+      "z": 3,
+      "name": "Rock_Chalk"
+    },
+    {
+      "x": -4,
+      "y": 13,
+      "z": 3,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": -4,
+      "y": 3,
+      "z": 4,
+      "name": "Cloud"
+    },
+    {
+      "x": -4,
+      "y": 4,
+      "z": 4,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": -4,
+      "y": 5,
+      "z": 4,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": -4,
+      "y": 6,
+      "z": 4,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": -4,
+      "y": 7,
+      "z": 4,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": -4,
+      "y": 8,
+      "z": 4,
+      "name": "Rock_Chalk"
+    },
+    {
+      "x": -4,
+      "y": 9,
+      "z": 4,
+      "name": "Rock_Chalk"
+    },
+    {
+      "x": -4,
+      "y": 10,
+      "z": 4,
+      "name": "Rock_Chalk"
+    },
+    {
+      "x": -4,
+      "y": 11,
+      "z": 4,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": -4,
+      "y": 12,
+      "z": 4,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": -4,
+      "y": 3,
+      "z": 5,
+      "name": "Cloud"
+    },
+    {
+      "x": -4,
+      "y": 4,
+      "z": 5,
+      "name": "Cloud"
+    },
+    {
+      "x": -4,
+      "y": 5,
+      "z": 5,
+      "name": "Cloud"
+    },
+    {
+      "x": -4,
+      "y": 6,
+      "z": 5,
+      "name": "Cloud"
+    },
+    {
+      "x": -4,
+      "y": 7,
+      "z": 5,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": -4,
+      "y": 8,
+      "z": 5,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": -4,
+      "y": 9,
+      "z": 5,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": -4,
+      "y": 10,
+      "z": 5,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": -4,
+      "y": 11,
+      "z": 5,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": -4,
+      "y": 4,
+      "z": 6,
+      "name": "Cloud"
+    },
+    {
+      "x": -4,
+      "y": 5,
+      "z": 6,
+      "name": "Cloud"
+    },
+    {
+      "x": -4,
+      "y": 6,
+      "z": 6,
+      "name": "Cloud"
+    },
+    {
+      "x": -4,
+      "y": 5,
+      "z": 7,
+      "name": "Cloud"
+    },
+    {
+      "x": -4,
+      "y": 5,
+      "z": 8,
+      "name": "Cloud",
+      "support": 15
+    },
+    {
+      "x": -4,
+      "y": 9,
+      "z": 8,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": -3,
+      "y": 4,
+      "z": -7,
+      "name": "Cloud",
+      "support": 15
+    },
+    {
+      "x": -3,
+      "y": 10,
+      "z": -7,
+      "name": "Cloud",
+      "support": 15
+    },
+    {
+      "x": -3,
+      "y": 5,
+      "z": -5,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": -3,
+      "y": 6,
+      "z": -5,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": -3,
+      "y": 7,
+      "z": -5,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": -3,
+      "y": 8,
+      "z": -5,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": -3,
+      "y": 9,
+      "z": -5,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": -3,
+      "y": 3,
+      "z": -4,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": -3,
+      "y": 4,
+      "z": -4,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": -3,
+      "y": 5,
+      "z": -4,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": -3,
+      "y": 6,
+      "z": -4,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": -3,
+      "y": 7,
+      "z": -4,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": -3,
+      "y": 8,
+      "z": -4,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": -3,
+      "y": 9,
+      "z": -4,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": -3,
+      "y": 10,
+      "z": -4,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": -3,
+      "y": 11,
+      "z": -4,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": -3,
+      "y": 3,
+      "z": -3,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": -3,
+      "y": 4,
+      "z": -3,
+      "name": "Rock_Chalk"
+    },
+    {
+      "x": -3,
+      "y": 5,
+      "z": -3,
+      "name": "Rock_Chalk"
+    },
+    {
+      "x": -3,
+      "y": 6,
+      "z": -3,
+      "name": "Rock_Chalk"
+    },
+    {
+      "x": -3,
+      "y": 7,
+      "z": -3,
+      "name": "Rock_Chalk"
+    },
+    {
+      "x": -3,
+      "y": 8,
+      "z": -3,
+      "name": "Rock_Chalk"
+    },
+    {
+      "x": -3,
+      "y": 9,
+      "z": -3,
+      "name": "Rock_Chalk"
+    },
+    {
+      "x": -3,
+      "y": 10,
+      "z": -3,
+      "name": "Rock_Chalk"
+    },
+    {
+      "x": -3,
+      "y": 11,
+      "z": -3,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": -3,
+      "y": 2,
+      "z": -2,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": -3,
+      "y": 3,
+      "z": -2,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": -3,
+      "y": 4,
+      "z": -2,
+      "name": "Rock_Chalk"
+    },
+    {
+      "x": -3,
+      "y": 5,
+      "z": -2,
+      "name": "Rock_Crystal_Blue_Block"
+    },
+    {
+      "x": -3,
+      "y": 6,
+      "z": -2,
+      "name": "Rock_Crystal_Cyan_Block"
+    },
+    {
+      "x": -3,
+      "y": 7,
+      "z": -2,
+      "name": "Rock_Crystal_Blue_Block",
+      "rotation": 4
+    },
+    {
+      "x": -3,
+      "y": 8,
+      "z": -2,
+      "name": "Rock_Crystal_Blue_Block",
+      "rotation": 4
+    },
+    {
+      "x": -3,
+      "y": 9,
+      "z": -2,
+      "name": "Rock_Crystal_Blue_Block",
+      "rotation": 4
+    },
+    {
+      "x": -3,
+      "y": 10,
+      "z": -2,
+      "name": "Rock_Crystal_Blue_Block",
+      "rotation": 4
+    },
+    {
+      "x": -3,
+      "y": 11,
+      "z": -2,
+      "name": "Rock_Chalk"
+    },
+    {
+      "x": -3,
+      "y": 12,
+      "z": -2,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": -3,
+      "y": 2,
+      "z": -1,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": -3,
+      "y": 3,
+      "z": -1,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": -3,
+      "y": 4,
+      "z": -1,
+      "name": "Rock_Chalk"
+    },
+    {
+      "x": -3,
+      "y": 5,
+      "z": -1,
+      "name": "Rock_Crystal_Cyan_Block"
+    },
+    {
+      "x": -3,
+      "y": 6,
+      "z": -1,
+      "name": "Rock_Crystal_Cyan_Block"
+    },
+    {
+      "x": -3,
+      "y": 7,
+      "z": -1,
+      "name": "Rock_Crystal_Blue_Medium",
+      "rotation": 5
+    },
+    {
+      "x": -3,
+      "y": 8,
+      "z": -1,
+      "name": "Rock_Crystal_Blue_Large",
+      "rotation": 4
+    },
+    {
+      "x": -3,
+      "y": 10,
+      "z": -1,
+      "name": "Rock_Crystal_Blue_Block",
+      "rotation": 5
+    },
+    {
+      "x": -3,
+      "y": 11,
+      "z": -1,
+      "name": "Rock_Chalk"
+    },
+    {
+      "x": -3,
+      "y": 12,
+      "z": -1,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": -3,
+      "y": 2,
+      "z": 0,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": -3,
+      "y": 3,
+      "z": 0,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": -3,
+      "y": 4,
+      "z": 0,
+      "name": "Rock_Chalk"
+    },
+    {
+      "x": -3,
+      "y": 5,
+      "z": 0,
+      "name": "Rock_Crystal_Cyan_Block"
+    },
+    {
+      "x": -3,
+      "y": 6,
+      "z": 0,
+      "name": "Rock_Crystal_Blue_Medium",
+      "rotation": 5
+    },
+    {
+      "x": -3,
+      "y": 7,
+      "z": 0,
+      "name": "Rock_Crystal_Cyan_Medium",
+      "rotation": 5
+    },
+    {
+      "x": -3,
+      "y": 8,
+      "z": 0,
+      "name": "Rock_Crystal_Blue_Medium",
+      "rotation": 5
+    },
+    {
+      "x": -3,
+      "y": 10,
+      "z": 0,
+      "name": "Rock_Crystal_Blue_Block",
+      "rotation": 5
+    },
+    {
+      "x": -3,
+      "y": 11,
+      "z": 0,
+      "name": "Rock_Crystal_Blue_Block",
+      "rotation": 5
+    },
+    {
+      "x": -3,
+      "y": 12,
+      "z": 0,
+      "name": "Rock_Chalk"
+    },
+    {
+      "x": -3,
+      "y": 13,
+      "z": 0,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": -3,
+      "y": 2,
+      "z": 1,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": -3,
+      "y": 3,
+      "z": 1,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": -3,
+      "y": 4,
+      "z": 1,
+      "name": "Rock_Chalk"
+    },
+    {
+      "x": -3,
+      "y": 5,
+      "z": 1,
+      "name": "Rock_Crystal_Cyan_Block"
+    },
+    {
+      "x": -3,
+      "y": 6,
+      "z": 1,
+      "name": "Rock_Crystal_Blue_Small",
+      "rotation": 5
+    },
+    {
+      "x": -3,
+      "y": 7,
+      "z": 1,
+      "name": "Rock_Crystal_Blue_Small",
+      "rotation": 5
+    },
+    {
+      "x": -3,
+      "y": 9,
+      "z": 1,
+      "name": "Rock_Crystal_Cyan_Small",
+      "rotation": 5
+    },
+    {
+      "x": -3,
+      "y": 10,
+      "z": 1,
+      "name": "Rock_Crystal_Blue_Block",
+      "rotation": 5
+    },
+    {
+      "x": -3,
+      "y": 11,
+      "z": 1,
+      "name": "Rock_Crystal_Blue_Block",
+      "rotation": 5
+    },
+    {
+      "x": -3,
+      "y": 12,
+      "z": 1,
+      "name": "Rock_Chalk"
+    },
+    {
+      "x": -3,
+      "y": 13,
+      "z": 1,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": -3,
+      "y": 2,
+      "z": 2,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": -3,
+      "y": 3,
+      "z": 2,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": -3,
+      "y": 4,
+      "z": 2,
+      "name": "Rock_Chalk"
+    },
+    {
+      "x": -3,
+      "y": 5,
+      "z": 2,
+      "name": "Rock_Crystal_Cyan_Block"
+    },
+    {
+      "x": -3,
+      "y": 7,
+      "z": 2,
+      "name": "Rock_Gem_Sapphire",
+      "rotation": 5
+    },
+    {
+      "x": -3,
+      "y": 8,
+      "z": 2,
+      "name": "Rock_Crystal_Blue_Medium",
+      "rotation": 5
+    },
+    {
+      "x": -3,
+      "y": 9,
+      "z": 2,
+      "name": "Rock_Crystal_Cyan_Medium",
+      "rotation": 5
+    },
+    {
+      "x": -3,
+      "y": 10,
+      "z": 2,
+      "name": "Rock_Crystal_Blue_Block",
+      "rotation": 5
+    },
+    {
+      "x": -3,
+      "y": 11,
+      "z": 2,
+      "name": "Rock_Crystal_Cyan_Block"
+    },
+    {
+      "x": -3,
+      "y": 12,
+      "z": 2,
+      "name": "Rock_Chalk"
+    },
+    {
+      "x": -3,
+      "y": 13,
+      "z": 2,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": -3,
+      "y": 3,
+      "z": 3,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": -3,
+      "y": 4,
+      "z": 3,
+      "name": "Rock_Chalk"
+    },
+    {
+      "x": -3,
+      "y": 5,
+      "z": 3,
+      "name": "Rock_Chalk"
+    },
+    {
+      "x": -3,
+      "y": 6,
+      "z": 3,
+      "name": "Rock_Crystal_Cyan_Block"
+    },
+    {
+      "x": -3,
+      "y": 7,
+      "z": 3,
+      "name": "Rock_Crystal_Cyan_Block"
+    },
+    {
+      "x": -3,
+      "y": 8,
+      "z": 3,
+      "name": "Rock_Crystal_Cyan_Block"
+    },
+    {
+      "x": -3,
+      "y": 9,
+      "z": 3,
+      "name": "Rock_Crystal_Cyan_Block"
+    },
+    {
+      "x": -3,
+      "y": 10,
+      "z": 3,
+      "name": "Rock_Crystal_Cyan_Block"
+    },
+    {
+      "x": -3,
+      "y": 11,
+      "z": 3,
+      "name": "Rock_Chalk"
+    },
+    {
+      "x": -3,
+      "y": 12,
+      "z": 3,
+      "name": "Rock_Chalk"
+    },
+    {
+      "x": -3,
+      "y": 13,
+      "z": 3,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": -3,
+      "y": 3,
+      "z": 4,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": -3,
+      "y": 4,
+      "z": 4,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": -3,
+      "y": 5,
+      "z": 4,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": -3,
+      "y": 6,
+      "z": 4,
+      "name": "Rock_Chalk"
+    },
+    {
+      "x": -3,
+      "y": 7,
+      "z": 4,
+      "name": "Rock_Chalk"
+    },
+    {
+      "x": -3,
+      "y": 8,
+      "z": 4,
+      "name": "Rock_Chalk"
+    },
+    {
+      "x": -3,
+      "y": 9,
+      "z": 4,
+      "name": "Rock_Chalk"
+    },
+    {
+      "x": -3,
+      "y": 10,
+      "z": 4,
+      "name": "Rock_Chalk"
+    },
+    {
+      "x": -3,
+      "y": 11,
+      "z": 4,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": -3,
+      "y": 12,
+      "z": 4,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": -3,
+      "y": 3,
+      "z": 5,
+      "name": "Cloud"
+    },
+    {
+      "x": -3,
+      "y": 4,
+      "z": 5,
+      "name": "Cloud"
+    },
+    {
+      "x": -3,
+      "y": 5,
+      "z": 5,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": -3,
+      "y": 6,
+      "z": 5,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": -3,
+      "y": 7,
+      "z": 5,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": -3,
+      "y": 8,
+      "z": 5,
+      "name": "Rock_Chalk"
+    },
+    {
+      "x": -3,
+      "y": 9,
+      "z": 5,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": -3,
+      "y": 10,
+      "z": 5,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": -3,
+      "y": 11,
+      "z": 5,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": -3,
+      "y": 4,
+      "z": 6,
+      "name": "Cloud"
+    },
+    {
+      "x": -3,
+      "y": 5,
+      "z": 6,
+      "name": "Cloud"
+    },
+    {
+      "x": -3,
+      "y": 6,
+      "z": 6,
+      "name": "Cloud"
+    },
+    {
+      "x": -3,
+      "y": 8,
+      "z": 6,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": -3,
+      "y": 4,
+      "z": 7,
+      "name": "Cloud",
+      "support": 15
+    },
+    {
+      "x": -3,
+      "y": 5,
+      "z": 7,
+      "name": "Cloud"
+    },
+    {
+      "x": -3,
+      "y": 6,
+      "z": 7,
+      "name": "Cloud",
+      "support": 15
+    },
+    {
+      "x": -3,
+      "y": 5,
+      "z": 8,
+      "name": "Cloud",
+      "support": 15
+    },
+    {
+      "x": -2,
+      "y": 4,
+      "z": -8,
+      "name": "Cloud",
+      "support": 15
+    },
+    {
+      "x": -2,
+      "y": 4,
+      "z": -7,
+      "name": "Cloud",
+      "support": 15
+    },
+    {
+      "x": -2,
+      "y": 10,
+      "z": -7,
+      "name": "Cloud",
+      "support": 15
+    },
+    {
+      "x": -2,
+      "y": 6,
+      "z": -6,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": -2,
+      "y": 7,
+      "z": -6,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": -2,
+      "y": 8,
+      "z": -6,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": -2,
+      "y": 4,
+      "z": -5,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": -2,
+      "y": 5,
+      "z": -5,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": -2,
+      "y": 6,
+      "z": -5,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": -2,
+      "y": 7,
+      "z": -5,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": -2,
+      "y": 8,
+      "z": -5,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": -2,
+      "y": 9,
+      "z": -5,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": -2,
+      "y": 10,
+      "z": -5,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": -2,
+      "y": 3,
+      "z": -4,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": -2,
+      "y": 4,
+      "z": -4,
+      "name": "Rock_Chalk"
+    },
+    {
+      "x": -2,
+      "y": 5,
+      "z": -4,
+      "name": "Rock_Chalk"
+    },
+    {
+      "x": -2,
+      "y": 6,
+      "z": -4,
+      "name": "Rock_Chalk"
+    },
+    {
+      "x": -2,
+      "y": 7,
+      "z": -4,
+      "name": "Rock_Chalk"
+    },
+    {
+      "x": -2,
+      "y": 8,
+      "z": -4,
+      "name": "Rock_Chalk"
+    },
+    {
+      "x": -2,
+      "y": 9,
+      "z": -4,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": -2,
+      "y": 10,
+      "z": -4,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": -2,
+      "y": 11,
+      "z": -4,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": -2,
+      "y": 2,
+      "z": -3,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": -2,
+      "y": 3,
+      "z": -3,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": -2,
+      "y": 4,
+      "z": -3,
+      "name": "Rock_Chalk"
+    },
+    {
+      "x": -2,
+      "y": 5,
+      "z": -3,
+      "name": "Rock_Crystal_Blue_Block",
+      "rotation": 4
+    },
+    {
+      "x": -2,
+      "y": 6,
+      "z": -3,
+      "name": "Rock_Crystal_Cyan_Block"
+    },
+    {
+      "x": -2,
+      "y": 7,
+      "z": -3,
+      "name": "Rock_Crystal_Blue_Block",
+      "rotation": 4
+    },
+    {
+      "x": -2,
+      "y": 8,
+      "z": -3,
+      "name": "Rock_Crystal_Blue_Block",
+      "rotation": 4
+    },
+    {
+      "x": -2,
+      "y": 9,
+      "z": -3,
+      "name": "Rock_Chalk"
+    },
+    {
+      "x": -2,
+      "y": 10,
+      "z": -3,
+      "name": "Rock_Chalk"
+    },
+    {
+      "x": -2,
+      "y": 11,
+      "z": -3,
+      "name": "Rock_Chalk"
+    },
+    {
+      "x": -2,
+      "y": 12,
+      "z": -3,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": -2,
+      "y": 2,
+      "z": -2,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": -2,
+      "y": 3,
+      "z": -2,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": -2,
+      "y": 4,
+      "z": -2,
+      "name": "Rock_Chalk"
+    },
+    {
+      "x": -2,
+      "y": 5,
+      "z": -2,
+      "name": "Rock_Crystal_Cyan_Block"
+    },
+    {
+      "x": -2,
+      "y": 6,
+      "z": -2,
+      "name": "Rock_Crystal_Cyan_Block"
+    },
+    {
+      "x": -2,
+      "y": 7,
+      "z": -2,
+      "name": "Rock_Crystal_Blue_Medium",
+      "rotation": 4
+    },
+    {
+      "x": -2,
+      "y": 9,
+      "z": -2,
+      "name": "Rock_Crystal_Blue_Block",
+      "rotation": 4
+    },
+    {
+      "x": -2,
+      "y": 10,
+      "z": -2,
+      "name": "Rock_Crystal_Blue_Block",
+      "rotation": 4
+    },
+    {
+      "x": -2,
+      "y": 11,
+      "z": -2,
+      "name": "Rock_Chalk"
+    },
+    {
+      "x": -2,
+      "y": 12,
+      "z": -2,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": -2,
+      "y": 1,
+      "z": -1,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": -2,
+      "y": 2,
+      "z": -1,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": -2,
+      "y": 3,
+      "z": -1,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": -2,
+      "y": 4,
+      "z": -1,
+      "name": "Rock_Chalk"
+    },
+    {
+      "x": -2,
+      "y": 5,
+      "z": -1,
+      "name": "Rock_Crystal_Blue_Block"
+    },
+    {
+      "x": -2,
+      "y": 6,
+      "z": -1,
+      "name": "Rock_Crystal_Blue_Medium"
+    },
+    {
+      "x": -2,
+      "y": 10,
+      "z": -1,
+      "name": "Rock_Gem_Zephyr",
+      "rotation": 5
+    },
+    {
+      "x": -2,
+      "y": 11,
+      "z": -1,
+      "name": "Rock_Crystal_Blue_Block"
+    },
+    {
+      "x": -2,
+      "y": 12,
+      "z": -1,
+      "name": "Rock_Chalk"
+    },
+    {
+      "x": -2,
+      "y": 13,
+      "z": -1,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": -2,
+      "y": 1,
+      "z": 0,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": -2,
+      "y": 2,
+      "z": 0,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": -2,
+      "y": 3,
+      "z": 0,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": -2,
+      "y": 4,
+      "z": 0,
+      "name": "Rock_Chalk"
+    },
+    {
+      "x": -2,
+      "y": 5,
+      "z": 0,
+      "name": "Rock_Crystal_Cyan_Block"
+    },
+    {
+      "x": -2,
+      "y": 11,
+      "z": 0,
+      "name": "Rock_Crystal_Blue_Small",
+      "rotation": 8
+    },
+    {
+      "x": -2,
+      "y": 12,
+      "z": 0,
+      "name": "Rock_Crystal_Cyan_Block"
+    },
+    {
+      "x": -2,
+      "y": 13,
+      "z": 0,
+      "name": "Rock_Chalk"
+    },
+    {
+      "x": -2,
+      "y": 14,
+      "z": 0,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": -2,
+      "y": 1,
+      "z": 1,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": -2,
+      "y": 2,
+      "z": 1,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": -2,
+      "y": 3,
+      "z": 1,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": -2,
+      "y": 4,
+      "z": 1,
+      "name": "Rock_Chalk"
+    },
+    {
+      "x": -2,
+      "y": 5,
+      "z": 1,
+      "name": "Rock_Crystal_Cyan_Block"
+    },
+    {
+      "x": -2,
+      "y": 6,
+      "z": 1,
+      "name": "Rock_Crystal_Blue_Large"
+    },
+    {
+      "x": -2,
+      "y": 10,
+      "z": 1,
+      "name": "Rock_Crystal_Blue_Medium",
+      "rotation": 5
+    },
+    {
+      "x": -2,
+      "y": 11,
+      "z": 1,
+      "name": "Rock_Crystal_Blue_Small",
+      "rotation": 8
+    },
+    {
+      "x": -2,
+      "y": 12,
+      "z": 1,
+      "name": "Rock_Crystal_Cyan_Block"
+    },
+    {
+      "x": -2,
+      "y": 13,
+      "z": 1,
+      "name": "Rock_Chalk"
+    },
+    {
+      "x": -2,
+      "y": 14,
+      "z": 1,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": -2,
+      "y": 2,
+      "z": 2,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": -2,
+      "y": 3,
+      "z": 2,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": -2,
+      "y": 4,
+      "z": 2,
+      "name": "Rock_Chalk"
+    },
+    {
+      "x": -2,
+      "y": 5,
+      "z": 2,
+      "name": "Rock_Crystal_Cyan_Block"
+    },
+    {
+      "x": -2,
+      "y": 6,
+      "z": 2,
+      "name": "Rock_Crystal_Cyan_Medium",
+      "rotation": 6
+    },
+    {
+      "x": -2,
+      "y": 10,
+      "z": 2,
+      "name": "Rock_Crystal_Blue_Large",
+      "rotation": 8
+    },
+    {
+      "x": -2,
+      "y": 11,
+      "z": 2,
+      "name": "Rock_Crystal_Cyan_Block"
+    },
+    {
+      "x": -2,
+      "y": 12,
+      "z": 2,
+      "name": "Rock_Chalk"
+    },
+    {
+      "x": -2,
+      "y": 13,
+      "z": 2,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": -2,
+      "y": 2,
+      "z": 3,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": -2,
+      "y": 3,
+      "z": 3,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": -2,
+      "y": 4,
+      "z": 3,
+      "name": "Rock_Chalk"
+    },
+    {
+      "x": -2,
+      "y": 5,
+      "z": 3,
+      "name": "Rock_Crystal_Cyan_Block"
+    },
+    {
+      "x": -2,
+      "y": 6,
+      "z": 3,
+      "name": "Rock_Crystal_Cyan_Block"
+    },
+    {
+      "x": -2,
+      "y": 7,
+      "z": 3,
+      "name": "Rock_Crystal_Blue_Small",
+      "rotation": 5
+    },
+    {
+      "x": -2,
+      "y": 8,
+      "z": 3,
+      "name": "Rock_Crystal_Blue_Medium",
+      "rotation": 6
+    },
+    {
+      "x": -2,
+      "y": 9,
+      "z": 3,
+      "name": "Rock_Crystal_Cyan_Block"
+    },
+    {
+      "x": -2,
+      "y": 10,
+      "z": 3,
+      "name": "Rock_Crystal_Cyan_Block"
+    },
+    {
+      "x": -2,
+      "y": 11,
+      "z": 3,
+      "name": "Rock_Chalk"
+    },
+    {
+      "x": -2,
+      "y": 12,
+      "z": 3,
+      "name": "Rock_Chalk"
+    },
+    {
+      "x": -2,
+      "y": 13,
+      "z": 3,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": -2,
+      "y": 3,
+      "z": 4,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": -2,
+      "y": 4,
+      "z": 4,
+      "name": "Rock_Chalk"
+    },
+    {
+      "x": -2,
+      "y": 5,
+      "z": 4,
+      "name": "Rock_Chalk"
+    },
+    {
+      "x": -2,
+      "y": 6,
+      "z": 4,
+      "name": "Rock_Chalk"
+    },
+    {
+      "x": -2,
+      "y": 7,
+      "z": 4,
+      "name": "Rock_Crystal_Cyan_Block"
+    },
+    {
+      "x": -2,
+      "y": 8,
+      "z": 4,
+      "name": "Rock_Crystal_Cyan_Block"
+    },
+    {
+      "x": -2,
+      "y": 9,
+      "z": 4,
+      "name": "Rock_Chalk"
+    },
+    {
+      "x": -2,
+      "y": 10,
+      "z": 4,
+      "name": "Rock_Chalk"
+    },
+    {
+      "x": -2,
+      "y": 11,
+      "z": 4,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": -2,
+      "y": 12,
+      "z": 4,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": -2,
+      "y": 3,
+      "z": 5,
+      "name": "Cloud"
+    },
+    {
+      "x": -2,
+      "y": 4,
+      "z": 5,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": -2,
+      "y": 5,
+      "z": 5,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": -2,
+      "y": 6,
+      "z": 5,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": -2,
+      "y": 7,
+      "z": 5,
+      "name": "Rock_Chalk"
+    },
+    {
+      "x": -2,
+      "y": 8,
+      "z": 5,
+      "name": "Rock_Chalk"
+    },
+    {
+      "x": -2,
+      "y": 9,
+      "z": 5,
+      "name": "Rock_Chalk"
+    },
+    {
+      "x": -2,
+      "y": 10,
+      "z": 5,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": -2,
+      "y": 11,
+      "z": 5,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": -2,
+      "y": 3,
+      "z": 6,
+      "name": "Cloud"
+    },
+    {
+      "x": -2,
+      "y": 4,
+      "z": 6,
+      "name": "Cloud"
+    },
+    {
+      "x": -2,
+      "y": 5,
+      "z": 6,
+      "name": "Cloud"
+    },
+    {
+      "x": -2,
+      "y": 6,
+      "z": 6,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": -2,
+      "y": 7,
+      "z": 6,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": -2,
+      "y": 8,
+      "z": 6,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": -2,
+      "y": 9,
+      "z": 6,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": -2,
+      "y": 10,
+      "z": 6,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": -2,
+      "y": 4,
+      "z": 7,
+      "name": "Cloud"
+    },
+    {
+      "x": -2,
+      "y": 5,
+      "z": 7,
+      "name": "Cloud",
+      "support": 15
+    },
+    {
+      "x": -2,
+      "y": 6,
+      "z": 7,
+      "name": "Cloud",
+      "support": 15
+    },
+    {
+      "x": -2,
+      "y": 5,
+      "z": 8,
+      "name": "Cloud",
+      "support": 15
+    },
+    {
+      "x": -1,
+      "y": 4,
+      "z": -8,
+      "name": "Cloud",
+      "support": 15
+    },
+    {
+      "x": -1,
+      "y": 5,
+      "z": -8,
+      "name": "Cloud",
+      "support": 15
+    },
+    {
+      "x": -1,
+      "y": 5,
+      "z": -6,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": -1,
+      "y": 6,
+      "z": -6,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": -1,
+      "y": 7,
+      "z": -6,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": -1,
+      "y": 8,
+      "z": -6,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": -1,
+      "y": 9,
+      "z": -6,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": -1,
+      "y": 4,
+      "z": -5,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": -1,
+      "y": 5,
+      "z": -5,
+      "name": "Rock_Chalk"
+    },
+    {
+      "x": -1,
+      "y": 6,
+      "z": -5,
+      "name": "Rock_Chalk"
+    },
+    {
+      "x": -1,
+      "y": 7,
+      "z": -5,
+      "name": "Rock_Chalk"
+    },
+    {
+      "x": -1,
+      "y": 8,
+      "z": -5,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": -1,
+      "y": 9,
+      "z": -5,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": -1,
+      "y": 10,
+      "z": -5,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": -1,
+      "y": 11,
+      "z": -5,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": -1,
+      "y": 3,
+      "z": -4,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": -1,
+      "y": 4,
+      "z": -4,
+      "name": "Rock_Chalk"
+    },
+    {
+      "x": -1,
+      "y": 5,
+      "z": -4,
+      "name": "Rock_Crystal_Blue_Block",
+      "rotation": 4
+    },
+    {
+      "x": -1,
+      "y": 6,
+      "z": -4,
+      "name": "Rock_Crystal_Cyan_Block"
+    },
+    {
+      "x": -1,
+      "y": 7,
+      "z": -4,
+      "name": "Rock_Crystal_Cyan_Block"
+    },
+    {
+      "x": -1,
+      "y": 8,
+      "z": -4,
+      "name": "Rock_Chalk"
+    },
+    {
+      "x": -1,
+      "y": 9,
+      "z": -4,
+      "name": "Rock_Chalk"
+    },
+    {
+      "x": -1,
+      "y": 10,
+      "z": -4,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": -1,
+      "y": 11,
+      "z": -4,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": -1,
+      "y": 2,
+      "z": -3,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": -1,
+      "y": 3,
+      "z": -3,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": -1,
+      "y": 4,
+      "z": -3,
+      "name": "Rock_Chalk"
+    },
+    {
+      "x": -1,
+      "y": 5,
+      "z": -3,
+      "name": "Rock_Crystal_Cyan_Block"
+    },
+    {
+      "x": -1,
+      "y": 6,
+      "z": -3,
+      "name": "Rock_Crystal_Cyan_Block"
+    },
+    {
+      "x": -1,
+      "y": 7,
+      "z": -3,
+      "name": "Rock_Gem_Zephyr",
+      "rotation": 4
+    },
+    {
+      "x": -1,
+      "y": 8,
+      "z": -3,
+      "name": "Rock_Crystal_Blue_Block",
+      "rotation": 4
+    },
+    {
+      "x": -1,
+      "y": 9,
+      "z": -3,
+      "name": "Rock_Crystal_Cyan_Block"
+    },
+    {
+      "x": -1,
+      "y": 10,
+      "z": -3,
+      "name": "Rock_Chalk"
+    },
+    {
+      "x": -1,
+      "y": 11,
+      "z": -3,
+      "name": "Rock_Chalk"
+    },
+    {
+      "x": -1,
+      "y": 12,
+      "z": -3,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": -1,
+      "y": 1,
+      "z": -2,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": -1,
+      "y": 2,
+      "z": -2,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": -1,
+      "y": 3,
+      "z": -2,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": -1,
+      "y": 4,
+      "z": -2,
+      "name": "Rock_Chalk"
+    },
+    {
+      "x": -1,
+      "y": 5,
+      "z": -2,
+      "name": "Rock_Crystal_Blue_Block"
+    },
+    {
+      "x": -1,
+      "y": 6,
+      "z": -2,
+      "name": "Rock_Crystal_Blue_Medium",
+      "rotation": 5
+    },
+    {
+      "x": -1,
+      "y": 8,
+      "z": -2,
+      "name": "Rock_Crystal_Blue_Medium",
+      "rotation": 4
+    },
+    {
+      "x": -1,
+      "y": 9,
+      "z": -2,
+      "name": "Rock_Gem_Sapphire",
+      "rotation": 5
+    },
+    {
+      "x": -1,
+      "y": 10,
+      "z": -2,
+      "name": "Rock_Crystal_Blue_Block",
+      "rotation": 4
+    },
+    {
+      "x": -1,
+      "y": 11,
+      "z": -2,
+      "name": "Rock_Crystal_Blue_Block"
+    },
+    {
+      "x": -1,
+      "y": 12,
+      "z": -2,
+      "name": "Rock_Chalk"
+    },
+    {
+      "x": -1,
+      "y": 13,
+      "z": -2,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": -1,
+      "y": 1,
+      "z": -1,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": -1,
+      "y": 2,
+      "z": -1,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": -1,
+      "y": 3,
+      "z": -1,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": -1,
+      "y": 4,
+      "z": -1,
+      "name": "Rock_Chalk"
+    },
+    {
+      "x": -1,
+      "y": 5,
+      "z": -1,
+      "name": "Rock_Crystal_Blue_Block"
+    },
+    {
+      "x": -1,
+      "y": 6,
+      "z": -1,
+      "name": "Rock_Crystal_Cyan_Small"
+    },
+    {
+      "x": -1,
+      "y": 11,
+      "z": -1,
+      "name": "Rock_Crystal_Blue_Block"
+    },
+    {
+      "x": -1,
+      "y": 12,
+      "z": -1,
+      "name": "Rock_Chalk"
+    },
+    {
+      "x": -1,
+      "y": 13,
+      "z": -1,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": -1,
+      "y": 1,
+      "z": 0,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": -1,
+      "y": 2,
+      "z": 0,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": -1,
+      "y": 3,
+      "z": 0,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": -1,
+      "y": 4,
+      "z": 0,
+      "name": "Rock_Chalk"
+    },
+    {
+      "x": -1,
+      "y": 5,
+      "z": 0,
+      "name": "Rock_Crystal_Blue_Block"
+    },
+    {
+      "x": -1,
+      "y": 6,
+      "z": 0,
+      "name": "Rock_Crystal_Blue_Medium"
+    },
+    {
+      "x": -1,
+      "y": 11,
+      "z": 0,
+      "name": "Rock_Crystal_Cyan_Large",
+      "rotation": 8
+    },
+    {
+      "x": -1,
+      "y": 12,
+      "z": 0,
+      "name": "Rock_Crystal_Blue_Block"
+    },
+    {
+      "x": -1,
+      "y": 13,
+      "z": 0,
+      "name": "Rock_Chalk"
+    },
+    {
+      "x": -1,
+      "y": 14,
+      "z": 0,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": -1,
+      "y": 1,
+      "z": 1,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": -1,
+      "y": 2,
+      "z": 1,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": -1,
+      "y": 3,
+      "z": 1,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": -1,
+      "y": 4,
+      "z": 1,
+      "name": "Rock_Chalk"
+    },
+    {
+      "x": -1,
+      "y": 5,
+      "z": 1,
+      "name": "Rock_Crystal_Cyan_Block"
+    },
+    {
+      "x": -1,
+      "y": 12,
+      "z": 1,
+      "name": "Rock_Crystal_Cyan_Block"
+    },
+    {
+      "x": -1,
+      "y": 13,
+      "z": 1,
+      "name": "Rock_Chalk"
+    },
+    {
+      "x": -1,
+      "y": 14,
+      "z": 1,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": -1,
+      "y": 1,
+      "z": 2,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": -1,
+      "y": 2,
+      "z": 2,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": -1,
+      "y": 3,
+      "z": 2,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": -1,
+      "y": 4,
+      "z": 2,
+      "name": "Rock_Chalk"
+    },
+    {
+      "x": -1,
+      "y": 5,
+      "z": 2,
+      "name": "Rock_Crystal_Cyan_Block"
+    },
+    {
+      "x": -1,
+      "y": 6,
+      "z": 2,
+      "name": "Rock_Crystal_Cyan_Small"
+    },
+    {
+      "x": -1,
+      "y": 11,
+      "z": 2,
+      "name": "Rock_Crystal_Cyan_Block"
+    },
+    {
+      "x": -1,
+      "y": 12,
+      "z": 2,
+      "name": "Rock_Chalk"
+    },
+    {
+      "x": -1,
+      "y": 13,
+      "z": 2,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": -1,
+      "y": 2,
+      "z": 3,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": -1,
+      "y": 3,
+      "z": 3,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": -1,
+      "y": 4,
+      "z": 3,
+      "name": "Rock_Chalk"
+    },
+    {
+      "x": -1,
+      "y": 5,
+      "z": 3,
+      "name": "Rock_Crystal_Blue_Block"
+    },
+    {
+      "x": -1,
+      "y": 7,
+      "z": 3,
+      "name": "Rock_Crystal_Cyan_Medium",
+      "rotation": 6
+    },
+    {
+      "x": -1,
+      "y": 8,
+      "z": 3,
+      "name": "Rock_Gem_Sapphire",
+      "rotation": 6
+    },
+    {
+      "x": -1,
+      "y": 9,
+      "z": 3,
+      "name": "Rock_Crystal_Blue_Large",
+      "rotation": 6
+    },
+    {
+      "x": -1,
+      "y": 10,
+      "z": 3,
+      "name": "Rock_Crystal_Cyan_Block"
+    },
+    {
+      "x": -1,
+      "y": 11,
+      "z": 3,
+      "name": "Rock_Chalk"
+    },
+    {
+      "x": -1,
+      "y": 12,
+      "z": 3,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": -1,
+      "y": 3,
+      "z": 4,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": -1,
+      "y": 4,
+      "z": 4,
+      "name": "Rock_Chalk"
+    },
+    {
+      "x": -1,
+      "y": 5,
+      "z": 4,
+      "name": "Rock_Chalk"
+    },
+    {
+      "x": -1,
+      "y": 6,
+      "z": 4,
+      "name": "Rock_Crystal_Blue_Block",
+      "rotation": 4
+    },
+    {
+      "x": -1,
+      "y": 7,
+      "z": 4,
+      "name": "Rock_Crystal_Cyan_Block"
+    },
+    {
+      "x": -1,
+      "y": 8,
+      "z": 4,
+      "name": "Rock_Crystal_Cyan_Block"
+    },
+    {
+      "x": -1,
+      "y": 9,
+      "z": 4,
+      "name": "Rock_Crystal_Cyan_Block"
+    },
+    {
+      "x": -1,
+      "y": 10,
+      "z": 4,
+      "name": "Rock_Chalk"
+    },
+    {
+      "x": -1,
+      "y": 11,
+      "z": 4,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": -1,
+      "y": 3,
+      "z": 5,
+      "name": "Cloud"
+    },
+    {
+      "x": -1,
+      "y": 4,
+      "z": 5,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": -1,
+      "y": 5,
+      "z": 5,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": -1,
+      "y": 6,
+      "z": 5,
+      "name": "Rock_Chalk"
+    },
+    {
+      "x": -1,
+      "y": 7,
+      "z": 5,
+      "name": "Rock_Chalk"
+    },
+    {
+      "x": -1,
+      "y": 8,
+      "z": 5,
+      "name": "Rock_Chalk"
+    },
+    {
+      "x": -1,
+      "y": 9,
+      "z": 5,
+      "name": "Rock_Chalk"
+    },
+    {
+      "x": -1,
+      "y": 10,
+      "z": 5,
+      "name": "Rock_Chalk"
+    },
+    {
+      "x": -1,
+      "y": 11,
+      "z": 5,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": -1,
+      "y": 3,
+      "z": 6,
+      "name": "Cloud"
+    },
+    {
+      "x": -1,
+      "y": 4,
+      "z": 6,
+      "name": "Cloud"
+    },
+    {
+      "x": -1,
+      "y": 5,
+      "z": 6,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": -1,
+      "y": 6,
+      "z": 6,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": -1,
+      "y": 7,
+      "z": 6,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": -1,
+      "y": 8,
+      "z": 6,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": -1,
+      "y": 9,
+      "z": 6,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": -1,
+      "y": 10,
+      "z": 6,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": -1,
+      "y": 4,
+      "z": 7,
+      "name": "Cloud"
+    },
+    {
+      "x": -1,
+      "y": 5,
+      "z": 7,
+      "name": "Cloud",
+      "support": 15
+    },
+    {
+      "x": -1,
+      "y": 6,
+      "z": 7,
+      "name": "Cloud",
+      "support": 15
+    },
+    {
+      "x": -1,
+      "y": 5,
+      "z": 8,
+      "name": "Cloud",
+      "support": 15
+    },
+    {
+      "x": 0,
+      "y": 4,
+      "z": -9,
+      "name": "Cloud",
+      "support": 15
+    },
+    {
+      "x": 0,
+      "y": 4,
+      "z": -8,
+      "name": "Cloud",
+      "support": 15
+    },
+    {
+      "x": 0,
+      "y": 5,
+      "z": -8,
+      "name": "Cloud",
+      "support": 15
+    },
+    {
+      "x": 0,
+      "y": 5,
+      "z": -7,
+      "name": "Cloud"
+    },
+    {
+      "x": 0,
+      "y": 5,
+      "z": -6,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": 0,
+      "y": 6,
+      "z": -6,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": 0,
+      "y": 7,
+      "z": -6,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": 0,
+      "y": 8,
+      "z": -6,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": 0,
+      "y": 9,
+      "z": -6,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": 0,
+      "y": 3,
+      "z": -5,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": 0,
+      "y": 4,
+      "z": -5,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": 0,
+      "y": 5,
+      "z": -5,
+      "name": "Rock_Chalk"
+    },
+    {
+      "x": 0,
+      "y": 6,
+      "z": -5,
+      "name": "Rock_Chalk"
+    },
+    {
+      "x": 0,
+      "y": 7,
+      "z": -5,
+      "name": "Rock_Chalk"
+    },
+    {
+      "x": 0,
+      "y": 8,
+      "z": -5,
+      "name": "Rock_Chalk"
+    },
+    {
+      "x": 0,
+      "y": 9,
+      "z": -5,
+      "name": "Rock_Chalk"
+    },
+    {
+      "x": 0,
+      "y": 10,
+      "z": -5,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": 0,
+      "y": 11,
+      "z": -5,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": 0,
+      "y": 2,
+      "z": -4,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": 0,
+      "y": 3,
+      "z": -4,
+      "name": "Rock_Chalk"
+    },
+    {
+      "x": 0,
+      "y": 4,
+      "z": -4,
+      "name": "Rock_Chalk"
+    },
+    {
+      "x": 0,
+      "y": 5,
+      "z": -4,
+      "name": "Rock_Crystal_Cyan_Block"
+    },
+    {
+      "x": 0,
+      "y": 6,
+      "z": -4,
+      "name": "Rock_Crystal_Cyan_Block"
+    },
+    {
+      "x": 0,
+      "y": 7,
+      "z": -4,
+      "name": "Rock_Crystal_Cyan_Block"
+    },
+    {
+      "x": 0,
+      "y": 8,
+      "z": -4,
+      "name": "Rock_Crystal_Cyan_Block"
+    },
+    {
+      "x": 0,
+      "y": 9,
+      "z": -4,
+      "name": "Rock_Chalk"
+    },
+    {
+      "x": 0,
+      "y": 10,
+      "z": -4,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": 0,
+      "y": 11,
+      "z": -4,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": 0,
+      "y": 12,
+      "z": -4,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": 0,
+      "y": 2,
+      "z": -3,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": 0,
+      "y": 3,
+      "z": -3,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": 0,
+      "y": 4,
+      "z": -3,
+      "name": "Rock_Chalk"
+    },
+    {
+      "x": 0,
+      "y": 5,
+      "z": -3,
+      "name": "Rock_Crystal_Blue_Block"
+    },
+    {
+      "x": 0,
+      "y": 6,
+      "z": -3,
+      "name": "Rock_Crystal_Blue_Medium",
+      "rotation": 4
+    },
+    {
+      "x": 0,
+      "y": 7,
+      "z": -3,
+      "name": "Rock_Crystal_Blue_Medium",
+      "rotation": 4
+    },
+    {
+      "x": 0,
+      "y": 8,
+      "z": -3,
+      "name": "Rock_Crystal_Cyan_Medium",
+      "rotation": 4
+    },
+    {
+      "x": 0,
+      "y": 9,
+      "z": -3,
+      "name": "Rock_Crystal_Cyan_Block"
+    },
+    {
+      "x": 0,
+      "y": 10,
+      "z": -3,
+      "name": "Rock_Chalk"
+    },
+    {
+      "x": 0,
+      "y": 11,
+      "z": -3,
+      "name": "Rock_Chalk"
+    },
+    {
+      "x": 0,
+      "y": 12,
+      "z": -3,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": 0,
+      "y": 1,
+      "z": -2,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": 0,
+      "y": 2,
+      "z": -2,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": 0,
+      "y": 3,
+      "z": -2,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": 0,
+      "y": 4,
+      "z": -2,
+      "name": "Rock_Chalk"
+    },
+    {
+      "x": 0,
+      "y": 5,
+      "z": -2,
+      "name": "Rock_Crystal_Blue_Block"
+    },
+    {
+      "x": 0,
+      "y": 6,
+      "z": -2,
+      "name": "Rock_Crystal_Blue_Medium"
+    },
+    {
+      "x": 0,
+      "y": 9,
+      "z": -2,
+      "name": "Rock_Crystal_Cyan_Medium",
+      "rotation": 8
+    },
+    {
+      "x": 0,
+      "y": 10,
+      "z": -2,
+      "name": "Rock_Crystal_Cyan_Block"
+    },
+    {
+      "x": 0,
+      "y": 11,
+      "z": -2,
+      "name": "Rock_Crystal_Blue_Block"
+    },
+    {
+      "x": 0,
+      "y": 12,
+      "z": -2,
+      "name": "Rock_Chalk"
+    },
+    {
+      "x": 0,
+      "y": 13,
+      "z": -2,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": 0,
+      "y": 1,
+      "z": -1,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": 0,
+      "y": 2,
+      "z": -1,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": 0,
+      "y": 3,
+      "z": -1,
+      "name": "Rock_Chalk"
+    },
+    {
+      "x": 0,
+      "y": 4,
+      "z": -1,
+      "name": "Rock_Crystal_Blue_Block"
+    },
+    {
+      "x": 0,
+      "y": 5,
+      "z": -1,
+      "name": "Rock_Crystal_Blue_Medium"
+    },
+    {
+      "x": 0,
+      "y": 10,
+      "z": -1,
+      "name": "Rock_Crystal_Blue_Large",
+      "rotation": 8
+    },
+    {
+      "x": 0,
+      "y": 11,
+      "z": -1,
+      "name": "Rock_Crystal_Blue_Block"
+    },
+    {
+      "x": 0,
+      "y": 12,
+      "z": -1,
+      "name": "Rock_Chalk"
+    },
+    {
+      "x": 0,
+      "y": 13,
+      "z": -1,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": 0,
+      "y": 14,
+      "z": -1,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": 0,
+      "y": 1,
+      "z": 0,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": 0,
+      "y": 2,
+      "z": 0,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": 0,
+      "y": 3,
+      "z": 0,
+      "name": "Rock_Chalk"
+    },
+    {
+      "x": 0,
+      "y": 4,
+      "z": 0,
+      "name": "Rock_Crystal_Blue_Block"
+    },
+    {
+      "x": 0,
+      "y": 5,
+      "z": 0,
+      "name": "Rock_Crystal_Cyan_Small"
+    },
+    {
+      "x": 0,
+      "y": 10,
+      "z": 0,
+      "name": "Rock_Crystal_Cyan_Small",
+      "rotation": 8
+    },
+    {
+      "x": 0,
+      "y": 11,
+      "z": 0,
+      "name": "Rock_Crystal_Blue_Block"
+    },
+    {
+      "x": 0,
+      "y": 12,
+      "z": 0,
+      "name": "Rock_Chalk"
+    },
+    {
+      "x": 0,
+      "y": 13,
+      "z": 0,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": 0,
+      "y": 14,
+      "z": 0,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": 0,
+      "y": 1,
+      "z": 1,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": 0,
+      "y": 2,
+      "z": 1,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": 0,
+      "y": 3,
+      "z": 1,
+      "name": "Rock_Chalk"
+    },
+    {
+      "x": 0,
+      "y": 4,
+      "z": 1,
+      "name": "Rock_Crystal_Cyan_Block"
+    },
+    {
+      "x": 0,
+      "y": 5,
+      "z": 1,
+      "name": "Rock_Gem_Diamond"
+    },
+    {
+      "x": 0,
+      "y": 10,
+      "z": 1,
+      "name": "Rock_Crystal_Blue_Large",
+      "rotation": 8
+    },
+    {
+      "x": 0,
+      "y": 11,
+      "z": 1,
+      "name": "Rock_Crystal_Blue_Block"
+    },
+    {
+      "x": 0,
+      "y": 12,
+      "z": 1,
+      "name": "Rock_Chalk"
+    },
+    {
+      "x": 0,
+      "y": 13,
+      "z": 1,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": 0,
+      "y": 1,
+      "z": 2,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": 0,
+      "y": 2,
+      "z": 2,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": 0,
+      "y": 3,
+      "z": 2,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": 0,
+      "y": 4,
+      "z": 2,
+      "name": "Rock_Chalk"
+    },
+    {
+      "x": 0,
+      "y": 5,
+      "z": 2,
+      "name": "Rock_Crystal_Blue_Block"
+    },
+    {
+      "x": 0,
+      "y": 11,
+      "z": 2,
+      "name": "Rock_Crystal_Blue_Block"
+    },
+    {
+      "x": 0,
+      "y": 12,
+      "z": 2,
+      "name": "Rock_Chalk"
+    },
+    {
+      "x": 0,
+      "y": 13,
+      "z": 2,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": 0,
+      "y": 2,
+      "z": 3,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": 0,
+      "y": 3,
+      "z": 3,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": 0,
+      "y": 4,
+      "z": 3,
+      "name": "Rock_Chalk"
+    },
+    {
+      "x": 0,
+      "y": 5,
+      "z": 3,
+      "name": "Rock_Crystal_Blue_Block"
+    },
+    {
+      "x": 0,
+      "y": 6,
+      "z": 3,
+      "name": "Rock_Crystal_Blue_Large",
+      "rotation": 6
+    },
+    {
+      "x": 0,
+      "y": 7,
+      "z": 3,
+      "name": "Rock_Crystal_Blue_Small",
+      "rotation": 6
+    },
+    {
+      "x": 0,
+      "y": 8,
+      "z": 3,
+      "name": "Rock_Crystal_Blue_Small",
+      "rotation": 6
+    },
+    {
+      "x": 0,
+      "y": 9,
+      "z": 3,
+      "name": "Rock_Crystal_Cyan_Medium",
+      "rotation": 6
+    },
+    {
+      "x": 0,
+      "y": 10,
+      "z": 3,
+      "name": "Rock_Crystal_Blue_Block",
+      "rotation": 4
+    },
+    {
+      "x": 0,
+      "y": 11,
+      "z": 3,
+      "name": "Rock_Chalk"
+    },
+    {
+      "x": 0,
+      "y": 12,
+      "z": 3,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": 0,
+      "y": 2,
+      "z": 4,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": 0,
+      "y": 3,
+      "z": 4,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": 0,
+      "y": 4,
+      "z": 4,
+      "name": "Rock_Chalk"
+    },
+    {
+      "x": 0,
+      "y": 5,
+      "z": 4,
+      "name": "Rock_Chalk"
+    },
+    {
+      "x": 0,
+      "y": 6,
+      "z": 4,
+      "name": "Rock_Crystal_Blue_Block",
+      "rotation": 4
+    },
+    {
+      "x": 0,
+      "y": 7,
+      "z": 4,
+      "name": "Rock_Crystal_Cyan_Block"
+    },
+    {
+      "x": 0,
+      "y": 8,
+      "z": 4,
+      "name": "Rock_Crystal_Cyan_Block"
+    },
+    {
+      "x": 0,
+      "y": 9,
+      "z": 4,
+      "name": "Rock_Crystal_Cyan_Block"
+    },
+    {
+      "x": 0,
+      "y": 10,
+      "z": 4,
+      "name": "Rock_Chalk"
+    },
+    {
+      "x": 0,
+      "y": 11,
+      "z": 4,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": 0,
+      "y": 3,
+      "z": 5,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": 0,
+      "y": 4,
+      "z": 5,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": 0,
+      "y": 5,
+      "z": 5,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": 0,
+      "y": 6,
+      "z": 5,
+      "name": "Rock_Chalk"
+    },
+    {
+      "x": 0,
+      "y": 7,
+      "z": 5,
+      "name": "Rock_Chalk"
+    },
+    {
+      "x": 0,
+      "y": 8,
+      "z": 5,
+      "name": "Rock_Chalk"
+    },
+    {
+      "x": 0,
+      "y": 9,
+      "z": 5,
+      "name": "Rock_Chalk"
+    },
+    {
+      "x": 0,
+      "y": 10,
+      "z": 5,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": 0,
+      "y": 3,
+      "z": 6,
+      "name": "Cloud"
+    },
+    {
+      "x": 0,
+      "y": 4,
+      "z": 6,
+      "name": "Cloud"
+    },
+    {
+      "x": 0,
+      "y": 5,
+      "z": 6,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": 0,
+      "y": 6,
+      "z": 6,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": 0,
+      "y": 7,
+      "z": 6,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": 0,
+      "y": 8,
+      "z": 6,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": 0,
+      "y": 9,
+      "z": 6,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": 0,
+      "y": 10,
+      "z": 6,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": 0,
+      "y": 4,
+      "z": 7,
+      "name": "Cloud"
+    },
+    {
+      "x": 0,
+      "y": 5,
+      "z": 7,
+      "name": "Cloud",
+      "support": 15
+    },
+    {
+      "x": 0,
+      "y": 6,
+      "z": 7,
+      "name": "Cloud",
+      "support": 15
+    },
+    {
+      "x": 1,
+      "y": 4,
+      "z": -9,
+      "name": "Cloud",
+      "support": 15
+    },
+    {
+      "x": 1,
+      "y": 4,
+      "z": -8,
+      "name": "Cloud",
+      "support": 15
+    },
+    {
+      "x": 1,
+      "y": 5,
+      "z": -8,
+      "name": "Cloud",
+      "support": 15
+    },
+    {
+      "x": 1,
+      "y": 4,
+      "z": -7,
+      "name": "Cloud"
+    },
+    {
+      "x": 1,
+      "y": 5,
+      "z": -7,
+      "name": "Cloud"
+    },
+    {
+      "x": 1,
+      "y": 4,
+      "z": -6,
+      "name": "Cloud"
+    },
+    {
+      "x": 1,
+      "y": 5,
+      "z": -6,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": 1,
+      "y": 6,
+      "z": -6,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": 1,
+      "y": 7,
+      "z": -6,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": 1,
+      "y": 8,
+      "z": -6,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": 1,
+      "y": 9,
+      "z": -6,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": 1,
+      "y": 3,
+      "z": -5,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": 1,
+      "y": 4,
+      "z": -5,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": 1,
+      "y": 5,
+      "z": -5,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": 1,
+      "y": 6,
+      "z": -5,
+      "name": "Rock_Chalk"
+    },
+    {
+      "x": 1,
+      "y": 7,
+      "z": -5,
+      "name": "Rock_Chalk"
+    },
+    {
+      "x": 1,
+      "y": 8,
+      "z": -5,
+      "name": "Rock_Chalk"
+    },
+    {
+      "x": 1,
+      "y": 9,
+      "z": -5,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": 1,
+      "y": 10,
+      "z": -5,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": 1,
+      "y": 11,
+      "z": -5,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": 1,
+      "y": 3,
+      "z": -4,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": 1,
+      "y": 4,
+      "z": -4,
+      "name": "Rock_Chalk"
+    },
+    {
+      "x": 1,
+      "y": 5,
+      "z": -4,
+      "name": "Rock_Chalk"
+    },
+    {
+      "x": 1,
+      "y": 6,
+      "z": -4,
+      "name": "Rock_Crystal_Cyan_Block"
+    },
+    {
+      "x": 1,
+      "y": 7,
+      "z": -4,
+      "name": "Rock_Crystal_Cyan_Block"
+    },
+    {
+      "x": 1,
+      "y": 8,
+      "z": -4,
+      "name": "Rock_Crystal_Cyan_Block"
+    },
+    {
+      "x": 1,
+      "y": 9,
+      "z": -4,
+      "name": "Rock_Chalk"
+    },
+    {
+      "x": 1,
+      "y": 10,
+      "z": -4,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": 1,
+      "y": 11,
+      "z": -4,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": 1,
+      "y": 12,
+      "z": -4,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": 1,
+      "y": 2,
+      "z": -3,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": 1,
+      "y": 3,
+      "z": -3,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": 1,
+      "y": 4,
+      "z": -3,
+      "name": "Rock_Chalk"
+    },
+    {
+      "x": 1,
+      "y": 5,
+      "z": -3,
+      "name": "Rock_Crystal_Blue_Block"
+    },
+    {
+      "x": 1,
+      "y": 7,
+      "z": -3,
+      "name": "Rock_Crystal_Cyan_Large",
+      "rotation": 4
+    },
+    {
+      "x": 1,
+      "y": 8,
+      "z": -3,
+      "name": "Rock_Crystal_Blue_Small",
+      "rotation": 4
+    },
+    {
+      "x": 1,
+      "y": 9,
+      "z": -3,
+      "name": "Rock_Crystal_Cyan_Block"
+    },
+    {
+      "x": 1,
+      "y": 10,
+      "z": -3,
+      "name": "Rock_Chalk"
+    },
+    {
+      "x": 1,
+      "y": 11,
+      "z": -3,
+      "name": "Rock_Chalk"
+    },
+    {
+      "x": 1,
+      "y": 12,
+      "z": -3,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": 1,
+      "y": 1,
+      "z": -2,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": 1,
+      "y": 2,
+      "z": -2,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": 1,
+      "y": 3,
+      "z": -2,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": 1,
+      "y": 4,
+      "z": -2,
+      "name": "Rock_Chalk"
+    },
+    {
+      "x": 1,
+      "y": 5,
+      "z": -2,
+      "name": "Rock_Crystal_Blue_Block"
+    },
+    {
+      "x": 1,
+      "y": 6,
+      "z": -2,
+      "name": "Rock_Crystal_Blue_Small"
+    },
+    {
+      "x": 1,
+      "y": 10,
+      "z": -2,
+      "name": "Rock_Crystal_Cyan_Block"
+    },
+    {
+      "x": 1,
+      "y": 11,
+      "z": -2,
+      "name": "Rock_Crystal_Cyan_Block"
+    },
+    {
+      "x": 1,
+      "y": 12,
+      "z": -2,
+      "name": "Rock_Chalk"
+    },
+    {
+      "x": 1,
+      "y": 13,
+      "z": -2,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": 1,
+      "y": 1,
+      "z": -1,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": 1,
+      "y": 2,
+      "z": -1,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": 1,
+      "y": 3,
+      "z": -1,
+      "name": "Rock_Chalk"
+    },
+    {
+      "x": 1,
+      "y": 4,
+      "z": -1,
+      "name": "Rock_Crystal_Blue_Block"
+    },
+    {
+      "x": 1,
+      "y": 5,
+      "z": -1,
+      "name": "Rock_Crystal_Cyan_Large"
+    },
+    {
+      "x": 1,
+      "y": 10,
+      "z": -1,
+      "name": "Rock_Crystal_Cyan_Medium",
+      "rotation": 8
+    },
+    {
+      "x": 1,
+      "y": 11,
+      "z": -1,
+      "name": "Rock_Crystal_Blue_Block"
+    },
+    {
+      "x": 1,
+      "y": 12,
+      "z": -1,
+      "name": "Rock_Chalk"
+    },
+    {
+      "x": 1,
+      "y": 13,
+      "z": -1,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": 1,
+      "y": 1,
+      "z": 0,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": 1,
+      "y": 2,
+      "z": 0,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": 1,
+      "y": 3,
+      "z": 0,
+      "name": "Rock_Chalk"
+    },
+    {
+      "x": 1,
+      "y": 4,
+      "z": 0,
+      "name": "Rock_Crystal_Cyan_Block"
+    },
+    {
+      "x": 1,
+      "y": 11,
+      "z": 0,
+      "name": "Rock_Crystal_Cyan_Block"
+    },
+    {
+      "x": 1,
+      "y": 12,
+      "z": 0,
+      "name": "Rock_Chalk"
+    },
+    {
+      "x": 1,
+      "y": 13,
+      "z": 0,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": 1,
+      "y": 1,
+      "z": 1,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": 1,
+      "y": 2,
+      "z": 1,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": 1,
+      "y": 3,
+      "z": 1,
+      "name": "Rock_Chalk"
+    },
+    {
+      "x": 1,
+      "y": 4,
+      "z": 1,
+      "name": "Rock_Crystal_Cyan_Block"
+    },
+    {
+      "x": 1,
+      "y": 5,
+      "z": 1,
+      "name": "Rock_Crystal_Blue_Medium"
+    },
+    {
+      "x": 1,
+      "y": 10,
+      "z": 1,
+      "name": "Rock_Crystal_Blue_Small",
+      "rotation": 8
+    },
+    {
+      "x": 1,
+      "y": 11,
+      "z": 1,
+      "name": "Rock_Crystal_Cyan_Block"
+    },
+    {
+      "x": 1,
+      "y": 12,
+      "z": 1,
+      "name": "Rock_Chalk"
+    },
+    {
+      "x": 1,
+      "y": 13,
+      "z": 1,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": 1,
+      "y": 1,
+      "z": 2,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": 1,
+      "y": 2,
+      "z": 2,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": 1,
+      "y": 3,
+      "z": 2,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": 1,
+      "y": 4,
+      "z": 2,
+      "name": "Rock_Chalk"
+    },
+    {
+      "x": 1,
+      "y": 5,
+      "z": 2,
+      "name": "Rock_Crystal_Cyan_Block"
+    },
+    {
+      "x": 1,
+      "y": 10,
+      "z": 2,
+      "name": "Rock_Crystal_Blue_Large",
+      "rotation": 8
+    },
+    {
+      "x": 1,
+      "y": 11,
+      "z": 2,
+      "name": "Rock_Crystal_Blue_Block"
+    },
+    {
+      "x": 1,
+      "y": 12,
+      "z": 2,
+      "name": "Rock_Chalk"
+    },
+    {
+      "x": 1,
+      "y": 13,
+      "z": 2,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": 1,
+      "y": 2,
+      "z": 3,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": 1,
+      "y": 3,
+      "z": 3,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": 1,
+      "y": 4,
+      "z": 3,
+      "name": "Rock_Chalk"
+    },
+    {
+      "x": 1,
+      "y": 5,
+      "z": 3,
+      "name": "Rock_Crystal_Blue_Block"
+    },
+    {
+      "x": 1,
+      "y": 7,
+      "z": 3,
+      "name": "Rock_Crystal_Blue_Medium",
+      "rotation": 6
+    },
+    {
+      "x": 1,
+      "y": 8,
+      "z": 3,
+      "name": "Rock_Gem_Diamond",
+      "rotation": 6
+    },
+    {
+      "x": 1,
+      "y": 9,
+      "z": 3,
+      "name": "Rock_Crystal_Blue_Small",
+      "rotation": 6
+    },
+    {
+      "x": 1,
+      "y": 10,
+      "z": 3,
+      "name": "Rock_Crystal_Blue_Block",
+      "rotation": 4
+    },
+    {
+      "x": 1,
+      "y": 11,
+      "z": 3,
+      "name": "Rock_Chalk"
+    },
+    {
+      "x": 1,
+      "y": 12,
+      "z": 3,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": 1,
+      "y": 3,
+      "z": 4,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": 1,
+      "y": 4,
+      "z": 4,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": 1,
+      "y": 5,
+      "z": 4,
+      "name": "Rock_Chalk"
+    },
+    {
+      "x": 1,
+      "y": 6,
+      "z": 4,
+      "name": "Rock_Crystal_Blue_Block",
+      "rotation": 4
+    },
+    {
+      "x": 1,
+      "y": 7,
+      "z": 4,
+      "name": "Rock_Crystal_Cyan_Block"
+    },
+    {
+      "x": 1,
+      "y": 8,
+      "z": 4,
+      "name": "Rock_Crystal_Cyan_Block"
+    },
+    {
+      "x": 1,
+      "y": 9,
+      "z": 4,
+      "name": "Rock_Crystal_Cyan_Block"
+    },
+    {
+      "x": 1,
+      "y": 10,
+      "z": 4,
+      "name": "Rock_Chalk"
+    },
+    {
+      "x": 1,
+      "y": 11,
+      "z": 4,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": 1,
+      "y": 4,
+      "z": 5,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": 1,
+      "y": 5,
+      "z": 5,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": 1,
+      "y": 6,
+      "z": 5,
+      "name": "Rock_Chalk"
+    },
+    {
+      "x": 1,
+      "y": 7,
+      "z": 5,
+      "name": "Rock_Chalk"
+    },
+    {
+      "x": 1,
+      "y": 8,
+      "z": 5,
+      "name": "Rock_Chalk"
+    },
+    {
+      "x": 1,
+      "y": 9,
+      "z": 5,
+      "name": "Rock_Chalk"
+    },
+    {
+      "x": 1,
+      "y": 10,
+      "z": 5,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": 1,
+      "y": 4,
+      "z": 6,
+      "name": "Cloud"
+    },
+    {
+      "x": 1,
+      "y": 5,
+      "z": 6,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": 1,
+      "y": 6,
+      "z": 6,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": 1,
+      "y": 7,
+      "z": 6,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": 1,
+      "y": 8,
+      "z": 6,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": 1,
+      "y": 9,
+      "z": 6,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": 2,
+      "y": 5,
+      "z": -10,
+      "name": "Cloud"
+    },
+    {
+      "x": 2,
+      "y": 4,
+      "z": -9,
+      "name": "Cloud"
+    },
+    {
+      "x": 2,
+      "y": 5,
+      "z": -9,
+      "name": "Cloud"
+    },
+    {
+      "x": 2,
+      "y": 4,
+      "z": -8,
+      "name": "Cloud"
+    },
+    {
+      "x": 2,
+      "y": 5,
+      "z": -8,
+      "name": "Cloud"
+    },
+    {
+      "x": 2,
+      "y": 3,
+      "z": -7,
+      "name": "Cloud"
+    },
+    {
+      "x": 2,
+      "y": 4,
+      "z": -7,
+      "name": "Cloud"
+    },
+    {
+      "x": 2,
+      "y": 5,
+      "z": -7,
+      "name": "Cloud"
+    },
+    {
+      "x": 2,
+      "y": 3,
+      "z": -6,
+      "name": "Cloud"
+    },
+    {
+      "x": 2,
+      "y": 4,
+      "z": -6,
+      "name": "Cloud"
+    },
+    {
+      "x": 2,
+      "y": 5,
+      "z": -6,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": 2,
+      "y": 6,
+      "z": -6,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": 2,
+      "y": 7,
+      "z": -6,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": 2,
+      "y": 8,
+      "z": -6,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": 2,
+      "y": 3,
+      "z": -5,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": 2,
+      "y": 4,
+      "z": -5,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": 2,
+      "y": 5,
+      "z": -5,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": 2,
+      "y": 6,
+      "z": -5,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": 2,
+      "y": 7,
+      "z": -5,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": 2,
+      "y": 8,
+      "z": -5,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": 2,
+      "y": 9,
+      "z": -5,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": 2,
+      "y": 10,
+      "z": -5,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": 2,
+      "y": 3,
+      "z": -4,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": 2,
+      "y": 4,
+      "z": -4,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": 2,
+      "y": 5,
+      "z": -4,
+      "name": "Rock_Chalk"
+    },
+    {
+      "x": 2,
+      "y": 6,
+      "z": -4,
+      "name": "Rock_Chalk"
+    },
+    {
+      "x": 2,
+      "y": 7,
+      "z": -4,
+      "name": "Rock_Chalk"
+    },
+    {
+      "x": 2,
+      "y": 8,
+      "z": -4,
+      "name": "Rock_Chalk"
+    },
+    {
+      "x": 2,
+      "y": 9,
+      "z": -4,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": 2,
+      "y": 10,
+      "z": -4,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": 2,
+      "y": 11,
+      "z": -4,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": 2,
+      "y": 12,
+      "z": -4,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": 2,
+      "y": 2,
+      "z": -3,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": 2,
+      "y": 3,
+      "z": -3,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": 2,
+      "y": 4,
+      "z": -3,
+      "name": "Rock_Chalk"
+    },
+    {
+      "x": 2,
+      "y": 5,
+      "z": -3,
+      "name": "Rock_Crystal_Blue_Block",
+      "rotation": 4
+    },
+    {
+      "x": 2,
+      "y": 6,
+      "z": -3,
+      "name": "Rock_Crystal_Blue_Block",
+      "rotation": 4
+    },
+    {
+      "x": 2,
+      "y": 7,
+      "z": -3,
+      "name": "Rock_Crystal_Blue_Block",
+      "rotation": 4
+    },
+    {
+      "x": 2,
+      "y": 8,
+      "z": -3,
+      "name": "Rock_Crystal_Blue_Block",
+      "rotation": 4
+    },
+    {
+      "x": 2,
+      "y": 9,
+      "z": -3,
+      "name": "Rock_Chalk"
+    },
+    {
+      "x": 2,
+      "y": 10,
+      "z": -3,
+      "name": "Rock_Chalk"
+    },
+    {
+      "x": 2,
+      "y": 11,
+      "z": -3,
+      "name": "Rock_Chalk"
+    },
+    {
+      "x": 2,
+      "y": 12,
+      "z": -3,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": 2,
+      "y": 2,
+      "z": -2,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": 2,
+      "y": 3,
+      "z": -2,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": 2,
+      "y": 4,
+      "z": -2,
+      "name": "Rock_Chalk"
+    },
+    {
+      "x": 2,
+      "y": 5,
+      "z": -2,
+      "name": "Rock_Crystal_Blue_Block"
+    },
+    {
+      "x": 2,
+      "y": 6,
+      "z": -2,
+      "name": "Rock_Crystal_Blue_Medium",
+      "rotation": 4
+    },
+    {
+      "x": 2,
+      "y": 7,
+      "z": -2,
+      "name": "Rock_Gem_Sapphire",
+      "rotation": 4
+    },
+    {
+      "x": 2,
+      "y": 8,
+      "z": -2,
+      "name": "Rock_Crystal_Blue_Medium",
+      "rotation": 4
+    },
+    {
+      "x": 2,
+      "y": 9,
+      "z": -2,
+      "name": "Rock_Crystal_Blue_Block",
+      "rotation": 4
+    },
+    {
+      "x": 2,
+      "y": 10,
+      "z": -2,
+      "name": "Rock_Crystal_Cyan_Block"
+    },
+    {
+      "x": 2,
+      "y": 11,
+      "z": -2,
+      "name": "Rock_Chalk"
+    },
+    {
+      "x": 2,
+      "y": 12,
+      "z": -2,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": 2,
+      "y": 1,
+      "z": -1,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": 2,
+      "y": 2,
+      "z": -1,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": 2,
+      "y": 3,
+      "z": -1,
+      "name": "Rock_Chalk"
+    },
+    {
+      "x": 2,
+      "y": 4,
+      "z": -1,
+      "name": "Rock_Crystal_Blue_Block"
+    },
+    {
+      "x": 2,
+      "y": 5,
+      "z": -1,
+      "name": "Rock_Crystal_Blue_Block"
+    },
+    {
+      "x": 2,
+      "y": 6,
+      "z": -1,
+      "name": "Rock_Crystal_Blue_Medium"
+    },
+    {
+      "x": 2,
+      "y": 9,
+      "z": -1,
+      "name": "Rock_Crystal_Blue_Medium",
+      "rotation": 4
+    },
+    {
+      "x": 2,
+      "y": 10,
+      "z": -1,
+      "name": "Rock_Crystal_Cyan_Block"
+    },
+    {
+      "x": 2,
+      "y": 11,
+      "z": -1,
+      "name": "Rock_Chalk"
+    },
+    {
+      "x": 2,
+      "y": 12,
+      "z": -1,
+      "name": "Rock_Chalk"
+    },
+    {
+      "x": 2,
+      "y": 13,
+      "z": -1,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": 2,
+      "y": 1,
+      "z": 0,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": 2,
+      "y": 2,
+      "z": 0,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": 2,
+      "y": 3,
+      "z": 0,
+      "name": "Rock_Chalk"
+    },
+    {
+      "x": 2,
+      "y": 4,
+      "z": 0,
+      "name": "Rock_Crystal_Blue_Block"
+    },
+    {
+      "x": 2,
+      "y": 5,
+      "z": 0,
+      "name": "Rock_Crystal_Blue_Small"
+    },
+    {
+      "x": 2,
+      "y": 10,
+      "z": 0,
+      "name": "Rock_Gem_Zephyr",
+      "rotation": 8
+    },
+    {
+      "x": 2,
+      "y": 11,
+      "z": 0,
+      "name": "Rock_Crystal_Cyan_Block"
+    },
+    {
+      "x": 2,
+      "y": 12,
+      "z": 0,
+      "name": "Rock_Chalk"
+    },
+    {
+      "x": 2,
+      "y": 13,
+      "z": 0,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": 2,
+      "y": 1,
+      "z": 1,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": 2,
+      "y": 2,
+      "z": 1,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": 2,
+      "y": 3,
+      "z": 1,
+      "name": "Rock_Chalk"
+    },
+    {
+      "x": 2,
+      "y": 4,
+      "z": 1,
+      "name": "Rock_Crystal_Cyan_Block"
+    },
+    {
+      "x": 2,
+      "y": 5,
+      "z": 1,
+      "name": "Rock_Crystal_Cyan_Small"
+    },
+    {
+      "x": 2,
+      "y": 10,
+      "z": 1,
+      "name": "Rock_Crystal_Blue_Small",
+      "rotation": 6
+    },
+    {
+      "x": 2,
+      "y": 11,
+      "z": 1,
+      "name": "Rock_Crystal_Cyan_Block"
+    },
+    {
+      "x": 2,
+      "y": 12,
+      "z": 1,
+      "name": "Rock_Chalk"
+    },
+    {
+      "x": 2,
+      "y": 13,
+      "z": 1,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": 2,
+      "y": 2,
+      "z": 2,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": 2,
+      "y": 3,
+      "z": 2,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": 2,
+      "y": 4,
+      "z": 2,
+      "name": "Rock_Chalk"
+    },
+    {
+      "x": 2,
+      "y": 5,
+      "z": 2,
+      "name": "Rock_Crystal_Cyan_Block"
+    },
+    {
+      "x": 2,
+      "y": 6,
+      "z": 2,
+      "name": "Rock_Crystal_Cyan_Small"
+    },
+    {
+      "x": 2,
+      "y": 9,
+      "z": 2,
+      "name": "Rock_Crystal_Blue_Large",
+      "rotation": 6
+    },
+    {
+      "x": 2,
+      "y": 10,
+      "z": 2,
+      "name": "Rock_Crystal_Cyan_Block"
+    },
+    {
+      "x": 2,
+      "y": 11,
+      "z": 2,
+      "name": "Rock_Chalk"
+    },
+    {
+      "x": 2,
+      "y": 12,
+      "z": 2,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": 2,
+      "y": 2,
+      "z": 3,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": 2,
+      "y": 3,
+      "z": 3,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": 2,
+      "y": 4,
+      "z": 3,
+      "name": "Rock_Chalk"
+    },
+    {
+      "x": 2,
+      "y": 5,
+      "z": 3,
+      "name": "Rock_Crystal_Cyan_Block"
+    },
+    {
+      "x": 2,
+      "y": 7,
+      "z": 3,
+      "name": "Rock_Crystal_Blue_Large",
+      "rotation": 6
+    },
+    {
+      "x": 2,
+      "y": 8,
+      "z": 3,
+      "name": "Rock_Crystal_Cyan_Medium",
+      "rotation": 6
+    },
+    {
+      "x": 2,
+      "y": 9,
+      "z": 3,
+      "name": "Rock_Crystal_Cyan_Block"
+    },
+    {
+      "x": 2,
+      "y": 10,
+      "z": 3,
+      "name": "Rock_Crystal_Cyan_Block"
+    },
+    {
+      "x": 2,
+      "y": 11,
+      "z": 3,
+      "name": "Rock_Chalk"
+    },
+    {
+      "x": 2,
+      "y": 12,
+      "z": 3,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": 2,
+      "y": 3,
+      "z": 4,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": 2,
+      "y": 4,
+      "z": 4,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": 2,
+      "y": 5,
+      "z": 4,
+      "name": "Rock_Chalk"
+    },
+    {
+      "x": 2,
+      "y": 6,
+      "z": 4,
+      "name": "Rock_Crystal_Blue_Block",
+      "rotation": 4
+    },
+    {
+      "x": 2,
+      "y": 7,
+      "z": 4,
+      "name": "Rock_Crystal_Blue_Block",
+      "rotation": 4
+    },
+    {
+      "x": 2,
+      "y": 8,
+      "z": 4,
+      "name": "Rock_Crystal_Cyan_Block"
+    },
+    {
+      "x": 2,
+      "y": 9,
+      "z": 4,
+      "name": "Rock_Chalk"
+    },
+    {
+      "x": 2,
+      "y": 10,
+      "z": 4,
+      "name": "Rock_Chalk"
+    },
+    {
+      "x": 2,
+      "y": 11,
+      "z": 4,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": 2,
+      "y": 4,
+      "z": 5,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": 2,
+      "y": 5,
+      "z": 5,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": 2,
+      "y": 6,
+      "z": 5,
+      "name": "Rock_Chalk"
+    },
+    {
+      "x": 2,
+      "y": 7,
+      "z": 5,
+      "name": "Rock_Chalk"
+    },
+    {
+      "x": 2,
+      "y": 8,
+      "z": 5,
+      "name": "Rock_Chalk"
+    },
+    {
+      "x": 2,
+      "y": 9,
+      "z": 5,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": 2,
+      "y": 10,
+      "z": 5,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": 2,
+      "y": 6,
+      "z": 6,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": 2,
+      "y": 7,
+      "z": 6,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": 2,
+      "y": 8,
+      "z": 6,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": 2,
+      "y": 6,
+      "z": 7,
+      "name": "Cloud",
+      "support": 15
+    },
+    {
+      "x": 3,
+      "y": 5,
+      "z": -9,
+      "name": "Cloud"
+    },
+    {
+      "x": 3,
+      "y": 4,
+      "z": -8,
+      "name": "Cloud"
+    },
+    {
+      "x": 3,
+      "y": 5,
+      "z": -8,
+      "name": "Cloud"
+    },
+    {
+      "x": 3,
+      "y": 3,
+      "z": -7,
+      "name": "Cloud"
+    },
+    {
+      "x": 3,
+      "y": 4,
+      "z": -7,
+      "name": "Cloud"
+    },
+    {
+      "x": 3,
+      "y": 5,
+      "z": -7,
+      "name": "Cloud"
+    },
+    {
+      "x": 3,
+      "y": 3,
+      "z": -6,
+      "name": "Cloud"
+    },
+    {
+      "x": 3,
+      "y": 4,
+      "z": -6,
+      "name": "Cloud"
+    },
+    {
+      "x": 3,
+      "y": 5,
+      "z": -6,
+      "name": "Cloud"
+    },
+    {
+      "x": 3,
+      "y": 6,
+      "z": -6,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": 3,
+      "y": 7,
+      "z": -6,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": 3,
+      "y": 3,
+      "z": -5,
+      "name": "Cloud"
+    },
+    {
+      "x": 3,
+      "y": 4,
+      "z": -5,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": 3,
+      "y": 5,
+      "z": -5,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": 3,
+      "y": 6,
+      "z": -5,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": 3,
+      "y": 7,
+      "z": -5,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": 3,
+      "y": 8,
+      "z": -5,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": 3,
+      "y": 9,
+      "z": -5,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": 3,
+      "y": 3,
+      "z": -4,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": 3,
+      "y": 4,
+      "z": -4,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": 3,
+      "y": 5,
+      "z": -4,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": 3,
+      "y": 6,
+      "z": -4,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": 3,
+      "y": 7,
+      "z": -4,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": 3,
+      "y": 8,
+      "z": -4,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": 3,
+      "y": 9,
+      "z": -4,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": 3,
+      "y": 10,
+      "z": -4,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": 3,
+      "y": 11,
+      "z": -4,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": 3,
+      "y": 3,
+      "z": -3,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": 3,
+      "y": 4,
+      "z": -3,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": 3,
+      "y": 5,
+      "z": -3,
+      "name": "Rock_Chalk"
+    },
+    {
+      "x": 3,
+      "y": 6,
+      "z": -3,
+      "name": "Rock_Chalk"
+    },
+    {
+      "x": 3,
+      "y": 7,
+      "z": -3,
+      "name": "Rock_Chalk"
+    },
+    {
+      "x": 3,
+      "y": 8,
+      "z": -3,
+      "name": "Rock_Chalk"
+    },
+    {
+      "x": 3,
+      "y": 9,
+      "z": -3,
+      "name": "Rock_Chalk"
+    },
+    {
+      "x": 3,
+      "y": 10,
+      "z": -3,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": 3,
+      "y": 11,
+      "z": -3,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": 3,
+      "y": 2,
+      "z": -2,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": 3,
+      "y": 3,
+      "z": -2,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": 3,
+      "y": 4,
+      "z": -2,
+      "name": "Rock_Chalk"
+    },
+    {
+      "x": 3,
+      "y": 5,
+      "z": -2,
+      "name": "Rock_Crystal_Blue_Block"
+    },
+    {
+      "x": 3,
+      "y": 6,
+      "z": -2,
+      "name": "Rock_Crystal_Blue_Block",
+      "rotation": 4
+    },
+    {
+      "x": 3,
+      "y": 7,
+      "z": -2,
+      "name": "Rock_Crystal_Blue_Block",
+      "rotation": 4
+    },
+    {
+      "x": 3,
+      "y": 8,
+      "z": -2,
+      "name": "Rock_Crystal_Blue_Block",
+      "rotation": 4
+    },
+    {
+      "x": 3,
+      "y": 9,
+      "z": -2,
+      "name": "Rock_Crystal_Blue_Block",
+      "rotation": 4
+    },
+    {
+      "x": 3,
+      "y": 10,
+      "z": -2,
+      "name": "Rock_Chalk"
+    },
+    {
+      "x": 3,
+      "y": 11,
+      "z": -2,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": 3,
+      "y": 12,
+      "z": -2,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": 3,
+      "y": 2,
+      "z": -1,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": 3,
+      "y": 3,
+      "z": -1,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": 3,
+      "y": 4,
+      "z": -1,
+      "name": "Rock_Chalk"
+    },
+    {
+      "x": 3,
+      "y": 5,
+      "z": -1,
+      "name": "Rock_Crystal_Blue_Block"
+    },
+    {
+      "x": 3,
+      "y": 7,
+      "z": -1,
+      "name": "Rock_Crystal_Blue_Large",
+      "rotation": 4
+    },
+    {
+      "x": 3,
+      "y": 8,
+      "z": -1,
+      "name": "Rock_Crystal_Cyan_Large",
+      "rotation": 8
+    },
+    {
+      "x": 3,
+      "y": 9,
+      "z": -1,
+      "name": "Rock_Crystal_Blue_Block",
+      "rotation": 5
+    },
+    {
+      "x": 3,
+      "y": 10,
+      "z": -1,
+      "name": "Rock_Chalk"
+    },
+    {
+      "x": 3,
+      "y": 11,
+      "z": -1,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": 3,
+      "y": 12,
+      "z": -1,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": 3,
+      "y": 2,
+      "z": 0,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": 3,
+      "y": 3,
+      "z": 0,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": 3,
+      "y": 4,
+      "z": 0,
+      "name": "Rock_Chalk"
+    },
+    {
+      "x": 3,
+      "y": 5,
+      "z": 0,
+      "name": "Rock_Crystal_Blue_Block"
+    },
+    {
+      "x": 3,
+      "y": 6,
+      "z": 0,
+      "name": "Rock_Crystal_Blue_Medium",
+      "rotation": 7
+    },
+    {
+      "x": 3,
+      "y": 7,
+      "z": 0,
+      "name": "Rock_Crystal_Blue_Small",
+      "rotation": 7
+    },
+    {
+      "x": 3,
+      "y": 8,
+      "z": 0,
+      "name": "Rock_Crystal_Cyan_Small",
+      "rotation": 7
+    },
+    {
+      "x": 3,
+      "y": 9,
+      "z": 0,
+      "name": "Rock_Crystal_Cyan_Medium",
+      "rotation": 8
+    },
+    {
+      "x": 3,
+      "y": 10,
+      "z": 0,
+      "name": "Rock_Crystal_Blue_Block"
+    },
+    {
+      "x": 3,
+      "y": 11,
+      "z": 0,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": 3,
+      "y": 12,
+      "z": 0,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": 3,
+      "y": 2,
+      "z": 1,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": 3,
+      "y": 3,
+      "z": 1,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": 3,
+      "y": 4,
+      "z": 1,
+      "name": "Rock_Chalk"
+    },
+    {
+      "x": 3,
+      "y": 5,
+      "z": 1,
+      "name": "Rock_Crystal_Blue_Block"
+    },
+    {
+      "x": 3,
+      "y": 6,
+      "z": 1,
+      "name": "Rock_Crystal_Blue_Medium",
+      "rotation": 7
+    },
+    {
+      "x": 3,
+      "y": 7,
+      "z": 1,
+      "name": "Rock_Crystal_Cyan_Small",
+      "rotation": 7
+    },
+    {
+      "x": 3,
+      "y": 8,
+      "z": 1,
+      "name": "Rock_Gem_Sapphire",
+      "rotation": 7
+    },
+    {
+      "x": 3,
+      "y": 9,
+      "z": 1,
+      "name": "Rock_Crystal_Blue_Large",
+      "rotation": 8
+    },
+    {
+      "x": 3,
+      "y": 10,
+      "z": 1,
+      "name": "Rock_Crystal_Blue_Block"
+    },
+    {
+      "x": 3,
+      "y": 11,
+      "z": 1,
+      "name": "Rock_Chalk"
+    },
+    {
+      "x": 3,
+      "y": 12,
+      "z": 1,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": 3,
+      "y": 2,
+      "z": 2,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": 3,
+      "y": 3,
+      "z": 2,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": 3,
+      "y": 4,
+      "z": 2,
+      "name": "Rock_Chalk"
+    },
+    {
+      "x": 3,
+      "y": 5,
+      "z": 2,
+      "name": "Rock_Crystal_Cyan_Block"
+    },
+    {
+      "x": 3,
+      "y": 6,
+      "z": 2,
+      "name": "Rock_Crystal_Cyan_Block"
+    },
+    {
+      "x": 3,
+      "y": 7,
+      "z": 2,
+      "name": "Rock_Crystal_Cyan_Large",
+      "rotation": 7
+    },
+    {
+      "x": 3,
+      "y": 8,
+      "z": 2,
+      "name": "Rock_Crystal_Blue_Small",
+      "rotation": 7
+    },
+    {
+      "x": 3,
+      "y": 9,
+      "z": 2,
+      "name": "Rock_Crystal_Blue_Block",
+      "rotation": 4
+    },
+    {
+      "x": 3,
+      "y": 10,
+      "z": 2,
+      "name": "Rock_Crystal_Cyan_Block"
+    },
+    {
+      "x": 3,
+      "y": 11,
+      "z": 2,
+      "name": "Rock_Chalk"
+    },
+    {
+      "x": 3,
+      "y": 12,
+      "z": 2,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": 3,
+      "y": 3,
+      "z": 3,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": 3,
+      "y": 4,
+      "z": 3,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": 3,
+      "y": 5,
+      "z": 3,
+      "name": "Rock_Chalk"
+    },
+    {
+      "x": 3,
+      "y": 6,
+      "z": 3,
+      "name": "Rock_Crystal_Cyan_Block"
+    },
+    {
+      "x": 3,
+      "y": 7,
+      "z": 3,
+      "name": "Rock_Crystal_Cyan_Block"
+    },
+    {
+      "x": 3,
+      "y": 8,
+      "z": 3,
+      "name": "Rock_Crystal_Cyan_Block"
+    },
+    {
+      "x": 3,
+      "y": 9,
+      "z": 3,
+      "name": "Rock_Chalk"
+    },
+    {
+      "x": 3,
+      "y": 10,
+      "z": 3,
+      "name": "Rock_Chalk"
+    },
+    {
+      "x": 3,
+      "y": 11,
+      "z": 3,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": 3,
+      "y": 3,
+      "z": 4,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": 3,
+      "y": 4,
+      "z": 4,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": 3,
+      "y": 5,
+      "z": 4,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": 3,
+      "y": 6,
+      "z": 4,
+      "name": "Rock_Chalk"
+    },
+    {
+      "x": 3,
+      "y": 7,
+      "z": 4,
+      "name": "Rock_Chalk"
+    },
+    {
+      "x": 3,
+      "y": 8,
+      "z": 4,
+      "name": "Rock_Chalk"
+    },
+    {
+      "x": 3,
+      "y": 9,
+      "z": 4,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": 3,
+      "y": 10,
+      "z": 4,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": 3,
+      "y": 11,
+      "z": 4,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": 3,
+      "y": 5,
+      "z": 5,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": 3,
+      "y": 6,
+      "z": 5,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": 3,
+      "y": 7,
+      "z": 5,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": 3,
+      "y": 8,
+      "z": 5,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": 3,
+      "y": 9,
+      "z": 5,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": 4,
+      "y": 4,
+      "z": -9,
+      "name": "Cloud"
+    },
+    {
+      "x": 4,
+      "y": 3,
+      "z": -8,
+      "name": "Cloud"
+    },
+    {
+      "x": 4,
+      "y": 4,
+      "z": -8,
+      "name": "Cloud"
+    },
+    {
+      "x": 4,
+      "y": 5,
+      "z": -8,
+      "name": "Cloud"
+    },
+    {
+      "x": 4,
+      "y": 3,
+      "z": -7,
+      "name": "Cloud"
+    },
+    {
+      "x": 4,
+      "y": 4,
+      "z": -7,
+      "name": "Cloud"
+    },
+    {
+      "x": 4,
+      "y": 5,
+      "z": -7,
+      "name": "Cloud"
+    },
+    {
+      "x": 4,
+      "y": 3,
+      "z": -6,
+      "name": "Cloud"
+    },
+    {
+      "x": 4,
+      "y": 4,
+      "z": -6,
+      "name": "Cloud"
+    },
+    {
+      "x": 4,
+      "y": 5,
+      "z": -6,
+      "name": "Cloud"
+    },
+    {
+      "x": 4,
+      "y": 3,
+      "z": -5,
+      "name": "Cloud"
+    },
+    {
+      "x": 4,
+      "y": 4,
+      "z": -5,
+      "name": "Cloud"
+    },
+    {
+      "x": 4,
+      "y": 5,
+      "z": -5,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": 4,
+      "y": 6,
+      "z": -5,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": 4,
+      "y": 7,
+      "z": -5,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": 4,
+      "y": 4,
+      "z": -4,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": 4,
+      "y": 5,
+      "z": -4,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": 4,
+      "y": 6,
+      "z": -4,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": 4,
+      "y": 7,
+      "z": -4,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": 4,
+      "y": 8,
+      "z": -4,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": 4,
+      "y": 9,
+      "z": -4,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": 4,
+      "y": 10,
+      "z": -4,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": 4,
+      "y": 3,
+      "z": -3,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": 4,
+      "y": 4,
+      "z": -3,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": 4,
+      "y": 5,
+      "z": -3,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": 4,
+      "y": 6,
+      "z": -3,
+      "name": "Rock_Chalk"
+    },
+    {
+      "x": 4,
+      "y": 7,
+      "z": -3,
+      "name": "Rock_Chalk"
+    },
+    {
+      "x": 4,
+      "y": 8,
+      "z": -3,
+      "name": "Rock_Chalk"
+    },
+    {
+      "x": 4,
+      "y": 9,
+      "z": -3,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": 4,
+      "y": 10,
+      "z": -3,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": 4,
+      "y": 11,
+      "z": -3,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": 4,
+      "y": 3,
+      "z": -2,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": 4,
+      "y": 4,
+      "z": -2,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": 4,
+      "y": 5,
+      "z": -2,
+      "name": "Rock_Chalk"
+    },
+    {
+      "x": 4,
+      "y": 6,
+      "z": -2,
+      "name": "Rock_Crystal_Blue_Block"
+    },
+    {
+      "x": 4,
+      "y": 7,
+      "z": -2,
+      "name": "Rock_Crystal_Blue_Block",
+      "rotation": 5
+    },
+    {
+      "x": 4,
+      "y": 8,
+      "z": -2,
+      "name": "Rock_Crystal_Blue_Block",
+      "rotation": 4
+    },
+    {
+      "x": 4,
+      "y": 9,
+      "z": -2,
+      "name": "Rock_Chalk"
+    },
+    {
+      "x": 4,
+      "y": 10,
+      "z": -2,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": 4,
+      "y": 11,
+      "z": -2,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": 4,
+      "y": 3,
+      "z": -1,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": 4,
+      "y": 4,
+      "z": -1,
+      "name": "Rock_Chalk"
+    },
+    {
+      "x": 4,
+      "y": 5,
+      "z": -1,
+      "name": "Rock_Crystal_Blue_Block"
+    },
+    {
+      "x": 4,
+      "y": 6,
+      "z": -1,
+      "name": "Rock_Crystal_Blue_Block",
+      "rotation": 5
+    },
+    {
+      "x": 4,
+      "y": 7,
+      "z": -1,
+      "name": "Rock_Crystal_Blue_Block",
+      "rotation": 5
+    },
+    {
+      "x": 4,
+      "y": 8,
+      "z": -1,
+      "name": "Rock_Crystal_Blue_Block",
+      "rotation": 5
+    },
+    {
+      "x": 4,
+      "y": 9,
+      "z": -1,
+      "name": "Rock_Crystal_Blue_Block"
+    },
+    {
+      "x": 4,
+      "y": 10,
+      "z": -1,
+      "name": "Rock_Chalk"
+    },
+    {
+      "x": 4,
+      "y": 11,
+      "z": -1,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": 4,
+      "y": 2,
+      "z": 0,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": 4,
+      "y": 3,
+      "z": 0,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": 4,
+      "y": 4,
+      "z": 0,
+      "name": "Rock_Chalk"
+    },
+    {
+      "x": 4,
+      "y": 5,
+      "z": 0,
+      "name": "Rock_Crystal_Blue_Block"
+    },
+    {
+      "x": 4,
+      "y": 6,
+      "z": 0,
+      "name": "Rock_Crystal_Blue_Block",
+      "rotation": 5
+    },
+    {
+      "x": 4,
+      "y": 7,
+      "z": 0,
+      "name": "Rock_Crystal_Blue_Block",
+      "rotation": 5
+    },
+    {
+      "x": 4,
+      "y": 8,
+      "z": 0,
+      "name": "Rock_Crystal_Blue_Block",
+      "rotation": 5
+    },
+    {
+      "x": 4,
+      "y": 9,
+      "z": 0,
+      "name": "Rock_Crystal_Blue_Block",
+      "rotation": 5
+    },
+    {
+      "x": 4,
+      "y": 10,
+      "z": 0,
+      "name": "Rock_Chalk"
+    },
+    {
+      "x": 4,
+      "y": 11,
+      "z": 0,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": 4,
+      "y": 12,
+      "z": 0,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": 4,
+      "y": 3,
+      "z": 1,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": 4,
+      "y": 4,
+      "z": 1,
+      "name": "Rock_Chalk"
+    },
+    {
+      "x": 4,
+      "y": 5,
+      "z": 1,
+      "name": "Rock_Crystal_Blue_Block"
+    },
+    {
+      "x": 4,
+      "y": 6,
+      "z": 1,
+      "name": "Rock_Crystal_Blue_Block",
+      "rotation": 5
+    },
+    {
+      "x": 4,
+      "y": 7,
+      "z": 1,
+      "name": "Rock_Crystal_Blue_Block",
+      "rotation": 5
+    },
+    {
+      "x": 4,
+      "y": 8,
+      "z": 1,
+      "name": "Rock_Crystal_Blue_Block",
+      "rotation": 5
+    },
+    {
+      "x": 4,
+      "y": 9,
+      "z": 1,
+      "name": "Rock_Crystal_Blue_Block",
+      "rotation": 5
+    },
+    {
+      "x": 4,
+      "y": 10,
+      "z": 1,
+      "name": "Rock_Chalk"
+    },
+    {
+      "x": 4,
+      "y": 11,
+      "z": 1,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": 4,
+      "y": 3,
+      "z": 2,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": 4,
+      "y": 4,
+      "z": 2,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": 4,
+      "y": 5,
+      "z": 2,
+      "name": "Rock_Chalk"
+    },
+    {
+      "x": 4,
+      "y": 6,
+      "z": 2,
+      "name": "Rock_Crystal_Blue_Block",
+      "rotation": 5
+    },
+    {
+      "x": 4,
+      "y": 7,
+      "z": 2,
+      "name": "Rock_Crystal_Blue_Block",
+      "rotation": 5
+    },
+    {
+      "x": 4,
+      "y": 8,
+      "z": 2,
+      "name": "Rock_Crystal_Blue_Block",
+      "rotation": 5
+    },
+    {
+      "x": 4,
+      "y": 9,
+      "z": 2,
+      "name": "Rock_Chalk"
+    },
+    {
+      "x": 4,
+      "y": 10,
+      "z": 2,
+      "name": "Rock_Chalk"
+    },
+    {
+      "x": 4,
+      "y": 11,
+      "z": 2,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": 4,
+      "y": 3,
+      "z": 3,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": 4,
+      "y": 4,
+      "z": 3,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": 4,
+      "y": 5,
+      "z": 3,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": 4,
+      "y": 6,
+      "z": 3,
+      "name": "Rock_Chalk"
+    },
+    {
+      "x": 4,
+      "y": 7,
+      "z": 3,
+      "name": "Rock_Chalk"
+    },
+    {
+      "x": 4,
+      "y": 8,
+      "z": 3,
+      "name": "Rock_Chalk"
+    },
+    {
+      "x": 4,
+      "y": 9,
+      "z": 3,
+      "name": "Rock_Chalk"
+    },
+    {
+      "x": 4,
+      "y": 10,
+      "z": 3,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": 4,
+      "y": 11,
+      "z": 3,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": 4,
+      "y": 4,
+      "z": 4,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": 4,
+      "y": 5,
+      "z": 4,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": 4,
+      "y": 6,
+      "z": 4,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": 4,
+      "y": 7,
+      "z": 4,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": 4,
+      "y": 8,
+      "z": 4,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": 4,
+      "y": 9,
+      "z": 4,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": 4,
+      "y": 10,
+      "z": 4,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": 4,
+      "y": 7,
+      "z": 5,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": 5,
+      "y": 4,
+      "z": -9,
+      "name": "Cloud"
+    },
+    {
+      "x": 5,
+      "y": 3,
+      "z": -8,
+      "name": "Cloud"
+    },
+    {
+      "x": 5,
+      "y": 4,
+      "z": -8,
+      "name": "Cloud"
+    },
+    {
+      "x": 5,
+      "y": 5,
+      "z": -8,
+      "name": "Cloud"
+    },
+    {
+      "x": 5,
+      "y": 3,
+      "z": -7,
+      "name": "Cloud"
+    },
+    {
+      "x": 5,
+      "y": 4,
+      "z": -7,
+      "name": "Cloud"
+    },
+    {
+      "x": 5,
+      "y": 5,
+      "z": -7,
+      "name": "Cloud"
+    },
+    {
+      "x": 5,
+      "y": 3,
+      "z": -6,
+      "name": "Cloud"
+    },
+    {
+      "x": 5,
+      "y": 4,
+      "z": -6,
+      "name": "Cloud"
+    },
+    {
+      "x": 5,
+      "y": 5,
+      "z": -6,
+      "name": "Cloud"
+    },
+    {
+      "x": 5,
+      "y": 3,
+      "z": -5,
+      "name": "Cloud"
+    },
+    {
+      "x": 5,
+      "y": 4,
+      "z": -5,
+      "name": "Cloud"
+    },
+    {
+      "x": 5,
+      "y": 5,
+      "z": -5,
+      "name": "Cloud"
+    },
+    {
+      "x": 5,
+      "y": 6,
+      "z": -5,
+      "name": "Cloud",
+      "support": 15
+    },
+    {
+      "x": 5,
+      "y": 3,
+      "z": -4,
+      "name": "Cloud"
+    },
+    {
+      "x": 5,
+      "y": 4,
+      "z": -4,
+      "name": "Cloud"
+    },
+    {
+      "x": 5,
+      "y": 5,
+      "z": -4,
+      "name": "Cloud"
+    },
+    {
+      "x": 5,
+      "y": 6,
+      "z": -4,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": 5,
+      "y": 7,
+      "z": -4,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": 5,
+      "y": 8,
+      "z": -4,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": 5,
+      "y": 4,
+      "z": -3,
+      "name": "Cloud"
+    },
+    {
+      "x": 5,
+      "y": 5,
+      "z": -3,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": 5,
+      "y": 6,
+      "z": -3,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": 5,
+      "y": 7,
+      "z": -3,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": 5,
+      "y": 8,
+      "z": -3,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": 5,
+      "y": 9,
+      "z": -3,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": 5,
+      "y": 4,
+      "z": -2,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": 5,
+      "y": 5,
+      "z": -2,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": 5,
+      "y": 6,
+      "z": -2,
+      "name": "Rock_Chalk"
+    },
+    {
+      "x": 5,
+      "y": 7,
+      "z": -2,
+      "name": "Rock_Chalk"
+    },
+    {
+      "x": 5,
+      "y": 8,
+      "z": -2,
+      "name": "Rock_Chalk"
+    },
+    {
+      "x": 5,
+      "y": 9,
+      "z": -2,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": 5,
+      "y": 10,
+      "z": -2,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": 5,
+      "y": 4,
+      "z": -1,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": 5,
+      "y": 5,
+      "z": -1,
+      "name": "Rock_Chalk"
+    },
+    {
+      "x": 5,
+      "y": 6,
+      "z": -1,
+      "name": "Rock_Chalk"
+    },
+    {
+      "x": 5,
+      "y": 7,
+      "z": -1,
+      "name": "Rock_Chalk"
+    },
+    {
+      "x": 5,
+      "y": 8,
+      "z": -1,
+      "name": "Rock_Chalk"
+    },
+    {
+      "x": 5,
+      "y": 9,
+      "z": -1,
+      "name": "Rock_Chalk"
+    },
+    {
+      "x": 5,
+      "y": 10,
+      "z": -1,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": 5,
+      "y": 3,
+      "z": 0,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": 5,
+      "y": 4,
+      "z": 0,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": 5,
+      "y": 5,
+      "z": 0,
+      "name": "Rock_Chalk"
+    },
+    {
+      "x": 5,
+      "y": 6,
+      "z": 0,
+      "name": "Rock_Chalk"
+    },
+    {
+      "x": 5,
+      "y": 7,
+      "z": 0,
+      "name": "Rock_Chalk"
+    },
+    {
+      "x": 5,
+      "y": 8,
+      "z": 0,
+      "name": "Rock_Chalk"
+    },
+    {
+      "x": 5,
+      "y": 9,
+      "z": 0,
+      "name": "Rock_Chalk"
+    },
+    {
+      "x": 5,
+      "y": 10,
+      "z": 0,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": 5,
+      "y": 11,
+      "z": 0,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": 5,
+      "y": 4,
+      "z": 1,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": 5,
+      "y": 5,
+      "z": 1,
+      "name": "Rock_Chalk"
+    },
+    {
+      "x": 5,
+      "y": 6,
+      "z": 1,
+      "name": "Rock_Chalk"
+    },
+    {
+      "x": 5,
+      "y": 7,
+      "z": 1,
+      "name": "Rock_Chalk"
+    },
+    {
+      "x": 5,
+      "y": 8,
+      "z": 1,
+      "name": "Rock_Chalk"
+    },
+    {
+      "x": 5,
+      "y": 9,
+      "z": 1,
+      "name": "Rock_Chalk"
+    },
+    {
+      "x": 5,
+      "y": 10,
+      "z": 1,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": 5,
+      "y": 4,
+      "z": 2,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": 5,
+      "y": 5,
+      "z": 2,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": 5,
+      "y": 6,
+      "z": 2,
+      "name": "Rock_Chalk"
+    },
+    {
+      "x": 5,
+      "y": 7,
+      "z": 2,
+      "name": "Rock_Chalk"
+    },
+    {
+      "x": 5,
+      "y": 8,
+      "z": 2,
+      "name": "Rock_Chalk"
+    },
+    {
+      "x": 5,
+      "y": 9,
+      "z": 2,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": 5,
+      "y": 10,
+      "z": 2,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": 5,
+      "y": 5,
+      "z": 3,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": 5,
+      "y": 6,
+      "z": 3,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": 5,
+      "y": 7,
+      "z": 3,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": 5,
+      "y": 8,
+      "z": 3,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": 5,
+      "y": 9,
+      "z": 3,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": 5,
+      "y": 6,
+      "z": 4,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": 5,
+      "y": 7,
+      "z": 4,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": 5,
+      "y": 8,
+      "z": 4,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": 6,
+      "y": 4,
+      "z": -9,
+      "name": "Cloud"
+    },
+    {
+      "x": 6,
+      "y": 3,
+      "z": -8,
+      "name": "Cloud"
+    },
+    {
+      "x": 6,
+      "y": 4,
+      "z": -8,
+      "name": "Cloud"
+    },
+    {
+      "x": 6,
+      "y": 5,
+      "z": -8,
+      "name": "Cloud"
+    },
+    {
+      "x": 6,
+      "y": 3,
+      "z": -7,
+      "name": "Cloud"
+    },
+    {
+      "x": 6,
+      "y": 4,
+      "z": -7,
+      "name": "Cloud"
+    },
+    {
+      "x": 6,
+      "y": 5,
+      "z": -7,
+      "name": "Cloud"
+    },
+    {
+      "x": 6,
+      "y": 3,
+      "z": -6,
+      "name": "Cloud"
+    },
+    {
+      "x": 6,
+      "y": 4,
+      "z": -6,
+      "name": "Cloud"
+    },
+    {
+      "x": 6,
+      "y": 5,
+      "z": -6,
+      "name": "Cloud"
+    },
+    {
+      "x": 6,
+      "y": 3,
+      "z": -5,
+      "name": "Cloud"
+    },
+    {
+      "x": 6,
+      "y": 4,
+      "z": -5,
+      "name": "Cloud"
+    },
+    {
+      "x": 6,
+      "y": 5,
+      "z": -5,
+      "name": "Cloud"
+    },
+    {
+      "x": 6,
+      "y": 3,
+      "z": -4,
+      "name": "Cloud"
+    },
+    {
+      "x": 6,
+      "y": 4,
+      "z": -4,
+      "name": "Cloud"
+    },
+    {
+      "x": 6,
+      "y": 5,
+      "z": -4,
+      "name": "Cloud"
+    },
+    {
+      "x": 6,
+      "y": 6,
+      "z": -4,
+      "name": "Cloud",
+      "support": 15
+    },
+    {
+      "x": 6,
+      "y": 3,
+      "z": -3,
+      "name": "Cloud"
+    },
+    {
+      "x": 6,
+      "y": 4,
+      "z": -3,
+      "name": "Cloud"
+    },
+    {
+      "x": 6,
+      "y": 5,
+      "z": -3,
+      "name": "Cloud"
+    },
+    {
+      "x": 6,
+      "y": 6,
+      "z": -3,
+      "name": "Cloud",
+      "support": 15
+    },
+    {
+      "x": 6,
+      "y": 3,
+      "z": -2,
+      "name": "Cloud"
+    },
+    {
+      "x": 6,
+      "y": 4,
+      "z": -2,
+      "name": "Cloud"
+    },
+    {
+      "x": 6,
+      "y": 5,
+      "z": -2,
+      "name": "Cloud"
+    },
+    {
+      "x": 6,
+      "y": 6,
+      "z": -2,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": 6,
+      "y": 7,
+      "z": -2,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": 6,
+      "y": 8,
+      "z": -2,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": 6,
+      "y": 4,
+      "z": -1,
+      "name": "Cloud"
+    },
+    {
+      "x": 6,
+      "y": 5,
+      "z": -1,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": 6,
+      "y": 6,
+      "z": -1,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": 6,
+      "y": 7,
+      "z": -1,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": 6,
+      "y": 8,
+      "z": -1,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": 6,
+      "y": 9,
+      "z": -1,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": 6,
+      "y": 5,
+      "z": 0,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": 6,
+      "y": 6,
+      "z": 0,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": 6,
+      "y": 7,
+      "z": 0,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": 6,
+      "y": 8,
+      "z": 0,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": 6,
+      "y": 9,
+      "z": 0,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": 6,
+      "y": 5,
+      "z": 1,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": 6,
+      "y": 6,
+      "z": 1,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": 6,
+      "y": 7,
+      "z": 1,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": 6,
+      "y": 8,
+      "z": 1,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": 6,
+      "y": 9,
+      "z": 1,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": 6,
+      "y": 6,
+      "z": 2,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": 6,
+      "y": 7,
+      "z": 2,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": 6,
+      "y": 8,
+      "z": 2,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": 7,
+      "y": 4,
+      "z": -8,
+      "name": "Cloud"
+    },
+    {
+      "x": 7,
+      "y": 4,
+      "z": -7,
+      "name": "Cloud"
+    },
+    {
+      "x": 7,
+      "y": 3,
+      "z": -6,
+      "name": "Cloud"
+    },
+    {
+      "x": 7,
+      "y": 4,
+      "z": -6,
+      "name": "Cloud"
+    },
+    {
+      "x": 7,
+      "y": 5,
+      "z": -6,
+      "name": "Cloud"
+    },
+    {
+      "x": 7,
+      "y": 3,
+      "z": -5,
+      "name": "Cloud"
+    },
+    {
+      "x": 7,
+      "y": 4,
+      "z": -5,
+      "name": "Cloud"
+    },
+    {
+      "x": 7,
+      "y": 5,
+      "z": -5,
+      "name": "Cloud"
+    },
+    {
+      "x": 7,
+      "y": 3,
+      "z": -4,
+      "name": "Cloud"
+    },
+    {
+      "x": 7,
+      "y": 4,
+      "z": -4,
+      "name": "Cloud"
+    },
+    {
+      "x": 7,
+      "y": 5,
+      "z": -4,
+      "name": "Cloud"
+    },
+    {
+      "x": 7,
+      "y": 3,
+      "z": -3,
+      "name": "Cloud"
+    },
+    {
+      "x": 7,
+      "y": 4,
+      "z": -3,
+      "name": "Cloud"
+    },
+    {
+      "x": 7,
+      "y": 5,
+      "z": -3,
+      "name": "Cloud"
+    },
+    {
+      "x": 7,
+      "y": 3,
+      "z": -2,
+      "name": "Cloud"
+    },
+    {
+      "x": 7,
+      "y": 4,
+      "z": -2,
+      "name": "Cloud"
+    },
+    {
+      "x": 7,
+      "y": 5,
+      "z": -2,
+      "name": "Cloud"
+    },
+    {
+      "x": 7,
+      "y": 4,
+      "z": -1,
+      "name": "Cloud"
+    },
+    {
+      "x": 7,
+      "y": 5,
+      "z": -1,
+      "name": "Cloud",
+      "support": 15
+    },
+    {
+      "x": 7,
+      "y": 6,
+      "z": 5,
+      "name": "Cloud",
+      "support": 15
+    },
+    {
+      "x": 7,
+      "y": 4,
+      "z": 7,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": 8,
+      "y": 4,
+      "z": -6,
+      "name": "Cloud"
+    },
+    {
+      "x": 8,
+      "y": 4,
+      "z": -5,
+      "name": "Cloud"
+    },
+    {
+      "x": 8,
+      "y": 3,
+      "z": -4,
+      "name": "Cloud"
+    },
+    {
+      "x": 8,
+      "y": 4,
+      "z": -4,
+      "name": "Cloud"
+    },
+    {
+      "x": 8,
+      "y": 5,
+      "z": -4,
+      "name": "Cloud"
+    },
+    {
+      "x": 8,
+      "y": 3,
+      "z": -3,
+      "name": "Cloud"
+    },
+    {
+      "x": 8,
+      "y": 4,
+      "z": -3,
+      "name": "Cloud"
+    },
+    {
+      "x": 8,
+      "y": 5,
+      "z": -3,
+      "name": "Cloud"
+    },
+    {
+      "x": 8,
+      "y": 3,
+      "z": -2,
+      "name": "Cloud"
+    },
+    {
+      "x": 8,
+      "y": 4,
+      "z": -2,
+      "name": "Cloud"
+    },
+    {
+      "x": 8,
+      "y": 5,
+      "z": -2,
+      "name": "Cloud"
+    },
+    {
+      "x": 8,
+      "y": 4,
+      "z": -1,
+      "name": "Cloud"
+    },
+    {
+      "x": 8,
+      "y": 5,
+      "z": -1,
+      "name": "Cloud",
+      "support": 15
+    },
+    {
+      "x": 8,
+      "y": 5,
+      "z": 0,
+      "name": "Cloud",
+      "support": 15
+    },
+    {
+      "x": 8,
+      "y": 5,
+      "z": 1,
+      "name": "Cloud",
+      "support": 15
+    },
+    {
+      "x": 8,
+      "y": 5,
+      "z": 2,
+      "name": "Cloud",
+      "support": 15
+    },
+    {
+      "x": 8,
+      "y": 6,
+      "z": 3,
+      "name": "Cloud",
+      "support": 15
+    },
+    {
+      "x": 8,
+      "y": 6,
+      "z": 4,
+      "name": "Cloud",
+      "support": 15
+    },
+    {
+      "x": 9,
+      "y": 4,
+      "z": -4,
+      "name": "Cloud"
+    },
+    {
+      "x": 9,
+      "y": 4,
+      "z": -3,
+      "name": "Cloud"
+    },
+    {
+      "x": 9,
+      "y": 4,
+      "z": -2,
+      "name": "Cloud"
+    },
+    {
+      "x": 9,
+      "y": 2,
+      "z": 1,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": 9,
+      "y": 2,
+      "z": 4,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": 9,
+      "y": 3,
+      "z": 4,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": 9,
+      "y": 2,
+      "z": 5,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": 9,
+      "y": 3,
+      "z": 5,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": 10,
+      "y": 2,
+      "z": 4,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": 10,
+      "y": 3,
+      "z": 5,
+      "name": "Rock_Slate"
+    }
+  ]
+}
